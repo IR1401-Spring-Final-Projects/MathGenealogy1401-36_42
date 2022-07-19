@@ -1,0 +1,132 @@
+
+
+
+Narayana Pandit
+
+
+
+
+
+Quick Info
+Born
+
+      about 1340
+      
+      
+        
+        India
+        
+      
+    
+Died
+
+      about 1400
+      
+      India
+    
+
+Summary
+Narayana was an Indian mathematician who wrote on arithmetic following the work of Bhaskara II.
+
+
+
+
+
+Biography
+Narayana was the son of Nrsimha (sometimes written Narasimha). We know that he wrote his most famous work Ganita Kaumudi on arithmetic in 1356 but little else is known of him. His mathematical writings show that he was strongly influenced by Bhaskara II and he wrote a commentary on the Lilavati of Bhaskara II called Karmapradipika. Some historians dispute that Narayana is the author of this commentary which they attribute to Madhava.
+
+
+In the Ganita Kaumudi Narayana considers the mathematical operation on numbers. Like many other Indian writers of arithmetics before him he considered an algorithm for multiplying numbers and he then looked at the special case of squaring numbers. One of the unusual features of Narayana's work Karmapradipika is that he gave seven methods of squaring numbers which are not found in the work of other Indian mathematicians.
+
+
+He discussed another standard topic for Indian mathematicians namely that of finding triangles whose sides had integral values. In particular he gave a rule of finding integral triangles whose sides differ by one unit of length and which contain a pair of right-angled triangles having integral sides with a common integral height. In terms of geometry Narayana gave a rule for a segment of a circle. Narayana [4]:-
+... derived his rule for a segment of a circle from Mahavira's rule for an 'elongated circle' or an ellipse-like figure.
+Narayana also gave a rule to calculate approximate values of a square root. He did this by using an indeterminate equation of the second order, Nx2+1=y2Nx^{2} + 1 = y^{2}Nx2+1=y2, where NNN is the number whose square root is to be calculated. If xxx and yyy are a pair of roots of this equation with x<yx < yx<y then √NNN is approximately equal to yx\Large\frac{y}{x}xy​. To illustrate this method Narayana takes N=10N = 10N=10. He then finds the solutions x=6,y=19x = 6, y = 19x=6,y=19 which give the approximation 196=3.1666666666666666667\large\frac{19}{6}\normalsize  = 3.1666666666666666667619​=3.1666666666666666667, which is correct to 2 decimal places. Narayana then gives the solutions x=228,y=721x = 228, y = 721x=228,y=721 which give the approximation 721228=3.1622807017543859649\large\frac{721}{228}\normalsize  = 3.1622807017543859649228721​=3.1622807017543859649, correct to four places. Finally Narayana gives the pair of solutions x=8658,y=227379x = 8658, y = 227379x=8658,y=227379 which give the approximation 2273798658=3.1622776622776622777\large\frac{227379}{8658}\normalsize  = 3.16227766227766227778658227379​=3.1622776622776622777, correct to eight decimal places. Note for comparison that √10 is, correct to 20 places, 3.1622776601683793320. See [3] for more information.
+
+
+The thirteenth chapter of Ganita Kaumudi was called Net of Numbers and was devoted to number sequences. For example, he discussed some problems concerning arithmetic progressions.
+
+
+The fourteenth chapter (which is the last one) of Naryana's Ganita Kaumudi contains a detailed discussion of magic squares and similar figures. Narayana gave the rules for the formation of doubly even, even and odd perfect magic squares along with magic triangles, rectangles and circles. He used formulae and rules for the relations between magic squares and arithmetic series. He gave methods for finding "the horizontal difference" and the first term of a magic square whose square's constant and the number of terms are given and he also gave rules for finding "the vertical difference" in the case where this information is given.
+
+
+
+
+
+
+
+Other Mathematicians born in India
+
+
+
+
+
+References (show)
+
+
+
+
+
+D Pingree, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+G G Joseph, The crest of the peacock (London, 1991).
+R C Gupta, Narayana's method for evaluating quadratic surds, Math. Education 7 (1973), B93-B96.
+T Hayashi, Narayana's rule for a segment of a circle, Ganita Bharati 12 (1-2) (1990), 1-9.
+K Jha and J K John, The rules of arithmetic progression according to Narayana Pandita, Ganita-Bharati 18 (1-4) (1996), 48-52.
+V Madhukar Mallayya, Various methods of squaring with special reference to the Lilavati of Bhaskara II and the commentary Kriyakramakari of Sankara and Narayana, Ganita Sandesh 11 (1) (1997), 31-36.
+P Singh, Narayana's method for evaluating quadratic surds and the regular continued-fraction expansions of the surds, Math. Ed. (Siwan) 18 (2) (1984), 63-65.
+P Singh, Narayana's rule for finding integral triangles, Math. Ed. (Siwan) 18 (4) (1984), 136-139.
+P Singh, Narayana's treatment of magic squares, Indian J. Hist. Sci. 21 (2) (1986), 123-130.
+P Singh, Narayana's treatment of net of numbers, Ganita Bharati 3 (1-2) (1981), 16-31.
+P Singh, The Ganita Kaumudi of Narayana Pandita, Ganita-Bharati 20 (1-4) (1998), 25-82.
+P Singh, Total number of perfect magic squares : Narayana's rule, Math. Ed. (Siwan) 16 (2) (1982), 32-37.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Narayana:
+
+See Narayana on a timeline
+History Topics, Pell's equation
+Heinz Klaus Strick biography
+
+
+
+Other websites about Narayana:
+
+Dictionary of Scientific Biography
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: An overview of Indian mathematics
+History Topics: Pell's equation
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 17
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2000
+  
+
+

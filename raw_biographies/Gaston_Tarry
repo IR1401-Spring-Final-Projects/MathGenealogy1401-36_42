@@ -1,0 +1,132 @@
+
+
+
+Gaston Tarry
+
+
+
+
+
+Quick Info
+Born
+
+      27 September 1843
+      
+
+        Villefranche-de-Rouergue, Aveyron, France
+        
+
+Died
+
+      21 June 1913
+      
+      Le Havre, France
+    
+
+Summary
+Gaston Tarry was a French combinatorialist whose best-known work is a method for solving mazes.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Gaston Tarry was born in  Villefranche-de-Rouergue which is located in south central France. He attended the Lycée Saint-Louis in Paris where he became interested in mathematics. He never looked for an academic career as a mathematician, however, and joined the Contributions Diverses de l'Administration des Finances (French Financial Administration). He spent the whole of his working life in Algeria. France had invaded Algeria in 1830 and French rule was established by 1847. Tarry was part of the French administration in Algeria, retiring in 1902.
+
+
+Although an amateur mathematician, Tarry had an amazing ability to analyse combinatorial problems. One has simply to feel amazement at some of the problems he solved using purely combinatorial and calculating skills. We give some examples below to illustrate both the type of problem which interested him and also to illustrate his undoubted genius. Even more surprising is the fact that his mathematical achievements came after the age of fifty.
+
+
+He published a solution to the problem of finding the way out of a maze in 1895, a problem which had been of interest from classical times. Tarry was not the first to give a systematic method so solve a maze, for Trémaux had found a method which was reported by Lucas in 1881. However, the method given by Tarry in [3] gave a different approach with an algorithm which, in today's terminology, would be described as depth-first search algorithm. It is particularly suitable to computer implementation. In [4], Tarry gave a general method for finding the number of Euler circuits.
+
+
+Tarry also solved Euler's 36 Officer Problem, proving that two orthogonal Latin squares of order 6 do not exist. The problem as stated by Euler is as follows:-
+How can a delegation of six regiments, each of which sends a colonel, a lieutenant-colonel, a major, a captain, a lieutenant, and a sub-lieutenant be arranged in a regular 6 × 6 array such that no row or column duplicates a rank or a regiment?
+In the two papers [5] and [6] Tarry showed that such an arrangement is impossible.
+
+
+Before explaining Tarry's contributions to magic squares, let us introduce some terminology. First we note that a magic square of order nnn contains the numbers 1 to n2n^{2}n2 in an n×nn \times  nn×n array such that each row, each column, and the two main diagonals all have the same sum. Such squares were well known long before Tarry's time. A panmagic square , or diabolic square, is a magic square in which all the diagonals (which come from identifying the two sides, and identifying the top and bottom) add to the same number. Tarry explained how he became involved with such magic squares (see [7] and [1]):-
+For about three years, a friend of Alger [Brutus Portier], a keen magician, never stopped titillating me in order that I take an interest in magic squares. I disregarded him, because I didn't like what I considered as a Chinese game giving me a headache. One day, my magic teacher (he forced himself to be my teacher in spite of me), claimed to me that it was not possible to construct diabolic squares (panmagic) of order 3n3n3n, with nnn being not divisible be 3. This astonished me.
+Tarry was right to be astonished because Brutus Portier was wrong. Panmagic squares of order 3n3n3n, where nnn is not divisible by 3, do exist and indeed Tarry was the first to prove this when he constructed the first panmagic square of order 15. This began Tarry's interest in magic squares, which one has to suggest, turned into a passion. Before explaining another major achievement that he accomplished on magic squares we need to explain another couple of terms. First a bimagic square is a magic square with the property that the rows, columns and main diagonals add to the same number when each of the entries is squared. A bimagic square is trimagic if also the cubes of the entries in the rows, columns and main diagonals add to the same constant. Tarry was the first to find an example of a trimagic square. It had order 128 and was presented in [7] (See also [1]). He called his method of construction the "cabalistic condensator" and wrote:-
+This condensator is a real magic machine charged at the limit. In discharging it, we will obtain magical effects. The discharge can only stay in a good conductive environment, a magic field.
+Poincaré was so impressed by Tarry's results that he presented them to the Academy of Sciences. In the same paper Tarry introduced the term tetramagic square for a square which is trimagic and also the fourth powers of the entries in the rows, columns and main diagonals add to the same constant. He could not find such a tetramagic square, and indeed the problem was not solved until 2001 when a 256 × 256 tetramagic square was discovered.
+
+
+Gabriel Arnoux published two books Arithmétique graphique - Les espaces arithmétiques, leurs transformations Ⓣ(Arithmetical graphics  - Arithmetic spaces and their transformations) (1908) and	Essai de géométrie analytique modulaire à deux dimensions Ⓣ(Treatise on modular analytic geometry in two dimensions) (1911). Although these were originally single author works, he collaborated with Tarry on producing second editions.
+
+
+Tarry is also remembered for some other stunning combinatorial results. He showed (see [2]) that
+2k+3k+14k+18k+39k+43k+45k+49k+55k+61k+76k+86k+92k+96k2^{k} + 3^{k} + 14^{k} + 18^{k} + 39^{k} + 43^{k} + 45^{k} + 49^{k} + 55^{k} + 61^{k} + 76^{k} + 86^{k} + 92^{k} + 96^{k}2k+3k+14k+18k+39k+43k+45k+49k+55k+61k+76k+86k+92k+96k
+and 
+1k+5k+11k+21k+36k+42k+48k+52k+54k+58k+79k+83k+94k+95k1^{k} + 5^{k} + 11^{k} + 21^{k} + 36^{k} + 42^{k} + 48^{k} + 52^{k} + 54^{k} + 58^{k} + 79^{k} + 83^{k} + 94^{k} + 95^{k}1k+5k+11k+21k+36k+42k+48k+52k+54k+58k+79k+83k+94k+95k
+are equal for each value of kkk between 0 and 10. In these 11 cases the two expressions both have the values: 
+14; 679; 45927; 3488023; 283374567; 24038882119; 2097607671927; 186494222577943; 16793840591877447; 1526009567180038759; 139591392559772399127.
+In a similar vein he showed that the two expressions
+(6a−3b−8c)k+(5a−9c)k+(4a−4b−3c)k+(2a+2b−5c)k+(a−2b+c)k+bk(6a - 3b - 8c)^{k} + (5a - 9c)^{k} + (4a - 4b -3c)^{k} + (2a + 2b - 5c)^{k} + (a - 2b + c)^{k} + b^{k}(6a−3b−8c)k+(5a−9c)k+(4a−4b−3c)k+(2a+2b−5c)k+(a−2b+c)k+bk
+and
+(6a−2b−9c)k+(5a−4b−5c)k+(4a+b−8c)k+(2a−3b)k+(a+2b−3c)k+ck(6a - 2b - 9c)^{k} + (5a - 4b - 5c)^{k} + (4a + b - 8c)^{k} + (2a - 3b)^{k} + (a + 2b - 3c)^{k} + c^{k}(6a−2b−9c)k+(5a−4b−5c)k+(4a+b−8c)k+(2a−3b)k+(a+2b−3c)k+ck
+both simplify to the same expression for each of the values of kkk from 0 to 5. The six simplified expressions for both sides are
+618a−6b−24c34b2+48bc+180c2+82a2−64ab−228ac−90b3+1020abc−498a2b+414a3−1392c3−540bc2−408b2c+2628ac2+390ab2−1740a2c−14376abc2−7920ab2c+12168a2bc+3600a2b2+27444a2c2+370b4+2194a4+11364c4−1640ab3−28296ac3−3560a3b−12336a3c+1440b3c+4944b2c2+5568bc3117400a3bc−103080a2b2c−218700a2bc2+182920abc3+127080ab2c2+39520ab3c−56820bc4−375880a2c3−84200a4c−24410a4b−7400b4c−21120b3c2−55360b2c3+30040a3b2+247260a3c2+7790ab4+294780ac4−19720a2b3+11958a5−95184c5−1266b56\newline\newline18a - 6b - 24c\newline\newline34b^{2} + 48bc + 180c^{2} + 82a^{2} - 64ab - 228ac\newline\newline-90b^{3} + 1020abc - 498a^{2}b + 414a^{3} - 1392c^{3} - 540bc^{2} - 408b^{2}c + 2628ac^{2} + 390ab^{2} - 1740a^{2}c\newline\newline -14376abc^{2} - 7920ab^{2}c + 12168a^{2}bc + 3600a^{2}b^{2} + 27444a^{2}c^{2} + 370b^{4} + 2194a^{4} + 11364c^{4} - 1640ab^{3} - 28296ac^{3} - 3560a^{3}b - 12336a^{3}c + 1440b^{3}c + 4944b^{2}c^{2} + 5568bc^{3}\newline\newline117400a^{3}bc - 103080a^{2}b^{2}c - 218700a^{2}bc^{2} + 182920abc^{3} + 127080ab^{2}c^{2} + 39520ab^{3}c - 56820bc^{4} - 375880a^{2}c^{3} - 84200a^{4}c - 24410a^{4}b - 7400b^{4}c - 21120b^{3}c^{2} - 55360b^{2}c^{3} + 30040a^{3}b^{2} + 247260a^{3}c^{2} + 7790ab^{4} + 294780ac^{4} - 19720a^{2}b^{3} + 11958a^{5} - 95184c^{5} - 1266b^{5}618a−6b−24c34b2+48bc+180c2+82a2−64ab−228ac−90b3+1020abc−498a2b+414a3−1392c3−540bc2−408b2c+2628ac2+390ab2−1740a2c−14376abc2−7920ab2c+12168a2bc+3600a2b2+27444a2c2+370b4+2194a4+11364c4−1640ab3−28296ac3−3560a3b−12336a3c+1440b3c+4944b2c2+5568bc3117400a3bc−103080a2b2c−218700a2bc2+182920abc3+127080ab2c2+39520ab3c−56820bc4−375880a2c3−84200a4c−24410a4b−7400b4c−21120b3c2−55360b2c3+30040a3b2+247260a3c2+7790ab4+294780ac4−19720a2b3+11958a5−95184c5−1266b5
+Finally let us mention Tarry's contributions to geometry. He invented what is today called the Tarry point of a triangle which is related to the Brocard triangle and lies on the circumcircle opposite the Steiner point.
+
+
+Lucas was fascinated by many of Tarry's results. He explained Tarry's "Théorème des Carrefours" Ⓣ(The Crossroads Theorem) in his book Théorie des Nombres Ⓣ(Number Theory). He devoted a chapter entitled La Géométrie des Réseaux et le Problème des Dominos Ⓣ(The geometry of networks and the problem of dominos)  in volume 4 of Récréations Arithmétiques Ⓣ(Recreational Arithmetic) to Tarry's work. In L'Arithmétique Amusante Ⓣ(Arithmeticl Fun)  he gave two problems "La Traversée des Ménages Modèles" Ⓣ(The 'Model Household' Crossing) and "La Traversée du Polygame" Ⓣ(The 'Polygamous' Crossing) which were both proposed and solved by Tarry.
+
+
+
+
+
+Other Mathematicians born in France
+
+A Poster of Gaston Tarry
+
+
+
+
+
+References (show)
+
+
+
+
+
+G Tarry, La problem des labyrinths, Nouvelles Annales de Mathématiques 14 (1895), 187-190.
+G Tarry, Géométrie de situation: Nombre de manieres distinctes de parcourir en une seule course toutes les allées d'un labyrinthe rentrant, en ne passant qu'une seule fois par chacune des allées, Comptes Rendus Assoc. Franc. Avance. Sci. 15 (2) (1886), 49-53.
+G Tarry, Le problème de 36 officiers, Compte Rendu de l'Assoc. Français Avanc. Sci. Naturel 29 (1) (1900), 122-123.
+G Tarry, Le problème de 36 officiers, Compte Rendu de l'Assoc. Français Avanc. Sci. Naturel 29 (2) (1901), 170-203.
+G Tarry, Le carré trimagique de 128, Compte Rendu de la 34ème Session Cherbourg 1905 (AFAS-Masson, Paris, 1906), 34-45.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Gaston Tarry:
+
+C Boyer (Trimagic square 128th-order)
+C Boyer (Sudokus and bimagic squares)
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update August 2006
+  
+
+

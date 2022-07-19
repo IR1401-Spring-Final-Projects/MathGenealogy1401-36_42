@@ -1,0 +1,147 @@
+
+
+
+Wolfgang Gaschütz
+
+
+
+
+
+Quick Info
+Born
+
+      11 June 1920
+      
+
+        Karlshof, Germany
+        
+
+Died
+
+      7 November 2016
+      
+      Kiel, Germany
+    
+
+Summary
+Wolfgang Gaschütz was a German mathematician who worked on group theory, in particular in the theory of finite groups.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Wolfgang Gaschütz was born in the village Karlshof which is located in the Oderbruch region about 60 km east of Berlin. He related an early mathematical experience in [3]:-
+In 1931, we made an effort to find common divisors in order to cancel fractions, in the second year of secondary school in Wriezen - I wistfully remember this little old town in the East ... The excessive thoroughness of this procedure bored me, and coaxed me into declaring that one merely had to try up to the difference of the numerator from the denominator. The mathematics teacher, Mr Kempin, who had tolerated our efforts without this constraint, turned to the blackboard, perhaps a little embarrassed. There he probably wrote down this line, which confirmed my remark, but which I did not yet understand:
+a=ud,b=vd⇒a−b=(u−v)da = ud, b = vd \Rightarrow a - b = (u - v)da=ud,b=vd⇒a−b=(u−v)d
+The memory of my discovery of this beneficial little theorem from number theory then remained such a distinct one probably because it was a first mathematical experience for me, and because the praise I received for it afterwards encouraged me to perform well in mathematics from then on. Out of everything that I have accomplished so far this is proof to myself that I am a mathematician more than anything else.
+In 1931 the family moved to Berlin where Gaschütz's father became the owner of an industrial estate. He studied at the gymnasium there and, after the abitur in 1938, chose to become an artillery officer. His military career ended in April 1945, fortunately near Kiel where his own family lived at that time. In 1943 he had married Gudrun Strasser, the daughter of an Oderbruch farmer; they have a son and two daughters. Further details of his life are described in his speech [3] which can be read in an English translation at: THIS LINK.
+
+
+In the autumn of 1945 Gaschütz entered the University of Kiel (Christian-Albrechts-Universität zu Kiel). He described in [3] how he first met group theory:-
+In 1946, all of us students lived in the berths of the Orla, a ship ready to be handed over to the English. We lived on barter in all areas of life. Among my meek belongings was a rather special mathematics book. It had been published in 1942, and after the disastrous winter in the East the wartime economy must have deemed it beneficial to winning the war and therefore worthy of publication, despite the shortage in demand, due to its title: 'The Geometry of Fabrics'. In any case, to me it seemed dispensable as a basis for studying mathematics. - One of my roommates offered me a book for it, whose title admittedly meant less to me, but which would hardly hold less interest for me than mine. The exchange was made. The book that I had acquired then became a revelation to me: Andreas Speiser's 'Group Theory'. ... The effects that this simple exchange of books had on the development of the mathematical seminar in Kiel can arguably still be perceived today. This is an example that shows how minor variations of the initial conditions can influence the solutions of an equation considerably.
+He was awarded a doctorate in 1949 for his thesis Zur φ-Untergruppe endlicher Gruppen Ⓣ(On the phi-subgroup of finite groups). Habilitation, the right to lecture, followed in 1953, a further promotion (Diätendozent) in 1956, and, finally, in 1963 he received a full professorship from which he retired in 1988. Calls to Karlsruhe and Mainz had been rejected. He explained why he wanted to remain in Kiel in [3]:-
+I could reject the chair at Karlsruhe on the grounds that, following ancient family tradition, Karl was one of my given names and that Karlshof - often written with 'ff' by its owners - was my place of birth. Being in my early forties, to me Karlsruhe clearly had to forebode all too early scientific twilight years. - In short, I stayed in Kiel, with the same offer and keeping the abundant range of research projects. The decision was much more difficult when I was appointed to Mainz, where my colleague Bertram Huppert was one of the main figures. I had been communicating with him on scientific matters for a long time, through the medium of Helmut Wielandt, our great mentor in group theory; and we were united by a fate: Huppert's book - no, not book, but thesaurus on finite groups. - The genesis of this plan of creating the book had committed me to participate in the editing process and to contribute my humble advice. ... Thus Huppert visited us in Kiel for four weeks per year, allegedly to use the assistance of me and other colleagues from Kiel. In reality this endeavour proved to be a marvellous and gratefully used opportunity for our seminar to thoroughly keep up with the latest developments. ... I had become so accustomed to this close and convenient collaboration with Huppert, that, with my propensity to be sedentary, I stayed in the seminar in Kiel, which I had grown fond of.
+In the years after the war, in fact, since the death of Ernst Steinitz in 1928, there was no algebraist lecturing at Kiel University. Gaschütz's interest in group theory, as explained in the quote above, was initiated by Andras Speiser's book Die Theorie der Gruppen endlicher Ordnung and stimulated by Helmut Wielandt's work. So algebraic life started again in Kiel, and Gaschütz succeeded - also by attracting other algebraists interested in group theory - to transform Kiel into a noted centre of this field.
+
+
+In his first publication Zur Erweiterungstheorie der endlichen Gruppen Ⓣ(On the expansion theory of finite groups) (1952) he obtained a generalization of a well-known theorem of Issai Schur. The significance of this result and perspectives of its development were discussed by Wielandt in his talk at the International Congress of Mathematicians in 1958. Wielandt writes in [4]:-
+Let us formulate a problem on complements. Let NNN be a normal subgroup of a group GGG. When does GGG contain at least one complement CCC to NNN, and when are two given complements C,C1C, C_{1}C,C1​  to NNN conjugate in GGG?  The important contribution to studying this problem is due to Gaschütz.
+Very early Gaschütz realized the importance of the Frattini subgroup for the structure theory of finite groups. In his paper Über die φ-Untergruppe endlicher Gruppen (1953) he obtained basic properties of the Frattini and Fitting subgroups of finite groups. In 1954 he proved a universal Frattini ppp-elementary extension existence theorem: if a prime number ppp divides the order of a finite group GGG, then there exists a finite group HHH with a normal ppp-subgroup KKK ≠ 1 such that K≤ϕ(H)K ≤ \phi(H)K≤ϕ(H) and H/KH/KH/K is isomorphic to GGG. And in 1978 he proved the following beautiful result: if M/NM/NM/N is a chief factor of maximal order in a finite soluble group GGG, then MMM is contained in the Fitting subgroup of GGG.
+
+
+In 1955 Noboru Ito considered the subgroup ψ(G)\psi (G)ψ(G) generated by all minimal subgroups of a finite group GGG. It is obviously the dual to the Frattini subgroup ϕ(G)\phi (G)ϕ(G) and so it was expected that G/ψ(G)G/\psi (G)G/ψ(G) might have similar properties as ϕ(G)\phi (G)ϕ(G). But in his paper Über das Frattinidual (1965) Gaschütz proved that for every finite group G there exists a finite group HHH such that GGG is isomorphic to H/ψ(H)H/\psi (H)H/ψ(H) and ψ(H)\psi (H)ψ(H) is abelian with elementary Sylow subgroups.
+
+
+In his paper Praefrattinigruppen Ⓣ(About Frattini groups) (1962) Gaschütz introduced subgroups in finite soluble groups which somehow take hold of the complications arising from Frattini properties. Doerk and Hawkes write in [1]:-
+A database search in 1990 brought to light some 38 articles having "prefrattini subgroup" either in their title or cited as a key phrase, which is convincing evidence that Gaschütz's original idea has been widely investigated and variously generalized.
+Gaschütz never followed modern trends much but rather his own scientific interests. As an example we mention Gaschütz's formation theory which has its origin in famous papers of Philip Hall and Roger Carter and has been spreading all over the world since 1963 when his brilliant article Zur Theorie der endlichen auflösbaren Gruppen Ⓣ(On the theory of finite resolvable groups) was published. A group class FFF was called by Gaschütz: 
+1) a formation if FFF is closed under taking epimorphic images, and G/AG/AG/A belongs to FFF, G/BG/BG/B belongs to FFF always implies G/(A⋂B)G/(A \bigcap  B)G/(A⋂B)  belongs to FFF;
+
+
+2) a saturated formation if FFF is a formation and G/ϕ(GG/\phi(GG/ϕ(G) belongs to FFF always implies GGG belongs to FFF.
+Previous results of O Yu Schmidt (1926) and B Huppert (1954) show that the classes of finite nilpotent and of finite supersoluble groups are saturated formations. Gaschütz produced a general method to construct saturated formations. But his main aim was to construct in every finite soluble group a class of conjugate subgroups belonging to FFF, the so called FFF-covering subgroups or FFF-projectors. B Fischer realized that it is possible to dualize this theory and obtained Fitting classes and their injectors. In his Canberra Lecture Notes Lectures on subgroups of Sylow type in finite soluble groups (1979) Gaschütz gives a unified treatment of these theories. In [5] Gaschütz's words told by him in 1994 at the seminar in Kiel are cited:-
+After completion of the classification of simple groups the main problem in the theory of finite groups remains the problem of mastering mechanisms of their interaction in arbitrary groups. The most important handicap here is p-groups.
+
+
+The theory of formations, as well as the theory of Fitting classes, is an attempt to be engaged in the theory of groups, that is to say, modulo p-groups. For all that, separate groups are considered through these classes as if in a diminishing glass, and structural operations on groups can be treated, in a definite respect, as construction of normalizers, extensions, joins, etc.
+Further results of Gaschütz attracted much attention. We mention the following most prominent examples.
+In two early papers he characterized those modules which are direct summands when they occur in a representation and he proved that a finite group has a faithful irreducible representation if and only if its socle is generated by a single class of conjugate elements.
+
+
+He characterized the finite soluble groups in which normality is a transitive relation.
+
+
+He gave a formula for the Eulerian function introduced by Philip Hall and determined the number of generators of a finite soluble group in terms of the structure and embedding of its chief factors.
+
+
+As an application of cohomological methods, he proved that the outer automorphism group of a finite ppp-group of order larger than ppp has order divisible by ppp.
+Wolfgang Gaschütz was invited as a visiting professor to Michigan State University (1963), Queen Mary College of the University of London (1965, 1970), Universities of Padua, Florence, Naples (1966, 1971, 1974), University of Warwick (1967, 1973, 1977), University of Illinois at Chicago (1968), and the University of Canberra (1969). In 2000 he received an honorary doctorate from Francisk Scorina Gomel State University, Republic of Belarus.
+
+
+He died in November 2016 and by his own request he was buried in his birthplace, Karlshof.
+
+
+
+
+
+Other Mathematicians born in Germany
+
+A Poster of Wolfgang Gaschütz
+
+
+
+
+
+References (show)
+
+
+
+
+
+K Doerk and T Hawkes, Finite soluble groups (Berlin-New York, 1992).
+R Carter, Professor W. Gaschütz - some reminiscences, Proc. F. Scorina Gomel State Univ. No. 3 (16) (2000), 17.
+W Gaschütz, Mein Weg,  Proc. F. Scorina Gomel State Univ. No. 3 (16) (2000), 7-10.
+H Wielandt, Entwicklungslinien in der Strukturtheorie der endlichen Gruppen, in Proceedings of International Congress of Mathematicians, 14-21 August 1958 (Cambridge, 1960), 268-278.
+L A Shemetkov, Wolfgang  Gaschütz in Gomel, Proc. F. Scorina Gomel State Univ. No. 3 (16) (2000), 18-38.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Wolfgang Gaschütz:
+
+Professor W Gaschütz - some reminiscences
+My Path by Wolfgang Gaschütz
+
+
+
+Other websites about Wolfgang Gaschütz:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+    Written by L A  Shemetkov and R  Schmidt
+
+    Last Update July 2012
+  
+
+

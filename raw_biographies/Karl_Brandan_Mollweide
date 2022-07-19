@@ -1,0 +1,144 @@
+
+
+
+Karl Brandan Mollweide
+
+
+
+
+
+Quick Info
+Born
+
+      3 February 1774
+      
+
+        Wolfenbüttel, Brunswick, now Germany
+        
+
+Died
+
+      10 March 1825
+      
+      Leipzig, Germany
+    
+
+Summary
+Karl  Mollweide was a German mathematician and astronomer. He invented a map projection called the Mollweide projection.
+
+
+
+
+
+Biography
+Karl Mollweide was born and brought up in Wolfenbüttel about 15 km south of Brunswick (which today is the city of Braunschweig). Unlike most people who become leading mathematicians, Mollweide showed no interest in or talent for the subject while in elementary school. His interest came about very suddenly when he was twelve years old and seems to have occurred when he discovered some old mathematics books in his home and began reading them. From these books he taught himself calculus and then progressed to the study of algebra. When he was fourteen years old he put his new mathematical skills into practice and calculated the occurrence of an eclipse. This made his mathematical skills more widely known, and his teacher at the gymnasium, Christian Leiste, realised that his pupil was extremely talented.
+
+
+With a love of mathematics and a considerable talent for the subject, it was natural that Mollweide would want to study the subject to a higher level. He entered the University of Helmstedt where he was taught by Johann Friedrich Pfaff. Pfaff had much in common with Mollweide for both had studied mathematics largely on their own. Both had, in addition to a deep love of mathematics, an interest in applying it to astronomy. Mollweide entered the University of Helmstedt in 1793 and spent three years studying there. Pfaff was an excellent teacher and at that time was working hard to build up a flourishing mathematics department so Mollweide was happy to be offered a teaching position at the university following his undergraduate studies. However, despite Pfaff's hard work in building up mathematics department, the University of Helmstedt was by this time under threat of closure. This was not the only problem faced by the new lecturer Mollweide for he was suffering severe health problems (probably caused by depression) which forced him to give up his position at Helmstedt after about a year and return to his home.
+
+
+Back home Mollweide took it easy and spent the next two years essentially taking a prolonged rest. By this time his health improved sufficiently for him to consider accepting an offer of a professorship of mathematics and astronomy at the University of Halle. He decided that his health was now good enough for him to accept the professorship and he took up the position in 1800. He spent eleven years at Halle and it was during this period that he did the two pieces of work for which he is mostly remembered today.
+
+
+The first of these was his invention of the Mollweide projection of the sphere, a map projection which he produced to correct the distortions in the Mercator projection, first used by Gerardus Mercator in 1569. Mollweide announced his projection in 1805. While the Mercator projection is well adapted for sea charts, its very great exaggeration of land areas in high latitudes makes it unsuitable for most other purposes. In the Mercator projection the angles of intersection between the parallels and meridians, and the general configuration of the land, are preserved but as a consequence areas and distances are increasingly exaggerated as one moves away from the equator. To correct these defects, Mollweide drew his elliptical projection; but in preserving the correct relation between the areas he was compelled to sacrifice configuration and angular measurement. Timothy Feeman explains in [4] that the:- 
+... construction of an equal area map [was] first announced in 1805 by Karl Brandan Mollweide (1774-1825) and [is] commonly used in atlases today. Aesthetically, Mollweide's map, which represents the whole world in an ellipse whose axes are in a 2:1 ratio, reflects the essentially round character of the earth better than rectangular maps. The mathematics involved in the construction requires mainly high school algebra and trigonometry with only a bit of calculus (which can be plausibly avoided if one so desires).
+In fact the Mollweide projection is distortion-free along the parallels 40.7 degrees North and South. The Mollweide projection is discussed in many articles, see for example [1], [2], [4], [6] and [7].
+
+
+You can see the Mollweide projection at THIS LINK.
+
+
+The second piece of work to which Mollweide's name is attached today is the Mollweide equations which are sometimes called Mollweide's formulas. These trigonometric identities are
+sin⁡(π(A−B))cos⁡(πC)=a−bc\Large\frac{\sin(\pi(A - B))}{ \cos(\pi C)}\normalsize = \Large\frac{a - b}{ c}cos(πC)sin(π(A−B))​=ca−b​, and
+
+
+cos⁡(π(A−B)sin⁡(πC)=a+bc\Large\frac{\cos(\pi(A - B)}{\sin(\pi C)}\normalsize = \Large\frac{a + b}{ c}sin(πC)cos(π(A−B)​=ca+b​,
+where A,B,CA, B, CA,B,C are the three angles of a triangle opposite to sides a,b,ca, b, ca,b,c, respectively. These trigonometric identities appear in Mollweide's paper Zusätze zur ebenen und sphärischen Trigonometrie Ⓣ(Additions to plane and spherical trigonometry) (1808). A proof of these identities and an interesting discussion concerning them is given in [9]. One of the more puzzling aspects is why these equations should have become known as the Mollweide equations since in the 1808 paper in which they appear Mollweide refers the book by Antonio Cagnoli (1743-1816) Traité de Trigonométrie Rectiligne et Sphérique, Contenant des Méthodes et des Formules Nouvelles, avec des Applications à la Plupart des Problêmes de l'astronomie Ⓣ(containing methods and new formulas with applications to most astronomical problems) (1786) which contains the formulas. However, the formulas go back to Isaac Newton, or even earlier, but there is no doubt that Mollweide's discovery was made independently of this earlier work.
+
+
+In 1811 Mollweide left Halle when he was named Professor of Astronomy at the University of Leipzig. He immediately had an important influence of one of the first students he taught at Leipzig, namely August Möbius. At this time Möbius was intending to make a career as an astronomer but after being taught by Mollweide he became, like his teacher, equally interested in both mathematics and astronomy. As well as being Professor of Astronomy at Leipzig, Mollweide was also director of the university observatory. However, times were difficult because of wars which affected the district. After Napoleon withdrew his armies from Russia in 1812 he began a new offensive against the German states. However his armies failed in their attempt to capture Berlin and retreated to the west. Napoleon's lines of communication were through Leipzig and the allies concentrated their attacks on that point in October 1813. The resulting Battle of Leipzig took place from 16th  to 19th  October and saw a major defeat for Napoleon. All this concentration on war had made Mollweide's life extremely difficult for he was forced to concentrate on geographic studies to assist the war effort. On top of this, money had to be diverted to the war effort and so Leipzig Observatory received very little funding and could not carry out a proper astronomical research programme.
+
+
+Mollweide, always more enthusiastic towards mathematics than astronomy, decided in 1814 to move from being Professor of Astronomy to Professor of Mathematics, still at the University of Leipzig. Certainly the problems in carrying out his duties as Professor of Astronomy had been a big factor in his decision. The chair of astronomy at Leipzig which he vacated was filled by Möbius two years later. The year of 1814 not only marked Mollweide's move from astronomy to mathematics, but it was also the year he married. His wife was the widow of the astronomer Meissner, who had worked at Leipzig Observatory. From 1820 to 1823 Mollweide was Dean of the Leipzig University Faculty of Philosophy.
+
+
+We referred above to the two contributions for which Mollweide is best remembered today. However he made many other minor contributions published in the Monatliche Correspondenz de Zach (1802-13), in the Zeitsrchrifte für Astronomie (1816-17), in the Annalen de Gilbert (1804-23), and in the Astronomische Nachrichten (1824-25). Among his other works we mention two published while he was working in Halle: Prüfung der Farbenlehre des Hernn von Goethe Ⓣ(Account of the colour theory of  von Goethe) (1810) which studied Goethe's theory of colour, and Darstellung der optischen Irrthümer in Herrn von Goethe's Farbenlehre Ⓣ(Showing the optical errors in von Goethe's colour theory) on a similar topic, which he published in the following year. After moving to Leipzig he published: Commentationes mathematico-philologicae tres Ⓣ(Three mathematical-philological commentaries)(1813); De Quadratis Magicis Commentatio Ⓣ(History of magic squares) (1816) on magic squares (the first book on the topic not to contain any mysticism); and Adversus novissimos chronologiae mysticae auctores et astrologiae patronos Ⓣ(Against the latest chronology of mystical writers and patrons of astrology) (1821). He was also the editor of Euklid's Elemente.
+
+
+In [9] Wu says that Mollweide's health problems were basically caused by depression, making him a hypochondriac, and this made him appear standoffish. However, when one got to know him well, one realised what a kind and considerate man he was:- 
+As a teacher, he tried with his full heart to promote the study of science and mathematics. Anyone who expressed interest in these topics received his support. ... he was loved by those who knew him well; deep down he was truly kind and always wanted only the best for science and mathematics. Mollweide was admired as a lecturer because of his ability to present dry topics in an interesting manner by drawing connections to other topics. He was also known for his penmanship; his ability to draw a "perfect" circle freehand amazed his students.
+Among his other mathematical accomplishments, Wu mentions [9]:-
+Mollweide demonstrated various talents as a mathematician. He was feared as a proofreader for his ability to easily detect and harshly criticize the smallest flaw in papers. Although he did not discover any completely new mathematical methods, he was admired for thoroughly investigating and extending known methods. Among his mathematical contributions, Mollweide was the first to use the modern congruence symbol in the 1824 edition of Lorenz's German translation of 'Euklid's Elemente'. He also took over the work on the mathematical dictionary, 'Mathematisches Wörterbuch' Ⓣ(Mathematical dictionary), from Georg Simon Klügel, but only published one volume in 1823 prior to his death.
+
+
+
+
+
+Other Mathematicians born in Germany
+
+
+
+
+
+References (show)
+
+
+
+
+
+S W Boggs, A New Equal-Area Projection for World Maps, The Geographical Journal 73 (3) (1929), 241-245.
+C Close, An Oblique Mollweide Projection of the Sphere, The Geographical Journal 73 (3) (1929), 251-253.
+H A DeKleine, Proof without Words: Mollweide's Equation, Mathematics Magazine 61 (5) (1988), 281.
+F G Feeman, Equal Area World Maps: A Case Study, SIAM Review 42 (1) (2000), 109-114.
+C N Mills, Discussions: On Checking the Solution of a Triangle, Amer. Math. Monthly 31 (10) (1924), 481.
+A K Philbrick, An Oblique Equal Area Map for World Distributions_An Oblique Equal Area Map for World Distributions, Annals of the Association of American Geographers 43 (3) (1953), 201-215.
+E A Reeves, Van der Grinten's Projection, The Geographical Journal 24 (6) (1904), 670-672.
+A Spilhaus, New Equal Area World Map Projections to Better Display Polar Regions, Proc. Amer. Philos. Soc. 137 (2) (1993), 179-193.
+R H Wu, The Story of Mollweide and Some Trigonometric Identities http://www.geocities.com/galois_e/pdf/mollweide_MM.pdf
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Karl Mollweide:
+
+Mollweide's projection
+Heinz Klaus Strick biography
+
+
+
+Other websites about Karl Mollweide:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: Earliest Uses of Symbols from Geometry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 2009
+  
+
+

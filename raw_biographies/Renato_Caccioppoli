@@ -1,0 +1,169 @@
+
+
+
+Renato Caccioppoli
+
+
+
+
+
+Quick Info
+Born
+
+      20 January 1904
+      
+
+        Naples, Italy
+        
+
+Died
+
+      8 May 1959
+      
+      Naples, Italy
+    
+
+Summary
+Renato Caccioppoli was an Italian mathematician, known for his contributions to mathematical analysis.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Renato Caccioppoli was one of the most interesting and charming mathematical figures of the 20th  century. Grandson of Michail Bakunin, he lived his youth in a refined cultural environment. Following his father's wishes, he initially took Engineering studies. He later changed to Mathematics and was awarded his degree from the University of Naples in 1925, having studied under the guidance of Ernesto Pascal but having been substantially influenced by Mauro Picone.
+
+
+In the same year, Caccioppoli became Picone's assistant. In 1931 he was appointed to the Chair of Algebraic Analysis in Padua and eventually returned to Naples in 1934. From then, he taught group theory until 1943 and Mathematical Analysis until his death in 1959.
+
+
+His first publication dates back to 1926. In this work Caccioppoli began to investigate how to generalise Riesz's theorem on the representation of linear functionals by extending the initial definition set. In the same year Caccioppoli considered the extension of the definition of linear functionals from the set of continuous functions to the set of Baire functions, anticipating a special case of the Hahn-Banach theorem. This approach was later taken up again by Caccioppoli, and it is one of the threads running throughout his work.
+
+
+In 1927 Caccioppoli published an important work on integration on kkk-dimensional varieties in Rn\mathbb{R}^{n}Rn, where he wanted to establish:-
+... the principles of a theory of measure of plane and curved surfaces, and more generally of two or more dimensional varieties embedded in a linear space.
+This topic has now found its proper place within the theory of so-called "homological integration" pioneered by H Federer in the 1940s.
+
+
+Once again Caccioppoli wanted to apply his "classical" method, that is to say, to extend a functional beyond its initial definition set. According to Caccioppoli, this functional should retain its property of lower semicontinuity, as is:-
+... imperatively suggested by geometric intuition.
+The most successful approach to measure was, at this time, that proposed by Lebesgue. The Neapolitan mathematician started from Lebesgue's method considering a polyhedral surface SSS parametrically described by a pair of functions X=f(x,y)X = f (x, y)X=f(x,y) and Y=g(x,y)Y = g(x, y)Y=g(x,y) on a domain DDD. The image of a net triangulating DDD is a polyhedral plane surface, and by considering the lower limit of total variation of the pair (f,g)(f, g)(f,g) a measure for SSS can be defined. Caccioppoli did not follow Lebesgue beyond this point, i.e. in passing to the case in which SSS is a curved surface, as he considered the problem:-
+... to build, in its most general case, a sequence of polyhedral approximating surfaces, whose areas tend to the area of the curved surface whether finite or infinite.
+Caccioppoli then defined the area of a curved surface as the Stieltjes' integral of the area element built with the area elements of the projections of the surface S on coordinate planes. He did not, however, immediately demonstrate the equivalence of his own definition to that of Lebesgue, and this later led to some controversy with other mathematicians. Reviews by L C Young initially suggested that Caccioppoli's theory was insufficient in general and only worked in some cases. Later work by Ennio de Giorgi, who explicitly followed  Caccioppoli's approach [7], led to a reconsideration by Young of Caccioppoli's ideas. He eventually admitted [15] to be able to "judge more clearly the precise scope" of Caccioppoli's work.
+
+
+After 1930 Caccioppoli devoted himself to the study of differential equations and he provided existence theorems for both linear and non-linear problems. His idea was to use a topological- functional approach to the study of differential equations. For the linear case he considered a linear transformation acting on the vectors of a linear space (in which the solution is to be found). Its elements are transformed into vectors of another linear space, in which data is assigned.
+
+
+If the image set entirely covers the second linear space then solutions exist independently on the given data. If this is not the case (i.e. the image set is a linear, closed subspace in the second linear space) then necessary and sufficient conditions are placed on the data set so that the problem has solutions.
+
+
+Carrying on in this way Caccioppoli, in 1931, extended in some cases Brouwer's fixed point theorem, and applied his results to existence problems of both partial differential equations and ordinary differential equations. To decide on both existence and uniqueness (and not only on existence, as Brouwer's theorem does) he provided the general concept of functional correspondence inversion, stating, in 1932, that a transformation between two Banach spaces is invertible only if it is locally invertible and if the compact sequences are the only ones to be transformed into convergent sequences.
+
+
+In the period between 1933 and 1938 Caccioppoli applied his method to elliptic equations, providing the a priori upper bound for their solutions, in a more general way than Bernstein did for the two-dimensional case. In that period he successfully studied branches of functions defined on Cn\mathbb{C}^{n}Cn, and in 1933 found the basic theorem on normal families of functions of complex variables, namely that if a family is normal to each complex variable, it is also normal to the whole set of variables. Coming back to his main interest in functional analysis he deduced (in Sui teoremi di esistenza di Riemann Ⓣ(On the existence theorems of Riemann). Rend.Acc.Sc.Fis. e Mat. Napoli, s.IV, v.4 (1934) ) the theorem on harmonicity of orthogonal functions to any Laplacian, best known as "Weyl's lemma". Again in 1938 Caccioppoli resumed the study of Riemann's existence theorems, dealing with the existence of abelian integrals on a closed Riemann surface.
+
+
+In 1935 he dealt with the question introduced in 1900 by Hilbert during the International Congress of Mathematicians, namely whether or not the solutions of analytical elliptic equations are analytic. Caccioppoli proved the analyticity of C2C^{2}C2-class solutions.
+
+
+In May 1938 Hitler was visiting Naples with Mussolini: Caccioppoli, who had already shown his opposition to fascism, convinced an open-air restaurant orchestra to play La Marseillaise, and made a speech against Italian and German dictators.
+
+
+He was arrested and he should have been tried by a special political court instituted by the fascists against their opponents , but he managed -- with the help of his aunt Maria Bakunin who was a chemistry teacher at the University of Naples -- to be declared mad and was eventually sent to an asylum.
+
+
+There he worked with Carlo Miranda on the problem of existence of closed convex surfaces of a given Riemaniann metric, using his general inversion principle. Gianfranco Cimmino, in [3], remembers:-
+I went to see him every day. He showed that he accepted serenely his life together with madmen, as a peculiar life experience. But his friends and relatives were really sad and worried about it. They managed to obtain a less strict surveillance, and he was allowed to go out with me. I took him away from that nursing home in my car, to let him take a breath of air.
+To avoid any contact with official academic institutions, which were strictly controlled by the fascist dictatorship, he published (1940) his results in "Commentationes Pontificiae Academiae Scientiarum", a scientific review published in the Vatican State. His political opposition to fascism led him to organise a strike in Naples in 1943.
+
+
+After the Second World War Renato Caccioppoli resumed his scientific activity. He was elected a corresponding Fellow of the Accademia dei Lincei, later becoming a National Fellow (1958). He was also member of various Academic Institutions. During these years he joined the Italian Communist Party, although he did not entirely share the party's policy nor did he agree with the official Soviet vision of science. He joined the "peace partisans", a left-wing organisation supporting disarmament. He also founded a cultural association, the "Circolo del cinema", a film club.
+
+
+In 1952 Caccioppoli sketched a revised vrsion of his early work on surface area and related topics, with the article Misura e integrazione degli insiemi dimensionalmente orientati Ⓣ(Measurement and integration of dimensionally oriented sets), (Rend. Acc. Naz. Lincei, s. VIII, v.12). In this work he focused his attention on the theory of "dimensionally oriented sets", namely surfaces of "nice" subsets of Euclidean space. These finite perimeter sets which were introduced by Caccioppoli are now known as "Caccioppoli sets".
+
+
+His last work dates back to 1952-1953 and deals with pseudoanalytic functions - an original concept introduced by Caccioppoli - extending some properties of analytic functions.
+
+
+The last years of his life were sad ones: Caccioppoli saw his political hopes disappointed, probably felt that his mathematical inspiration had run out, and his wife, Sara Mancuso, eventually left him. He took to drink and he became more and more isolated. He shot himself on 8 May 1959.
+
+
+Giuseppe Scorza Dragoni, quoted in [3], wrote:-
+... I knew that the previous day he was seen in the Via Chiaia between midday and one o'clock (in the hour I usually came to Naples and saw him); and they told me he killed himself in the late afternoon (when I certainly would not have come after that). And since then I wonder if he was waiting for me; and I curse the misfortune that kept me in Rome and prevented me from joining the finest , the best, the most beloved of my friends, the most intelligent one. Unforgettable for anyone who had known him.
+In 1992, a film Morte di un matematica napoletono Ⓣ(Death of a Naples mathematician) was made by the Italian Director Mario Martone about the events leading to Caccioppoli's suicide.
+
+
+The Mathematics Department at the University of Naples is named after Renato Caccioppoli.
+
+
+
+
+
+Quotations by Renato Caccioppoli
+
+Other Mathematicians born in Italy
+
+A Poster of Renato Caccioppoli
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Dizionario Biografico degli Italiani (Roma, 1973).
+R Caccioppoli, Istituto Italiano per gli studi filosofici, Il pensiero matematico del XX secolo e l'opera di Renato Caccioppoli (Napoli 1989).
+L De Crescenzo, Storia della filosofia greca (Milano, 1987).
+M Martone and F Ramondino, Morte di un matematico napoletano (Milano, 1988).
+S Di Sieno (a cura di) La matematica italiana dopo l'unit. Gli anni tra le due guerre mondiali (Roma, 1986).
+P A Toma, Renato Caccioppoli, l'enigma (Napoli 1992).
+E De Giorgi, Su una teoria generale della misura (r - 1)-dimensionale in uno spazio ad r dimensioni, Annali di Matematica Pura e Applicata, Serie IV,  36 (1) (1954) 191 213
+P De Lucia, Measure theory in Naples : Renato Caccioppoli, (Italian), International Symposium in honor of Renato Caccioppoli, Naples, 1989, Ricerche Mat. 40 (1991), suppl., 101-110.
+F Guizzi, Renato Caccioppoli in Naples in the fifties, between politics and culture (Italian), International Symposium in honor of Renato Caccioppoli, Naples, 1989, Ricerche Mat. 40 (1991), suppl., 29-34.
+C Miranda, Renato Caccioppoli, Ann. Mat. Pura Appl. (4) 47 (1959), v-vii.
+M Miranda, Renato Caccioppoli and geometric measure theory (Italian), International Symposium in honor of Renato Caccioppoli, Naples, 1989, Ricerche Mat. 40 (1991), suppl., 111-118.
+G Scorza Dragoni, Remembering Renato Caccioppoli (Italian), Italian mathematics between the two world wars (Italian), Milan/Gargnano, 1986 (Bologna, 1987), 387-392.
+G Scorza Dragoni, Renato Caccioppoli (20 gennaio 1904-8 maggio 1959), Atti Accad. Naz. Lincei Rend. Cl. Sci. Fis. Mat. Natur. Appendice 1963 (1963), 85-93.
+E Vesentini, Renato Caccioppoli and complex analysis (Italian), International Symposium in honor of Renato Caccioppoli, Naples, 1989, Ricerche Mat. 40 (1991), suppl., 119-125.
+L C Young, Mathematical Reviews, 15 (1945)
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Renato Caccioppoli:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+    Written by Faber Renato Fabbris, Rome, Italy.
+
+    Last Update January 2000
+  
+
+

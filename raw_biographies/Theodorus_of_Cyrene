@@ -1,0 +1,151 @@
+
+
+
+Theodorus of Cyrene
+
+
+
+
+
+Quick Info
+Born
+
+      465 BC
+      
+
+        Cyrene (now Shahhat, Libya)
+        
+
+Died
+
+      398 BC
+      
+      Cyrene (now Shahhat, Libya)
+    
+
+Summary
+Theodorus was a Greek philosopher in the Cyrenaic school of moral philosophy. He was a pupil of Protagoras and the tutor of Plato and of Theaetetus.
+
+
+
+
+
+Biography
+Theodorus of Cyrene was a pupil of Protagoras and himself the tutor of Plato, teaching him mathematics, and also the tutor of Theaetetus. Plato travelled to and from Egypt and on such occasions he spent time with Theodorus in Cyrene. Theodorus, however, did not spend his whole life in Cyrene for he was certainly in Athens at a time when Socrates was alive.
+
+
+Theodorus, in addition to his work in mathematics, was [5]:-
+... distinguished ... in astronomy, arithmetic, music and all educational subjects.
+A member of the society of Pythagoras, Theodorus was one of the main philosophers in the Cyrenaic school of moral philosophy. He believed that pleasures and pains are neither good nor bad. Cheerfulness and wisdom, he believed, were sufficient for happiness.
+
+
+Our knowledge of Theodorus comes through Plato who wrote about him in his work Theaetetus. Theodorus is remembered by mathematicians for his contribution to the development of irrational numbers and it is this aspect of his work which Plato describes (see for example [5]):-
+[Theodorus] was proving to us a certain thing about square roots, I mean the side (i.e. root) of a square of three square units and of five square units, that these roots are not commensurable in length with the unit length, and he went on in this way, taking all the separate cases up to the root of seventeen square units, at which point, for some reason, he stopped.
+Our whole knowledge of Theodorus's mathematical achievements are given by this passage from Plato. Yet there are points of interest which immediately arise. The first point is that Plato does not credit Theodorus with a proof that the square root of two was irrational. This must be because √2 was proved irrational before Theodorus worked on the problem, some claim this was proved by Pythagoras himself.
+
+
+There is no doubt that Theodorus would have constructed lines of length √3, √5 etc. using Pythagoras's theorem. It is also clear that Theodorus had no general result here, for Plato goes on to describe how Theodorus's results inspired Theaetetus and Socrates to look at generalisations:-
+The idea occurred to the two of us (Theaetetus and Socrates), seeing that these square roots appeared to be unlimited in multitude, to try to arrive at one collective term by which we could designate all these roots....
+So the question which naturally comes next is how did Theodorus prove that √3, √5, ..., √17 were irrational without giving a proof which would clearly prove that any non-square number was irrational. The usual proof that √2 is irrational, namely the one which supposes that √2=pq√2 = \large\frac{p}{q}\normalsize√2=qp​ where pq\large\frac{p}{q}\normalsizeqp​ is a rational in its lowest terms and derives a contradiction by showing that ppp and qqq are both even, would have been known to Theodorus. This proof generalises easily (for a modern mathematicians thinking in terms of numbers rather than lengths) to show √n is irrational for any non-square nnn. It is almost impossible to conceive that Theodorus would have used this proof on each of √3, √5, ..., √17 without obtaining a general theorem long before he got to 17.
+
+
+An interesting proposal was made by Zeuthen in 1915. He suggested that Theodorus may have used the result which would later appear in Euclid's Elements namely:-
+If, when the lesser of two unequal magnitudes is continually subtracted in turn from the greater, that which is left never measures the one before it, the magnitudes will be incommensurable.
+Heath [5] illustrates the use of this result to show that √5 is irrational. Start with 1 and √5.
+√51=2+(√5−2)\Large\frac{√5}{1}\normalsize  = 2 +(√5-2)1√5​=2+(√5−2)
+
+1√5−2=4+(√5−2)2\Large\frac{1}{√5-2}\normalsize  = 4 + (√5-2)^{2}√5−21​=4+(√5−2)2
+
+√5−2(√5−2)2=1√5−2=4+(√5−2)2\Large\frac{√5-2}{(√5-2)^{2}\normalsize}  = \Large\frac{1}{√5-2}\normalsize  = 4 + (√5-2)^{2}(√5−2)2√5−2​=√5−21​=4+(√5−2)2
+
+.......
+The process now clearly fails to terminate since the ratio 1:(√5−2)1 : (√5-2)1:(√5−2) is the same as (√5−2):(√5−2)2(√5-2) : (√5-2)^{2}(√5−2):(√5−2)2. Heath [5] gives a geometric version of this, starting with a right-angled triangle with sides 1, 2 and √5 which may be close to the method that Theodorus used. However there is little chance to do more than guess at Theodorus's method.
+
+
+
+
+
+
+
+Other Mathematicians born in Libya
+
+
+
+
+
+References (show)
+
+
+
+
+
+I Bulmer-Thomas, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+B Artmann, A proof for Theodorus' theorem by drawing diagrams, J. Geom. 49 (1-2) (1994), 3-35.
+M S Brown, Theaetetus : Knowledge as Continued Learning, Journal of the History of Philosophy 7 (1969), 359-379.
+L Giacardi, On Theodorus of Cyrene's problem, Arch. Internat. Hist. Sci. 27 (101) (1977), 231-236.
+T L Heath, A History of Greek Mathematics I (Oxford, 1921), 203-204, 209-212.
+R L McCabe, Theodorus' irrationality proofs, Math. Mag. 49 (4) (1976), 201-203.
+A Wasserstein, Theaetetus and the History of the Theory of Numbers, Classical Quarterly 8 (1958), 165-179.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Theodorus:
+
+See Theodorus on a timeline
+
+
+
+Other websites about Theodorus:
+
+Dictionary of Scientific Biography
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Theodorus
+
+Popular biographies list Number 170
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: The Golden ratio
+History Topics: The real numbers: Pythagoras to Stevin
+Other: Most popular biographies
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 1999
+  
+
+

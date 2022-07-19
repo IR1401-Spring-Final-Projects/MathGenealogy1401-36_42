@@ -1,0 +1,105 @@
+
+
+
+Zu Geng
+
+
+
+
+
+Quick Info
+Born
+
+      about 450
+      
+
+        Jiankang, (now Nanjing, Kiangsu province), China
+        
+
+Died
+
+      about 520
+      
+      China
+    
+
+Summary
+Zu Geng was a Chinese mathematician whose greatest achievement was to compute the diameter of a sphere of a given volume.
+
+
+
+
+
+Biography
+Zu Geng is also known by the name Geng Zhi Zu, Zu Xuan or Tsu Keng. He was the son of Zu Chongzhi and so came from a famous family who had for many generations produced outstanding mathematicians. The family was originally from Hopeh province in northern China. Zu Geng's great great grandfather was an official at the court of the Eastern Chin dynasty which had been established at Jiankang (now Nanking). Weakened by court intrigues, the Eastern Chin dynasty was replaced after a revolt by the Liu-Sung dynasty in 420. Zu Geng's great grandfather, grandfather, and father Zu Chongzhi, all served as officials of the Liu-Sung dynasty which also had its court at Jiankang (now Nanking).
+
+
+The Zu family was an extremely talented one with successive generations being, in addition to court officials, astronomers with special interests in the calendar. They handed their mathematical and astronomical skills down from father to son and, indeed, this was one of the main ways that such skills were transmitted in China at this time. Zu Geng, in the family tradition, was taught a variety of skills as he grew up. In particular he was taught mathematics by his talented father Zu Chongzhi.
+
+
+Zu Geng's greatest achievement was to compute the diameter of a sphere of a given volume. We know of this work through the commentary of Li Chunfeng on the Nine Chapters on the Mathematical Art . The final two problems in Chapter 4: Short Width ask for the diameter of a sphere of given volume. For example Problem 25, the final problem in Chapter 4, states:-
+Given a volume of 1644866437500 cubic chi, tell what is the diameter of the sphere.
+The answer given is 14300 chi but Li Chunfeng notes that the precise answer should be 146433414643\large\frac{3}{4}\normalsize1464343​ chi. He then writes (see for example [3]):-
+Zu Geng said that both Liu Hui and Zhang Heng took the cylinder for the square rate and its inscribed sphere for the circle rate. And, therefore, Zu suggested a new hypothesis himself. His Rule states: "Double the given volume and extract its cube root, and we have the diameter of the sphere." But why should this be?
+Li Chunfeng then goes on to indicate how Zu Geng proved his result. (Notice of course, that the formula presented assumes that π = 3.) The proof is based on what is now called the principle of Liu Hui and Zu Geng, namely:-
+The volumes of two solids of the same height bear a constant ratio if the areas of the plane sections at equal heights have the same ratio.
+This is a generalisation of what is often called Cavalieri's principle. Zu cut his circumscribed cube into 8 small equal cubes. He now only has to consider one of the small cubes. He makes two dissections of the small cubes by cylindrical cuts, obtaining 4 smaller pieces. He then applies his principle to find the volumes of his pieces.
+
+
+After showing how Zu Geng used the principle to justify the formula for the volume of a sphere, Li Chunfeng goes on to give Zu Geng's more precise form:-
+According to the precise rate, the volume of the sphere is the cube of the diameter multiplied by 11 and divided by 21.
+Notice that this version is the same rule as given above, yet now with π=227\pi = \large\frac{22}{7}\normalsizeπ=722​. This is significant, for Zu Geng has seen the link between squaring the circle and cubing the sphere, and has been able to translate progress on the first of these two problems into progress on the second.
+
+
+As a final comment let us note that Zu Geng was certainly not the last member of the famous Zu family to make important contributions. Zu Geng's son, Zu Hao, was also well known as a mathematical astronomer making contributions to the science of the calendar.
+
+
+
+
+
+Other Mathematicians born in China
+
+
+
+
+
+References (show)
+
+
+
+
+
+J-C Martzloff, A history of Chinese mathematics (Berlin-Heidelberg, 1997).
+J-C Martzloff, Histoire des mathématiques chinoises (Paris, 1987).
+K Shen, J N Crossley and A W-C Lun, The nine chapters on the mathematical art : Companion and commentary (Beijing, 1999).
+D W Fu, Why did Liu Hui fail to derive the volume of a sphere?, Historia Math. 18 (3) (1991), 212-238.
+L Y Lam, and K S Shen, The Chinese concept of Cavalieri's principle and its applications, Historia Math. 12 (3) (1985), 219-228.
+S Lin, How to extend Geng Zhi Zu's axiom I (Chinese), Zhejiang Daxue Xuebao (1) (1980), 113-120.
+S Lin, How to extend Geng Zhi Zu's axiom II (Chinese), Zhejiang Daxue Xuebao (2) (1980), 119-124.
+J M Liu, The meaning of 'shi' and the principle of Liu and Zu (Chinese), Beijing Shifan Daxue Xuebao (1) (1988), 84-88.
+M K Siu, The story of calculus I, Math. Medley 23 (1) (1996), 28-32.
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Overview of Chinese mathematics
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update December 2003
+  
+
+

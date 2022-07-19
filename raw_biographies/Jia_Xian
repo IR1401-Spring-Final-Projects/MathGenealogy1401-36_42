@@ -1,0 +1,117 @@
+
+
+
+Jia Xian
+
+
+
+
+
+Quick Info
+Born
+
+      about 1010
+      
+      
+        
+        China
+        
+      
+    
+Died
+
+      about 1070
+      
+      China
+    
+
+Summary
+Jia Xian was a Chinese scholar who wrote some early arithmetic books. He had an early version of Pascal's triangle.
+
+
+
+
+
+Biography
+Jia Xian is also known as Chia Hsien. Almost nothing is known about his life. It is recorded that he was a pupil of Chu Yan who was a famous calendarist, astronomer and mathematician. We know that Chu Yan was productive over the years 1022 to 1054 so he must have tutored Jia Xian at some time between these years. Other evidence would suggest that Chu Yan taught Jia Xian fairly near the beginning of his career.
+
+
+According to Qian [3], Jia Xian was a Palace Eunuch of the Left Duty Group. This requires a little explanation. The Emperor of China would employ eunuchs, castrated men, as guards and servants in his Palace. Although the original role was that of guarding the women's quarters, these men achieved real power and influence. In addition to their role as guards they became confidential advisers to the Emperor, and sometimes government ministers.
+
+
+Jia Xian is known to have written two mathematics books: Huangdi Jiuzhang Suanjing Xicao (The Yellow Emperor's detailed solutions to the Nine Chapters on the Mathematical Art), and Suanfa Xuegu Ji (A collection of ancient mathematical rules). Both are lost and we know nothing of the second of the two books other than its title. The first, however, although it has been lost is known to us in some detail. This is because Yang Hui wrote Xiangjie Jiuzhang Suanfa (A detailed analysis of the mathematical rules in the Nine Chapters) in 1261 with the intention of explaining, and making better known, the work of Jia Xian. A copy of Yang Hui's text has survived and he explicitly states his reasons for writing the work in the preface.
+
+
+What does Yang Hui tell us of Jia Xian's mathematical contribution? The first is an understanding of Pascal's triangle. Here Jia Xian is aware of the expansion of (a+b)n(a + b)^{n}(a+b)n and gives a table of the resulting binomial coefficients in the form of Pascal's triangle. Jia Xian appears to have calculated the binomial coefficients up to n=6n = 6n=6 and gave an accompanying table similar to Pascal's triangle which records the coefficients up to the row 
+1 6 15 20 15 6 1
+It is clear from Yang Hui's description that Jia Xian understood the method of generating the triangle, namely adding the numbers in the two positions above in order to find the number in the position below.
+
+
+The other contribution is an algorithm for root extraction but, as we shall see below, it uses the Pascal triangle method. He generalised a method of finding square roots and cube roots to finding nth roots, for n>3n > 3n>3, and then extended the method to solving polynomial equations of arbitrary degree. The algorithm is called the Zeng chang kaifang method by Jia Xian, which means the additive-multiplicative method for root extractions. The method is essentially that which today is called the Ruffini-Horner method or Horner's method.
+
+
+Let us illustrate the method by solving 
+x3=146363183x^{3} = 146363183x3=146363183
+Since 106<x3<10910^{6} < x^{3} < 10^{9}106<x3<109 we see that 100<x<1000100 < x < 1000100<x<1000. Put x=100a+10b+cx = 100a + 10b + cx=100a+10b+c where aaa is between 1 and 9 and b,cb, cb,c are between 0 and 9. Since 5003=125000000500^{3} = 1250000005003=125000000 and 6003=216000000600^{3} = 2160000006003=216000000 we see that a=5a = 5a=5. Now consider 
+(500+10b)3=125000000+7500000b+150000b2+1000b3≤146363183(500 + 10b)^{3} = 125000000 + 7500000b + 150000b^{2}+ 1000b^{3}≤ 146363183(500+10b)3=125000000+7500000b+150000b2+1000b3≤146363183.
+Subtract 125000000 to get
+7500000b+150000b2+1000b3≤213631837500000b + 150000b^{2} + 1000b^{3} ≤ 213631837500000b+150000b2+1000b3≤21363183
+Looking only at the first term gives b<3b < 3b<3 and b=2b = 2b=2 is easily seen to be the largest possible value giving the left hand side 15608000. Now with a=5a = 5a=5 and b=2,x=100a+10b+cb = 2, x = 100a + 10b + cb=2,x=100a+10b+c has become 520+c520 + c520+c so x3=(520+c)3x^{3} = (520 + c)^{3}x3=(520+c)3. Subtract 15608000 from 21363183 to get
+811200c+1560c2+c3=5755183811200c + 1560c^{2} + c^{3} = 5755183811200c+1560c2+c3=5755183
+which is satisfied by c=7c = 7c=7.
+
+
+A fascinating historical account of methods of root extraction used by Chinese and Arabic scholars is given in [4]. Chemla defines precisely what constitutes the Ruffini-Horner method so that at each step of the algorithm precisely the same procedure, using multiplication and subtraction, is carried out until the root is obtained. After examining earlier Chinese methods given in the Nine Chapters on the Mathematical Art and those by Zhang Qiujian in the fifth century, she concludes that Jia Xian was the first to use the Ruffini-Horner method. An examination of root extraction methods by Arabic authors leads to the conclusion that al-Samawal in the twelfth century was the first to use the Ruffini-Horner method. It is also shown in [4] that both Jia Xian's method and al-Samawal's method end up with the same form for the approximation of nth roots. If aaa is the integral portion of the nnnth root of AAA, then the approximation is given by 
+a+A−an(a+1)n−ana + \Large\frac{A - a^{n}}{(a + 1)^{n} - a^{n}}a+(a+1)n−anA−an​.
+Both Jia Xian and al-Samawal use binomial coefficients, computed with a form of Pascal's triangle, to calculate the denominator of the expression. The intriguing question of whether al-Samawal discovered the method independently, or whether there was transmission of the Chinese method of Jia Xian into Islamic/Arabic mathematics is left unresolved.
+
+
+
+
+
+
+
+Other Mathematicians born in China
+
+
+
+
+
+References (show)
+
+
+
+
+
+J-C Martzloff, A history of Chinese mathematics (Berlin-Heidelberg, 1997).
+J-C Martzloff, Histoire des mathématiques chinoises (Paris, 1987).
+B Qian, History of Chinese mathematics (Chinese) (Peking, 1981).
+K Chemla, Similarities between Chinese and Arabic mathematical writings I : Root extraction, Arabic Sci. Philos. 4 (2) (1994), 207-266.
+S Guo, Preliminary research into Jia Xian's Huangdi Jiuzhang Suanjing Xicao (Chinese), Studies in the History of Natural Sciences 7 (4) (1988), 328 -334.
+S Guo, Jia Xian, in Du Shiran (ed.), Zhongguo Gudai Kexuejia Zhuanji (Biographies of Ancient Chinese Scientists) (Beijing, 1992), 472 -479.
+R Mei, Jia Xian's additive-multiplicative method for the extraction of roots (Chinese), Studies in the History of Natural Sciences 8 (1) (1989), 1 -8.
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Overview of Chinese mathematics
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update December 2003
+  
+
+

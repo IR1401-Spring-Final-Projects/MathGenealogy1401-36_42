@@ -1,0 +1,190 @@
+
+
+
+Mohammad Abu'l-Wafa Al-Buzjani
+
+
+
+
+
+Quick Info
+Born
+
+      10 June 0940
+      
+
+        Buzjan (near Jam), Khorasan region (now in Iran)
+        
+
+Died
+
+      15 July 998
+      
+      Baghdad (now in Iraq)
+    
+
+Summary
+Abu'l-Wafa was an Islamic astronomer and mathematician who wrote commentaries on the works of earlier mathematicians. He made astronomical observations and constructed accurate trigonometric tables.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Abu'l-Wafa was brought up during the period that a new dynasty was being established which would rule over Iran. The Buyid Islamic dynasty ruled in western Iran and Iraq from 945 to 1055 in the period between the Arab and Turkish conquests. The period began in 945 when Ahmad Buyeh occupied the 'Abbasid capital of Baghdad. The high point of the Buyid dynasty was during the reign of 'Adud ad-Dawlah from 949 to 983. He ruled from Baghdad over all southern Iran and most of what is now Iraq. A great patron of science and the arts, 'Adud ad-Dawlah supported a number of mathematicians and Abu'l-Wafa moved to 'Adud ad-Dawlah's court in Baghdad in 959. Abu'l-Wafa was not the only distinguished scientist at the Caliph's court in Baghdad, for outstanding mathematicians such as al-Quhi and al-Sijzi also worked there.
+
+
+Sharaf ad-Dawlah was 'Adud ad-Dawlah's son and he became Caliph in 983. He continued to support mathematics and astronomy and Abu'l-Wafa and al-Quhi remained at the court in Baghdad working for the new Caliph. Sharaf ad-Dawlah required an observatory to be set up, and it was built in the garden of the palace in Baghdad. The observatory was officially opened in June 988 with a number of famous scientists present such as al-Quhi and Abu'l-Wafa.
+
+
+The instruments in the observatory included a quadrant over 6 metres long and a stone sextant of 18 metres. Abu'l-Wafa is said to have been the first to build a wall quadrant to observe the stars. However, the caliph Sharaf ad-Dawlah died in the following year and the observatory was closed.
+
+
+Like many scientist of his period, Abu'l-Wafa translated and wrote commentaries, which have since been lost, on the works of Euclid, Diophantus and al-Khwarizmi. Some time between 961 and 976 he wrote Kitab fi ma yahtaj ilayh al-kuttab wa'l-ummal min 'ilm al-hisab Ⓣ(Book on what is necessary from the science of arithmetic for scribes and businessmen). In the introduction to this book Abu'l-Wafa writes that it ([3] or [4]):-
+... comprises all that an experienced or novice, subordinate or chief in arithmetic needs to know, the art of civil servants, the employment of land taxes and all kinds of business needed in administrations, proportions, multiplication, division, measurements, land taxes, distribution, exchange and all other practices used by various categories of men for doing business and which are useful to them in their daily life.
+It is interesting that during this period there were two types of arithmetic books written, those using Indian symbols and those of finger-reckoning type. Abu'l-Wafa's text is of this second type with no numerals; all the numbers are written in words and all calculations are performed mentally. Early historians such as Moritz Cantor believed that there were opposing schools of authors, one committed to Indian methods, the other to Greek methods. However, this has since been disproved (see for example [9]), and it is now believed that mathematicians wrote for two differing types of readers. Abu'l-Wafa himself was an expert in the use of Indian numerals but these [1]:-
+... did not find application in business circles and among the population of the Eastern Caliphate for a long time.
+Hence he wrote his text using finger-reckoning arithmetic since this was the system used for by the business community. The work is in seven parts, each part containing seven chapters
+Part I: On ratio (fractions are represented as made from the "capital" fractions 12,13,14,...,110\large\frac{1}{2}\normalsize , \large\frac{1}{3}\normalsize , \large\frac{1}{4}\normalsize , ... ,\large\frac{1}{10}\normalsize21​,31​,41​,...,101​).
+
+
+Part II: On multiplication and division (arithmetical operations with integers and fractions).
+
+
+Part III: Mensuration (area of figures, volume of solids and finding distances).
+
+
+Part IV: On taxes (different kinds of taxes and problems of tax calculations).
+
+
+Part V: On exchange and shares (types of crops, and problems relating to their value and exchange).
+
+
+Part VI: Miscellaneous topics (units of money, payment of soldiers, the granting and withholding of permits for ships on the river, merchants on the roads).
+
+
+Part VII: Further business topics.
+This work is studied in detail in [12] (see also [10]). Of particular interest is the reference to negative numbers in Part II of Abu'l-Wafa's treatise, and this particular aspect is studied in detail in [11] and [12] (see also [1]). This seems to be the only place that negative numbers have been found in medieval Arabic mathematics. Abu'l-Wafa gives a general rule and gives a special case of this where subtraction of 5 from 3 gives a "debt" of 2. He then multiples this by 10 to obtain a "debt" of 20, which when added to (10 - 3)(10 - 5) = 35 gives the product of 3 and 5, namely 15.
+
+
+Another text written by Abu'l-Wafa for practical use was A book on those geometric constructions which are necessary for a craftsman. This was written much later than his arithmetic text, certainly after 990. The book is in thirteen chapters and it considered the design and testing of drafting instruments, the construction of right angles, approximate angle trisections, constructions of parabolas, regular polygons and methods of inscribing them in and circumscribing them about given circles, inscribing of various polygons in given polygons, the division of figures such as plane polygons, and the division of spherical surfaces into regular spherical polygons.
+
+
+Another interesting aspect of this particular work of Abu'l-Wafa's is that he tries where possible to solve his problems with ruler and compass constructions. When this is not possible he uses approximate methods. However, there are a whole collection of problems which he solves using a ruler and fixed compass, that is one where the angle between the legs of the compass is fixed. It is suggested in [1] that:-
+Interest in these constructions was probably aroused by the fact that in practice they give more exact results than can be obtained by changing the compass opening.
+Abu'l-Wafa is best known for the first use of the tan function and compiling tables of sines and tangents at 15' intervals. This work was done as part of an investigation into the orbit of the Moon, written down in Theories of the Moon. He also introduced the sec and cosec and studied the interrelations between the six trigonometric lines associated with an arc.
+
+
+Abu'l-Wafa devised a new method of calculating sine tables. His trigonometric tables are accurate to 8 decimal places (converted to decimal notation) while Ptolemy's were only accurate to 3 places.
+
+
+His other works include Kitab al-Kamil Ⓣ(Complete book), a simplified version of Ptolemy's Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis'). Although there seems to have been little of novel theoretical interest in this work, the observational data in it seem to have been used by many later astronomers.
+
+
+
+
+
+Other Mathematicians born in Iran
+
+A Poster of Abu'l-Wafa
+
+
+
+
+
+References (show)
+
+
+
+
+
+A P Youschkevitch, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Abul-Wafa
+R Rashed, The development of Arabic mathematics : between arithmetic and algebra (London, 1994).
+R Rashed, Entre arithmétique et algèbre: Recherches sur l'histoire des mathématiques arabes (Paris, 1984).
+R C Gupta, Abu'l Wafa and his Indian rule about regular polygons, Ganita-Bharati : Bulletin of the Indian Society for the History of Mathematics 14 (1-4) (1992), 57-61.
+E S Kennedy, Applied mathematics in the tenth century : Abu'l-Wafa calculates the distance Baghdad - Mecca, Historia Math. 11 (2) (1984), 193-206.
+E S Kennedy and M Mawaldi, Abu al-Wafa' and the Heron theorems, J. Hist. Arabic Sci. 3 (1) (1979), 19-30.
+S A Krasnova, Remarks on the treatise of Abu al-Wafa' (Russian), Phys. Math. Sci. in the East 'Nauka' (Moscow, 1966), 131-140.
+M I Medovoi, On the arithmetic treatise of Abu'l-Wafa, Studies in the history of mathematics 13 (1960), 253-324.
+M I Medovoi, On the arithmetic treatise of Abu'l-Wafa (Russian), Istor.-Mat. Issled. 13 (1960), 253-324.
+M I Medovoi, On one case of the use of negative numbers by Abu'l-Wafa (Russian), Istor.-Mat. Issled. 11 (1958), 593-598.
+A S Saidan, The arithmetic of Abu'l-Wafa', Isis 65 (1974), 367-374.
+J Sesiano, Le traité d'Abu'l-Wafa sur les carrés magiques, Z. Gesch. Arab.-Islam. Wiss. 12 (1998), 121-244.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Abu'l-Wafa:
+
+See Abu'l-Wafa on a timeline
+Heinz Klaus Strick biography
+
+
+
+Other websites about Abu'l-Wafa:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+A Google doodle
+Google books
+MathSciNet Author profile
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Abu'l-Wafa
+
+Lunar features Crater Abul-Wafa
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: Longitude and the Académie Royale
+History Topics: The Arabic numeral system
+History Topics: The trigonometric functions
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

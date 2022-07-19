@@ -1,0 +1,174 @@
+
+
+
+Stephen Smale
+
+
+
+
+
+Quick Info
+Born
+
+      15 July 1930
+      
+
+        Flint, Michigan, USA
+        
+
+
+Summary
+Stephen Smale received the Fields medal in 1966 for his work on differential geometry.
+
+
+
+
+
+    View five larger pictures
+
+
+
+
+
+Biography
+Stephen Smale was born in Flint in east Michigan, a town famed as the site of General Motors, the automobile company. From the age of five he lived on a farm while his father worked in the city for General Motors. For eight years Stephen attended elementary school about a mile from his farmhouse. This school only had a single classroom, so has teacher had to cope with educating children of all ages under difficult circumstances. Following this, he studied at high school where his favourite subject was chemistry. His interests had moved to physics by the time he entered the University of Michigan, but after failing a physics course he turned to mathematics. He was awarded a BS in 1952 and an MS the following year.
+
+
+Smale continued to work for his doctorate at the University of Michigan, Ann Arbor under R Bott's supervision and he was awarded his Ph D in 1957 for the thesis Regular Curves on Riemannian Manifolds. In his thesis he generalised results proved by Whitney in 1937 for curves in the plane to curves on an nnn-dimensional manifold. Smale was an instructor at the University of Chicago in 1956-58.
+
+
+In 1958 Smale learnt about Pontryagin's work on structurally stable vector fields and he began to apply topological methods to study the these problems. He the spent the years 1958-60 at the Institute for Advanced Study at Princeton on a National Science Foundation Postdoctoral Fellowship. The last six months of this fellowship he spent at the Instituto de Mathematica Pura e Aplicada in Rio de Janeiro. Here he received a letter from Levinson which led him to study chaotic phenomena; we describe these ideas below.
+
+
+In 1960 Smale was appointed an associate professor of mathematics at the University of California at Berkeley, moving to a professorship at Columbia University the following year. In 1964 he returned to a professorship at the University of California at Berkeley where he has spent the main part of his career. He retired from Berkeley in 1995 and took up a post as professor at the City University of Hong Kong.
+
+
+Smale was awarded a Fields Medal at the International Congress at Moscow in 1966. The work which led to this award was described by René Thom, see [9]. One of Smale's impressive results was his work on the generalised Poincaré conjecture.
+
+
+The Poincaré conjecture, one of the famous problems of 20th -century mathematics, asserts that a simply connected closed 3-dimensional manifold is a 3-dimensional sphere. The higher dimensional Poincaré conjecture claims that any closed nnn-dimensional manifold which is homotopy equivalent to the nnn-sphere must be the nnn-sphere. When n=3n = 3n=3 this is equivalent to the Poincaré conjecture. Smale proved the higher dimensional Poincaré conjecture in 1961 for nnn at least 5.
+
+(Michael Freedman proved the conjecture for n=4n = 4n=4 in 1982 but the original conjecture remained open until settled by G Perelman who was offered the 2006 Fields medal for his proof.)
+
+
+Another area in which Smale has made a very substantial contribution is in Morse theory which he has applied to multiple integral problems. In fact Smale attacked the generalised Poincaré conjecture using Morse theory.
+
+
+Another discovery of Smale's related to strange attractors. An attractor in classical mechanics is a geometrical way of describing the behaviour of a dynamical system. There are three classical attractors, a point which characterises a steady state system, a closed loop which characterises a periodic system, and a torus which combines several cycles. Smale discovered strange attractors which lead to chaotic dynamical systems. Strange attractors have detailed structure on all scales of magnification and were one of the early fractals to be studied.
+
+
+Smale's career changed direction in the late 1960s, see [2]:-
+By the late sixties Smale had moved into applications. He modelled physical processes by dynamical systems, opening new lines of inquiry. The nnn-body problem and electric circuit theory were among the applications that Smale framed in the language of dynamical systems. For much of the seventies Steve focused on economics, injecting topology and dynamics into the study of general economic equilibria. Having established the nature of equilibria, Smale began to think algorithms for their computation. While traditional approaches to the convergence theory of algorithms were local, Smale introduced a global perspective to the problems. Was the algorithm reasonably reliable, and how many iterations were to be expected? ...
+Smale's recent work has been on theoetical computer science. With co-workers L Blum and M Shub, he has developed a model of computation which includes both the Turing machine approach and the numerical methods of numerical analysis.
+
+
+Smale has received many honours for his work. In addition to the Fields Medal described above, he was awarded the Veblen Prize for Geometry by the American Mathematical Society in 1966:-
+... for his contributions to various aspects of differential topology.
+In 1996 Smale received the National Medal of Science ([2]) for:-
+... four decades of pioneering work on basic research questions which have led to major advances in pure and applied mathematics.
+Smale's contribution is nicely summed up in [2]:-
+Throughout his career Smale has approached mathematical problems with the scholarship to learn from others, the audacity to be unconstrained by conventional wisdom, and the power and vision to employ new methods and construct original frameworks. After the fact, a Smale development seems so natural, yet no one else thought of it.
+Smale has been awarded honorary degrees by the University of Warwick (1974), Queens University, Kingston, Ontario (1987), the University of Michigan (1996), Université Pierre et Marie Curie, Paris (1997), the City University of Hong Kong (1997), Rostov State University (1999), and the University of Genoa (2004). He has been made an honorary member of the Instituto de Matematica Pura e Aplicada,  Rio de Janeiro (1990), Trinity Mathematical Society, Dublin (1991), Moscow Mathematical Society (1997) and the London Mathematical Society (1998).
+
+
+In addition to the prizes mentioned above, Smale has been awarded the Chauvenet Prize by the Mathematical Association of America in 1988 for his paper On the Efficiency of Algorithms in Analysis. In the following year he was awarded the Von Neumann Award by the Society for Industrial and Applied Mathematics who also presented him with their Jurgen Moser Prize in 2005. Then in 2007 he was honoured with the award of the Wolf Prize:-
+... for his groundbreaking contributions that have played a fundamental role in shaping differential topology, dynamical systems, mathematical economics, and other subjects in mathematics.
+Finally we note that Smale continued as Distinguished University Professor at the City University of Hong Kong until 2001. He was appointed Professor at the Toyota Technological Institute at Chicago in 2002. Then in 2009 he was again appointed Distinguished University Professor at the City University of Hong Kong.
+
+
+
+
+
+Quotations by Stephen Smale
+
+Other Mathematicians born in USA
+
+A Poster of Stephen Smale
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Stephen-Smale
+S Batterson, The mathematical work of Stephen Smale, Notices Amer. Math. Soc. 43 (12) (1996), 1527-1528. http://www.ams.org/notices/199612/comm-medal.pdf
+J Palis, On the contribution of Smale to dynamical systems, in From Topology to Computation : Proceedings of the Smalefest (New York, 1993), 165-178.
+M M Peixoto, Some recollections of the early work of Steve Smale, in From Topology to Computation : Proceedings of the Smalefest (New York, 1993, 73-75.
+D B Shmoys and S Batterson, Karp and Smale receive National Medals of Science, Notices Amer. Math. Soc. 43 (12) (1996), 1524-1528. http://www.ams.org/notices/199612/comm-medal.pdf
+S Smale, An hour's conversation with Stephen Smale, Nonlinear Sci. Today 1 (1) (1991), 1; 3; 12-17.
+S Smale, Bibliography, in M Atiyah and D Iagolnitzer (eds.), Fields Medallists Lectures (Singapore, 1997), 137-141.
+S Smale, A survey of some recent developments in differential topology, Bull. Amer. Math. Soc. 69 (2) (1963), 133-145.
+R Thom, Sur les travaux de Stephen Smale, Proceedings of the International Congress of Mathematicians, Moscow, 1966 (Moscow, 1968).
+A J Tromba, Smale and nonlinear analysis : a personal perspective, in From Topology to Computation : Proceedings of the Smalefest (New York, 1993), 481-492.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Stephen Smale:
+
+Encyclopaedia Britannica
+Geometry Center (Turning a sphere inside out)
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Stephen Smale
+
+AMS Veblen Prize 1966
+Speaker at International Congress 1966
+Fields Medal 1966
+AMS Colloquium Lecturer 1972
+BMC plenary speaker 1969,  1982
+Speaker at International Congress 1986
+MAA Chauvenet Prize winner 1988
+SIAM John von Neumann Lecture 1989
+LMS Honorary Member 1998
+Wolf Prize 2006/7
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Mathematical Society of Japan
+Other: Colloquium photo 1988
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update April 1998
+  
+
+

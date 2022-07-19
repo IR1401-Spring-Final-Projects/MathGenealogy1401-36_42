@@ -1,0 +1,114 @@
+
+
+
+Karl Heinrich Gräffe
+
+
+
+
+
+Quick Info
+Born
+
+      7 November 1799
+      
+
+        Brunswick, Germany
+        
+
+Died
+
+      2 December 1873
+      
+      Zürich, Switzerland
+    
+
+Summary
+Karl Gräffe was a German mathematician best remembered for his method of numerical solution of algebraic equations.
+
+
+
+
+
+Biography
+Karl Gräffe's father was Dietrich Heinrich Gräffe, a highly-skilled jeweller originally from Bremen, and his mother was Johanna Frederike Gräffe-Moritz. The family lived in Brunswick, perhaps better known by its German name of Braunschweig. He grew up in a period of great change, with the end of the Holy Roman Empire, the conquests by Napoleon and major political changes. His parents were of modest means, and could not provide much of an education for their son, but they was always intended that Karl would follow in his father's footsteps and become a jeweller. When he was thirteen years old, the young boy was sent to be trained with a goldsmith in Hanover. He spent the three years from 1813 to 1816 as an apprentice to this goldsmith, learning the skills of the trade. Before returning to his home, however, he decided to make a trip visiting several cities so that he might gain further experience. He was not far into this trip when he reached Leipzig and, while in that city, took ill. He cut short his trip at that point and returned to his hometown of Brunswick. He now decided that he did not want to spend his life using the skills he had acquired but he was desperate to continue his education. However, at this point his father made a decision which meant that Karl's bid for education became much more difficult. Dietrich Gräffe emigrated to America, leaving Karl to run the family jewellery business. Karl was left with no choice since he had to bring in money to feed the impoverished family consisting of his mother and siblings.
+
+
+However he was determined to find a way into education so, while working all day as a jeweller to bring in enough money for the family to live on, he spent his evenings reading and studying. Mathematics was his favourite subject and he was fortunate to have Friedrich Wilhelm Spehr as a friend. Spehr, who was the same age as Gräffe and was also born in Brunswick, had suffered similar problems in having a father who was determined that his son should follow a trade rather than obtain an education. After an attempt to run away to America which failed, Spehr began studying mathematics at the Collegium Carolineum at Brunswick in 1816. This is the oldest technical university in Germany, founded in 1745, and today is the Technical University of Brunswick). In 1819 he went to Göttingen to attend lectures from Bernhard Thibaut, C F Gauss and other leading mathematicians. Not only did Spehr's mathematical achievements give great encouragement to Gräffe but Spehr was also able to tutor his friend while he studied in the evenings. After a lot of hard work, Gräffe managed to pass the entrance examinations of the Collegium Carolineum. Of course he needed funding to enable him to study at the College and his performance was good enough to see him awarded a scholarship which gave him a free place. Entering the Collegium Carolineum on 1 May 1821, he was now in a position to profit from a quality education, and now there was no way that he was going to fail and go back to being a goldsmith. He set his sights high, was highly thought of by his teachers, and graduated with distinction in 1824.
+
+
+At the Collegium Carolineum he had been taught by Ludwig Hellwig who thought highly of his pupil. Hellwig wrote:-
+Only at a mature age did Mr Graffe begin to study mathematics, taking advantage of the local Collegium Carolinum, where he attended my classes. I had high hopes for him which, to my delight, he soon fulfilled. He has to thank his great eminent natural talents, and his zeal and diligence, for the fact that he was very fast when taking my lessons, made great progress, and could study major works of Euler and other mathematicians without my help.
+In 1824 Gräffe went to Göttingen where, like his friend Friedrich Wilhelm Spehr, he attended lectures by C F Gauss and Bernhard Thibaut. While in Göttingen, Gräffe wrote a prize winning dissertation Die Geschichte der Variationsrechnung vom Ursprung der Differential und Integralrechnung bis auf die heutige Zeit zu schreiben Ⓣ(The history of the calculus of variations from the origin of differential and integral calculus to the present time)  which he submitted to the Faculty of Philosophy on 4 June 1825. He was awarded his doctorate on 9 September 1825 and he then returned to Brunswick where he spent the following two years. He became a lecturer at the newly established Technical Institute in Zürich in 1828, after receiving strong references from Bernhard Thibaut. At the Institute he first taught pure mathematics and mechanics but later he also taught practical geometric methods and physics. He taught many students, bringing them to a high level of achievement with some excellent teaching. He became a professor at the Oberen Industrieschule in 1833. That was the year in which the University of Zürich was founded by J K Orelli, and Laurenz Oken became its first rector. Gräffe taught at the University of Zürich as a privatdozent from 1833, becoming an extraordinary professor at the university in 1860.
+
+
+Gräffe is best remembered for his "root-squaring" method of numerical solution of algebraic equations, developed to answer a prize question posed by the Berlin Academy of Sciences. This was not his first numerical work on equations for he had published Beweis eines Satzes aus der Theorie der numerischen Gleichungen Ⓣ(Proof of a theorem from the theory of numerical equations) in Crelle's Journal in 1833. This 1833 paper deals with symmetric functions, and proves a convergence theorem, but does not describe the root-squaring method. The essay he submitted for the prize, containing his "root-squaring" method, was entitled Die auflösung der höheren numerischen gleichungen Ⓣ(The resolution of the higher numerical equations) (1837). He apologises in the Preface of that the work for rushing into print:-
+In most cases, writings such as this that are intended to be submitted for a prize are not first exposed to the public, not published before their fate is decided. Here, however, the prize decision would not have been made until the year 1838 and, on the other hand, the author flatters himself that his method for calculating the roots of numerical equations deserves to be considered even if other methods should lead more quickly to the result. He believes this is a sufficient apology for putting forward a premature announcement of his work.
+The Preface continues, explaining that he also presents previous attempts by other authors at giving methods to calculate the imaginary roots of an equation. He explains, however, that he had the opportunity to delve more deeply into the problem, following a hint by Fourier as to what might be possible. He again apologises for the rush job, saying that the work should have been much more carefully edited, but promising to produce a better fuller version should the work be found to merit it. The Preface is dated October 1836. He then begins his essay with the following sentences:-
+Algebraic equations are very often the subject of mathematical research, partly because of the remarkable relationships they offer and partly because of their versatile use. Perhaps it is also the fact that for the general solution of equations that exceed the 4th  degree, insuperable obstacles seem to stand in the way, which gives a peculiar charm to these investigations, which almost every mathematician is trying to use his powers to consider.
+His method is based on the following idea. Suppose f(x)=0f (x) = 0f(x)=0 has roots a1,a2,...,ana_{1}, a_{2}, ..., a_{n}a1​,a2​,...,an​ so that f(x)=(x−a1)(x−a2)...(x−an)f (x) = (x - a_{1})(x - a_{2}) ... (x - a_{n})f(x)=(x−a1​)(x−a2​)...(x−an​). Then f(−x)=(−1)n(x+a1)(x+a2)...(x+an)f (-x) = (-1)^{n}(x + a_{1})(x + a_{2}) ... (x + a_{n})f(−x)=(−1)n(x+a1​)(x+a2​)...(x+an​) so (−1)nf(x)f(−x)=g(y)(-1)^{n}f (x)f (-x) = g(y)(−1)nf(x)f(−x)=g(y), where y=x2y = x^{2}y=x2, will have roots which are the squares of a1,a2,...,ana_{1}, a_{2},  ... , a_{n}a1​,a2​,...,an​. The process can be applied recursively obtaining equations whose roots are the fourth powers of the original roots, then the eighth powers etc. Florian Cajori writes [3]:-
+By the process of involution to higher and higher powers, the smaller roots are caused to vanish in comparison with the larger. The law by which the new equations are constructed is exceedingly simple. If, for example, the coefficient of the fourth term of the given equation is c3c_{3}c3​, then the corresponding coefficient of the first transformed equation is c32−2c2c4+2c1c5−2c6c_{3}^{2} - 2c_{2}c_{4} + 2c_{1}c_{5} - 2c_{6}c32​−2c2​c4​+2c1​c5​−2c6​. In the computation of the new coefficients, Gräffe uses logarithms. By this remarkable method all the roots, both real and imaginary, are found simultaneously, without the necessity of determining beforehand the number of real roots and the location of each root.
+Things did not go well for Gräffe, however, with his submission for the prize. The conditions for the prize had stipulated that printed papers were excluded from consideration, something which he had overlooked. The astronomer Johann Franz Encke was the secretary of the Berlin Academy of Science, and he tried to arrange a special route through which Gräffe could submit his work. Gräffe improved his method and, following Encke's advice, submitted it anonymously. The committee praised the anonymous submission, saying that the paper as presented gave a sharper method than that in Gräffe's published paper:-
+... justifying Gräffe's principle and perfecting his method for finding the imaginary roots of an equation.
+They could not give the prize to an anonymous author, so the committee decided to put forward the same prize question for entries to be submitted in 1839. This should have been the perfect way to enable Gräffe to make a prize-winning submission but, sadly, his health did not allow him to put in the necessary hard work and he chose not to attempt a submission for the 1839 prize. Several others then had the chance to take what Gräffe had presented and perfect it further. It is interesting that one of the people to produce such an improved version was Johann Franz Encke himself.
+
+
+As presented by Gräffe, the method is only applicable to the case where all the roots of the original equation are distinct but later improvements did away with this condition. It is particularly suitable for methods developed for using computers to solve mathematical problems. This method is today called the Dandelin-Gräffe method after the two mathematicians who independently investigated it. Germinal Dandelin, in fact, gave a similar method in 1826, eleven years before Gräffe, but it is quite clear that Gräffe's work was done independently. The history of the Dandelin-Gräffe method is discussed in [3], [6] and [7]. It is quite hard to see the benefits of Gräffe's approach over that of Dandelin but, it is clear that the "root-squaring" method is the primary objective of Gräffe's paper while it is rather more of an afterthought in Dandelin's work where his primary objective is to present Newton's method for approximating roots, and presents the root squaring as an add-on to speed the method up. The only idea in Gräffe's paper which is not in Dandelin's work is explained by Alston Householder [6]:-
+[Gräffe] thought of separating the even and odd powers. A simple notion, but effective and it is just what everyone does today.
+Lobachevsky is also credited with the independent discovery of the "root-squaring" method which appears in his little-known book on algebra published in 1834. This means that his book appeared between the publication of the works of Dandelin and Gräffe on the topic. Lobachevsky, however, only seems to be thinking of the "root squaring" method as a way to calculate the largest root, not as a method for calculating all the roots of an equation.
+
+
+The fact that he lost out because of errors in the way he submitted his solution for the prize was a major disappointment to Gräffe. It was not the only disappointment in his career, however, for he had suffered another just before submitting his work for the prize. In 1836 the University of Zürich appointed a professor of mathematics but the chair had not been given to Gräffe but rather to Anton Müller, a somewhat undistinguished mathematician. Not only was Gräffe passed over, but so was his fellow docent, the talented Joseph Raabe. In the autumn of 1868 Gräffe retired from teaching at the Industrieschule and lived out the final years of his life alone; these years were often clouded by physical suffering.
+
+
+
+
+
+Other Mathematicians born in Germany
+
+
+
+
+
+References (show)
+
+
+
+
+
+J J Burckhardt, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+R Wolf, Carl Heinrich Gräffe : Ein Lebensbild (Zurich, 1874).
+F Cajori, The Dandelin-Gräffe method, in A history of Mathematics (New York, 1938), 364.
+M Cantor, Karl Heinrich Gräffe, Allgemeine Deutsche Biographie 9 (Duncker & Humblot, Leipzig, 1879), 572-574.
+G Frei, Geschichte der Mathematik an der Universität Zürich und an ihren Vorläuferinstitutionen von ihren Anfängen bis 1914, Jahrbuch Überblicke Mathematik, 1994 (Vieweg, Braunschweig, 1994), 217-244.
+A S Householder, Dandelin, Lobachevskii, or Gräffe?, Amer. Math. Monthly 66 (1959), 464-466.
+C Runge, The Dandelin-Gräffe method, in Praxis der Gleichungen (Berlin-Leipzig, 1921), 136-158.
+R Wolf, Carl Heinrich Gräffe : Ein Lebensbild, Neue Züricherzeitung 30 31 (1874).
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Karl Gräffe:
+
+Dictionary of Scientific Biography
+MathWorld (The Dandelin-Gräffe method)
+zbMATH entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 2012
+  
+
+

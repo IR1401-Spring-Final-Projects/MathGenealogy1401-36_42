@@ -1,0 +1,156 @@
+
+
+
+al-Marrakushi ibn Al-Banna
+
+
+
+
+
+Quick Info
+Born
+
+      29 December 1256
+      
+
+        Marrakesh, Morocco
+        
+
+Died
+
+      13 July 1321
+      
+      Marrakesh, Morocco
+    
+
+Summary
+Ibn al-Banna was an Islamic mathematician who wrote a large number of works including an introduction to Euclid's Elements, an algebra text and various works on astronomy.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Ibn al-Banna is also known as Abu'l-Abbas Ahmad ibn Muhammad ibn Uthman al-Azdi. It is a little unclear whether al-Banna was born in the city of Marrakesh or whether it was the region of Marrakesh which was named Morocco by Europeans. There is a claim that al-Banna was born in Granada in Spain and moved to North Africa for his education. What is certain is that he spent most of his life in Morocco.
+
+
+The Marinids tribe were allies of the Umayyad caliphs of Córdoba. The tribe lived in eastern Morocco then, under their ruler Abu Yahya, they began to conquer the region. The Marinids captured Fez in 1248 and made it their capital. They captured Marrakesh from the ruling Almohads tribe in 1269, thus taking control of the whole of Morocco. Having conquered Morocco, the Marinids tried to help Granada to prevent the Christian advance through their country. The strong link between Granada and Morocco may account for the confusion as to which country al-Banna was a native.
+
+
+Morocco was certainly the country that al-Banna was educated in, learning the leading mathematical skills of the period. He studied geometry in general, and Euclid's Elements in particular. He also studied fractional numbers and learnt much of the impressive contributions that the Arabs had made to mathematics over the preceding 400 years. The Marinids had a strong culture for learning and Fez became their centre of learning. At the university in Fez Al-Banna taught all branches of mathematics, which at this time included arithmetic, algebra, geometry and astronomy. Fez was a thriving city with a new quarter being built housing the Royal Palace and the adjoining Great Mosque. Many students studied under al-Banna in this thriving academic community.
+
+
+It is clear that al-Banna wrote a large number of works, in fact 82 are listed by Renaud (see for example [9]). Not all are on mathematics, but the mathematical texts included an introduction to Euclid's Elements, an algebra text and various works on astronomy. One difficulty with the works on mathematics is knowing how much of the material which al-Banna presents is original and how much is simply his version of work by earlier Arab mathematicians which has been lost. We should certainly say that al-Banna does not claim any originality and, indeed, the style of his writing would suggest that he is collecting together ideas that he has learnt from other mathematicians.
+
+
+Two "firsts" for al-Banna are that he seems to have been the first to consider a fraction as a ratio between two numbers (see [12] for more details) and he is the first to use the expression almanakc (in Arabic al-manakh meaning weather) in a work containing astronomical and meteorological data.
+
+
+Perhaps al-Banna's most famous work is Talkhis amal al-hisab (Summary of arithmetical operations) and the Raf al-Hijab which is al-Banna's own commentary on the Talkhis amal al-hisab. It is in this work that al-Banna introduces some mathematical notation which has led certain authors to believe that algebraic symbolism was first developed in Islam by ibn al-Banna and al-Qalasadi (see for example [6]). We refer the reader to the biography of al-Qalasadi where we present arguments to show that neither al-Banna nor al-Qalasadi were the inventors of mathematical notation.
+
+
+There are, however, many interesting mathematical ideas and results which appear in the Raf al-Hijab. For example it contains continued fractions and they are used to compute approximate square roots. Other interesting results on summing series are the results
+13+33+53+...+(2n−1)3=n2(2n2−1)1^{3} + 3^{3} + 5^{3} + ... + (2n-1)^{3} = n^{2}(2n^{2} - 1)13+33+53+...+(2n−1)3=n2(2n2−1) and
+
+
+12+32+52+...+(2n−1)2=16(2n+1)2n(2n−1)1^{2} + 3^{2} + 5^{2} + ... + (2n-1)^{2} = \large\frac{1}{6}\normalsize (2n + 1)2n(2n - 1)12+32+52+...+(2n−1)2=61​(2n+1)2n(2n−1).
+Perhaps the most interesting of all is the work on binomial coefficients which is described in detail in [2] and [3]. If we denote the binomial coefficient ppp choose kkk by pCk_{p}C_{k}p​Ck​ then al-Banna shows that 
+pC2=12p(p−1)_{p}C_{2} =  \large\frac{1}{2}\normalsize p(p-1)p​C2​=21​p(p−1)
+and then that 
+pC3=13pC2(p−2)_{p}C_{3} =  \large\frac{1}{3}\normalsize _{p}C_{2}(p-2)p​C3​=31​p​C2​(p−2).
+He writes (see for example [2] or [3]):-
+... the ternary combination is thus obtained by multiplying the third of the third term preceding the given number; and so we always multiply the combination that precedes the combination sought by the number that precedes the given number, and whose distance to it is equal to the number of combinations sought. From the product, we take the part that names the number of combinations.
+Although this is a little difficult to interpret, what al-Banna is stating here is that 
+pCk=pCk−11k(p−(k−1))_{p}C_{k} =  _{p}C_{k-1}\large\frac{1}{k}\normalsize (p - (k - 1) )p​Ck​=p​Ck−1​k1​(p−(k−1)).
+He then goes on to give the familiar (to us) result
+pCk=1k!p(p−1)(p−2)...(p−k+1)_{p}C_{k} = \large\frac{1}{k!}\normalsize  p(p - 1)(p - 2)...(p - k + 1)p​Ck​=k!1​p(p−1)(p−2)...(p−k+1)
+As Rashed points out in [2], this is only a small step from the Pascal triangle results given three hundred years earlier by al-Karaji, then still one hundred years before al-Banna by al-Samawal. However Rashed writes:-
+... in our opinion, there is something more fundamental than [the Pascal triangle] results; it is precisely the combinatorial appearance of ibn al-Banna's exposition, together with the relation he partially establishes between polygonal numbers and combinations. It concern, in the first place, triangular numbers and combinations of ppp objects in twos, and then polygonal numbers of order 4 and combinations of ppp objects in threes.
+
+
+
+
+
+
+Other Mathematicians born in Morocco
+
+A Poster of Ibn al-Banna
+
+
+
+
+
+References (show)
+
+
+
+
+
+J Vernet, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+R Rashed, The development of Arabic mathematics : between arithmetic and algebra (London, 1994).
+R Rashed, Entre arithmétique et algèbre: Recherches sur l'histoire des mathématiques arabes (Paris, 1984).
+M Aballagh, Les fondements des mathématiques à travers le 'Raf al-Hijab' d'Ibn al-Banna (1256-1321), in Histoire des mathématiques arabes, Algiers, 1986 (Algiers, 1988), 133-156.
+M Aballagh, Les fractions entre la théorie et la pratique chez Ibn al-Banna al-Murrakusi (1256-1321), in Histoire de fractions, fractions d'histoire (Basel, 1992), 247-258; 405-406; 411.
+G Arrighi, Review of some mathematical symbols (Italian), Physis - Riv. Internaz. Storia Sci. 27 (1-2) (1985), 163-179.
+A Djebbar, Enseignement et recherche mathématiques dans le Maghreb des XIIIe-XIVe siècles : étude partielle (Orsay, 1981).
+R Rashed, Materials for the study of the history of amicable numbers and combinatorial analysis (Arabic), J. Hist. Arabic Sci. 6 (1-2) (1982), 278-209.
+H P J Renaud, Ibn al-Banna de Marrakech, sufi et mathématicien, Hesperis 25 (1938), 13-42.
+H P J Renaud, Sur les dates de la vie du mathématicien arabe marocain Ibn al-Banna, Isis 27 (1937), 216-218.
+J Samsó and E Millás, The computation of planetary longitudes in the zij of Ibn al-Banna, Arabic Sci. Philos. 8 (2) (1998), 165; 167; 259-286.
+M Zarruqi, Fractions in the Morroccan mathematical tradition between the 12th and 15th centuries A.D. as found in anonymous manuscripts (Arabic), in Deuxième Colloque Maghrebin sur l'Histoire des Mathématiques Arabes (Tunis, 1990), A97-A109.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Ibn al-Banna:
+
+See Ibn al-Banna on a timeline
+
+
+
+Other websites about Ibn al-Banna:
+
+Filaha texts
+Dictionary of Scientific Biography
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: The Arabic numeral system
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

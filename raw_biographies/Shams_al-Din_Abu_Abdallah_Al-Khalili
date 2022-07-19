@@ -1,0 +1,103 @@
+
+
+
+Shams al-Din Abu Abdallah Al-Khalili
+
+
+
+
+
+Quick Info
+Born
+
+      about 1320
+      
+
+        possibly Damascus, Syria
+        
+
+Died
+
+      about 1380
+      
+      possibly Damascus, Syria
+    
+
+Summary
+Al-Khalili was an Islamic astronomer who compiled extensive tables for astronomical use.
+
+
+
+
+
+Biography
+Al-Khalili's full name is Shams al-din Abu Abdallah Muhammad ibn Muhammad al-Khalili. As can be seen from the list of references, much of the study of the work of al-Khalili has been done by David A King, who also wrote the article in [1]. Note that the articles [3], [4] and [5] are reprinted in [2]. King writes:-
+Al-Khalili was an astronomer associated with the Umayyad Mosque in Damascus in the latter half of the fourteenth century, who compiled an extensive corpus of tables for timekeeping by the sun and regulating the astronomically defined time of Muslim prayer ...
+Of course, giving tables for timekeeping using astronomical events, requires a thorough understanding of geometry on the sphere and the work by al-Khalili can be seen as the end-product of the work of the Arabs on this mathematical topic. Of course, it is interesting to realise that Muslim mathematicians had to solve this type of problem for religious reasons, and the religious requirements made them delve much more deeply into this area of mathematics than was necessary to solve the much less critical problems of the agricultural calendar.
+
+
+The tables, which were not really studied by historians of mathematics until King worked on them in the 1970s, were used for many centuries in Damascus, Cairo and Istanbul. They consist of [1]:-
+... tables for reckoning time by the sun, for the latitude of Damascus; tables for regulating the time of Muslim prayer, for the latitude of Damascus; tables of auxiliary mathematical functions for timekeeping by the sun for all latitudes; tables of auxiliary mathematical functions for solving the problems of spherical astronomy for all latitudes; a table for displaying ... the direction of Mecca, as a function of terrestrial latitude and longitude; and tables for converting lunar ecliptic coordinates to equatorial coordinates.
+Of course, al-Khalili did not do all this work without basing some of it on the work of earlier mathematicians, to see the magnitude of his task note that one table alone contains over 13000 entries. Tables for reckoning time by the sun and tables for regulating the time of Muslim prayer, computed for the latitude of Cairo, had been earlier computed by ibn Yunus. The astronomer al-Mizzi spent his early life in Egypt, then moved to Damascus where he converted ibn Yunus's table for use there. Al-Mizzi died around 1350 and the first two of al-Khalili's tables were improved versions of the ones produced by al-Mizzi, where al-Khalili had taken more accurate values for the terrestrial coordinates of Damascus.
+
+
+Al-Khalili's tables for solving the problems of spherical astronomy can be seen to be tables which solve spherical triangles using a method similar to the modern cosine rule. The tables are remarkable for their accuracy and Van Brummelen in [6] uses:-
+.... computer-based tests to determine, if possible, the methods of computation used by al-Khalili in the construction of his auxiliary tables.
+This paper suggests a possible interpolation scheme used by al-Khalili and shows up a deep understanding that al-Khalili must have had regarding errors in his calculations which show [6]:-
+... a curious lack of concern for accuracy at an early stage of the calculation, followed by a careful computation at a later stage where the calculation is sensitive to error.
+The calculation of the direction of Mecca, as a function of terrestrial latitude and longitude, was one of the hardest of all problems of spherical trigonometry for which Islam required a solution. There is a puzzle which has not yet been explained. The tables produced by al-Khalili for the direction of Mecca must have been calculated using his own auxiliary tables (which would be the most accurate available). However, the tables giving the direction of Mecca are remarkable for their accuracy having errors of around 0.1°. This is a greater degree of accuracy than would result if al-Khalili used his auxiliary tables in their present form. One possible solution is that al-Khalili had computed more accurate auxiliary tables before calculating his tables for the direction of Mecca but these are now lost.
+
+
+
+
+
+Other Mathematicians born in Syria
+
+
+
+
+
+References (show)
+
+
+
+
+
+D A King, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+D A King, Islamic mathematical astronomy (London, 1986).
+D A King, Al-Khalili's auxiliary tables for solving problems of spherical astronomy, J. Hist. Astronom. 4 (2) (1973), 99-110.
+D A King, Al-Khalili's qibla table, J. Near-Eastern Stud. 34 (2) (1975), 81-122.
+D A King, The astronomy of the Mamluks, Isis 74 (274) (1983), 531-555.
+G Van Brummelen, The numerical structure of al-Khalili's auxiliary tables, Physis Riv. Internaz. Storia Sci. (N.S.) 28 (3) (1991), 667-697.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Al-Khalili:
+
+See Al-Khalili on a timeline
+
+
+
+Other websites about Al-Khalili:
+
+Dictionary of Scientific Biography
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

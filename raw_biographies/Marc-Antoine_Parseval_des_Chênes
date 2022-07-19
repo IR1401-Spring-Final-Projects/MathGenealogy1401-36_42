@@ -1,0 +1,114 @@
+
+
+
+Marc-Antoine Parseval des Chênes
+
+
+
+
+
+Quick Info
+Born
+
+      27 April 1755
+      
+
+        Rosières-aux-Salines, France
+        
+
+Died
+
+      16 August 1836
+      
+      Paris, France
+    
+
+Summary
+Antoine Parseval was a French mathematician best known for his theorem in Fourier analysis.
+
+
+
+
+
+Biography
+Very little is known of Antoine Parseval's life. We know that he was born into a family of high standing in France and he describes himself as a squire, certainly suggesting that his family were wealthy land-owners. One of the few pieces of information which exists is that he married Ursule Guerillot in 1795. The marriage certainly did not last long and the pair were soon divorced.
+
+
+The starting point of the historical events which were to play a major role in Parseval' life was the storming of the Bastille on 14 July 1789. From this point the monarchy of Louis 16th  was in major difficulties as the majority of Frenchmen put aside their differences and united behind an attempt to destroy the privileged establishment of the church and the state. Parseval, perhaps not surprisingly since he was of noble birth, was a royalist so for him the increasing problems for the monarchy meant that his life was more and more in danger.
+
+
+In 1792 Louis 16th  gave up attempts at a compromise with opponents of the monarchy and tried to flee from France. He did not make it but was arrested and brought back to Paris. It was a time of great danger for royalist supporters and indeed it proved so for Parseval who was imprisoned in 1792.
+
+
+Following the execution of the King on 21 January 1793 there followed a reign of terror with many political trials. By the end of 1793 there were 4595 political prisoners held in Paris. However France began to have better times as their armies, under the command of Napoleon Bonaparte, won victory after victory. This may have been good news for France in general but royalists like Parseval, despite being freed from prison, remained in fear of their lives.
+
+
+Napoleon became first Consul in 1800 and then Emperor in 1804. Parseval should have kept his head down if he wanted at avoid trouble but it was a time when it was almost impossible not to get drawn into the political events. Parseval published poetry against Napoleon's regime and, not surprisingly, had to flee from France when Napoleon ordered his arrest. He was successful in avoiding arrest and was able to return to Paris.
+
+
+Parseval had only five publications, all presented to the Académie des Sciences. The first was Mémoire sur la résolution des équations aux différences partielle linéaires du second ordre Ⓣ(Memoir on the resolution of linear partial differential equations of the second order) dated 5 May 1798, the second was Mémoire sur les séries et sur l'intégration complète d'une équation aux differences partielle linéaires du second ordre, à coefficiens constans Ⓣ(Memoir on the series and the complete integration of a linear partial differential equation of the second order with constant coefficients) dated 5 April 1799, the third was Ingégration générale et complète des équations de la propogation du son, l'air étant considéré avec les trois dimensions Ⓣ(General Ingégration and complete equations of the propogation of sound, air being considered with three dimensions) dated 5 July 1801, the fourth was Ingégration générale et complète de deux équations importantes dans la mécanique des fluides Ⓣ(General and complete Ingégration two important equations in fluid mechanics) dated 16 August 1803, and finally Méthode générale pour sommer, par le moyen des intégrales définies, la suite donnée par le théorème de M Lagrange, au moyen de laquelle il trouve une valeur qui satisfait à une équation algébrique ou transcendente Ⓣ(General method for summing by means of definite integrals, the series given by Lagrange's theorem, by means of which one finds a value that satisfies an algebraic or transcendental  equation) dated 7 May 1804.
+
+
+It was the second of these, dated 5 April 1799, which contains the result known today as Parseval's theorem. Today this theorem is seen in the context of Fourier series, and often also in more abstract settings which are quite far removed from Parseval's original ideas. The original theorem was concerned with summing infinite series. Parseval thought the result was obvious and only remarked that it followed by using de Moivre's result for (cos⁡x+isin⁡x)n(\cos x + i \sin x)^{n}(cosx+isinx)n. It also only worked, he noted, when certain imaginary parts of two complex numbers cancelled out. This he reasonably suggested was unfortunate and he hoped to remove this problem later. Indeed he did remove the problem and added a note to this effect in his 1801 publication. The improved version, as given in 1801, states that if two series
+M=∑anxnM = \sum  a_{n}x^{n}M=∑an​xn and m=∑bnxnm = \sum  b_{n}x^{n}m=∑bn​xn
+are given then, substituting x=cos⁡u+isin⁡ux = \cos u + i \sin ux=cosu+isinu, and separating the answers into real and imaginary parts
+M=p+iq,m=r+isM = p+iq, m = r+isM=p+iq,m=r+is,
+then 
+2a1b1+a2b2+a3b3+a4b4+...=2π∫0πpr du2a_1 b_1 + a_2 b_2 + a_3 b_3 + a_4 b_4 + ... = \large\frac 2 {\pi}  \int_0^{\pi}\normalsize pr\ du2a1​b1​+a2​b2​+a3​b3​+a4​b4​+...=π2​∫0π​pr du
+Of course we have modernised the notation, for example subscript notation was not used in Parseval's time, and we have also corrected his theorem for he omitted the first 2 on the left hand side. The error may well have been a typographical error in printing the article.
+
+
+Parseval's result was not widely known until his five papers were all published by the Académie des Sciences in 1806. Before that it was known by members of the Académie and it appeared in works by Lacroix and Poisson before Parseval's papers were printed.
+
+
+Parseval was never honoured with election to the Académie des Sciences. He was proposed on five separate occasions, namely in 1796, 1799, 1802, 1813 and 1828. He was never particularly close although he did come third in 1799, the year that Lacroix was elected. It would not be unfair to say that Parseval has fared well in having a well known result, which is quite far removed from his contribution, named after him. However he remains a somewhat shadowy figure and it is hoped that research will one day provide a better understanding of his life and achievements.
+
+
+
+
+
+
+
+Other Mathematicians born in France
+
+
+
+
+
+References (show)
+
+
+
+
+
+H C Kennedy, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+N Nielsen, Géomètres français sous la Révolution (Paris, 1937).
+I Grattan-Guinness, Joseph Fourier, 1768-1830 (Cambridge, Mass., 1972).
+Généalogies et souvenirs de famille , les Parseval et leur alliances pendant trois siècles, 1594- 1900 I (Bergerac, 1901), 281-282.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Antoine Parseval:
+
+Dictionary of Scientific Biography
+Parseval family (in French)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update March 2001
+  
+
+

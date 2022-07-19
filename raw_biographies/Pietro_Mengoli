@@ -1,0 +1,169 @@
+
+
+
+Pietro Mengoli
+
+
+
+
+
+Quick Info
+Born
+
+      1626
+      
+
+        Bologna, Papal States (now Italy)
+        
+
+Died
+
+      1686
+      
+      Bologna, Papal States (now Italy)
+    
+
+Summary
+Pietro Mengoli was an Italian mathematician who worked on infinite series and limits of geometric figures.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Pietro Mengoli was taught mathematics by Cavalieri at the University of Bologna before he himself taught at Bologna from 1648. While he taught he studied for a doctorate in philosophy which was awarded by the University of Bologna in 1650. Continuing to study while he held chairs of mathematics, three years later he obtained a second doctorate in civil and canon law from Bologna. He was also ordained into the priesthood.
+
+
+After Cavalieri died in November 1647, Mengoli had been appointed to his chair at the University of Bologna. Mengoli held a number of chairs at the University of Bologna where he taught all his life. He was professor of arithmetic from 1648 to 1649, then professor of mechanics from 1649 to 1668 and, finally, professor of mathematics from 1668 until his death in 1686. In addition to these chairs he was also a priest in the parish of Santa Maria Maddelena in Bologna from 1660.
+
+
+His role in the development of mathematics is described in [1]:-
+Mengoli's mathematics was superficially conservative. He did not subscribe to the innovations of Torricelli, and his own discoveries were set out in abstruse Latin that made his works laborious to read. His books were nevertheless widely distributed in the seventeenth century, and were known to Collins, Wallis, and Leibniz; they were then almost forgotten, so that Mengoli's work has been studied again only recently. His significance to the history of science lies in the transitional position of his mathematics, midway between Cavalieri's method of indivisibles and Newton's fluxions and Leibniz's differentials.
+Mengoli used infinite series to good effect in Novae quadraturae arithmeticae, seu de additione fractionum Ⓣ(New arithmetic of areas, and the addition of fractions) published in Bologna in 1650, developing ideas which had first been investigated by Cataldi. He begins with the summation of geometric series, then shows that the harmonic series does not converge. In doing so he became the first person to prove that it was possible for a series whose terms tend to zero to be made larger than any given number. He also investigated the harmonic series with alternating signs which he proved converges to log(2). This series was also investigated by Nicolaus Mercator.
+
+
+Other interesting results about series in Novae quadraturae arithmeticae Ⓣ(New arithmetic of areas, and the addition of fractions) include a study of the sum of reciprocals of the triangular numbers 12n(n+1){1\over2}n(n+1)21​n(n+1). Mengoli showed that
+13+16+110+115+...+112n(n+1)=n−1n+1\large\frac{1}{3}\normalsize  + \large\frac{1}{6}\normalsize  + \large\frac{1}{10}\normalsize  + \large\frac{1}{15}\normalsize  + ... + \large\frac{1}{{1\over2}n(n+1)}\normalsize  = \large\frac{n-1}{n+1}\normalsize31​+61​+101​+151​+...+21​n(n+1)1​=n+1n−1​.
+He then argued that the difference 1−n−1n+11 - \large\frac{n-1}{n+1}\normalsize1−n+1n−1​ could be made smaller than any given positive number by taking nnn large enough so the sum of the series was 1. He then showed that 
+11+r+12(2+r)+13(3+r)+...=1r(1+12+13+...+1r)\large\frac{1}{1+r}\normalsize  + \large\frac{1}{2(2+r)}\normalsize  + \large\frac{1}{3(3+r)}\normalsize  + ... = \large\frac{1}{r}\normalsize (1 + \large\frac{1}{2}\normalsize + \large\frac{1}{3}\normalsize + ... + \large\frac{1}{r}\normalsize )1+r1​+2(2+r)1​+3(3+r)1​+...=r1​(1+21​+31​+...+r1​)
+Hence for r=1,2,3,...,10r = 1, 2, 3, ... , 10r=1,2,3,...,10 Mengoli showed that the series whose nnnth term is 1n(n+r)\large\frac{1}{n(n+r)}\normalsizen(n+r)1​ converges having sum SSS where
+r=1,S=1r = 1, S = 1r=1,S=1
+
+r=2,S=34r = 2, S = \large\frac{3}{4}\normalsizer=2,S=43​
+
+r=3,S=1118r = 3, S = \large\frac{11}{18}\normalsizer=3,S=1811​
+
+r=4,S=2548r = 4, S = \large\frac{25}{48}\normalsizer=4,S=4825​
+
+r=5,S=137300r = 5, S = \large\frac{137}{300}\normalsizer=5,S=300137​
+
+r=6,S=49120r = 6, S = \large\frac{49}{120}\normalsizer=6,S=12049​
+
+r=7,S=363980r = 7, S = \large\frac{363}{980}\normalsizer=7,S=980363​
+
+r=8,S=7612240r = 8, S = \large\frac{761}{2240}\normalsizer=8,S=2240761​
+
+r=9,S=712922680r = 9, S = \large\frac{7129}{22680}\normalsizer=9,S=226807129​
+
+r=10,S=738125200r = 10, S = \large\frac{7381}{25200}\normalsizer=10,S=252007381​
+He also showed that the series whose nnnth term was 1n(n+1)(n+2)\large\frac{1}{n(n+1)(n+2)}\normalsizen(n+1)(n+2)1​ converges with sum 14\large\frac{1}{4}\normalsize41​. However, perhaps not surprisingly, he failed to be able to sum the series whose nnnth term is 1n2\large\frac{1}{n^{2}\normalsize}n21​.
+
+
+Mengoli also wrote Geometriae speciosae elementa Ⓣ(Special elements of geometry) (1659) on limits of geometrical figures. This work, which is examined in detail in [10], is particularly interesting for it contains a definition of a definite integral in terms of the area of a plane figure rigorously given by constructing circumscribing and inscribing parallelograms which sum to equal limits. He defines limits of positive variable quantities using ideas that he had used in looking at limits of series. He called a positive variable quantity quasi-infinite if it could be made larger than any given number, quasi-nil if it could be made smaller than any given positive number, and quasi-a if it could be made smaller than any number greater than aaa and greater than any number less than aaa. By examining the limits of sums, products and quotients of variable quantities, Mengoli was setting up the basic rules if the calculus thirty years before Newton and Leibniz. Both of these were influenced by his contribution, in the case of Leibniz the influence was direct as he read Mengoli's work while in the case of Newton he knew of it indirectly through studying Wallis.
+
+
+In Circolo (1672) Mengoli found an infinite product expansion for 12π\large\frac{1}{2}\normalsize \pi21​π. He also computed the definite integral ∫01xm/2(1−x)n/2dx\int_0^1  x^{m/2}(1 - x)^{n/2} dx∫01​xm/2(1−x)n/2dx.
+
+
+Other work by Mengoli included work on astronomy, work on refraction in the atmosphere and a book Speculazioni musicali (1670) on the theory of music. In this Mengoli's criticises of the theory of resonance set out by Galileo. For details of this work see [9] where the author describes the "amazing" assumption that the human ear has two drums and places this idea in the context of Mengoli's natural philosophy.
+
+
+The paper [11] examines correspondence by Mengoli in which he discusses problems due to Ozanam. This gives new insight into Mengoli's mathematics. The authors:-
+... analyse a little-known aspect of Pietro Mengoli's mathematical activity: the difficulties he faced in trying to solve some problems in Diophantine analysis suggested by J Ozanam. Mengoli's recently published correspondence reveals how he cherished his prestige as a scholar. At the same time, however, it also shows that his insufficient familiarity with algebraic methods prevented him, as well as other Italian mathematicians of his time, from solving the so-called 'French' problems.
+
+
+
+
+
+Other Mathematicians born in Italy
+
+A Poster of Pietro Mengoli
+
+
+
+
+
+References (show)
+
+
+
+
+
+A Natucci, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+A Agostini, L'opera matematica di Pietro Mengoli, Archimede 2 (1950), 165-170.
+A Agostini, L'opera matematica di Pietro Mengoli, Arch. Internat. Hist. Sci. (N.S.) 3 (1950), 816-834.
+A Agostini, Le serie sommate da Pietro Mengoli, Boll. Un. Mat. Ital. (2) 3 (1941), 231-251.
+A Agostini, Rileggendo la 'Geometria speciosa' di Pietro Mengoli, Period. Mat. (4) 20 (1940), 313-327.
+A Augostini, La teoria dei limiti in Pietro Mengoli, Periodico di matematiche 5 (1925), 18-30.
+S Dimito, Series expansions from Mengoli to Newton (Italian), Archimede 31 (1-2) (1979), 108-120.
+E Giusti, Pietro Mengoli's first research : the sum of series (Italian), in Geometry and complex variables (New York, 1991), 195-213.
+P Gozza, Atoms, 'spiritus', sounds : The 'Speculations on music' (1670) of the Galilean Pietro Mengoli (Italian), Nuncius Ann. Storia Sci. 5 (2) (1990), 75-98.
+M R Massa, Mengoli on 'quasi proportions', Historia Math. 24 (3) (1997), 257-280.
+P Nastasi and A Scimone, Pietro Mengoli and the six-square problem, Historia Mathematica 21 (1) (1994), 10-27.
+A B Paplauskas, The pre-Newtonian period in the development of the theory of infinite series. II. Pietro Mengoli (Russian), in Studies in the history of mathematics 19 'Nauka' (Moscow, 1974), 143-157.
+L Pepe, The 'prime element' of the 'Rational arithmetic' of Pietro Mengoli (Italian), Boll. Un. Mat. Ital. A (5) 16 (1) (1979), 201-209.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Pietro Mengoli:
+
+Napierian logarithms explained by Pietro Mengoli
+
+
+
+Other websites about Pietro Mengoli:
+
+Dictionary of Scientific Biography
+The Galileo Project,
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of the calculus
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update June 2004
+  
+
+

@@ -1,0 +1,155 @@
+
+
+
+François Édouard Anatole Lucas
+
+
+
+
+
+Quick Info
+Born
+
+      4 April 1842
+      
+
+        Amiens, France
+        
+
+Died
+
+      3 October 1891
+      
+      Paris, France
+    
+
+Summary
+Edouard Lucas was a French mathematician who is best known for his results in number theory. He studied the Fibonacci sequence and devised the test for Mersenne primes still used today.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Édouard Lucas was educated at the École Normale in Amiens. After this he worked at the Paris Observatory under Le Verrier.
+
+
+During the Franco-Prussian War (1870-1871) Lucas served as an artillery officer. After the French were defeated, Lucas became professor of mathematics at the Lycée Saint Louis in Paris. He later became professor of mathematics at the Lycée Charlemagne, also in Paris.
+
+
+Lucas is best known for his results in number theory: in particular he studied the Fibonacci sequence and the associated Lucas sequence is named after him. He gave the well-known formula for the Fibonacci numbers 
+5fn=(1+52)n−(1−52)n\sqrt 5 f_{n} = \left(\Large\frac{1 + \sqrt 5}{2}\right)^{n}\normalsize - \left(\Large\frac{1 - \sqrt 5}{2}\right)^{n}5​fn​=(21+5​​)n−(21−5​​)n.
+Lucas also devised methods of testing primality, essentially those used today. In 1876 he used his methods to prove that the Mersenne number 2127−12^{127} - 12127−1 is prime. This remains the largest prime number discovered without the aid of a computer.
+
+
+The Lucas test for primes was refined by Lehmer in 1930. It works as follows. Define the sequence
+S2=4,S3=14,S4=194,...S_{2} = 4, S_{3} = 14, S_{4} = 194, . . .S2​=4,S3​=14,S4​=194,...
+where for n>2,Snn > 2, S_{n}n>2,Sn​ is defined inductively by 
+Sn=Sn−12−2S_{n} = S_{n-1}^{2} - 2Sn​=Sn−12​−2.
+The Lucas-Lehmer test states that a Mersenne number Mp=2p−1M_{p} = 2^{p} - 1Mp​=2p−1, with p>2p > 2p>2, is prime if and only if MpM_{p}Mp​ divides SpS_{p}Sp​.
+
+
+Lucas showed that S127S_{127}S127​ is divisible by M127M_{127}M127​ thus showing that M127M_{127}M127​ is prime. This was a extremely difficult calculation since M127M_{127}M127​ is a big number and S127S_{127}S127​ is unbelievably large. In fact 
+M127M_{127}M127​ = 170141183460469231731687303715884105727
+and Lucas was only able to perform the calculation since he showed that S127S_{127}S127​ is divisible by M127M_{127}M127​ without calculating S127S_{127}S127​.
+
+
+Lucas is also well known for his invention of the Tower of Hanoi puzzle and other mathematical recreations. The Tower of Hanoi puzzle appeared in 1883 under the name of M. Claus. Notice that Claus is an anagram of Lucas!
+
+
+See THIS LINK.
+
+
+His four volume work on recreational mathematics Récréations mathématiques Ⓣ(Mathematical recreations) (1882-94) has become a classic.
+
+
+Lucas died as the result of a freak accident at a banquet when a plate was dropped and a piece flew up and cut his cheek. He died of erysipelas a few days later.
+
+
+
+
+
+
+
+Other Mathematicians born in France
+
+A Poster of Édouard Lucas
+
+
+
+
+
+References (show)
+
+
+
+
+
+N T Gridgeman, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+D Harkin, On the Mathematical Works of François Edouard Anatole Lucas, Enseignement mathématique 3 (1957), 276-288.
+M R Williams, Edouard Lucas vindicated, Ann. Hist. Comput. 6 (4) (1984), 404. https://www.google.com/search?tbm=bks&q=Luca+R%C3%A9cr%C3%A9ations+math%C3%A9matiques
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Édouard Lucas:
+
+The Towers of Hanoi
+Heinz Klaus Strick biography
+
+
+
+Other websites about Édouard Lucas:
+
+Dictionary of Scientific Biography
+Clark Kimberling
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Mathematical games and recreations
+History Topics: Perfect numbers
+History Topics: Prime numbers
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (F)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (T)
+Other: Sources for the Math Symbols and Words Pages
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update December 1996
+  
+
+

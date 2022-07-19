@@ -1,0 +1,262 @@
+
+
+
+Eudoxus of Cnidus
+
+
+
+
+
+Quick Info
+Born
+
+      408 BC
+      
+
+        Cnidus (on Resadiye peninsula), Asia Minor (now Knidos, Turkey)
+        
+
+Died
+
+      355 BC
+      
+      Cnidus, Asia Minor (now Turkey)
+    
+
+Summary
+Eudoxus was a Greek mathematician and astronomer who contributed to Euclid's Elements. He mapped the stars and compiled a map of the known world. His philosophy influenced Aristotle.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Eudoxus of Cnidus was the son of Aischines. As to his teachers, we know that he travelled to Tarentum, now in Italy, where he studied with Archytas who was a follower of Pythagoras. The problem of duplicating the cube was one which interested Archytas and it would be reasonable to suppose that Eudoxus's interest in that problem was stimulated by his teacher. Other topics that it is probable that he learnt about from Archytas include number theory and the theory of music.
+
+
+Eudoxus also visited Sicily, where he studied medicine with Philiston, before making his first visit to Athens in the company of the physician Theomedon. Eudoxus spent two months in Athens on this visit and he certainly attended lectures on philosophy by Plato and other philosophers at the Academy which had only been established a short time before. Heath [3] writes of Eudoxus as a student in Athens:-
+... so poor was he that he took up his abode at the Piraeus and trudged to Athens and back on foot each day.
+After leaving Athens, he spent over a year in Egypt where he studied astronomy with the priests at Heliopolis. At this time Eudoxus made astronomical observations from an observatory which was situated between Heliopolis and Cercesura. From Egypt Eudoxus travelled to Cyzicus in northwestern Asia Minor on the south shore of the sea of Marmara. There he established a School which proved very popular and he had many followers.
+
+
+In around 368 BC Eudoxus made a second visit to Athens accompanied by a number of his followers. It is hard to work out exactly what his relationship with Plato and the Academy were at this time. There is some evidence to suggest that Eudoxus had little respect for Plato's analytic ability and it is easy to see why that might be, since as a mathematician his abilities went far beyond those of Plato. It is also suggested that Plato was not entirely pleased to see how successful Eudoxus's School had become. Certainly there is no reason to believe that the two philosophers had much influence on each others ideas.
+
+
+Eudoxus returned to his native Cnidus and there was acclaimed by the people who put him into an important role in the legislature. However he continued his scholarly work, writing books and lecturing on theology, astronomy and meteorology.
+
+
+He had built an observatory on Cnidus and we know that from there he observed the star Canopus. The observations made at his observatory in Cnidus, as well as those made at the observatory near Heliopolis, formed the basis of two books referred to by Hipparchus. These works were the Mirror and the Phaenomena which are thought by some scholars to be revisions of the same work. Hipparchus tells us that the works concerned the rising and setting of the constellations but unfortunately these books, as all the works of Eudoxus, have been lost.
+
+
+He constructed a sundial here. You can see a picture of it at THIS LINK.
+
+
+Eudoxus made important contributions to the theory of proportion, where he made a definition allowing possibly irrational lengths to be compared in a similar way to the method of cross multiplying used today. A major difficulty had arisen in mathematics by the time of Eudoxus, namely the fact that certain lengths were not comparable. The method of comparing two lengths xxx and yyy by finding a length ttt so that x=m×tx = m \times  tx=m×t and y=n×ty = n \times  ty=n×t for whole numbers mmm and nnn failed to work for lines of lengths 1 and √2 as the Pythagoreans had shown.
+
+
+The theory developed by Eudoxus is set out in Euclid's Elements Book V. Definition 4 in that Book is called the Axiom of Eudoxus and was attributed to him by Archimedes. The definition states (in Heath's translation [3]):-
+Magnitudes are said to have a ratio to one another which is capable, when a multiple of either may exceed the other.
+By this Eudoxus meant that a length and an area do not have a capable ratio. But a line of length √2 and one of length 1 do have a capable ratio since 1 × √2 > 1 and 2 × 1 > √2. Hence the problem of irrational lengths was solved in the sense that one could compare lines of any lengths, either rational or irrational.
+
+
+Eudoxus then went on to say when two ratios are equal. This appears as Euclid's Elements Book V Definition 5 which is, in Heath's translation [3]:-
+Magnitudes are said to be of the same ratio, the first to the second and the third to the fourth, when, if any equimultiples whatever be taken of the first and the third, and any equimultiples whatever of the second and fourth, the former equimultiples alike exceed, are alike equal to, or are alike less than the latter equimultiples taken in corresponding order.
+In modern notation, this says that a : b and c : d are equal (where a,b,c,da, b, c, da,b,c,d are possibly irrational) if for every possible pair of integers m,nm, nm,n
+
+
+if ma<nbma < nbma<nb then mc<ndmc < ndmc<nd,
+if ma=nbma = nbma=nb then mc=ndmc = ndmc=nd,
+if ma>nbma > nbma>nb then mc>ndmc > ndmc>nd.
+
+Huxley writes in [1]:-
+It is difficult to exaggerate the significance of the theory, for it amounts to a rigorous definition of real number. Number theory was allowed to advance again, after the paralysis imposed on it by the Pythagorean discovery of irrationals, to the inestimable benefit of all subsequent mathematics.
+A number of authors have discussed the ideas of real numbers in the work of Eudoxus and compared his ideas with those of Dedekind, in particular the definition involving 'Dedekind cuts' given in 1872. Dedekind himself emphasised that his work was inspired by the ideas of Eudoxus. Heath [3] writes that Eudoxus's definition of equal ratios:-
+... corresponds exactly to the modern theory of irrationals due to Dedekind, and that it is word for word the same as Weierstrass's definition of equal numbers.
+However, some historians take a rather different view. For example, the article [15] (quoting from the author's summary):-
+... analyses, first, the historical significance of the theory of proportions contained in Book V of Euclid's "Elements" and attributed to Eudoxus. It then demonstrates the radical originality, relative to this theory, of the definition of real numbers on the basis of the set of rationals proposed by Dedekind. Two conclusions: (1) there are not in Book V of the "Elements" the gaps perceived by Dedekind; (2) one cannot properly speak of an 'influence' of Eudoxus's ideas on Dedekind's theory.
+Another remarkable contribution to mathematics made by Eudoxus was his early work on integration using his method of exhaustion. This work developed directly out of his work on the theory of proportion since he was now able to compare irrational numbers. It was also based on earlier ideas of approximating the area of a circle by Antiphon where Antiphon took inscribed regular polygons with increasing numbers of sides. Eudoxus was able to make Antiphon's theory into a rigorous one, applying his methods to give rigorous proofs of the theorems, first stated by Democritus, that
+
+
+the volume of a pyramid is one-third the volume of the prism having the same base and equal height;
+
+and
+ the volume of a cone is one-third the volume of the cylinder having the same base and height.
+
+The proofs of these results are attributed to Eudoxus by Archimedes in his work On the sphere and cylinder and of course Archimedes went on to use Eudoxus's method of exhaustion to prove a remarkable collection of theorems.
+
+
+We know that Eudoxus studied the classical problem of the duplication of the cube. Eratosthenes, who wrote a history of the problem, says that Eudoxus solved the problem by means of curved lines. Eutocius wrote about Eudoxus's solution but it appears that he had in front of him a document which, although claiming to give Eudoxus's solution, must have been written by someone who had failed to understand it. Paul Tannery tried to reconstruct Eudoxus's proof from very little evidence, so it must remain no more than a guess. Tannery's ingenious suggestion was that Eudoxus had used the kampyle curve in his solution and, as a consequence, the curve is now known as the kampyle of Eudoxus. Heath, however, doubts Tannery's suggestions [3]:-
+To my mind the objection to it is that it is too close an adaptation of Archytas's ideas ... Eudoxus was, I think, too original a mathematician to content himself with a mere adaptation of Archytas's method of solution.
+We have still to discuss Eudoxus's planetary theory, perhaps the work for which he is most famous, which he published in the book On velocities which is now lost. Perhaps the first comment that is worth making is that Eudoxus was greatly influenced by the philosophy of the Pythagoreans through his teacher Archytas. Therefore it is not surprising that he developed a system based on spheres following Pythagoras's belief that the sphere was the most perfect shape. The homocentric sphere system proposed by Eudoxus consisted of a number of rotating spheres, each sphere rotating about an axis through the centre of the Earth. The axis of rotation of each sphere was not fixed in space but, for most spheres, this axis was itself rotating as it was determined by points fixed on another rotating sphere.
+
+
+
+
+As in the diagram on the right, suppose we have two spheres S1S_{1}S1​ and S2S_{2}S2​, the axis XYXYXY of S1S_{1}S1​ being a diameter of the sphere S2S_{2}S2​. As S2S_{2}S2​ rotates about an axis ABABAB, then the axis XYXYXY of S1S_{1}S1​ rotates with it. If the two spheres rotate with constant, but opposite, angular velocity then a point PPP on the equator of S1S_{1}S1​ describes a figure of eight curve. This curve was called a hippopede (meaning a horse-fetter).
+
+
+Eudoxus used this construction of the hippopede with two spheres and then considered a planet as the point PPP traversing the curve. He introduced a third sphere to correspond to the general motion of the planet against the background stars while the motion round the hippopede produced the observed periodic retrograde motion. The three sphere subsystem was set into a fourth sphere which gave the daily rotation of the stars.
+
+
+The planetary system of Eudoxus is described by Aristotle in Metaphysics and the complete system contains 27 spheres. Simplicius, writing a commentary on Aristotle in about 540 AD, also describes the spheres of Eudoxus. They represent a magnificent geometrical achievement. As Heath writes [3]:-
+... to produce the retrogradations in this theoretical way by superimposed axial rotations of spheres was a remarkable stroke of genius. It was no slight geometrical achievement, for those days, to demonstrate the effect of the hypothesis; but this is nothing in comparison with the speculative power which enabled the man to invent the hypothesis which could produce the effect.
+There is no doubting this incredible mathematical achievement. But there remain many questions which one must then ask. Did Eudoxus believe that the spheres actually existed? Did he invent them as a geometrical model which was purely a computational device? Did the model accurately represent the way the planets are observed to behave? Did Eudoxus test his model with observational evidence?
+
+
+One argument in favour of thinking that Eudoxus believed in the spheres only as a computational device is the fact that he appears to have made no comment on the substance of the spheres nor on their mode of interconnection. One has to distinguish between Eudoxus's views and those of Aristotle for as Huxley writes in [1]:-
+Eudoxus may have regarded his system simply as an abstract geometrical model, but Aristotle took it to be a description of the physical world...
+The question of whether Eudoxus thought of his spheres as geometry or a physical reality is studied in the interesting paper [29] which argues that Eudoxus was more interested in actually representing the paths of the planets than in predicting astronomical phenomena.
+
+
+Certainly the model does not represent, and perhaps more significantly could not represent, the actual paths of the planets with a degree of accuracy which would pass even the simplest of observational tests. As to the question of how much Eudoxus relied on observational data in verifying his hypothesis, Neugebauer writes in [7]:-
+... not only do we not have evidence for numerical data in the construction of Eudoxus's homocentric spheres but it would also be difficult how his theory could have survived a comparison with observational parameters.
+Perhaps it is just too modern a way of thinking to wonder how Eudoxus could have developed such an intricate theory without testing it out with observational data.
+
+
+Many of the early commentators believed that Plato was the inspiration for Eudoxus's representation of planetary motion by his system of homocentric spheres. These view are still quite widely held but the article [19] argues convincingly that this is not so and that the ideas which influenced Eudoxus to come up with his masterpiece of 3-dimensional geometry were Pythagorean and not from Plato.
+
+
+As a final comment we should note that Eudoxus also wrote a book on geography called Tour of the Earth which, although lost, is fairly well known through around 100 quotes in various sources. The work consisted of seven books and studied the peoples of the Earth known to Eudoxus, in particular examining their political systems, their history and background. Eudoxus wrote about Egypt and the religion of that country with particular authority and it is clear that he learnt much about that country in the year he spent there. In the seventh book Eudoxus wrote at length on the Pythagorean Society in Italy again about which he was clearly extremely knowledgeable.
+
+
+
+
+
+Quotations by Eudoxus
+
+Other Mathematicians born in Turkey
+
+A Poster of Eudoxus
+
+
+
+
+
+References (show)
+
+
+
+
+
+G L Huxley, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Eudoxus-of-Cnidus
+T L Heath, A History of Greek Mathematics I (Oxford, 1921).
+T L Heath, The Thirteen Books of Euclid's Elements, 3 Vols. (Oxford, 1956).
+F Lasserre, Die Fragmente des Eudoxos von Knidos (Berlin, 1966).
+O Neugebauer, The Exact Sciences in Antiquity (Providence, R.I., 1957).
+O Neugebauer, A History of Ancient Mathematical Astronomy (3 Vols.) (Berlin-Heidelberg-New York, 1975).
+A Petit, La géométrie de l'infini chez Eudoxe, in Séminaire d'Analyse, 1987-1988 (Clermont-Ferrand, 1990).
+H-J Waschkies, Von Eudoxos zu Aristoteles, Das Fortwirken der Eudoxischen Proportionentheorie in der Aristotelischen Lehre vom Kontinuum (Amsterdam, 1977).
+B Artmann, Über voreuklidische 'Elemente der Raumgeometrie' aus der Schule des Eudoxos, Arch. Hist. Exact Sci. 39 (2) (1988), 121-135.
+B Artmann, Über voreuklidische 'Elemente' aus der Schule des Eudoxos, in Mathematikdidaktik, Bildungsgeschichte, Wissenschaftsgeschichte, Georgsmarienhütte, 1986 II (Cologne, 1990), 14-16.
+Z Bechler, Aristotle corrects Eudoxus. Metaphysics 1073b-39-1074a 16, Centaurus 15 (2) (1970/71), 113-123.
+L Corry, Eudoxus' theory of proportions as interpreted by Dedekind (Spanish), Mathesis 10 (1) (1994), 1-24.
+E Craig (ed.), Routledge Encyclopedia of Philosophy 3 (London-New York, 1998), 452-453.
+J-L Gardies, Eudoxe et Dedekind, Rev. Histoire Sci. Appl. 37 (2) (1984), 111-125.
+A W Grootendorst, Eudoxus and Dedekind (Dutch), in Summer course 1993 : the real numbers (Amsterdam, 1993), 1-21.
+J Hjelmslev, Eudoxus' axiom and Archimedes' lemma, Centaurus 1 (1950), 2-11.
+G Huxley, Eudoxian Topics, Greek, Roman and Byzantine Studies 4 (1963), 83-96.
+W R Knorr, Plato and Eudoxus on the planetary motions, J. Hist. Astronom. 21 (4) (1990), 313-329.
+W Krull, Zahlen und Grössen - Dedekind und Eudoxos, Mitt. Math. Sem. Giessen No. 90 (1971), 29-47.
+E Maula, Eudoxus encircled, Ajatus 33 (1971), 201-243.
+A G Molland, Campanus and Eudoxus, or, trouble with texts and quantifiers, Physis - Riv. Internaz. Storia Sci. 25 (2) (1983), 213-225.
+O Neugebauer, On the 'Hippopede' of Eudoxus, Scripta Math. 19 (1953), 225-229.
+M Nikolic, The relation between Eudoxus' theory of proportions and Dedekind's theory of cuts, in For Dirk Struik (Dordrecht, 1974), 225-243.
+H Stein, Eudoxos and Dedekind : on the ancient Greek theory of ratios and its relation to modern mathematics, Synthese 84 (2) (1990), 163-211.
+A Szabo, Eudoxus und das Problem der Sehnentafeln, in Aristoteles. Werk und Wirkung 1 (Berlin-New York, 1985), 499-517.
+V E Thoren, Anaxagoras, Eudoxus, and the regression of the lunar nodes, J. Hist. Astronom. 2 (1) (1971), 23-28.
+I Toth, Le problème de la mesure dans la perspective de l'être et du non-être. Zénon et Platon, Eudoxe et Dedekind : une généalogie philosophico-mathématique, in Mathématiques et philosophie de l'antiquité à l'âge classique (Paris, 1991), 21-99.
+L Wright, The astronomy of Eudoxus : geometry or physics?, Studies in Hist. and Philos. Sci. 4 (2) (1973/74), 165-172.
+I Yavetz, On the homocentric spheres of Eudoxus, Arch. Hist. Exact Sci. 52 (3) (1998), 221-278.
+F Zubieta, Eudoxus' method of exhaustion applied to the circle (Spanish), Mathesis. Mathesis 7 (4) (1991), 482-486.
+F Zubieta, Eudoxus' definition of proportion (Spanish), Mathesis. Mathesis 7 (4) (1991), 477-482.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Eudoxus:
+
+See Eudoxus on a timeline
+Astronomy: The Structure of the Solar System
+Eudoxus's sundial at Knidos
+Herbert Jennings Rose's Greek mathematical literature
+Heinz Klaus Strick biography
+
+
+
+Other websites about Eudoxus:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+NNDB
+G Don Allen
+Google books
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Eudoxus
+
+Lunar features Crater Eudoxus
+Popular biographies list Number 79
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of the calculus
+History Topics: Doubling the cube
+History Topics: Greek astronomy
+History Topics: Infinity
+History Topics: Mathematics and the physical world
+History Topics: The Golden ratio
+History Topics: The real numbers: Pythagoras to Stevin
+History Topics: Timekeeping in the Ancient World: Sundials
+Famous Curves: Kampyle of Eudoxus
+Famous Curves: Parabola
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Most popular biographies
+Other: The Structure of the Solar System
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update April 1999
+  
+
+

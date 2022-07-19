@@ -1,0 +1,352 @@
+
+
+
+Claudius Ptolemy
+
+
+
+
+
+Quick Info
+Born
+
+      about AD 85
+      
+      
+        
+        Egypt
+        
+      
+    
+Died
+
+      about AD 165
+      
+      Alexandria, Egypt
+    
+
+Summary
+Ptolemy was the most influential of Greek astronomers and geographers of his time. He propounded the geocentric theory of the solar system that prevailed for 1400 years.
+
+
+
+
+
+    View six larger pictures
+
+
+
+
+
+Biography
+One of the most influential Greek astronomers and geographers of his time, Ptolemy propounded the geocentric theory in a form that prevailed for 1400 years. However, of all the ancient Greek mathematicians, it is fair to say that his work has generated more discussion and argument than any other. We shall discuss the arguments below for, depending on which are correct, they portray Ptolemy in very different lights. The arguments of some historians show that Ptolemy was a mathematician of the very top rank, arguments of others show that he was no more than a superb expositor, but far worse, some even claim that he committed a crime against his fellow scientists by betraying the ethics and integrity of his profession.
+
+
+We know very little of Ptolemy's life. He made astronomical observations from Alexandria in Egypt during the years AD 127-41. In fact the first observation which we can date exactly was made by Ptolemy on 26 March 127 while the last was made on 2 February 141. It was claimed by Theodore Meliteniotes in around 1360 that Ptolemy was born in Hermiou (which is in Upper Egypt rather than Lower Egypt where Alexandria is situated) but since this claim first appears more than one thousand years after Ptolemy lived, it must be treated as relatively unlikely to be true. In fact there is no evidence that Ptolemy was ever anywhere other than Alexandria.
+
+
+His name, Claudius Ptolemy, is of course a mixture of the Greek Egyptian 'Ptolemy' and the Roman 'Claudius'. This would indicate that he was descended from a Greek family living in Egypt and that he was a citizen of Rome, which would be as a result of a Roman emperor giving that 'reward' to one of Ptolemy's ancestors.
+
+
+We do know that Ptolemy used observations made by 'Theon the mathematician', and this was almost certainly Theon of Smyrna who almost certainly was his teacher. Certainly this would make sense since Theon was both an observer and a mathematician who had written on astronomical topics such as conjunctions, eclipses, occultations and transits. Most of Ptolemy's early works are dedicated to Syrus who may have also been one of his teachers in Alexandria, but nothing is known of Syrus.
+
+
+If these facts about Ptolemy's teachers are correct then certainly in Theon he did not have a great scholar, for Theon seems not to have understood in any depth the astronomical work he describes. On the other hand Alexandria had a tradition for scholarship which would mean that even if Ptolemy did not have access to the best teachers, he would have access to the libraries where he would have found the valuable reference material of which he made good use.
+
+
+Ptolemy's major works have survived and we shall discuss them in this article. The most important, however, is the Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') which is a treatise in thirteen books. We should say straight away that, although the work is now almost always known as the Almagest  that was not its original name. Its original Greek title translates as The Mathematical Compilation but this title was soon replaced by another Greek title which means The Greatest Compilation. This was translated into Arabic as "al-majisti" and from this the title Almagest was given to the work when it was translated from Arabic to Latin.
+
+
+The Almagest is the earliest of Ptolemy's works and gives in detail the mathematical theory of the motions of the Sun, Moon, and planets. Ptolemy made his most original contribution by presenting details for the motions of each of the planets. The Almagest was not superseded until a century after Copernicus presented his heliocentric theory in the De revolutionibus of 1543. Grasshoff writes in [8]:-
+Ptolemy's "Almagest" shares with Euclid's "Elements" the glory of being the scientific text longest in use. From its conception in the second century up to the late Renaissance, this work determined astronomy as a science. During this time the "Almagest" was not only a work on astronomy; the subject was defined as what is described in the "Almagest".
+Ptolemy describes himself very clearly what he is attempting to do in writing the work (see for example [15]):-
+We shall try to note down everything which we think we have discovered up to the present time; we shall do this as concisely as possible and in a manner which can be followed by those who have already made some progress in the field. For the sake of completeness in our treatment we shall set out everything useful for the theory of the heavens in the proper order, but to avoid undue length we shall merely recount what has been adequately established by the ancients. However, those topics which have not been dealt with by our predecessors at all, or not as usefully as they might have been, will be discussed at length to the best of our ability.
+Ptolemy first of all justifies his description of the universe based on the earth-centred system described by Aristotle. It is a view of the world based on a fixed earth around which the sphere of the fixed stars rotates every day, this carrying with it the spheres of the sun, moon, and planets. Ptolemy used geometric models to predict the positions of the sun, moon, and planets, using combinations of circular motion known as epicycles. Having set up this model, Ptolemy then goes on to describe the mathematics which he needs in the rest of the work. In particular he introduces trigonometrical methods based on the chord function Crd (which is related to the sine function by sin⁡a=1120\sin a = \large\frac{1}{120}\normalsizesina=1201​(Crd 2aaa).
+
+
+Ptolemy devised new geometrical proofs and theorems. He obtained, using chords of a circle and an inscribed 360-gon, the approximation
+π=317120=3.14166\pi = 3\large\frac{17}{120}\normalsize  = 3.14166π=312017​=3.14166
+and, using √3 = chord 60°,
+√3=1.73205.√3 = 1.73205.√3=1.73205.
+He used formulae for the Crd function which are analogous to our formulae for sin⁡(a+b)\sin(a + b)sin(a+b) and sin⁡(a−b)\sin(a - b)sin(a−b)   to create a table of the Crd function at intervals of 12\large\frac{1}{2}\normalsize21​ a degree.
+
+
+He is known in particular for the theorem at THIS LINK which he used to deduce the above addition formulae.
+
+
+This occupies the first two of the 13 books of the Almagest and then, quoting again from the introduction, we give Ptolemy's own description of how he intended to develop the rest of the mathematical astronomy in the work (see for example [15]):-
+[After introducing the mathematical concepts] we have to go through the motions of the sun and of the moon, and the phenomena accompanying these motions; for it would be impossible to examine the theory of the stars thoroughly without first having a grasp of these matters. Our final task in this way of approach is the theory of the stars. Here too it would be appropriate to deal first with the sphere of the so-called 'fixed stars', and follow that by treating the five 'planets', as they are called.
+In examining the theory of the sun, Ptolemy compares his own observations of equinoxes with those of Hipparchus and the earlier observations Meton in 432 BC. He confirmed the length of the tropical year as 1300\large\frac{1}{300}\normalsize3001​ of a day less than 36514365\large\frac{1}{4}\normalsize36541​ days, the precise value obtained by Hipparchus. Since, as Ptolemy himself knew, the accuracy of the rest of his data depended heavily on this value, the fact that the true value is 1128\large\frac{1}{128}\normalsize1281​ of a day less than 36514365\large\frac{1}{4}\normalsize36541​ days did produce errors in the rest of the work. We shall discuss below in more detail the accusations which have been made against Ptolemy, but this illustrates clearly the grounds for these accusations since Ptolemy had to have an error of 28 hours in his observation of the equinox to produce this error, and even given the accuracy that could be expected with ancient instruments and methods, it is essentially unbelievable that he could have made an error of this magnitude. A good discussion of this strange error is contained in the excellent article [19].
+
+
+Based on his observations of solstices and equinoxes, Ptolemy found the lengths of the seasons and, based on these, he proposed a simple model for the sun which was a circular motion of uniform angular velocity, but the earth was not at the centre of the circle but at a distance called the eccentricity from this centre. This theory of the sun forms the subject of Book 3 of the Almagest.
+
+
+In Books 4 and 5 Ptolemy gives his theory of the moon. Here he follows Hipparchus who had studied three different periods which one could associate with the motion of the moon. There is the time taken for the moon to return to the same longitude, the time taken for it to return to the same velocity (the anomaly) and the time taken for it to return to the same latitude. Ptolemy also discusses, as Hipparchus had done, the synodic month, that is the time between successive oppositions of the sun and moon. In Book 4 Ptolemy gives Hipparchus's epicycle model for the motion of the moon but he notes, as in fact Hipparchus had done himself, that there are small discrepancies between the model and the observed parameters. Although noting the discrepancies, Hipparchus seems not to have worked out a better model, but Ptolemy does this in Book 5 where the model he gives improves markedly on the one proposed by Hipparchus. An interesting discussion of Ptolemy's theory of the moon is given in [24].
+
+
+Having given a theory for the motion of the sun and of the moon, Ptolemy was in a position to apply these to obtain a theory of eclipses which he does in Book 6. The next two books deal with the fixed stars and in Book 7 Ptolemy uses his own observations together with those of Hipparchus to justify his belief that the fixed stars always maintain the same positions relative to each other. He wrote (see for example [15]):-
+If one were to match the above alignments against the diagrams forming the constellations on Hipparchus's celestial globe, he would find that the positions of the relevant stars on the globe resulting from the observations made at the time of Hipparchus, according to what he recorded, are very nearly the same as at present.
+In these two book Ptolemy also discusses precession, the discovery of which he attributes to Hipparchus, but his figure is somewhat in error mainly because of the error in the length of the tropical year which he used. Much of Books 7 and 8 are taken up with Ptolemy's star catalogue containing over one thousand stars.
+
+
+The final five books of the Almagest discuss planetary theory. This must be Ptolemy's greatest achievement in terms of an original contribution, since there does not appear to have been any satisfactory theoretical model to explain the rather complicated motions of the five planets before the Almagest. Ptolemy combined the epicycle and eccentric methods to give his model for the motions of the planets. The path of a planet PPP therefore consisted of circular motion on an epicycle, the centre CCC of the epicycle moving round a circle whose centre was offset from the earth. Ptolemy's really clever innovation here was to make the motion of CCC uniform not about the centre of the circle around which it moves, but around a point called the equant which is symmetrically placed on the opposite side of the centre from the earth.
+
+
+The planetary theory which Ptolemy developed here is a masterpiece. He created a sophisticated mathematical model to fit observational data which before Ptolemy's time was scarce, and the model he produced, although complicated, represents the motions of the planets fairly well.
+
+
+Toomer sums up the Almagest in [1] as follows:-
+As a didactic work the "Almagest" is a masterpiece of clarity and method, superior to any ancient scientific textbook and with few peers from any period. But it is much more than that. Far from being a mere 'systemisation' of earlier Greek astronomy, as it is sometimes described, it is in many respects an original work.
+We will return to discuss some of the accusations made against Ptolemy after commenting briefly on his other works. He published the tables which are scattered throughout the Almagest separately under the title Handy Tables. These were not merely lifted from the Almagest however but Ptolemy made numerous improvements in their presentation, ease of use and he even made improvements in the basic parameters to give greater accuracy. We only know details of the Handy Tables through the commentary by Theon of Alexandria but in [76] the author shows that care is required since Theon was not fully aware of Ptolemy's procedures.
+
+
+Ptolemy also did what many writers of deep scientific works have done, and still do, in writing a popular account of his results under the title Planetary Hypothesis. This work, in two books, again follows the familiar route of reducing the mathematical skills needed by a reader. Ptolemy does this rather cleverly by replacing the abstract geometrical theories by mechanical ones. Ptolemy also wrote a work on astrology. It may seem strange to the modern reader that someone who wrote such excellent scientific books should write on astrology. However, Ptolemy sees it rather differently for he claims that the Almagest allows one to find the positions of the heavenly bodies, while his astrology book he sees as a companion work describing the effects of the heavenly bodies on people's lives.
+
+
+In a book entitled Analemma he discussed methods of finding the angles need to construct a sundial which involves the projection of points on the celestial sphere. In Planisphaerium he is concerned with stereographic projection of the celestial sphere onto a plane. This is discussed in [48] where it is stated:-
+In the stereographic projection treated by Ptolemy in the "Planisphaerium" the celestial sphere is mapped onto the plane of the equator by projection from the south pole. Ptolemy does not prove the important property that circles on the sphere become circles on the plane.
+Ptolemy's major work Geography, in eight books, attempts to map the known world giving coordinates of the major places in terms of latitude and longitude. It is not surprising that the maps given by Ptolemy were quite inaccurate in many places for he could not be expected to do more than use the available data and this was of very poor quality for anything outside the Roman Empire, and even parts of the Roman Empire are severely distorted. In [19] Ptolemy is described as:-
+... a man working [on map-construction] without the support of a developed theory but within a mathematical tradition and guided by his sense of what is appropriate to the problem.
+Another work on Optics is in five books and in it Ptolemy studies colour, reflection, refraction, and mirrors of various shapes. Toomer comments in [1]:-
+The establishment of theory by experiment, frequently by constructing special apparatus, is the most striking feature of Ptolemy's "Optics". Whether the subject matter is largely derived or original, "The Optics" is an impressive example of the development of a mathematical science with due regard to physical data, and is worthy of the author of the "Almagest".
+An English translation, attempting to remove the inaccuracies introduced in the poor Arabic translation which is our only source of the Optics is given in [14].
+
+
+The first to make accusations against Ptolemy was Tycho Brahe. He discovered that there was a systematic error of one degree in the longitudes of the stars in the star catalogue, and he claimed that, despite Ptolemy saying that it represented his own observations, it was merely a conversion of a catalogue due to Hipparchus corrected for precession to Ptolemy's date. There is of course definite problems comparing two star catalogues, one of which we have a copy of while the other is lost.
+
+
+After comments by Laplace and Lalande, the next to attack Ptolemy vigorously was Delambre. He suggested that perhaps the errors came from Hipparchus and that Ptolemy might have done nothing more serious than to have failed to correct Hipparchus's data for the time between the equinoxes and solstices. However Delambre then goes on to say (see [8]):-
+One could explain everything in a less favourable but all the simpler manner by denying Ptolemy the observation of the stars and equinoxes, and by claiming that he assimilated everything from Hipparchus, using the minimal value of the latter for the precession motion.
+However, Ptolemy was not without his supporters by any means and further analysis led to a belief that the accusations made against Ptolemy by Delambre were false. Boll writing in 1894 says [4]:-
+To all appearances, one will have to credit Ptolemy with giving an essentially richer picture of the Greek firmament after his eminent predecessors.
+Vogt showed clearly in his important paper [77] that by considering Hipparchus's Commentary on Aratus and Eudoxus and making the reasonable assumption that the data given there agreed with Hipparchus's star catalogue, then Ptolemy's star catalogue cannot have been produced from the positions of the stars as given by Hipparchus, except for a small number of stars where Ptolemy does appear to have taken the data from Hipparchus. Vogt writes:-
+This allows us to consider the fixed star catalogue as of his own making, just as Ptolemy himself vigorously states.
+The most recent accusations of forgery made against Ptolemy came from Newton in [12]. He begins this book by stating clearly his views:-
+This is the story of a scientific crime. ... I mean a crime committed by a scientist against fellow scientists and scholars, a betrayal of the ethics and integrity of his profession that has forever deprived mankind of fundamental information about an important area of astronomy and history.
+Towards the end Newton, having claimed to prove every observation claimed by Ptolemy in the Almagest was fabricated, writes [12]:-
+[Ptolemy] developed certain astronomical theories and discovered that they were not consistent with observation. Instead of abandoning the theories, he deliberately fabricated observations from the theories so that he could claim that the observations prove the validity of his theories. In every scientific or scholarly setting known, this practice is called fraud, and it is a crime against science and scholarship.
+Although the evidence produced by Brahe, Delambre, Newton and others certainly do show that Ptolemy's errors are not random, this last quote from [12] is, I [EFR] believe, a crime against Ptolemy (to use Newton's own words). The book [8] is written to study validity of these accusations and it is a work which I strongly believe gives the correct interpretation. Grasshoff writes:-
+... one has to assume that a substantial proportion of the Ptolemaic star catalogue is grounded on those Hipparchan observations which Hipparchus already used for the compilation of the second part of his "Commentary on Aratus". Although it cannot be ruled out that coordinates resulting from genuine Ptolemaic observations are included in the catalogue, they could not amount to more than half the catalogue.
+
+
+... the assimilation of Hipparchan observations can no longer be discussed under the aspect of plagiarism. Ptolemy, whose intention was to develop a comprehensive theory of celestial phenomena, had no access to the methods of data evaluation using arithmetical means with which modern astronomers can derive from a set of varying measurement results, the one representative value needed to test a hypothesis. For methodological reason, then, Ptolemy was forced to choose from a set of measurements the one value corresponding best to what he had to consider as the most reliable data. When an intuitive selection among the data was no longer possible ... Ptolemy had to consider those values as 'observed' which could be confirmed by theoretical predictions.
+As a final comment we quote the epigram which is accepted by many scholars to have been written by Ptolemy himself, and it appears in Book 1 of the Almagest, following the list of contents (see for example [11]):-
+Well do I know that I am mortal, a creature of one day.
+
+But if my mind follows the winding paths of the stars
+
+Then my feet no longer rest on earth, but standing by
+
+Zeus himself I take my fill of ambrosia, the divine dish.
+
+
+
+
+
+Quotations by Ptolemy
+
+Other Mathematicians born in Egypt
+
+A Poster of Ptolemy
+
+
+
+
+
+References (show)
+
+
+
+
+
+G J Toomer, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Ptolemy
+A Aaboe, On the tables of planetary visibility in the Almagest and the Handy Tables (1960).
+F Boll, Studien über Claudius Ptolemäus (Leipzig, 1894).
+V A Bronshten, Claudius Ptolemy : Second century A.D (Russian) 'Nauka' (Moscow, 1988).
+J L E Dreyer, A history of astronomy from Thales to Kepler (New York, 1953).
+O Gingerich, The Eye of Heaven: Ptolemy, Copernicus, Kepler (1993).
+G Grasshoff, The history of Ptolemy's star catalogue (New York, 1990).
+T L Heath, A Manual of Greek Mathematics (1963).
+T L Heath, A history of Greek mathematics I, II (Oxford, 1931).
+O Neugebauer, A History of Ancient Mathematical Astronomy (3 Vols.) (Berlin-Heidelberg-New York, 1975).
+R R Newton, The crime of Claudius Ptolemy (Baltimore, MD, 1977).
+O Petersen, A survey of the Almagest (Odense, 1974).
+A M Smith, Ptolemy's theory of visual perception, Transactions of the American Philosophical Society 86 Pt. 2 (Philadelphia, PA, 1996).
+G J Toomer (trs.), Ptolemy's Almagest (London, 1984).
+K Andersen, The central projection in one of Ptolemy's map constructions, Centaurus 30 (2) (1987), 106-113.
+J L Berggren, Ptolemy's maps of earth and the heavens : a new interpretation, Arch. Hist. Exact Sci. 43 (2) (1991), 133-144.
+F Boll, Studien über Clauddius Ptolemäus, Jahrbücher für classische Philologie (1894), 53-66.
+J P Britton, Models and precision : the quality of Ptolemy's observations and parameters, in Sources and Studies in the History and Philosophy of Classical Science 1 (New York, 1992).
+J P Britton, Ptolemy's determination of the obliquity of the ecliptic, Centaurus 14 (1969), 29-41.
+J Chabás and A Tihon, Verification of parallax in Ptolemy's 'Handy tables', J. Hist. Astronom. 24 (1-2) (1993), 123-141.
+B Chatterjee, Geometrical interpretation of the motion of the sun, moon and the five planets as found in the mathematical syntaxis of Ptolemy and in the Hindu astronomical works, J. Roy. Asiatic Soc. Bengal. Sci. 15 (1949), 41-89.
+E Craig (ed.), Routledge Encyclopedia of Philosophy 7 (London-New York, 1998), 830-832.
+P Del Santo and G Strano, Observational evidence and the evolution of Ptolemy's lunar model, Nuncius Ann. Storia Sci. 11 (1) (1996), 93-122.
+J Dobrzycki, Historians of science on the astronomical observations of Ptolemy (Polish), Wiadom. Mat. 28 (2) (1990), 221-227.
+A G Drachmann, Heron and Ptolemaios, Centaurus 1 (1950), 117-131.
+S Drake, Ptolemy, Galileo, and scientific method, Stud. Hist. Philos. Sci. 9 (2) (1978), 99-115.
+Yu N Efremov and E D Pavlovskaya, Determination of the epoch of the star catalogue 'Almagest' by analyzing the proper motion of the stars (on a problem of the authorship of Ptolemy's star catalogue) (Russian), Istor.-Astronom. Issled. 21 (1989), 175-192.
+J Evans, On the function and the probable origin of Ptolemy's equant, Amer. J. Phys. 52 (12) (1984), 1080-1089.
+J Evans, On the origin of the Ptolemaic star catalogue, J. Hist. Astronom. 18 (1987), 155-172; 233-278.
+A T Fomenko, V V Kalashnikov and G V Nosovsky, The dating of Ptolemy's 'Almagest' based on the coverings of the stars and on lunar eclipses, Acta Appl. Math. 29 (3) (1992), 281-298.
+A T Fomenko, V V Kalashnikov and G V Nosovskii, Statistical analysis and dating of the observations on which Ptolemy's 'Almagest' star catalogue is based, in Probability theory and mathematical statistics I (Vilnius, 1990), 360-374.
+A T Fomenko, V V Kalashnikov and G V Nosovsky, When was Ptolemy's star catalogue in 'Almagest' compiled in reality? Statistical analysis, Acta Appl. Math. 17 (3) (1989), 203-229.
+O Gingerich, Was Ptolemy a fraud?, Quart. J. Roy. Ast. Soc. 21 (1980), 253-266.
+O Gingerich, Ptolemy revisited : A reply to R R Newton, Quart. J. Roy. Ast. Soc. 22 (1981), 40-44.
+O Gingerich and B L Welther, Some puzzles of Ptolemy's star catalogue, Sky and Telescope 67 (1984), 421-423.
+B R Goldstein, Saving the phenomena : the background to Ptolemy's planetary theory, J. Hist. Astronom. 28 (1) (1997), 1-12.
+S J Goldstein, Problems raised by Ptolemy's lunar tables, J. Hist. Astronom. 13 (3) (1982), 195-205.
+A A Gurshtein, Ptolemy and Copernicus (Russian), Priroda (3) (1988), 85-92.
+N T Hamilton, N M Swerdlow and G J Toomer, The 'Canobic inscription' : Ptolemy's earliest work, in From ancient omens to statistical mechanics, Acta Hist. Sci. Nat. Med. 39 (Copenhagen, 1987), 55-73.
+W Hartner, Ptolemy and Ibn Yunus on solar parallax, Arch. Internat. Hist. Sci. 30 (105) (1980), 5-26.
+W Hartner, Ptolemy, Azarquiel, Ibn al-Shatir, and Copernicus on Mercury : A study of parameters, Arch. Internat. Hist. Sci. 24 (94) (1974), 5-25.
+W Hartner, Ptolemy's and Copernicus' Mercury models : An accuracy test, Arch. Internat. Hist. Sci. 24 (95) (1974), 367-369.
+S Koelblen, Un exercice de combinatoire : les relations issues de la figure sécante de Ptolémée, ou les règles des six quantités en proportion, in Un parcours en histoire des mathématiques : travaux et recherches (Nantes, 1993), 1-21.
+P Kunitzsch, Fragments of Ptolemy's 'Planisphaerium' in an early Latin translation, Centaurus 36 (2) (1993), 97-101.
+P Kunitzsch, The second Arabic manuscript of Ptolemy's 'Planisphaerium', Z. Gesch. Arab.-Islam. Wiss. 9 (1994), 83-89, 8-9.
+P Kunitzsch and R Lorch, Maslama's notes on Ptolemy's 'Planisphaerium' and related texts, Bayer. Akad. Wiss. Philos.-Hist. Kl. Sitzungsber. 2 (1994).
+R P Lorch, Ptolemy and Maslama on the transformation of circles into circles in stereographic projection, Arch. Hist. Exact Sci. 49 (3) (1995), 271-284.
+D MacMinn, An analysis of Ptolemy's treatment of retrograde motion, J. Hist. Astronom. 29 (3) (1998), 257-270.
+Y Maeyama, Determination of the Sun's orbit (Hipparchus, Ptolemy, al-Battani, Copernicus, Tycho Brahe), Arch. Hist. Exact Sci. 53 (1) (1998), 1-49.
+Y Maeyama, Ancient stellar observations : Timocharis, Aristyllus, Hipparchus, Ptolemy - the dates and accuracies, Centaurus 27 (3-4) (1984), 280-310.
+K P Moesgaard, In chase of an origin for the mean planetary motions in Ptolemy's 'Almagest', in From ancient omens to statistical mechanics, Acta Hist. Sci. Nat. Med. 39 (Copenhagen, 1987), 43-54.
+R Morelon, Fragment arabe du premier livre du 'Phaseis' de Ptolémée, J. Hist. Arabic Sci. 5 (1-2) (1981), 3-22.
+A Murschel, The structure and function of Ptolemy's physical hypotheses of planetary motion, J. Hist. Astronom. 26 (1) (1995), 33-61.
+O Neugebauer, Ptolemy's Geography, book VII, chapters 6 and 7, Isis 50 (1959), 22-29.
+J Nevalainen, The accuracy of the ecliptic longitude in Ptolemy's Mercury model, J. Hist. Astronom. 27 (2) (1996), 147-160.
+A Pannekoek, Ptolemy's precession, Vistas in Astronomy 1 (1955), 60-66.
+V M Petersen, The three lunar models of Ptolemy, Centaurus 14 (1969), 142-171.
+V M Petersen and O Schmidt, The determination of the longitude of the apogee of the orbit of the sun according to Hipparchus and Ptolemy, Centaurus 12 (1967/1968), 73-96.
+D Rawlins, Ancient heliocentrists, Ptolemy, and the equant, Amer. J. Phys. 55 (3) (1987), 235-239.
+A I Sabra, Psychology versus mathematics : Ptolemy and Alhazen on the moon illusion, in Mathematics and its applications to science and natural philosophy in the Middle Ages (Cambridge-New York, 1987), 217-247.
+J Samso and F Castello, An hypothesis on the epoch of Ptolemy's star catalogue according to the authors of the Alfonsine tables, J. Hist. Astronom. 19 (2) (1988), 115-120.
+O Schmidt, On the theorems of Ptolemy and Menelaus (Danish), Nordisk Mat. Tidskr. 3 (1955), 81-95, 127.
+M Shevchenko, An analysis of errors in the star catalogues of Ptolemy and Ulugh Beg, J. Hist. Astronom. 21 (2) (1990), 187-201.
+M Yu Shevchenko, Claudius Ptolemy's star catalogue : the specific character of ancient astrometrical observations (Russian), Istor.-Astronom. Issled. 20 (1988), 167-186.
+A M Smith, Ptolemy's search for a law of refraction : a case-study in the classical methodology of 'saving the appearances' and its limitations, Arch. Hist. Exact Sci. 26 (3) (1982), 221-240.
+A M Smith, The psychology of visual perception in Ptolemy's 'Optics', Isis 79 (297) (1988), 189-207.
+N M Swerdlow, The enigma of Ptolemy's catalogue of stars, J. Hist. Astronom. 23 (3) (1992), 173-183.
+N M Swerdlow, Ptolemy's theory of the inferior planets, J. Hist. Astronom. 20 (1) (1989), 29-60.
+N M Swerdlow, Ptolemy on trial, Amer. Scholar 48 1979), 523-531.
+C M Taisbak, Eleven eighty-thirds : Ptolemy's reference to Eratosthenes in 'Almagest' I.12, Centaurus 27 (2) (1984), 165-167.
+M A Tolmacheva, Ptolemy's East Africa in early medieval Arab geography, J. Hist. Arabic Sci. 9 (1-2) (1991), 31-43, 131-129.
+G J Toomer (ed.), Ptolemy's 'Almagest' (New York-Berlin, 1984).
+G Van Brummelen, Lunar and planetary interpolation tables in Ptolemy's 'Almagest', J. Hist. Astronom. 25 (4) (1994), 297-311.
+V Valerio, Projective knowledge and linear perspective in the works of Ptolemy and in late Hellenistic culture (Italian), Nuncius Ann. Storia Sci. 13 (1) (1998), 265-298.
+B van Dalen, On Ptolemy's table for the equation of time, Centaurus 37 (2) (1994), 97-153.
+H Vogt, Versuch einer Wiederherstellung von Hipparchs Fixsternverzeichnis, Astronomische Nachrichten 224 (1925), 17-54.
+D T Whiteside, A refined computation of the perigee angle in Ptolemy's Mercury model, J. Hist. Astronom. 6 (1975), 57.
+C Wilson, The sources of Ptolemy's parameters, J. His. Astronom. 15 (1984), 37-47.
+J Wlodarczyk, Notes on the compilation of Ptolemy's catalogue of stars, J. Hist. Astronom. 21 (3) (1990), 283-295.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Ptolemy:
+
+See Ptolemy on a timeline
+Ptolemy's hypotheses of astronomy
+An entry in The Mathematical Gazetteer of the British Isles
+Astronomy: The Reaches of the Milky Way
+Astronomy: The Structure of the Solar System
+Herbert Jennings Rose's Greek mathematical literature
+Gemma Frisius on Copernicus and Ptolemy
+Ptolemy's theorem
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Ptolemy:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+NNDB
+Science Museum Florence,
+Vatican exhibition,
+MathSciNet Author profile
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Ptolemy
+
+Lunar features Crater Ptolemaeus
+Planetary features Crater Ptolemaeus on Mars
+Popular biographies list Number 7
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A brief history of cosmology
+History Topics: A chronology of pi
+History Topics: A history of Pi
+History Topics: A history of Zero
+History Topics: A history of time: Classical time
+History Topics: An overview of Indian mathematics
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: Christianity and the Mathematical Sciences - the Heliocentric Hypothesis
+History Topics: Greek astronomy
+History Topics: Light through the ages: Ancient Greece to Maxwell
+History Topics: Longitude and the Académie Royale
+History Topics: Mathematics and art - perspective
+History Topics: Mathematics and the physical world
+History Topics: Non-Euclidean geometry
+History Topics: Science in the 17th century: From Europe to St Andrews
+History Topics: The Golden ratio
+History Topics: The Size of the Universe
+History Topics: The function concept
+History Topics: The history of cartography
+History Topics: The trigonometric functions
+History Topics: Timekeeping in the Ancient World: Sundials
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 10
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 11
+Other: 2009 Most popular biographies
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+Other: Earliest Known Uses of Some of the Words of Mathematics (S)
+Other: Earliest Uses of Symbols for Constants
+Other: Earliest Uses of Symbols from Geometry
+Other: Jeff Miller's postage stamps
+Other: Most popular biographies
+Other: The Reaches of the Milky Way
+Other: The Structure of the Solar System
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update April 1999
+  
+
+

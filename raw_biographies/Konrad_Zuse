@@ -1,0 +1,144 @@
+
+
+
+Konrad Zuse
+
+
+
+
+
+Quick Info
+Born
+
+      22 June 1910
+      
+
+        Berlin-Wilmersdorf, Germany
+        
+
+Died
+
+      18 December 1995
+      
+      Hünfeld (near Fulda), Germany
+    
+
+Summary
+Konrad Zuse was a German  computer pioneer who invented the world's first programmable computer: the Z3.
+
+
+
+
+
+    View three larger pictures
+
+
+
+
+
+Biography
+Konrad Zuse was brought up in Braunsberg, East Prussia where he attended the Humanistisches Gymnasium. He entered the Technische Hochschule of Berlin- Charlottenburg in 1927 where he took courses in civil engineering. It was these studies in engineering which led Zuse to become interested in developing a mechanical device for calculating around 1934. He found that he had to spend many hours [4]:-
+... working through the long statics calculations which are so important in the training of civil engineers...
+After graduating Zuse joined the Henschel Aircraft Company where he worked on stress analysis. In particular he studied the stresses caused by vibrations of an aircraft's wing. His work again involved a great deal of calculation and so, to help him perform these calculations, Zuse built his Z1 computer in his parents living room. He wrote:-
+I started in 1934, working independently and without knowledge of other developments going on around me. In fact, I hadn't even heard of Charles Babbage when I embarked on my work.
+Zuse completed the machine in 1938. It was entirely mechanical, with an arithmetic unit composed of large numbers of mechanical switches, and a memory consisting of layers of metal bars between layers of glass. One of its most innovative features was that it could be programmed by means of a punched tape. The main reason why Zuse succeeded in building his mechanical computer where Babbage had failed, was the fact that Zuse's Z1 was a binary machine with two position switches to represent 0 and 1. However, to say that Zuse succeeded with the Z1 is a bit of an exaggeration, for the machine did not work very well. The memory was a successful feature, the way that commands were transmitted through mechanical linkages was not successful.
+
+
+Zuse's plans to develop a bigger and better computer the Z2 involved keeping the same memory system but replacing the mechanical arithmetic unit by electromechanical relays. However the project was interrupted by World War II when Zuse was called up for military service. He was put in the German infantry but persuaded the army to allow him to return to building computers.
+
+
+The Third Reich's Aerodynamic Research Institute funded his work and he completed building the Z2 which was still an experimental computer. He then progressed to build the Z3 which was the first computer which Zuse built to be used rather than to test out his ideas. The Z2 and Z3 computers were electromechanical relay machines and the Z3, completed in 1941, had an electromechanical memory composed of relays as well as an electromechanical arithmetical unit.
+
+
+Of course to make it useful for computation, the Z3 required many relays and it indeed it contained about 2600. It was the first operational program-controlled calculating machine and was used by the German aircraft industry to solve systems of simultaneous equations and other mathematical systems which were produced by the problems of dealing with the vibration of airframes put under stress.
+
+
+However when Zuse proposed a computer based on electronic valves, the proposal was rejected on the grounds that the Germans were so close to winning the War that further research effort was not necessary.
+
+
+Some of Zuse's computers were destroyed in bombing raids near the end of the war although the Z3 was reconstructed in 1960 for display in a museum in Munich. Zuse began work on his Z4 computer in 1942, and it was almost complete when, due to continued air raids, it was moved from Berlin to Göttingen. After only a few weeks Göttingen was in danger of being captured by the advancing Russian troops and the Z4 was moved again, this time to the small village of Hinterstein in Bavaria. The Z4 was coded the Versuchsmodell 4, or V4, and hidden in the cellar of a house. Ashurst writes [4]:-
+Because of the association of V4 with the V1 and V2 flying bombs and rockets, the British and American troops who eventually found it (it had not been found by the French who entered the village first) were most surprised when their multifarious precautions were unnecessary and the fearsome V4 was just a conglomeration of mechanical bits and pieces.
+Finally the Z4 computer was taken to Switzerland where it was installed in the ETH in Zürich in 1950. It remained operational there until 1955 when it was moved to a French aerodynamical research institute close to Basel where it remained in use until 1960.
+
+
+In fact Zuse designed several computers other than those of his Z series. His S1 and S2 computers were used for computing the precise measurements necessary for the production of aircraft. For the S2 the computer included measuring devices to make measurements of the planes in production and to feed these directly into the calculations. The L1 computer which Zuse designed was not for solving arithmetical problems, but rather it was designed to solve logical problems. Only an experimental version was produced, no further work being done on this innovative idea.
+
+
+These developments were entirely independent of those of John Eckert, Mauchly and Howard Aiken in the USA, and Turing in England. Zuse later wrote:-
+After the War was finally over, news of the University of Pennsylvania ENIAC machine went all round the world - "18,000 tubes!". We could only shake our heads. What on earth were all the tubes for? ... The English development known as COLOSSUS was unheard of outside the circle of those working on it. It was only much later that the wraps came off this very interesting project.
+Zuse set up his own computing company in 1950 and it was taken over by the Siemens electronics firm in 1967. In 1965 he had received the Harry M Goode Memorial Award, a medal and $2,000 awarded by the Computer Society:-
+For his contributions to, and pioneering efforts in, automatic computing; for independently proposing the use of the binary system and floating-point arithmetic; and for designing the first program-controlled computer in Germany - one of the earliest in the world.
+By 1958 he had reached the Z22 computer, which was one of the first to be designed with transistors. Zuse continued to undertake research on computers and acted as a consultant to Siemens after the firm took over complete control of Zuse's computer company in 1969.
+
+
+As well as his hardware developments Zuse was also interested in software and he developed the first algorithmic programming language known as "Plankalkül" in 1945. He used the language to design a chess playing program. Although the language was not widely used it formed the basis for the next generation language ALGOL which, of course, became a widely used language world-wide.
+
+
+
+
+
+Other Mathematicians born in Germany
+
+A Poster of Konrad Zuse
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Zuse-Konrad
+Konrad Zuse, The Computer - My Life (Berlin, 1993).
+D Ritchie, The Computer Pioneers (New York, 1986).
+F Gareth Ashurst, Pioneers of computing (London, 1983), 127-132.
+P E Ceruzzi, The Early Computers of Konrad Zuse, 1935 to 1945, Ann. Hist. Comp. 3 (3) (1981), 241-262.
+K-H Czauderna, Konrad Zuse, der Weg zu seinem Computer Z3, Berichte der Gesellschaft für Mathematik und Datenverarbeitung (Munich, 1979), 120.
+J Lampe, In memoriam Konrad Zuse [1910-1995], Wiss. Z. Tech. Univ. Dresden 45 (1) (1996), 1.
+K Zuse, Comments: 'The early computers of Konrad Zuse, 1935 to 1945' by P E Ceruzzi, Ann. Hist. Comput. 4 (2) (1982), 186-187.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Konrad Zuse:
+
+Encyclopaedia Britannica
+J A N Lee
+History of Computing Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: Jeff Miller's postage stamps
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 1999
+  
+
+
