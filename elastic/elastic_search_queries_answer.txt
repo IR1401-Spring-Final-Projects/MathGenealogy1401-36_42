@@ -1,0 +1,170 @@
+--------------------
+results for query calculus
+
+
+Philip_Franklin 2.5149238
+Louis_François_Antoine_Arbogast 2.5028808
+Alexis_Fontaine_des_Bertins 2.5008235
+Leonida_Tonelli 2.493566
+Jan_Geniusz_Mikusiński 2.4859962
+Frank_Stanton_Carey 2.3885221
+Carl_Benjamin_Boyer 2.3871098
+Edward_Griffith_Begle 2.383351
+Theodore_Strong 2.3730757
+Kiyosi_Ito 2.3660798
+--------------------
+--------------------
+results for query algebra
+
+
+Abu_Kamil_Shuja_ibn_Aslam_ibn_Muhammad_ibn_Shuja 2.132642
+George_Peacock 2.1250587
+Dmitrii_Konstantinovich_Faddeev 2.1028883
+Aleksei_Ivanovich_Kostrikin 2.0935736
+Friedrich_Wilhelm_Karl_Ernst_Schröder 2.0910966
+Vera_Nikolaevna_Faddeeva 2.0891078
+Robert_Charles_Thompson 2.0844817
+Abu_Ja'far_Muhammad_ibn_Musa_Al-Khwarizmi 2.0825303
+Rafael_Bombelli 2.0781758
+Heinrich_Martin_Georg_Friedrich_Weber 2.0603216
+--------------------
+--------------------
+results for query geometery
+
+
+--------------------
+--------------------
+results for query number theory
+
+
+Heinrich-Wolfgang_Leopoldt 1.4405264
+Nikolai_Grigor'evich_Chudakov 1.4346807
+Barry_Charles_Mazur 1.4274354
+Martin_Eichler 1.423947
+John_Peter_Louis_Knopfmacher 1.4206283
+Emil_Grosswald 1.4201906
+Wolfgang_M_Schmidt 1.4196718
+Hans_Julius_Zassenhaus 1.4186232
+Julius_Wilhelm_Richard_Dedekind 1.4179094
+Robert_Phelan_Langlands 1.4169929
+--------------------
+--------------------
+results for query differential equation
+
+
+Karl_Heun 5.3416467
+Jacopo_Francesco_Riccati 5.1358247
+Pierre-Louis_Lions 4.914382
+Ovide_Arino 4.843775
+Jean-Marie_Le_Roux 4.840435
+Anton_Davidoglu 4.801447
+Stefan_Bergman 4.7808948
+Kosaku_Yosida 4.7727814
+Gamal_Ali_Fouad_Ismail 4.7677197
+Heinrich_Maschke 4.7293773
+--------------------
+--------------------
+results for query topological manifold
+
+
+Michael_Hartley_Freedman 11.412569
+Lev_Semenovich_Pontryagin 10.25349
+Stephen_Smale 8.818943
+Leopold_Vietoris 8.660519
+Abigail_A_Thompson 8.352695
+Sergei_Petrovich_Novikov 7.908798
+Karen_Keskulla_Uhlenbeck 7.825394
+Aldo_Andreotti 7.0742364
+Robion_Cromwell_Kirby 6.8775015
+Edward_Witten 6.860146
+--------------------
+--------------------
+results for query riemannian symmetric space
+
+
+Arthur_Geoffrey_Walker 14.244498
+Aleksei_Alekseevich_Dezin 11.143059
+George_Daniel_Mostow 11.028427
+James_Ray_Vanstone 10.574348
+Detlef_Gromoll 8.674223
+Louis_Nirenberg 8.538244
+Jacqueline_Lelong-Ferrand 8.462093
+Evan_Tom_Davies 8.402883
+András_Rapcsák 8.278145
+Mikhail_Mikhailovich_Postnikov 7.956884
+--------------------
+--------------------
+results for query primitive roots in a finite field
+
+
+Emil_Artin 12.276126
+Geoffrey_Thomas_Bennett 9.602651
+Irving_Reiner 8.799867
+Michele_Cipolla 8.304914
+Ivan_Matveevich_Vinogradov 7.98167
+Louis_Poinsot 7.944328
+Wilhelm_Ackermann 7.6167846
+Ettore_Bortolotti 7.494715
+Aleksei_Ivanovich_Kostrikin 7.461866
+Salvatore_Cherubino 7.244937
+--------------------
+--------------------
+results for query bipartite planar graphs hamiltonian cycles
+
+
+Dénes_König 23.114899
+Hendrika_Cornelia_Scott_Swart 20.634224
+Crispin_St_John_Alvah_Nash-Williams 19.321236
+Øystein_Ore 14.474251
+Helge_Arnulf_Tverberg 12.806742
+Hassler_Whitney 11.465698
+Richard_Herbert_Schelp 11.432461
+Robert_Edward_Bowen 11.019966
+Oded_Schramm 11.016903
+Maryam_Mirzakhani 10.872009
+--------------------
+--------------------
+results for query low dimensional topology
+
+
+William_Paul_Thurston 11.256489
+Robion_Cromwell_Kirby 10.478842
+Mikhail_Mikhailovich_Postnikov 10.360737
+Abigail_A_Thompson 9.921484
+Max_Wilhelm_Dehn 8.590984
+George_Lusztig 8.411689
+George_Daniel_Mostow 8.143414
+Stephen_Smale 7.810404
+Simon_Kirwan_Donaldson 7.549843
+Karol_Borsuk 7.505499
+--------------------
+--------------------
+results for query computational algebraic geometry
+
+
+Dmitrii_Konstantinovich_Faddeev 8.410908
+Hans_Julius_Zassenhaus 8.037817
+Leslie_Gabriel_Valiant 7.6794224
+Vera_Nikolaevna_Faddeeva 7.620212
+Akos_Seress 7.2532125
+Abigail_A_Thompson 7.151885
+Aleksei_Ivanovich_Kostrikin 6.947994
+Paul_Albert_Gordan 6.858485
+Mikhail_Mikhailovich_Postnikov 6.6859074
+Ivo_Milan_Babuska 6.3792806
+--------------------
+--------------------
+results for query quadratic residues prime number
+
+
+Ferdinand_Gotthold_Max_Eisenstein 15.137077
+Ivan_Matveevich_Vinogradov 15.114627
+Derrick_Norman_Lehmer 14.928171
+Adrien-Marie_Legendre 12.900228
+Ernst_Jacobsthal 12.429824
+Viktor_Yakovlevich_Bunyakovsky 10.690972
+John_Emory_McClintock 10.384446
+Matyáš_Lerch 9.983356
+Theodor_Estermann 9.883025
+Dorothy_Maud_Wrinch 9.252923
+--------------------
