@@ -1,15 +1,23 @@
 import ipywidgets as widgets
 from IPython.display import display, Markdown, clear_output
 from elastic import elastic_search
+from clustering import cluster
 import TFIDF
 import bert
 import bert_classifier
 import boolean
 import fast_text
+import make_matrix
 
 BIOGRAPHY_DIR = 'text_biographies'
 # elastic_search.index_files()
-es = elastic_search.get_connection()
+try:
+    es = elastic_search.get_connection()
+except :
+    pass
+
+with open('topic.html', 'r') as f:
+    topic_html = f.read()
 
 def get_biography_from_name(name: str):
     name = name.replace(' ', '_')
@@ -33,20 +41,28 @@ def on_get_classifier(_):
 
 
 def on_get_clustering(_):
-    #TODO
-    pass
+    with cluster_result:
+        clear_output()
+        query = cluster_query.value
+        laiden_result = cluster.get_leiden_cluster(query)
+        infomap_result = cluster.get_infomap_cluster(query)
+        topic_result = cluster.get_topic_cluster(query)
+        text = ' # Laiden Result \n' + str(laiden_result[0]) + "\n # Infomap Result \n" + \
+               str(infomap_result[0]) +"\n # Topic Result \n"+ str(topic_result)
+        display(Markdown(text))
 
 
 def on_get_query_expansion(_):
     #TODO
     pass
 
+
 def on_get_elastic(_):
     with elastic_result:
         clear_output()
         query = elastic_query.value
-        print(elastic_search.get_result_for_query(es, query))
         display(Markdown(create_html_from_names(elastic_search.get_result_for_query(es, query))))
+
 
 def on_get_hw3(_):
     with hw3_result:
@@ -64,6 +80,12 @@ def on_get_hw3(_):
     pass
 
 
+def on_get_link(_):
+    with link_result:
+        clear_output()
+        query = link_query.value
+        make_matrix.create_mat_with_sensitivity(int(query))
+
 #Widgets
 
 #classifier
@@ -80,7 +102,19 @@ classifier_page = widgets.VBox([
 ])
 
 #clustering
+topic_cluster = widgets.HTML('<a href=topic.html target="_blank"> Show Topic Plot </a>')
+cluster_query = widgets.IntText(description="Id")
+cluster_button = widgets.Button(description="Find Label")
+cluster_button.on_click(on_get_clustering)
+cluster_result = widgets.Output()
 
+cluster_page = widgets.VBox([
+    topic_cluster,
+    widgets.HBox([
+        cluster_query, cluster_button
+    ]),
+    cluster_result
+])
 
 #query expansion
 
@@ -113,7 +147,18 @@ hw3_page = widgets.VBox([
     hw3_result
 ])
 
-#
+# page_rank
+link_query = widgets.Text(description="Sensitivity")
+link_button = widgets.Button(description="Create matrix")
+link_result = widgets.Output()
+link_button.on_click(on_get_link)
+
+link_page = widgets.VBox([
+    widgets.HBox([
+        link_query, link_button
+    ]),
+    link_result
+])
 
 
 

@@ -19,7 +19,7 @@ VECTOR_SIZE = 100
 def draw_graph(mat):
     G = nx.from_numpy_matrix(mat)
     plt.rcParams["figure.figsize"] = (40, 22)
-    nx.draw_networkx(G)
+    nx.draw_networkx(G, with_labels=False)
     plt.show()
 
 def get_hits(mat):
@@ -145,6 +145,37 @@ def preprocess_summaries(input_path:str, output_path:str):
             preprocessed_content = preprocess(content)
             output = open(f'{output_path}{filename}', 'w+')
             output.write(preprocessed_content)
+
+
+def create_mat_with_sensitivity(sensitivity):
+    print('creating matrix')
+    filenames = get_file_names(DATA_DIR)
+    MATRIX_SIZE = 1700
+    matrix = np.zeros(len(filenames[:MATRIX_SIZE]) ** 2).astype(int32)
+    matrix = matrix.reshape(len(filenames[:MATRIX_SIZE]), len(filenames[:MATRIX_SIZE]))
+
+    for i, filename1 in enumerate(filenames[:MATRIX_SIZE]):
+        for j, filename2 in enumerate(filenames[:MATRIX_SIZE]):
+            if i == j:
+                continue
+            s = get_similaritiy_common_word(filename1, filename2, True)
+            if s > sensitivity:
+                matrix[i][j] = 1
+    print('running pagerank')
+    # print(matrix)
+    pr: Dict = get_pagerank(matrix)
+    print('running hits')
+    hub, auth = get_hits(matrix)
+
+    for x in list(sorted(list(pr.items()), key=lambda item: item[1], reverse=True))[:10]:
+        print(x)
+    print('*' * 20)
+    for x in list(sorted(list(hub.items()), key=lambda item: item[1], reverse=True))[:10]:
+        print(x)
+    print('*' * 20)
+    for x in list(sorted(list(auth.items()), key=lambda item: item[1], reverse=True))[:10]:
+        print(x)
+    draw_graph(matrix)
 
 if __name__ == '__main__':
     filenames = get_file_names(DATA_DIR)
