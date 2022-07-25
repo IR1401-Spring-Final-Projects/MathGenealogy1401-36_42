@@ -116,6 +116,7 @@ queries = [
     'strong',
 ]
 
-for q in queries:
-    res = generate_tokens(q)
-    print(res)
+if __name__ == '__main__':
+    for q in queries:
+        res = generate_tokens(q)
+        print(res)

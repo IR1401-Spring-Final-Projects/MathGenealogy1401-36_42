@@ -50,11 +50,28 @@ for _ in range(iters):
 
 def print_docs(docs):
     for doc in docs:
+        if doc == 'None' or doc is None:
+            continue
         print(doc.replace('_', ' '))
 
-for query_name, ranking in zip(queries, rankings):
-    ranked_docs = [filenames[idx].split('/')[1] for idx in ranking]
-    ranked_docs = ranked_docs[:TOP_RANKS]
+if __name__ == '__main__':
+    for query_name, ranking in zip(queries, rankings):
+        ranked_docs = [filenames[idx].split('/')[1] for idx in ranking]
+        ranked_docs = ranked_docs[:TOP_RANKS]
 
-    print(f'query name: {query_name}, docs:\n{print_docs(ranked_docs)}')
-    print('*'*20)
+        print(f'query name: {query_name}, docs:\n{print_docs(ranked_docs)}')
+        print('*'*20)
+
+
+def get_query(query_name):
+    query_vec = vectorizer.transform([query_name]).toarray()
+    cos_si = cosine_similarity(query_vec, doc_tfidfs)
+    rankin = np.flip(cos_si.argsort(), axis=1)[0]
+    ranked_doc = [filenames[idx].split('/')[1] for idx in rankin]
+    ranked_doc = ranked_doc[:TOP_RANKS]
+    names = []
+    for doc in ranked_doc:
+        if doc == 'None' or doc is None:
+            continue
+        names.append(doc.replace('_', ' '))
+    return names

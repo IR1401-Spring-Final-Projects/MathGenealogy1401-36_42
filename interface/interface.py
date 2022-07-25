@@ -2,12 +2,14 @@ import ipywidgets as widgets
 from IPython.display import display, Markdown, clear_output
 from elastic import elastic_search
 from clustering import cluster
+from query_expansion import qx
 import TFIDF
 import bert
 import bert_classifier
 import boolean
 import fast_text
 import make_matrix
+import rochhio
 
 BIOGRAPHY_DIR = 'text_biographies'
 # elastic_search.index_files()
@@ -52,9 +54,18 @@ def on_get_clustering(_):
         display(Markdown(text))
 
 
-def on_get_query_expansion(_):
-    #TODO
-    pass
+def on_get_qx(_):
+    with qx_result:
+        clear_output()
+        query = qx_query.value
+        print(qx.generate_tokens(query))
+
+
+def on_get_rochhio(_):
+    with rochhio_result:
+        clear_output()
+        query = rochhio_query.value
+        display(Markdown(create_html_from_names(rochhio.get_query(query))))
 
 
 def on_get_elastic(_):
@@ -117,7 +128,30 @@ cluster_page = widgets.VBox([
 ])
 
 #query expansion
+qx_query = widgets.Text(description="Query")
+qx_button = widgets.Button(description="Suggest")
+qx_button.on_click(on_get_qx)
+qx_result = widgets.Output()
 
+qx_page = widgets.VBox([
+    widgets.HBox([
+        qx_query, qx_button
+    ]),
+    qx_result
+])
+
+#rochhio
+rochhio_query = widgets.Text(description="Query")
+rochhio_button = widgets.Button(description="Search")
+rochhio_button.on_click(on_get_rochhio)
+rochhio_result = widgets.Output()
+
+rochhio_page = widgets.VBox([
+    widgets.HBox([
+        rochhio_query, rochhio_button
+    ]),
+    rochhio_result
+])
 
 #elastic
 elastic_query = widgets.Text(description="Query")
