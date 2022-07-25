@@ -61,16 +61,14 @@ def get_most_relevant_mathematicians(similarities: List[Tuple[float, str]], numb
     return [name for _, name in res]
 
 
-if __name__ == '__main__':
-    model = SentenceTransformer('all-MiniLM-L6-v2')
-    biography_vectors = get_biographies_vectors(model=model)
-    INPUT = input('Enter your term: ')
-    while INPUT != 'exit':
-        word_vector = model.encode([INPUT])[0]
-        word_vector /= LA.norm(word_vector)
+model = SentenceTransformer('all-MiniLM-L6-v2')
+biography_vectors = get_biographies_vectors(model=model)
 
-        similarities = get_similarities(word_vector, biography_vectors)
-        ans = get_most_relevant_mathematicians(similarities, 10)
-        ans = [name.replace('_', ' ') for name in ans]
-        print(*ans, sep='\n')
-        INPUT = input('Enter your term: ')
+def query_result(query):
+    word_vector = model.encode([query])[0]
+    word_vector /= LA.norm(word_vector)
+    similarities = get_similarities(word_vector, biography_vectors)
+    ans = get_most_relevant_mathematicians(similarities, 10)
+    ans = [name.replace('_', ' ') for name in ans]
+    return ans
+

@@ -1,5 +1,7 @@
 nltk
 elasticsearch
 transformers
+numpy
 pandas
 sentence_transformers
+fasttext

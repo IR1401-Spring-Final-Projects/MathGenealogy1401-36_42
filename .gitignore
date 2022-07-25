@@ -5,3 +5,4 @@ __pycache__
 
 bert_classifier/*
 bert_classifier/
+fasttext_model.bin

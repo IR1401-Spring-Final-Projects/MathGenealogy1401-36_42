@@ -63,25 +63,17 @@ def print_result(res):
     for x in res:
         print(x)
 
-if __name__ == '__main__':
-    file_exists = isfile(MODEL_FILENAME)
-    READ_FROM_STD = False
-    if file_exists:
-        model = fasttext.load_model(MODEL_FILENAME)
-    else:
-        model = create_model()
-        model.save_model(MODEL_FILENAME)
-
-    queries = []
-    if READ_FROM_STD:
-        queries.append(input('Enter your term: '))
-    else:
-        queries = subject_queries
+file_exists = isfile(MODEL_FILENAME)
+READ_FROM_STD = False
+if file_exists:
+    model = fasttext.load_model(MODEL_FILENAME)
+else:
+    model = create_model()
+    model.save_model(MODEL_FILENAME)
+biography_vectors = get_biographies_vector(model=model)
 
 
-    biography_vectors = get_biographies_vector(model=model)
-    for query in queries:
-        word_vector = model.get_word_vector(query)
-        similarities = get_similarities(word_vector, biography_vectors)
-        print(f'\n\nquery: {query}\n______________')
-        print_result(get_most_relevant_mathematicians(similarities, 10))
+def get_query(query):
+    word_vector = model.get_word_vector(query)
+    similarities = get_similarities(word_vector, biography_vectors)
+    return get_most_relevant_mathematicians(similarities, 10)

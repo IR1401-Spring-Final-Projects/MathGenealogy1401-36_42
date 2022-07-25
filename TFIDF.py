@@ -41,13 +41,21 @@ k = 10
 
 filenames = [filename[6:] for filename in filenames]
 
-query = input('What are you looking for? ')
-while query != 'exit':
+# query = input('What are you looking for? ')
+# while query != 'exit':
+#     query = preprocess(query)
+#     query = ' '.join(query)
+#     query = vectorizer.transform([query])
+#
+#     results = reversed(cosine_similarity(matrix, query).reshape((-1)).argsort()[-k:])
+#     for i in results:
+#         print(filenames[i].replace('_', ' '))
+#     query = input('What are you looking for? ')
+
+def query_result(query):
     query = preprocess(query)
     query = ' '.join(query)
     query = vectorizer.transform([query])
 
     results = reversed(cosine_similarity(matrix, query).reshape((-1)).argsort()[-k:])
-    for i in results:
-        print(filenames[i].replace('_', ' '))
-    query = input('What are you looking for? ')
+    return [filenames[i].replace('_', ' ') for i in results]

@@ -2,12 +2,13 @@ import ipywidgets as widgets
 from ipywidgets import interact, interact_manual
 from IPython.display import display, Markdown, clear_output
 import pandas as pd
-import bert_classifier, boolean
+import bert_classifier, boolean, TFIDF, bert, fast_text
 
 
 #Functions
 def on_get_classifier(_):
     with classifier_result:
+        clear_output()
         query = classifier_query.value
         print(bert_classifier.predict(query))
         # display(bert_classifier.predict(query))
@@ -20,16 +21,17 @@ def on_get_clustering(_):
 
 def on_get_hw3(_):
     with hw3_result:
+        clear_output()
         query = hw3_query.value
         type = hw3_type.value
         if type == 'Boolean':
             print(boolean.query_result(query))
         elif type == 'TFIDF':
-            pass
+            print(TFIDF.query_result(query))
         elif type == 'Bert':
-            pass
+            print(bert.query_result(query))
         elif type == 'Fast_Text':
-            pass
+            print(fast_text.get_query(query))
     pass
 
 
