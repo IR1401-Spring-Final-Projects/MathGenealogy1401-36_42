@@ -137,6 +137,7 @@ def preprocess(text: str):
 
     return text
 
+# this function should be only called once to create the preprocessed bios
 def preprocess_summaries(input_path:str, output_path:str):
     filenames = get_file_names(input_path)
     for filename in filenames:
@@ -156,7 +157,7 @@ if __name__ == '__main__':
         for j, filename2 in enumerate(filenames[:MATRIX_SIZE]):
             if i == j:
                 continue
-            s = get_similaritiy_common_word(filename1, filename2, True)
+            s = get_similaritiy_common_word(filename1, filename2, preprocess_=True)
             if s > 6    :
                 matrix[i][j] = 1
 
