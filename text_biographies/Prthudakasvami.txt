@@ -1,0 +1,116 @@
+
+
+
+Prthudakasvami
+
+
+
+
+
+Quick Info
+Born
+
+      about 830
+      
+      
+        
+        India
+        
+      
+    
+Died
+
+      about 890
+      
+      India
+    
+
+Summary
+Prthudakasvami was an Indian mathematician best known for his work on solving equations.
+
+
+
+
+
+Biography
+Prthudakasvami is best known for his work on solving equations.
+
+
+The solution of a first-degree indeterminate equation by a method called kuttaka (or "pulveriser") was given by Aryabhata I. This method of finding integer solutions resembles the continued fraction process and can also be seen as a use of the Euclidean algorithm.
+
+
+Brahmagupta seems to have used a method involving continued fractions to find integer solutions of an indeterminate equation of the type ax+c=byax + c = byax+c=by. Prthudakasvami's commentary on Brahmagupta's work is helpful in showing how "algebra", that is the method of calculating with the unknown, was developing in India. Prthudakasvami discussed the kuttaka method which he renamed as "bijagnita" which means the method of calculating with unknown elements.
+
+
+To see just how this new idea of algebra was developing in India, we look at the notation which was being used by Prthudakasvami in his commentary on Brahmagupta's Brahma Sputa Siddhanta Ⓣ(Correctly Established Doctrine of Brahma). In this commentary Prthudakasvami writes the equation 10x+8=x2+110x + 8 = x^{2} + 110x+8=x2+1 as:
+yava 0 ya 10 ru 8
+
+yava 1 ya 0 ru 1
+Here yava is an abbreviation for yavat avad varga which means the "square of the unknown quantity", ya is an abbreviation for yavat havat which means the "unknown quantity", and ru is an abbreviation for rupa which means "constant term". Hence the top row reads
+0x2+10x+80x^{2} + 10x + 80x2+10x+8
+while the second row reads
+x2+0x+1x^{2} + 0x + 1x2+0x+1
+The whole equation is therefore
+0x2+10x+8=x2+0x+10x^{2} + 10x + 8 = x^{2} + 0x + 10x2+10x+8=x2+0x+1
+or
+10x+8=x2+110x + 8 = x^{2} + 110x+8=x2+1.
+
+
+
+
+
+Other Mathematicians born in India
+
+
+
+
+
+References (show)
+
+
+
+
+
+V Mishra and S L Singh, First degree indeterminate analysis in ancient India and its application by Virasena, Indian J. Hist. Sci. 32 (2) (1997), 127-133.
+P K Majumdar, A rationale of Brahmagupta's method of solving ax + c = by, Indian J. Hist. Sci. 16 (2) (1981), 111-117.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Prthudakasvami:
+
+See Prthudakasvami on a timeline
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: An overview of Indian mathematics
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 11
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 12
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2000
+  
+
+

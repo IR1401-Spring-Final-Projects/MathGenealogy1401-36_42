@@ -1,0 +1,149 @@
+
+
+
+Robert Phelan Langlands
+
+
+
+
+
+Quick Info
+Born
+
+      6 October 1936
+      
+
+        New Westminster, British Columbia, Canada
+        
+
+
+Summary
+Robert P Langlands is a Canadian mathematician who works in  representation theory and number theory.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Robert P Langlands' father was Robert Langlands while his mother was Kathleen Phelan. He married Charlotte Lorraine Cheverie on 13 August 1956 while he was a nineteen year old undergraduate at the University of British Columbia. He was awarded his B.A. in the following year and continued to study at the University of British Columbia for his master's degree which was awarded in 1958.
+
+
+Langlands then studied at Yale University for his doctorate. He submitted his thesis Semi-groups and representations of Lie groups to Yale in 1960 and received the degree of Ph.D. Langlands wrote:-
+There are two, related parts to this thesis: one on representations of Lie semi-groups and one on operators associated to representations of Lie groups. The first part was published in the Canadian Journal of Mathematics, but the second was published only as an announcement in the Proceedings of the National Academy of Sciences of the USA. It nevertheless had the good fortune to be taken seriously by Derek Robinson, who incorporated some of the results into his book on Elliptic Operators and Lie Groups.
+Also writing of his doctoral thesis Langlands regretted that it remains:-
+... my only active encounter with partial differential equations, a subject to which I had always hoped to return but in a different vein.
+Appointed to Princeton as an instructor after completing his doctoral studies, Langlands taught there for seven years and was promoted to associate professor. He spent 1964-65 at the University of California, Berkeley as a Miller Foundation Fellow and an Alfred P Sloan Fellow. Then in 1967 he returned to Yale University as a full professor. However Langlands spent 1967-68 visiting in Ankara, Turkey having an office next to that of Cahit Arf. After five years at Yale he returned again to Princeton, this time as professor of mathematics at the Institute for Advanced Study. He has remained at the Institute for Advanced Study since his appointment there in 1972.
+
+
+In 1988 Langlands received the National Academy of Sciences Award in Mathematics. He was the first recipient of this award which was established by the American Mathematical Society. The citation for the award to Langlands recognises his:-
+... extraordinary vision that has brought the theory of group representations into a revolutionary new relationship with the theory of automorphic forms and number theory.
+Let us explain a little of Langlands' work which led to this award. As soon as he had completed his doctoral work, Langlands began to work on automorphic forms. In a remarkable paper he applied recent results by Harish-Chandra to obtain a formula for the dimension of certain spaces of automorphic forms. Then, over the next couple of years, he produced deep results on Eisenstein series and went on to apply Eisenstein series to prove a number theory conjecture due to Weil.
+
+
+In 1967 he wrote a letter to Weil which contains profound mathematical ideas which continue to drive a whole area of mathematical research. The letter was 17 pages hand-written and sent in January 1967. It sketched what soon became known as "the Langlands conjectures". Weil had the letter typed and this typed version circulated widely among mathematicians interested in the topics. Casselman writes in [3] that the letter contained:-
+... a collection of far-reaching and uncannily accurate conjectures relating number theory, automorphic forms, and representation theory. Theses have formed the core of a program still being carried out, and have come to play a central role in all three subjects.
+Other letters of Langlands also proved remarkably important. While he was in Ankara in 1967-68 he wrote to Serre with ideas which would eventually be formulated as the Deligne-Langlands conjecture; this was proved eventually by Kazhdan and Lusztig.
+
+
+The National Academy of Sciences Award in Mathematics which we referred to above is certainly not the only award which Langlands has received for his work. In 1975 he was awarded the Wilbur Cross Medal from Yale University. He received the Cole Prize in Number Theory from the American Mathematical Society in 1982 for his pioneering work on automorphic forms Eisenstein series, and product formulae. More recently he shared the 1995-96 Wolf Prize in Mathematics with Wiles. The Prize was awarded to Langlands for his:-
+... path-blazing work and extraordinary insights in the fields of number theory, automorphic forms, and group representation.
+Elected a Fellow of the Royal Society of Canada in 1972, he was elected a Fellow of the Royal Society of London in 1981. He has received honorary doctorates from the University of British Columbia, McMaster University, The City University of New York, the University of Waterloo, the University of Paris VII, McGill University, and the University of Toronto.
+
+
+In 2015 Langlands was elected to Honorary Membership of the London Mathematical Society in its 150th  Anniversary year. The short citation reads:-
+Professor Langlands secured his place in history of mathematics as the proposer (in 1967) and first developer of the eponymous research programme. The deep results and visionary conjectures of the Langlands Programme relate the core themes in number theory and representation theory.
+Casselman, in [3], ends with the following:-
+[Langlands'] astounding insight has provided a whole generation of mathematicians working in automorphic forms and representation theory with a seemingly unlimited expanse of deep, interesting, and above all approachable problems to work away on.
+
+
+
+
+
+Other Mathematicians born in Canada
+
+A Poster of Robert P Langlands
+
+
+
+
+
+References (show)
+
+
+
+
+
+A W Knapp, Group representations and harmonic analysis from Euler to Langlands I, Notices Amer. Math. Soc. 43 (4) (1996), 410-415. http://www.ams.org/notices/199604/knapp.pdf
+A W Knapp, Group representations and harmonic analysis II, Notices Amer. Math. Soc. 43 (5) (1996), 537-549. http://www.ams.org/notices/199605/knapp-2.pdf
+Robert P Langlands receives first NAS Award in Mathematics, Notices Amer. Math. Soc. 35 (4) (1988), 509-510.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Robert P Langlands:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Robert P Langlands
+
+Wolf Prize 1995/6
+Speaker at International Congress 1978
+CMS Jeffery-Williams Prize 1980
+AMS Cole Prize in Number Theory 1982
+AMS Cole Prize for number theory 1982
+NAS Award in Mathematics 1988
+AMS Colloquium Lecturer 1992
+AMS Steele Prize 2005
+Nemmers Prize 2006
+Shaw Prize 2007
+Abel Prize 2018
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: 1990 ICM - Kyoto
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update October 2015
+  
+
+

@@ -1,0 +1,173 @@
+
+
+
+Sylvestre François Lacroix
+
+
+
+
+
+Quick Info
+Born
+
+      28 April 1765
+      
+
+        Paris, France
+        
+
+Died
+
+      24 May 1843
+      
+      Paris, France
+    
+
+Summary
+Sylvestre Lacroix was a French mathematician who wrote important textbooks on geometry and analysis.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Sylvestre Lacroix's parents were poor but he still managed to obtain a good education. He was brought up in Paris which gave him access to good schools. He studied at the Collège des Quatre Nations in Paris where he was taught mathematics by the Abbé Joseph François Marie. When he was only 14 years old he spent many happy hours engrossed in making lengthy calculations of the motion of the planets. In the following year he had the opportunity to further his studies in mathematics by attending a free course given by Monge.
+
+
+At this time Monge was officially employed at the École at Mézières but he had been elected to the Académie des Sciences in Paris in 1780 and began to spend most of his time there teaching courses such as the one that Lacroix attended. Lacroix was fortunate to be a student of Monge who soon realised that his young pupil had an outstanding talent for mathematics and he used his influence to help him develop his career. Monge had replaced Bézout as examiner of naval cadets and this post put him in a position where he could recommend that Lacroix be appointed as Professor of Mathematics at the École Gardes de Marine at Rochefort in 1782. Not only did Monge use his influence to obtain this position for Lacroix, but he also acted as his mathematical advisor, recommending that he undertake research on partial differential equations and the calculus of variations. Lacroix followed his advice and in 1785, when still only twenty years old, he sent a memoir to Monge who presented it to the Académie des Sciences. Lacroix had maintained his early interest in calculating astronomical data, and in the same year he sent his new solar tables to the Academy.
+
+
+From Rochefort, Lacroix returned to Paris. Condorcet was at this time serving as Permanent Secretary to the Académie des Sciences, Inspector General of the Mint, and undertaking a great deal of work on political economy where he applied probability and the philosophy of mathematics. As was common practice at that time he kept his position teaching mathematics at the Lycée but appointed a substitute to do the teaching for him. It was this position which allowed Lacroix to return to teach in Paris but the pure mathematics course at this newly opened school, which attracted most of its students from the nobility, was poorly attended and soon discontinued. Lacroix continued to teach astronomy and the theory of probability at the Lycée. Around this time he married.
+
+
+The Academy of Sciences proposed the topic of its Grand Prix for 1787 to be on the theory of marine insurance, and Lacroix submitted an entry. He was judged as joint winner of the prize, but never received it. He took on a further position in February 1787, again as a substitute, this time at the École Militaire in Paris where he took over the duties of the professor of mathematics Le Paute d'Agelot who had left with the navigator La Pérouse on his ill-fated explorations in the Pacific Ocean. Soon he was appointed to the chair at the École Militaire, rather than as a substitute for the professor, but these were uncertain times and his position at the Lycée was abolished in August 1787 while in March 1788 the École was closed. Lacroix moved again to the provinces.
+
+
+This time Lacroix went to Besançon where he was appointed as Professor of Mathematics, Physics and Chemistry at the École d'Artillerie. However the Academy of Sciences chose him as Condorcet's correspondent on 29 August 1789, but the situation in France had already started to become chaotic. The French Revolution began with the storming of the Bastille on 14 July 1789 and after the Reign of Terror commenced in 1793 the Academy of Sciences, along with the other learned societies, was abolished on 8 August. Laplace had been an examiner at the Royal Artillery Corps since 1784, but before the Reign of Terror he left Paris with his family. Lacroix was appointed to succeed him as examiner at the Artillery Corps on 1 October 1793.
+
+
+Monge had been appointed by the National Convention on 11 March 1794 to the body that was put in place to establish the École Centrale des Travaux Publics (soon to be called the École Polytechnique), and he was appointed to teach a course in descriptive geometry on 9 November 1794. Lacroix and Hachette assisted Monge in the work for his descriptive geometry course. Lacroix was particularly well suited to assist with this course since he had been assembling material on descriptive geometry for several years, and he went on to publish Eléments de géométrie déscriptive. He was appointed to a chair at the École Centrale des Quatres Nations, then was appointed professor of mathematics at the École Polytechnique from 1799 where he held the chair of analysis.
+
+
+The National Convention ratified the creation of the Institut National des Sciences et des Arts on 22 August 1795. The First Class of the Institute was Science with 60 members divided into ten sections with six members each (effectively the old Academy of Sciences). On 20 May 1799 Lacroix was elected a member of the Institut, becoming one of the six in the mathematics section on the death of Borda. He also became a professor at the École Polytechnique in 1809, filling Lagrange's chair, and a professor of differential calculus at the Faculté des Sciences in 1810. In 1815 he left the École Polytechnique to take up a chair at the Sorbonne and he was appointed to the chair of mathematics at the Collège de France where he had taught since 1812.
+
+
+Lacroix was the writer of important textbooks in mathematics and through these he made a major contribution to the teaching of mathematics throughout France and also in other countries. He published a two volume text Traité de calcul differéntiel et du calcul intégral Ⓣ(Treatise on differential and integral calculus) (1797-1798) which is perhaps his most famous work. In the first of these volumes Lacroix introduces for the first time the expression "analyic geometry" writing:-
+There exists a manner of viewing geometry that could be called géométrie analytique, and which would consist in deducing the properties of extension from the least possible number of principles, and by truly analytic methods.
+He expanded his masterpiece to three volumes for the second edition published between 1810 and 1819. Itard writes in [1] that this:-
+... monumental work consisted a clear picture of mathematical analysis, documented and completely up to date.
+Lacroix wrote many excellent textbooks to support his lectures, for example Traité élémentaire de calcul differéntiel et du calcul intégral Ⓣ(Elementary treatise on differential calculus and integral calculus) which was published in 1802. Other texts included Traité élémentaire d'arithmétique Ⓣ(Elementary treatise on arithmetic) (1797), Traité élémentaire de trigonométrie Ⓣ(Elementary treatise on trigonometry) (1798), Elémens de géométrie Ⓣ(Elements of geometry) (1799), and Complément des élémens d'algèbre Ⓣ(Supplement to 'Elements of geometry') (1800). Of the geometry texts of Lacroix and Lagrange, Lamandé writes in [5]:-
+Supported by the new educational institutions, these works left a mark on their epoch. The authors, breaking with the intuitionism that had dominated eighteenth-century French treatises, updated the logic of geometry manuals. Although they did not take up the Eudoxian theory of the "Elements", they brought a new rigor to the theory of proportions. The efforts of Lacroix and Legendre to expose or recast the theory of parallels were notable, as were their additions to the theory. These works illustrate the different paths that had opened for the teaching of geometry: the return to the Ancients or the rewriting and expansion of that material from an analytic or synthetic perspective.
+As we mentioned above Lacroix's texts had an influence beyond France, see for example [3], and it was through English translations of Traité élémentaire de calcul differéntiel et du calcul intégral Ⓣ(Elementary treatise on differential calculus and integral calculus) by Babbage, Peacock and Herschel that the 'new continental mathematics' entered universities in Britain.
+
+
+It is interesting that Lacroix held the view that algebra and geometry:-
+... should be treated separately, as far apart as they can be, and that the results in each should serve for mutual clarification, corresponding, so to speak, to the text of a book and its translation.
+His texts appeared in many editions for over 50 years and in [6] Schubring describes how the changes in the successive editions during these 50 years, and their influence on the educational system, relate to the history of mathematical education.
+
+
+
+
+
+Quotations by Sylvestre Lacroix
+
+Other Mathematicians born in France
+
+A Poster of Sylvestre Lacroix
+
+
+
+
+
+References (show)
+
+
+
+
+
+J Itard, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Sylvestre François Lacroix, La grande encyclopédie (Paris, 1885-1891).
+D J Beckers, Positive thinking : Conceptions of negative quantities in the Netherlands and the reception of Lacroix's algebra textbook, Rev. Histoire Math. 6 (1) (2000), 95-126.
+C B Boyer, Cartesian geometry from Fermat to Lacroix, Scripta Math. 13 (1947), 133-153.
+P Lamandé, Trois traités français de géométrie à l'orée du XIXe siècle : Legendre, Peyrard et Lacroix, Physis Riv. Internaz. Storia Sci. (N.S.) 30 (2-3) (1993), 243-302.
+G Schubring, On the methodology of analyzing historical textbooks : Lacroix as textbook author (Spanish), Mathesis 8 (3) (1992), 273-298.
+G Schubring, Errata : 'On the methodology of analyzing historical textbooks : Lacroix as textbook author (Spanish)', Mathesis 10 (1) (1994), 127.
+R Taton, Sylvestre François Lacroix (1765-1843) : Mathématicien, professeur et historien des sciences, in Actes du septième congrès international d'histoire des sciences (Paris, 1953), 588-593.
+R Taton, Laplace et Sylvestre François Lacroix, in Rev. d'Hist. des Sci. 6 (1953), 350-360.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Sylvestre Lacroix:
+
+Dictionary of Scientific Biography
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Sylvestre Lacroix
+
+Lunar features Crater Lacroix
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: The function concept
+Famous Curves: Devil's Curve
+Student Projects: The French Grandes Écoles: Chapter 4
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (B)
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+Other: Earliest Known Uses of Some of the Words of Mathematics (I)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (S)
+Other: Earliest Known Uses of Some of the Words of Mathematics (T)
+Other: Earliest Known Uses of Some of the Words of Mathematics (V)
+Other: Earliest Uses of Symbols for Constants
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update June 2004
+  
+
+

@@ -1,0 +1,116 @@
+
+
+
+Henri Auguste Delannoy
+
+
+
+
+
+Quick Info
+Born
+
+      28 September 1833
+      
+
+        Bourbonne-les-Bains, Haute-Marne, France
+        
+
+Died
+
+      5 February 1915
+      
+      Guéret, La Creuse, France
+    
+
+Summary
+Henri Delannoy was a French mathematician who worked on probability and recreational mathematics. He was also intersted inthe history of mathematics.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Henri Delannoy's parents were Omère Benjamin Joseph Delannoy, a military accountant, and Françoise Delage. In fact on his birth certificate his name appears as 'Henry' but in later life he had it officially changed to 'Henri' so in this biography we use the version of the name by which Delannoy himself wanted to be known. Omère Delannoy had fought in a number of Napoleon's military campaigns, in particular at the Battle of Waterloo, before becoming an administrator in the military. He met Françoise Delage in Guéret, in central France, and they were married there on 24 November 1830. Henri was brought up in Guéret where he attended the Collège de Guéret.
+
+
+In 1849 he was awarded his baccalaureate, having received permission to take the examination when he was still officially too young. He then spent two years studying mathematics at the Lycée de Bourges, going there because his family were living in the vicinity at the time. He then attended Sainte-Barbe College in Paris, in order to prepare for the difficult entrance exams to the prestigious École Polytechnique. He was ranked 62nd  in the entrance examinations and entered the École Polytechnique in 1853. The records contain the following physical description of him: dark brown hair, height 1.68m, average forehead, medium nose, blue eyes, small mouth, round chin, round face. His academic record was certainly not particularly strong since he came 91st  out of a class of 106 in 1854 and he graduated in the following year coming 67th  out of 94 students. He joined the military on 1 May 1855 and trained at the Artillery School in Metz, graduating 12th  out of 37 students in 1856. He was given the rank of sub-lieutenant in 1856 and promoted to lieutenant on 1 May of the following year.
+
+
+Delannoy saw action in 1859 in the Second Italian War of Independence. France, led by Napoleon III, was allied with the Kingdom of Piedmont-Sardinia against Austria. War between Austria and Sardinia was declared on 29 April 1859 and a large French army marched towards Piedmont to support the greatly out-numbered Sardinian forces. Delannoy was with this French army and took part in the decisive Battle of Solferino on 24 June which proved to be a tactical victory for the French-Piedmontese forces but at a high cost in terms of soldiers lost and wounded. Delannoy survived unscathed and, after spending time stationed in Brescia and on Lake Garda, returned to Guéret where he married Olympe-Marguerite Guillon, daughter of the chemist Antoine Guillon, on 10 November 1859; they had two daughters and one son.
+
+
+In 1863 Delannoy was promoted to captain [2]:-
+He spent three years in Africa (6 October 1866-25 October 1869). He was the governor of the military Hospital of Sidi-bel-Abes, Algeria, during the terrible typhus epidemic (he belonged the Supply Corps and they were in charge of the sanitary affairs). He translated for himself, and perhaps also for his hierarchy, several German books/notes about the Supply Corps. He took part in the 1870 war between France and Prussia. ... he was in Germany on July 26, 1870 (that is, 4 days after the declaration of war ...) and on March 7, 1871 (that is, 3 days before the Treaty of London ...).
+In 1876 Delannoy's wife died after being severely burnt in a tragic accident in her own kitchen. We have not mentioned any mathematical activity by Delannoy, except as part of his schooling, up to this point and this is actually an accurate picture of his involvement in mathematics. Only in 1879 did he start to become interested in mathematics when he read articles by Édouard Lucas in La Revue Scientifique. He began corresponding with Lucas in the following year and the two began to exchange mathematical ideas. His interests were in mathematical puzzles, mathematical recreations, and probability. In all he seems to have published eleven articles but he also published many problems and solutions to problems set by others. His first publication was Emploi de l'échiquier pour la solution de problèmes arithmétiques Ⓣ(Using the chessboard to solve arithmetic problems) (1886) followed by Sur la durée du jeu Ⓣ(On the length of the game) (1888). Both of these were published while he was still in the army, working as a military intendant in the city of Orléans. However, Delannoy decided that he wanted to retire from the army and pursue his interests in mathematics and also his interests as a historian. He retired from the army on 9 January 1889 and returned to Guéret where he had been brought up. He lived there for the rest of his life devoting himself to his mathematical and historical interests. Let us now look briefly at his mathematical contributions.
+
+
+The first paper by Delannoy, mentioned above, literally means 'Using a chessboard to solve arithmetical problems' but it would be much more understandable if we translated 'échiquier' as 'array' for indeed this is what Delannoy uses. In this paper he introduces numbers which are now known as 'ballot numbers' or 'Delannoy-Segner numbers'. They count the number of lattice paths between (1, 0) and (m,n),m>n(m, n), m > n(m,n),m>n, which do not cross the diagonal. The 1888 paper, The length of a game, uses lattice paths to analyse the following game previously considered by Eugène Rouché and Joseph Bertrand:
+Pierre and Paul play a game against each other with equal probabilities. At the start of the game each has nnn francs; at each round, the winner gets one franc from his opponent. The game continues until one player is ruined. What is the probability PPP that the game ends at the beginning of the round mmm.
+In Emploi de l'échiquier pour la résolution de divers problèmes de probalilités Ⓣ(Using the chessboard to solve various problems in probability) (1889), Delannoy uses his lattice paths in arrays to solve seven problems already studied by mathematicians such as Ampère, Bertrand, Huygens, Laplace and Rouché. In this paper Delannoy introduces the 'Delannoy numbers' which count the lattice paths from the origin to (m,n)(m, n)(m,n) where the path from each point can go up, right, or across the (right-up) diagonal. For example, the number of such paths from the origin to (1, 1), to (2, 2), to (3, 3), to (4, 4), ... is 
+3, 13, 63, 321, 1683, 8989, 48639, 265729, ...
+It is interesting to note that in the 1950s a mysterious connection was spotted between these diagonal Delannoy numbers and Legendre polynomials. Only very recently has Gábor Hetyei explained this connection, which was previously thought to be a coincidence, giving a geometric interpretation of the relation between the diagonal Delannoy numbers and the Legendre polynomials in [3].
+
+
+Other papers by Delannoy are: Problèmes divers concernant le jeu Ⓣ(Various problems on games) (1890), Formules relatives aux coefficients du binôme Ⓣ(Formulas on binomial coefficients) (1890), Sur le nombre d'isomères possibles dans une molécule carbonnée Ⓣ(On the number of possible isomers of a carbonaceous molecule) (1894), Sur les arbres géométriques et leur emploi dans la théorie des combinaisons chimiques Ⓣ(On the geometrical trees and their use in chemical combination theory) (1894), Sur une question de probabilités traitée par d'Alembert Ⓣ(On a question of probabilities treated by d'Alembert) (1895), Emploi de l'échiquier pour la résolution de certains problèmes de probabilités Ⓣ(Using the chessboard to solve various problems in probability) (1895), and Sur la probabilité des événements composés Ⓣ(On the probability of compound events) (1898).
+
+
+We mentioned above that, in addition to his mathematical interests, Delannoy was an active historian, indeed he published numerous articles in the Mémoires de la Société des Sciences Naturelles et archéologiques de la Creuse. He wrote about criminal trials in La Marche, riots in Guéret in 1705, grapevines in La Creuse, local abbeys and abbots, and other similar topics. Following his retirement, he was very active in the Société des Sciences Naturelles et archéologiques de la Creuse, serving as its president from 1896 until his death in 1915. Finally let us note another of Delannoy's interests - he painted watercolours.
+
+
+
+
+
+Other Mathematicians born in France
+
+A Poster of Henri Delannoy
+
+
+
+
+
+References (show)
+
+
+
+
+
+J-M Autebert, A-M Décaillot and S R Schwer, Henri-Auguste Delannoy et la publication des oeuvres posthumes d'Édouard Lucas, Gaz. Math. No. 95 (2003), 50-62.
+C Banderier and S Schwer, Why Delannoy numbers?, J. Statist. Plann. Inference 135 (1) (2005), 40-54.
+G Hetyei, Delannony orthants of Legendre polytopes, Discrete Comput. Geom. 42 (4) (2009), 705-721.
+J Schröder, Delannoy and tetrahedral numbers, Comment. Math. Univ. Carolin. 48 (3) (2007), 389-394.
+S R Schwer and J-M Autebert, Henri-Auguste Delannoy, une biographie. I, Math. Sci. Hum. Math. Soc. Sci. No. 174 (2006), 25-67.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Henri Delannoy:
+
+Delannoy numbers in MathWorld
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2010
+  
+
+

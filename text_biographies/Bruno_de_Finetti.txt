@@ -1,0 +1,140 @@
+
+
+
+Bruno de Finetti
+
+
+
+
+
+Quick Info
+Born
+
+      13 June 1906
+      
+
+        Innsbruck, Austria
+        
+
+Died
+
+      20 July 1985
+      
+      Rome, Italy
+    
+
+Summary
+Bruno de Finetti was an Italian probabilist, statistician and actuary, noted for his approach to probability theory.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Bruno de Finetti was born of "Italian parents, Austrian citizens" as he himself wrote in an autobiographic note accompanying the book [1] edited by his former students and friends on the occasion of his 75th  birthday. Indeed, his paternal grandmother was the niece of General Radaelli, commander of the defence of Venice against Austria in 1848-49. Nevertheless, in 1906, his father was working in Innsbruck as a railway constructor. He was an engineer, as his father before him. Thus, it was no surprise when in 1923 Bruno de Finetti enrolled at Milan Polytechnic. There, however, he discovered his true passion for mathematics and in particular, as he wrote to his mother in a letter reported by Carla Rossi [9], a former student of his, he realized that:-
+...Mathematics is not by now a field already explored, just to learn and pass on to posterity as it is. It is always progressing, it is enriching and lightening itself, it is a lively and vital creature, in full development and just for these reasons I love it, I study it and I wish to devote my life to it...
+Thus, during his third year at Milan Polytechnic, inspired by a paper of the biologist Carlo Foà, he started research work in the field of population genetics which soon (1926) led him to the first of his almost three hundred writings: it was the first example of a model with overlapping generations in population genetics and it was at least forty years ahead of its time. Meanwhile, against the will of his mother, who was worried about his future, he moved to the recently founded (1925) University of Milan and there, in 1927, he graduated in Applied Mathematics with a dissertation on affine geometry supervised by Giulio Vivanti, a mathematician who made some noteworthy contributions to complex analysis. Among his teachers at the University of Milan, it is also worth remembering Oscar Chisini, who is known for his general definition of mean.
+
+
+At the time Bruno de Finetti received his degree, a position was already waiting for him in Rome at the Italian Central Statistical Institute, founded and directed by Corrado Gini. He remained there until 1931, when he moved to Trieste and started working for the "Assicurazioni Generali" insurance company. There he worked as an actuary and also on the mechanisation of some actuarial services, which probably contributed to making him one of the first mathematicians very aware of the possibilities offered by computing machinery. In the following years, he supplemented his work with several academic appointments, both in Trieste and Padua. Then, starting from 1946, he concentrated on his academic activity and in 1947 he became a full professor at the University of Trieste. Finally, in 1954, he moved to "La Sapienza" University of Rome, where he remained until the end of his career. More details on his life are given by M D Cifarelli and E Regazzini [4], as well as by L Daboni [5]; furthermore, a lively account of his life [6] has been given by him himself in a book edited by J Gani. More recently, Bruno de Finetti's life and ideas have been outlined in a biography by his daughter Fulvia and L Nicotra [2].
+
+
+Although in the vast majority of his writings the name of Bruno de Finetti stands alone, it is true that he had many contacts with both Italian and foreign scholars. In particular, the International Congress of Mathematicians held in Bologna in 1928 gave him the opportunity to meet many important mathematicians, including F P Cantelli, G Castelnuovo, M Fréchet, A Khinchin, Paul Lévy, J Neyman, R A Fisher and G Polya. A broad picture of the scientific milieu in which Bruno de Finetti took the first steps of his scientific career has been given by M D Cifarelli and E Regazzini [4]. Here, it is worth mentioning that it was L J Savage, starting from the 1950s, who spread de Finetti's ideas in the Anglo-Saxon world; indeed:-
+I must stress that I owe to him [L J Savage] if my work is no longer considered a blasphemous but harmless heresy, but as a heresy with which the official statistical church is being compelled, unsuccessfully, to come to terms ...
+was written by Bruno de Finetti in 1976, as reported by M D Cifarelli and E Regazzini [4]. The reference is to his famous subjective theory of probability, which he developed during his most prolific period, that is the one from 1926 to 1931. In this regard, D V Lindley [7], [8] reports that Bruno de Finetti was especially fond of the aphorism:-
+Probability does not exist
+which conveys his idea that probability is an expression of the observer's view of the world and as such it has no existence of its own. Although the idea of probability as a measure of the observer's belief that an event will happen had already been conceived by F P Ramsey in 1926, Bruno de Finetti was unaware of Ramsey's work and, moreover, his chief interest was for coherent probability assessments and not for rational decisions; see the obituary by D V Lindley [7] for more information. As a consequence of the subjective approach, statistical inference is no longer an empirical process producing opinions from data, but it becomes a logical-psychological process selecting opinions compatible with data among the available ones.
+
+
+A "summa" of Bruno de Finetti's revolutionary ideas on probability can be found in the two volumes of his best known book Teoria della Probabilità Ⓣ(Theory of probability) (1970) which was translated into English in 1975. However, his contributions to probability and statistics do not reduce to his subjective approach and in fact they include important results on finitely additive measures, processes with independent increments, sequences of exchangeable variables and associative means; see the review by M D Cifarelli and E Regazzini [4] for details on these. Moreover, Bruno de Finetti had interests and made contributions well outside the field of probability and statistics. A complete list of his writings has been compiled by L Daboni [5], and a selection of them republished [3], under the auspices of the Italian Mathematical Union and the Associazione per la Matematica Applicata alle Scienze Economiche e Sociali, on the occasion of the centenary of Bruno de Finetti's birth. Here, leaving aside his contributions to mathematical analysis, as well as those to financial and actuarial mathematics, it is worth considering his vital interest in economics and social justice, together with his enthusiastic involvement in the teaching of mathematics.
+
+
+Bruno de Finetti's interest in economics was innate and led him, during his first year at Milan Polytechnic, to attend the lectures given there by Ulisse Gobbi. These, in turn, confirmed him in his radical position, which he himself summarised as follows in the already mentioned autobiographic note [1]:-
+... the only directive of the whole of economics, freed from the damned game and tangle of individual and group egoisms, should always be the realisation of a collective Pareto optimum inspired by some criterion of equity.
+His longing for social justice caused him, in the 1970s, to be candidate in several elections and also arrested for his antimilitarist position. On the other hand, as reported by L Daboni [5], his work in the field of economics received a broad international appraisal and in 1982 he was awarded a degree "honoris causa" in Economics by the LUISS University of Rome.
+
+
+With regards to the teaching of mathematics, Carla Rossi [9] reports that Bruno de Finetti used to say:-
+... before approaching a problem to solve you need to see it ...
+and, in fact, he constantly struggled to keep the abstract formalism together with the conceptual meaning and objectives. A key tool for him was nomenclature: for example, as reported by D V Lindley [7], [8], he insisted that "random variables" should more appropriately be called "random quantities", for "What varies?". Furthermore, coherently with his view of probabilistic thinking as a tool to deal with uncertainty in life, he thought that it should be taught to children at an early age.
+
+
+At the time of his death, Bruno de Finetti was a honorary fellow of the Royal Statistical Society, as well as a member of the International Statistical Institute and a fellow of the Institute of Mathematical Statistics. Furthermore, in 1974, he had been elected a corresponding member, and then a full member, of the Accademia dei Lincei.
+
+
+
+
+
+Other Mathematicians born in Austria
+
+A Poster of Bruno de Finetti
+
+
+
+
+
+References (show)
+
+
+
+
+
+B de Finetti, Scritti (1926-1930) (Padova, 1981).
+F de Finetti and L Nicotra, Bruno de Finetti: un matematico scomodo (Livorno, 2008)
+B de Finetti, Opere Scelte: Vol. I and II (Bologna, 2006)
+D M Cifarelli and E Regazzini, De Finetti's contribution to probability and statistics, Statistical Science 11 (1996), 253-282.
+L Daboni, Bruno de Finetti, Bollettino dell'Unione Matematica Italiana, Serie VII 1-A (1987), 283-308.
+B de Finetti, Probability and my life, in J Gani (ed.), The Making of Statisticians (New York, 1982), 3-12.
+D V Lindley, Obituary : Bruno de Finetti, 1906-1985, Journal of the Royal Statistical Society, Series A 149 (1986), 252.
+D V Lindley, De Finetti, Bruno, in Encyclopedia of Statistical Sciences (Supplement) (New York, 1989), 46-47.
+C Rossi, Bruno de Finetti : the mathematician, the statistician, the economist, the forerunner, Statistics in Medicine 20 (2001), 3651-3666.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Bruno de Finetti:
+
+NNDB
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: African men with a doctorate in mathematics 2
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+
+
+
+
+
+
+    Written by Luca La Rocca University of Modena and Reggio Emilia.
+
+    Last Update November 2004
+  
+
+

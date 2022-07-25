@@ -1,0 +1,172 @@
+
+
+
+Frigyes Riesz
+
+
+
+
+
+Quick Info
+Born
+
+      22 January 1880
+      
+
+        Györ, Austria-Hungary (now Hungary)
+        
+
+Died
+
+      28 February 1956
+      
+      Budapest, Hungary
+    
+
+Summary
+Riesz was a founder of functional analysis and his work has many important applications in physics.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Frigyes Riesz's father Ignácz Riesz was a medical man and Frigyes's his younger brother, Marcel Riesz, was himself a famous mathematician.
+
+
+Frigyes (or Frederic in German) Riesz studied at Budapest. He went to Göttingen and Zürich to further his studies and obtained his doctorate from Budapest in 1902. His doctoral dissertation was on geometry. He spent two years teaching in schools before being appointed to a university post.
+
+
+Riesz was a founder of functional analysis and his work has many important applications in physics. He built on ideas introduced by Fréchet in his dissertation, using Fréchet's ideas of distance to provide a link between Lebesgue's work on real functions and the area of integral equations developed by Hilbert and his student Schmidt.
+
+
+In 1907 and 1909 Riesz produced representation theorems for functional on quadratic Lebesgue integrable functions and, in the second paper, in terms of a Stieltjes integral. The following year he introduced the space of qqq-fold Lebesgue integrable functions and so he began the study of normed function spaces, since, for q≥3q ≥ 3q≥3 such spaces are not Hilbert spaces. Riesz introduced the idea of the 'weak convergence' of a sequence of functions ( fn(x)f_{n}(x)fn​(x) ). A satisfactory theory of series of orthonormal functions only became possible after the invention of the Lebesgue integral and this theory was largely the work of Riesz.
+
+
+Riesz's work of 1910 marks the start of operator theory. In 1918 his work came close to an axiomatic theory for Banach spaces, which were set up axiomatically two years later by Banach in his dissertation.
+
+
+Riesz was appointed to a chair in Kolozsvár in Hungary in 1911. However, the Hungarian government was forced to sign the Treaty of Trianon on 4 June, 1920. Hungary was left with less than one third of the land that had previously been Hungary. Romania, Czechoslovakia and Yugoslavia all took over large areas but Austria, Poland and Italy also gained land from Hungary. Kolozsvár was no longer in Hungary after the Treaty of Trianon but rather it was in Romania and was renamed Cluj, so the Hungarian University there had to move within the new Hungarian borders and it moved to Szeged in 1920, where there had previously been no university.
+
+
+In Szeged in 1922 Riesz set up the János Bolyai Mathematical Institute in a joint venture with Haar. Of course the Institute was named after the famous Hungarian mathematician whose birthplace was Kolozsvár, the town from which the university had just been forced to move. Riesz became editor of the newly founded journal of the Institute Acta Scientiarum Mathematicarum which quickly became a major source of mathematics. Riesz was to publish many papers in this journal, the first in 1922 being on Egorov's theorem on linear functionals. It was published in the first part of the first volume.
+
+
+In 1945 Riesz was appointed to the chair of mathematics in the University of Budapest.
+
+
+Many of Riesz's fundamental findings in functional analysis were incorporated with those of Banach. His theorem, now called the Riesz-Fischer theorem, which he proved in 1907, is fundamental in the Fourier analysis of Hilbert space. It was the mathematical basis for proving that matrix mechanics and wave mechanics were equivalent. This is of fundamental importance in early quantum theory.
+
+
+Riesz made many contributions to other areas including ergodic theory where he gave an elementary proof of the mean ergodic theorem in 1938. He also studied orthonormal series and topology.
+
+
+Rogosinski, in [7], writes of Riesz's style:-
+The work of F Riesz is not only distinguished by the genuine importance of his results, but also by his aesthetic discernment in mathematical taste and diction. ... The more leisurely mastership of F Riesz's style, whether he writes in his native Hungarian, or in French or German, conveys such pleasure and is to the older mathematician a nostalgic remainder of what we are in danger to lose. For him there was no mere abstraction for the sake of a structure theory, and he was always turning back to the applications in some concrete and substantial situation.
+His book Leçon's d'analyse fonctionnelle Ⓣ(Lectures on functional analysis) is one of the most readable accounts of functional analysis ever written. Rogosinski, in [7], describes this book which Riesz wrote jointly with his student B Szökefalvi-Nagy as follows:-
+Here, in the first half written by himself, we find the old master picturing to us Real Analysis as he saw it, lovingly, leisurely, and with the discerning eye of an artist. This book, I have no doubt, will remain a classic in the treasure house of mathematical literature. With it, and with all his other work, will live the memory of Frederic Riesz as a great and fertile mathematician for long in the history of our art.
+Riesz received many honours for his work. He was elected to the Hungarian Academy of Sciences and, in 1949, he was awarded its Kossuth Prize. He was elected to the Paris Academy of Sciences and to the Royal Physiographic Society of Lund in Sweden. He received honorary doctorates from the universities of Szeged, Budapest and Paris.
+
+
+
+
+
+Other Mathematicians born in Hungary
+
+A Poster of Frigyes Riesz
+
+
+
+
+
+References (show)
+
+
+
+
+
+I Grattan-Guinness, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Frigyes-Riesz
+M Bernkopf, The Development of Functional Spaces, Archive for History of Exact Sciences 3 (1966-67), 1-96.
+Frigyes Riesz: necrologue (Russian), Uspekhi matematicheskikh nauk 12 (4) (76) (1957), 155-166.
+P R Halmos, The work of Frigyes Riesz (Hungarian), Mat. Lapok 29 (1-3) (1977/81), 13-20.
+E Kreyszig, Friedrich Riesz als Wegbereiter der Funktionalanalysis, Elem. Math. 45 (5) (1990), 117-130.
+W W Rogosinski, Frederic Riesz, J. London Math. Soc. 31 (4) (1956), 508-512.
+B Szökefalvi-Nagy, Life and personality of Frigyes Riesz (Hungarian), Mat. Lapok 29 (1-3) (1977/81), 1-5.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Frigyes Riesz:
+
+Frigyes Riesz by those who knew him
+Vera Sós on mathematicians she knew
+
+
+
+Other websites about Frigyes Riesz:
+
+Dictionary of Scientific Biography
+History of the Bolyai Institute in Szeged
+Encyclopaedia Britannica
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Frigyes Riesz
+
+Speaker at International Congress 1932
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of Quantum Mechanics
+History Topics: A history of Topology
+History Topics: African men with a doctorate in mathematics 2
+Societies: Colombian Mathematical Society
+Other: 1932 ICM - Zurich
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update April 1997
+  
+
+

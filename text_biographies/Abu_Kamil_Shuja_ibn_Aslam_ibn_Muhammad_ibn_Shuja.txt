@@ -1,0 +1,143 @@
+
+
+
+Abu Kamil Shuja ibn Aslam ibn Muhammad ibn Shuja
+
+
+
+
+
+Quick Info
+Born
+
+      about 850
+      
+      
+        
+        (possibly) Egypt
+        
+      
+    
+Died
+
+      about 930
+      
+      
+    
+
+Summary
+Abu Kamil Shuja was an Islamic mathematician. He was one of Al-Khwarismi's successors and applied algebraic methods to geometric problems.
+
+
+
+
+
+Biography
+Abu Kamil Shuja is sometimes known as al-Hasib al-Misri, meaning the calculator from Egypt. Very little is known about Abu Kamil's life - perhaps even this is an exaggeration and it would be more honest to say that we have no biographical details at all except that he came from Egypt and we know his dates with a fair degree of certainty.
+
+
+The Fihrist (Index) was a work compiled by the bookseller Ibn an-Nadim around 988. It gives a full account of the Arabic literature which was available in the 10th  century and it describes briefly some of the authors of this literature. The Fihrist includes a reference to Abu Kamil and among his works listed there are: (i) Book of fortune, (ii) Book of the key to fortune, (iii) Book on algebra, (vi) Book on surveying and geometry, (v) Book of the adequate, (vi) Book on omens, (vii) Book of the kernel, (viii) Book of the two errors, and (ix) Book on augmentation and diminution. Works by Abu Kamil which have survived, and will be discussed below, include Book on algebra, Book of rare things in the art of calculation, and Book on surveying and geometry.
+
+
+Although we know nothing of Abu Kamil's life we do understand something of the role he plays in the development of algebra. Before al-Khwarizmi we have no information of how algebra developed in Arabic countries, but relatively recent work by a number of historians of mathematics as given a reasonable picture of how the subject developed after al-Khwarizmi. The role of Abu Kamil is important here as he was one of al-Khwarizmi's immediate successors. In fact Abu Kamil himself stresses al-Khwarizmi's role as the "inventor of algebra". He described al-Khwarizmi as (see for example [4] or [5]):-
+... the one who was first to succeed in a book of algebra and who pioneered and invented all the principles in it.
+Again Abu Kamil wrote:-
+I have established, in my second book, proof of the authority and precedent in algebra of Muhammad ibn Musa al-Khwarizmi, and I have answered that impetuous man Ibn Barza on his attribution to Abd al-Hamid, whom he said was his grandfather.
+There is certainly no doubt that Abu Kamil considered that he was building on the foundations of algebra as set up by al-Khwarizmi and indeed he forms an important link in the development of algebra between al-Khwarizmi and al-Karaji. There is another reason for Abu Kamil's importance, however, which is that his work was the basis of Fibonacci's books. So not only is Abu Kamil important in the development of Arabic algebra, but, through Fibonacci, he is also of fundamental importance in the introduction of algebra into Europe. The author of [12] presents a list of parallels between Abu Kamil's works on algebra and the works of Fibonacci, and he also discusses the influence of Abu Kamil on two algebra texts of al-Karaji.
+
+
+The Book on algebra by Abu Kamil is in three parts: (i) On the solution of quadratic equations, (ii) On applications of algebra to the regular pentagon and decagon, and (iii) On Diophantine equations and problems of recreational mathematics. The part on the regular pentagon and decagon is studied in detail in [7], while the remainder of the work is described in [10]. The content of the work is the application of algebra to geometrical problems. It is the combination of the geometric methods developed by the Greeks together with the practical methods developed by al-Khwarizmi mixed with Babylonian methods.
+
+
+An important step forward in Abu Kamil's algebra is his ability to work with higher powers of the unknown than x2x^{2}x2. These powers are not given in symbols but are written in words, yet the naming of the powers tell us that Abu Kamil had begun to understand what we would write in symbols as xnxm=xn+mx^{n}x^{m} = x^{n+m}xnxm=xn+m. For example he uses the expression "square square root" for x5x^{5}x5 (i.e. x2×x2×xx^{2} \times  x^{2} \times  xx2×x2×x), "cube cube" for x6x^{6}x6 (i.e. x3×x3x^{3} \times  x^{3}x3×x3), "square square square square" for x8x^{8}x8 (i.e. x2×x2×x2×x2x^{2} \times  x^{2} \times  x^{2} \times  x^{2}x2×x2×x2×x2). In fact Abu Kamil works easily with the powers up to x8x^{8}x8 which appear in the text. The algebra contains 69 problems which include many of the 40 problems considered by al-Khwarizmi, but with a rather different approach to them.
+
+
+The Book on surveying and geometry is studied in detail in [9]. It was written by Abu Kamil, not for mathematicians, but rather for government land surveyors. Because of the people that it was aimed at, the work contains no proofs. Rather it presents a number of rules, some of which are far from easy, each given for the numerical solution of a geometric problem. Each rule is illustrated with a worked numerical example. Mainly the rules are for calculating the area, perimeter, diagonals etc. of figures such as squares, rectangles, and various different types of triangle. Abu Kamil also gives rules to calculate the volume and surface area of various solids such as rectangular parallelepipeds, right circular prisms, square pyramids, and circular cones.
+
+
+The work also deals with circles and here Abu Kamil takes π=227\pi = \large\frac{22}{7}\normalsizeπ=722​. A whole section is devoted to calculating the area of the segment of a circle. The final part of the work gives rules for calculating the side of regular polygons of 3, 4, 5, 6, 8, and 10 sides either inscribed in, or circumscribed about, a circle of given diameter. For the pentagon and decagon the rules which Abu Kamil gives, although without proof in this work, were fully proved in his algebra book.
+
+
+The Book of rare things in the art of calculation is concerned with solutions to indeterminate equations. Sesiano in [11] discusses Abu Kamil's work on indeterminate equations and he argues that his methods are very interesting for three reasons. Firstly Abu Kamil is the first Arabic mathematician whom we know solved indeterminate problems of the type found in Diophantus's work. Secondly, as far as we know, Abu Kamil wrote before Diophantus's Arithmetica had been studied in depth by the Arabs. Thirdly, Abu Kamil explains certain methods which are not found in the known books of the Arithmetica.
+
+
+
+
+
+
+
+Other Mathematicians born in Egypt
+
+
+
+
+
+References (show)
+
+
+
+
+
+M Levey, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+W Hartner, Abu Kamil Shuja, Encylopedia of Islam (Leiden, 1960).
+M Levey, The 'Algebra' of Abu Kamil (Madison, 1966).
+R Rashed, The development of Arabic mathematics : between arithmetic and algebra (London, 1994).
+R Rashed, Entre arithmétique et algèbre: Recherches sur l'histoire des mathématiques arabes (Paris, 1984).
+M Levey, Some notes on the algebra of Abu Kamil Shuja, a fusion of Babylonian and Greek algebra, Enseignement Math. (2) 4 (1958), 77-92.
+R Lorch, Abu Kamil on the pentagon and decagon, Vestigia mathematica (1993), 215-252.
+P Schub and M Levey, Indeterminate problems of Abu Kamil (850-930), Atti Accad. Naz. Lincei Mem. Cl. Sci. Fis. Mat. Natur. Sez. Ia (8) 10 (2) (1970), 23-96.
+J Sesiano, Le Kitab al-Misaha d'Abu Kamil, Centaurus 38 (1996), 1-21.
+J Sesiano, La version latine médiévale de 'l'Algèbre' d'Abu Kamil, in Vestigia mathematica (Amsterdam, 1993), 315-452.
+J Sesiano, Les méthodes d'analyse indéterminée chez abu Kamil, Centaurus 21 (2) (1977), 89-105.
+S Shalhub, The calculations and algebra of abu Kamil Shuja ibn Aslam and his effects on the work of al-Karaji and on the work of Leonardo Fibonacci (Arabic), in Deuxième Colloque Maghrebin sur l'Histoire des Mathématiques Arabes (Tunis, 1990), A23-A39.
+M Yadegari, The use of mathematical induction by Abu Kamil Shuja ibn Aslam (850-930), Isis 69 (247) (1978), 259-262.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Abu Kamil Shuja:
+
+See Abu Kamil Shuja on a timeline
+
+
+
+Other websites about Abu Kamil Shuja:
+
+Dictionary of Scientific Biography
+Google books
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: The Golden ratio
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

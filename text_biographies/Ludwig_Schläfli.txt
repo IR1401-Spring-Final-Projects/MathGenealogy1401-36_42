@@ -1,0 +1,161 @@
+
+
+
+Ludwig Schläfli
+
+
+
+
+
+Quick Info
+Born
+
+      15 January 1814
+      
+
+        Grasswil, Bern, Switzerland
+        
+
+Died
+
+      20 March 1895
+      
+      Berne, Switzerland
+    
+
+Summary
+ Ludwig Schläfli's work was in geometry, arithmetic and function theory. He is best known for the so-called Schläfli symbols which are used to classify polyhedra.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Ludwig Schläfli's parents were Johann Ludwig Schläfli and Magdalena Aebi. Ludwig was born in Grasswil, his mother's home town, but the family soon moved to Burgdorf where Johann Schläfli worked as a tradesman. Ludwig's father wanted him to become a tradesman and follow in his footsteps but it was clear when Ludwig was at the primary school in Burgdorf that he had great talent for mathematics but was not at all skilled with his hands. He did so well in the primary school that he was awarded a scholarship to pay for him to study at the Gymnasium in Bern which he entered in 1829.
+
+
+Although he was only fifteen years old when he entered the Gymnasium, Schläfli was already studying the differential calculus using Kästner's famous book Mathematische Anfangsgründe der Analysis des Unendlichen Ⓣ(Mathematical foundations of infinite analysis). In 1831, at the age of 17, he left the Gymnasium and began to study theology at the Academy in Bern. In 1834 the University of Bern was founded and it incorporated the Theological School which was an old institution founded in 1528, so at this stage Schläfli automatically became a university student. After graduating with a degree in theology in 1836, Schläfli decided to become a school teacher since he had already decided not to pursue an ecclesiastical career. He was appointed as a teacher of mathematics and science at the Burgerschule in Thun.
+
+
+Schläfli worked for ten years as a school teacher in Thun. During this period he studied advanced mathematics in his spare time but also travelled to Bern to attend the University there on one day each week. Schläfli was an expert linguist speaking many languages including Sanskritt and Rigveda but it was his fluency in French and Italian which proved important as this stage. Perhaps surprisingly, this expertise led him to a significant turning point in his life. In Bern in 1843 Schläfli met Steiner who was impressed with his language skills and also with his mathematical knowledge. Later that year Steiner, Jacobi and Dirichlet travelled to Rome and took Schläfli with them as an interpreter. Moritz Cantor writes in [7]:-
+... Steiner recommended the new travel companion to his Berlin friends saying that Schläfli was a provincial mathematician working near Bern, not very practical but that he learned languages like child's play, and that they should take him with them as a translator.
+Schläfli gained greatly from discussions with these leading mathematicians, in particular having a daily lesson in number theory from Dirichlet. The visit lasted for six months and during that time Schläfli translated some of his companions works into Italian.
+
+
+After six months in Italy, Schläfli returned to his teaching post in Thun but he continued to correspond with Steiner till 1856. He applied to become a Privatdozent at the University of Bern in 1847 and took up the position in the following year. However, he certainly did not find it easy to survive on the salary he received and he wrote:-
+I was confined to a stipend of Fr 400 and, in the literal sense of the word, had to do without.
+He survived on this very low salary for five years until 1853 when he was promoted to extraordinary professor. One might have hoped that such a position would have at least freed him from financial worries, but in fact he was only a little better off and still had a hard struggle to make ends meet. In 1868, at the age of 54, he was appointed as an ordinary professor of mathematics at Bern and at this stage his salary became sufficient for him to live for the first time in 20 years without financial worries.
+
+
+After taking up his appointment at the University of Bern, Schläfli worked on two major investigations. One of these was his study of elimination theory which he published in Über die resultante eines Systems mehrerer algebraischer Gleichungen. Ⓣ(On the resultant of a system of several more algebraic equations.) In one of his letters to Steiner he described the main idea:-
+For a given system of nnn equations of higher degree with nnn unknowns, I take a linear equation with undetermined coefficients a,b,c,...a, b, c, ...a,b,c,... and show how one can thus obtain true resultants without burdening the calculation with extraneous factors. If everything else is given numerically, then the resultant must he decomposable into factors all of which are linear with respect to a,b,c,...a, b, c, ...a,b,c,... . In the case of each of these linear polynomials the coefficients a,b,c,...a, b, c, ...a,b,c,... are then values of the unknowns belonging to a single solution.
+Burckhardt writes in [1]:-
+Drawing on the works of Hesse, Jacobi, and Cayley, Schläfli presented applications to special cases. He then developed the fundamental theorem on class and degree of an algebraic manifold, theorems that attracted the interest of the Italian school of geometers. The work concluded with an examination of the class equation of third degree curves.
+The second topic that he worked on shortly after his appointment as a Privatdozent was his major work Theorie der vielfachen Kontinuität Ⓣ(Theory of multiple continuity). Having written the work between 1850 and 1852, he submitted his masterpiece to the Austrian Academy of Sciences which had only been founded a few years earlier. The work begins:-
+This treatise, which I have the honour of presenting to the Imperial Academy of Science, is an attempt to found and to develop a new branch of analysis that would, as it were, be a geometry of nnn dimensions, containing the geometry of the plane and space as special cases for n=2,3n = 2, 3n=2,3.  I call this the "theory of multiple continuity" in the same sense in which one can call the geometry of space that of three-fold continuity. As in that theory, a 'group' of values of coordinates determines a point, so in this one a 'group' of given values of the nnn variables will determine a solution.
+The treatise was a long one and it was rejected by the Austrian Academy of Sciences, so Schläfli submitted it to the Berlin Academy of Science. Again it was rejected and over the next years only parts of it appeared in print in various journals. The complete treatise was published in 1901, after his death, and only then did its importance become fully appreciated. P H Schoute, reviewing the work about 50 years after it was written, wrote:-
+This treatise surpasses in scientific value a good portion of everything that has been published up to the present day in the field of multidimensional geometry. The author experienced the sad misfortune of those who are ahead of their time: the fruits of his most mature studies cannot bring him fame. And in this case the success of the success of the division of the cubic surfaces was only a small compensation; for, in my opinion, this achievement, however valuable it might be, is far from conveying the genius expressed in the theory of manifold continuity.
+In this work Schläfli introduced polytopes (although he uses the word polyschemes) which he defines to be higher dimensional analogues of polygons and polyhedra. Schläfli introduced what is today aclled the Schläfli symbol. It is defined inductively. {n}\{n\}{n} is a regular nnn-gon, so {4} is a square. There {4, 3} is the cube, since it is a regular polyhedron with 3 squares {4} meeting at each vertex. Then the 4 dimensional hypercube is denoted as {4, 3, 3}, having three cubes {4, 3} meeting at each vertex. Euclid, in the Elements, proves that there are exactly five regular solids in three dimensions. Schläfli proves that there are exactly six regular solids in four dimensions {3, 3, 3}, {4, 3, 3}, {3, 3, 4}, {3, 4, 3}, {5, 3, 3}, and {3, 3, 5}, but only three in dimension nnn where n≥5n ≥ 5n≥5, namely {3, 3, ..., 3}, {4, 3, 3, ....,3}, and {3, 3, ...,3, 4}.
+
+
+Most of Schläfli's work was in geometry, arithmetic and function theory. He gave the integral representation of the Bessel function and of the gamma function. His eight papers on Bessel functions played an important role in the preparation of G N Watson's major text Treatise on the theory of Bessel functions (1944).
+
+
+Schläfli made an important contribution to non-Euclidean (elliptic) geometry when he proposed that spherical three-dimensional space could be regarded as the surface of a hypersphere in Euclidean four-dimensional space. Schläfli knew how to find the volume of a tetrahedron not only in spherical space but also in hyperbolic space, although when he undertook this work in 1852 he was almost certainly unaware of Lobachevsky's work. Other papers which he published investigate a variety of topics such as partial differential equations, the motion of a pendulum, the general quintic equation, elliptic modular functions, orthogonal systems of surfaces, Riemannian geometry, the general cubic surface, multiply periodic functions, and the conformal mapping of a polygon on a half-plane.
+
+
+He received the Steiner Prize from the Berlin Academy in 1870 for his discovery of the 27 lines and the 36 double six on the general cubic surface. He was led to this discovery when Steiner told him about Cayley's discovery of the 27 straight lines on the cubic surface. Schläfli published the first complete description of the configuration in An attempt to determine the twenty-seven lines upon a surface of the third order, and to divide such surfaces into species in reference to the reality of the lines upon the surface.
+
+
+Schläfli also made significant contributions to celestial mechanics, for example publishing a note on the acceleration of a planet in an elliptic orbit. Among his unpublished documents is his discovery of the domain of discontinuity of the modular group ten years before Dedekind, and class invariants twenty years before Heinrich Weber.
+
+
+Although Schläfli never received full credit for his remarkable achievements during his lifetime, he was elected to the Istituto Lombardo di Scienze e Lettere in Milan (1868), the Göttingen Academy of Sciences (Königliche Gesellschaft der Wissenschaften) (1871), and the Accademia dei Lincei (1883). He was awarded an honorary doctorate by the University of Bern in 1863.
+
+
+
+
+
+Other Mathematicians born in Switzerland
+
+A Poster of Ludwig Schläfli
+
+
+
+
+
+References (show)
+
+
+
+
+
+J J Burckhardt, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+J J Burckhardt, Ludwig Schläfli, Elemente der Mathematik (1948).
+L Schläfli, Gesammelte mathematische Abhandlungen, Vol I (Verlag Birkhäuser, Basel, 1950).
+L Schläfli, Gesammelte mathematische Abhandlungen, Vol II (Verlag Birkhäuser, Basel, 1953).
+L Schläfli, Gesammelte mathematische Abhandlungen, Vol III (Verlag Birkhäuser, Basel, 1956).
+J J Burckhardt, Der mathematische Nachlass von Ludwig Schläfli (1814-1895) an der Schweizerischen Landesbibliothek, Mitt. Naturforsch. Ges. Bern 1942 (1942), 1-22.
+M Cantor, Ludwig Schläfli, Algemeine Deutsche Biografien 54 (1896), 29-31.
+H S M Coxeter, The space-time continuum, Historia Math. 2 (1975), 289-298.
+E Neuenschwander, Biographisches und Kulturhistorisches aus Briefen und Akten von Ludwig Schläfli, Gesnerus 36 (3-4) (1979), 277-299.
+V M Strel'cova, On the history of n-dimensional polyhedra (Russian), Kazakhstan Interuniv. Sci. Conf. Math. Mech. (1965) (Izdat. 'Nauka' Kazah. SSR, Alma-Ata, 1969), 245-248.
+H Voegele, Ludwig Schläfli (1814-1895) (German), Schweiz. Aktuarver. Mitt. 2005 (2005), 100 Jahre SAV, 57-59.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Ludwig Schläfli:
+
+Heinz Klaus Strick biography
+
+
+
+Other websites about Ludwig Schläfli:
+
+Dictionary of Scientific Biography
+SuperAm
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Swiss Mathematical Society
+Societies: Zurich Scientific Research Society
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 2007
+  
+
+

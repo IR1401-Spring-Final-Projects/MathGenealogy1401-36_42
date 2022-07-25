@@ -1,0 +1,147 @@
+
+
+
+Giuseppe Veronese
+
+
+
+
+
+Quick Info
+Born
+
+      7 May 1854
+      
+
+        Chioggia (now Italy)
+        
+
+Died
+
+      17 July 1917
+      
+      Padua, Italy
+    
+
+Summary
+Giuseppe Veronese was an Italian mathematician who worked on the geometry of multidimensional spaces, model theory and transfinite numbers.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Giuseppe Veronese was born and brought up in Chioggia which was a small fishing village not far from Venice. His father was a house painter and his mother Elenora Duse was related to a famous actress. However, it was a poor family and they could not afford to finance Giuseppe through university. In 1872, at age eighteen, Veronese had give up his education to take a job in Vienna.
+
+
+Veronese was fortunate, however, and the following year he was able to begin his studies again. He found himself a patron in Count Nicolò Papadopoli who supported him financially so that he could go to Zürich Polytechnic in 1873. There he set out on a course of study which involved both engineering and mathematics. However, he began to correspond with Cremona, who was at the University of Rome, on mathematical topics. He started work on a paper on Pascal's hexagram but, following Cremona's advice, he moved to Rome to complete his undergraduate degree.
+
+
+In 1876 Veronese was appointed as assistant in analytical geometry on the strength of his paper on Pascal's hexagram which he had completed by this time. This is quite remarkable for one should remember that at this point Veronese was still studying the undergraduate course in Rome. He graduated in 1877 and continued to work for his doctorate in Rome. Veronese was in contact with Klein who was about to take up a chair of geometry at the University of Leipzig. It was arranged that Veronese would go to Leipzig in 1880 and to spend the year 1880-81 undertaking research under Klein.
+
+
+Bellavitis died in November 1880 and his chair of algebraic geometry in Padua became vacant. The chair was filled by holding a competition which Veronese won and he was appointed to the chair in 1881. He held this chair throughout his life.
+
+
+Freguglia, in [5], describes Veronese's study of geometry in higher dimensions. In 1880 Veronese described an nnn-dimensional projective geometry, showing that simplifications could be obtained in passing to higher dimensions. He illustrated the fact that difficulties arose when a simple surface in high dimension was projected onto 3-space. This was a very original approach to higher-dimensional projective geometry that Veronese developed. He is certainly considered to be one of the founders of that topic for with him what others had considered as linear algebra viewed geometrically became geometry.
+
+
+This original approach was based on the supremacy of geometric intuitive techniques over the analytic and algebraic viewpoints. Veronese provided both logical and psychological motivations for his approach which greatly influenced the Italian school of geometry for many years.
+
+
+Veronese invented non-Archimedean geometries which he proposed around 1890. However Peano strongly criticised the notion due to the lack of rigour of Veronese's description and also for the fact that he did not justify his use of infinitesimal and infinite segments. The resulting argument was extremely useful to mathematics since it helped to clarify the notion of the continuum. Any fears that non-Archimedean systems would not be consistent were shown to unnecessary soon after this when Hilbert proved that indeed they were consistent.
+
+
+We should mention one or two further aspects of Veronese's life. He wrote a number of useful secondary school texts on mathematics and he also became involved in politics. He served as a member of the Parliament of Chioggia from 1897 to 1900, then later he served as a member of the Padua City Council, finally being a Senator from 1904 until his death.
+
+
+He had two particularly famous pupils. Castelnuovo, one of the greatest algebraic geometers of the Italian school, was his pupil in the mid 1880s and Levi-Civita was one of his pupils about ten years later.
+
+
+
+
+
+Other Mathematicians born in Italy
+
+A Poster of Giuseppe Veronese
+
+
+
+
+
+References (show)
+
+
+
+
+
+F G Tricomi, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+L Boi, The influence of the Erlangen Program on Italian geometry, 1880-1890 : n-dimensional geometry in the works of D'Ovidio, Veronese, Segre and Fano, Arch. Internat. Hist. Sci. 40 (124) (1990), 30-75.
+B Busulini, La retta non-archimedea di Giuseppe Veronese, Ist. Veneto Sci. Lett. Arti Atti Cl. Sci. Mat. Natur. 128 (1969/70), 239-263.
+G Fisher, Veronese's non-Archimedean linear continuum, in Real numbers, generalizations of the reals, and theories of continua (Dordrecht, 1994), 107-145.
+P Freguglia, The foundations of higher-dimensional geometry according to Giuseppe Veronese (Italian), in Geometry Seminars, 1996-1997 (Bologna, 1998), 253-277.
+C F Manara, Giuseppe Veronese ed il problema del continuo geometrico, Rendiconti del Seminario matematico e fisico di Milano 56 (1986), 99-111.
+C Segre, Commemorazione del socio nazionale Giuseppe Veronese, Atti dell'Accademia nazionale dei Lincei. Rendiconti 26 (1917), 249-258.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Giuseppe Veronese:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Giuseppe Veronese
+
+Speaker at International Congress 1908
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: 1908 ICM - Rome
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2000
+  
+
+

@@ -1,0 +1,132 @@
+
+
+
+Hermann Hankel
+
+
+
+
+
+Quick Info
+Born
+
+      14 February 1839
+      
+
+        Halle, Germany
+        
+
+Died
+
+      29 August 1873
+      
+      Schramberg (near Tübingen), Germany
+    
+
+Summary
+Hermann Hankel was a German mathematician who worked on the theory of complex numbers, the theory of functions and the history of mathematics. He is remembered for the Hankel transform and the Hankel matrix.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Hermann Hankel's father was Wilhelm Gottlieb Hankel who was a physicist at Halle at the time Hermann was born. Hermann began his education in Halle but, in 1849 Wilhelm was appointed to the chair of physics at Leipzig so the family moved to Leipzig where Hermann attended the Nicolai Gymnasium. At the gymnasium he [1]:-
+... improved his Greek by reading the ancient mathematicians in the original.
+In 1857 Hankel entered the University of Leipzig where he studied mathematics with Möbius and physics with his own father. Following the tradition in Germany at that time Hankel did not complete his studies at one university, but moved to several different universities during the course of his studies. From Leipzig he went to Göttingen in 1860 where he became a student of Riemann and then, in the following year, he worked with Weierstrass and Kronecker in Berlin. He received his doctorate for a thesis Über eine besondere Classe der symmetrischen Determinanten Ⓣ(On a special class of symmetric determinants) in 1862.
+
+
+Hankel's habilitation was accepted in 1863 and he began teaching at Leipzig where he was appointed extraordinary professor in 1867. The appointment as extraordinary professor had been in the spring but by the autumn of the same year Hankel was at Erlangen to take up an appointment as ordinary professor. He married Marie Dippe in Erlangen but again he would move fairly soon, accepting the chair at Tübingen in 1869.
+
+
+He worked on the theory of complex numbers, the theory of functions and the history of mathematics. His work on complex analysis, however, is not considered of the first rank and in [8] he is included with those who contributed but whose:-
+... influence on the foundations of complex analysis was not as essential as that of those mathematicians discussed in more detail [Riemann, Weierstrass, Hurwitz, Bieberbach ...]
+Hankel made a systematic study of the rules of arithmetic with his Prinzip der Permanenz der formalen Gesetze Ⓣ(The principle of permanence of formal laws) (1867), see [7]. He wrote another important work which was also published in 1867 Theorie der complexen Zahlensysteme Ⓣ(Theory of complex number systems) which did much to make Grassmann's ideas better known. This work [1]:-
+... constitutes a lengthy presentation of much of what was then known of the real, complex, and hypercomplex number systems. Beginning with a revised statement of George Peacock's principle of permanence of formal laws, he developed complex numbers as well as such higher algebraic systems as Möbius's barycentric calculus, some of Hermann Grassmann's algebras, and W R Hamilton's quaternions. Hankel was the first to recognise the significance of Grassmann's long-neglected writings ...
+Hankel looked at Riemann's integration theory and restated it in terms of measure theoretic concepts. This, and other work he did in this area, constitutes progress towards our current integration theories. He is remembered for the Hankel transformation which occurs in the study of functions which depend only on the distance from the origin. He also studied functions, now named Hankel functions or Bessel functions of the third kind, in a series of papers which appeared in Mathematische Annalen.
+
+
+His historical writings are rather hard to evaluate since they contain many errors, yet they are filled with brilliant insight. In the same way that he saw the importance of Grassmann's work, Hankel also must have considerable credit for seeing the importance of Bolzano's work on infinite series.
+
+
+
+
+
+Quotations by Hermann Hankel
+
+Other Mathematicians born in Germany
+
+A Poster of Hermann Hankel
+
+
+
+
+
+References (show)
+
+
+
+
+
+M J Crowe, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+A I Borodin, Mathematical calendar for the 1988/89 academic year (Russian), Mat. v Shkole (6) (1988), 60-62.
+M Cantor, Allgemeinen deutsche Biographie X (Leipzig, 1879), 516-519.
+A F Monna, Hermann Hankel, Nieuw Arch. Wisk. (3) 21 (1973), 64-87.
+J Tappenden, Geometry and generality in Frege's philosophy of arithmetic, Synthese 102 (3) (1995), 319-361.
+W von Zahn, Hermann Hankel, Mathematische Annalen 7 (1874), 583-590.
+P G J Vredenduin, Gleanings from the history of the negative number (Dutch), Euclides (Groningen) 61 (10) (1985/86), 331-337.
+W Wieslaw, German analysts at the turn of the 19th-20th centuries (Polish), Opuscula Math. No. 13 (1993), 9, 16, 75-90.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Hermann Hankel:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Abstract linear spaces
+History Topics: The function concept
+History Topics: The fundamental theorem of algebra
+History Topics: The real numbers: Stevin to Hilbert
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2000
+  
+
+

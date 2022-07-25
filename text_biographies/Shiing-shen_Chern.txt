@@ -1,0 +1,274 @@
+
+
+
+Shiing-shen Chern
+
+
+
+
+
+Quick Info
+Born
+
+      26 October 1911
+      
+
+        Chia-hsing (or Jiaxing), Chekiang province (now Zhejiang), China
+        
+
+Died
+
+      3 December 2004
+      
+      Tianjin, Tianjin Municipality, China
+    
+
+Summary
+Shiing-shen Chern was a Chinese mathematician who made important contributions to geometry and algebraic topology.
+
+
+
+
+
+    View eleven larger pictures
+
+
+
+
+
+Biography
+Shiing-shen Chern's father, Baozhen Chern, was a classically trained Confucian scholar who later became a lawyer working for the government. Baozhen Chern had married Mei Han and they had two sons and two daughters. Shiing-shen Chern, whose name can also be written as Chen Xingshen, was educated at home as well as occasionally attending Chia-hsing elementary school from the winter of 1917 until 1920. [Schooling in China at this time was just beginning to get organised following the revolution in the country around the time Chern was born.] He was taught Chinese by his aunt and mathematics by his father. Chern's daughter writes in [32]:- 
+... he didn't have a very strict father and mother who forced him to study all the time. He did things on his own and spent a lot of time in his younger days with his grandmother who probably spoiled him as much as she could.
+He entered the Xiushui Middle School in 1920 but, in 1922, his father moved to Tianjin and Chern spent the next four years at the Fulun High School in Tianjin, northern China. There Chern came to love mathematics and avidly solved the problems in Higher Algebra by H S Hall and S R Knight, and in geometry and trigonometry books by George Albert Wentworth and David Eugene Smith. He graduated from the high school in 1926 and then studied at Nankai University in Tianjin, beginning his studies in September 1930. This small university had about 300 students in total and Chern was one of a mathematics class of four students. He was particularly inspired by a geometry course given by Lifu Jiang, the only professor of mathematics at the university, who had studied at Harvard under Julian Coolidge. Lifu Jiang [65]:-
+... trained his pupils in a very strict way, which built a solid foundation for their future careers.
+After four years of study at Nankai University Chern was awarded a diploma and a B.Sc. in mathematics in 1930. There were few opportunities for mathematical research in China at this time but someone who was undertaking research in geometry, the topic that Chern had become interested in, was Dan Sun who worked in Peking. Dan Sun had obtained a doctorate from the University of Chicago in 1928, advised by Ernest Preston Lane, with his thesis Projective Differential Geometry of Quadruples of Surfaces with Points in Correspondence. After taking the entrance examination for the Graduate School at Tsing Hua University, Peking, Chern was appointed as an assistant in the Department of Mathematics at that university in August 1930. He held this position for a year and during this time he undertook research. In August 1931 he continued to undertake research in the Graduate School of Tsing Hua University. He was the only graduate student in mathematics to enter the university in 1930 but during his four years there he not only studied widely in projective differential geometry but he also began to publish his own papers on the topic. Chern wrote [25]:- 
+In the spring of 1932 Blaschke visited Peking and gave a series on topological questions in differential geometry. It was really local differential geometry where he took, instead of a Lie group as in the case of classical differential geometries, the pseudo-group of all diffeomorphisms and studied the local invariants. I was able to follow his lectures and to read many papers under the same general title published in the 'Hamburger Abhandlungen' and other journals. The subject is now known as web geometry.
+This was not his only introduction to new ideas (quoted in [60]):-
+In Peking in 1933 I attended Sperner's lectures on elementary topology. It was my first introduction to modern mathematics and it opened my eyes ...
+He received a scholarship from Tsing Hua University in 1934 to study in the United States, but he made a special request that he be allowed to go to the University of Hamburg. His reason was that he believed the mathematics he was interested in was being done in Europe and not, at that time, in the United States. His meeting with Wilhelm Blaschke when he visited Peking had convinced him that Hamburg would be better for him than the other big European mathematics centres such as Paris, Göttingen or Berlin. He wrote (quoted in [60]):-
+It was professor Blaschke whose influence on me cannot be overstated. In 1932 he visited Peking as part of his world tour. I was a young college student in his audience. I was immediately impressed by his fresh ideas and his insistence on mathematics being a lively and intelligible subject. This contact with him was instrumental in making me to decide to come to Hamburg as a student.
+When Chern arrived in Hamburg he was told that Erich Kähler, a Privatdozent at Hamburg, had just written a book describing Élie Cartan's mathematics and was about to run a seminar on the topic. Chern described the seminar [47]:-
+The classroom was filled, and the book had just come out. Kähler came in with a pile of the books and gave everybody a copy. But the subject was difficult, so after a number of times, people didn't come anymore. I think I was essentially the only one who stayed till the end. I think I stayed till the end because I followed the subject. Not only that, I was writing a thesis applying the methods to another problem, so the seminar was of great importance to me.
+After working under Blaschke and having many useful discussions with Kähler, Chern received his doctorate from Hamburg in 1936 having studied for less than two years. His scholarship was for three years so he had still another year of financial support. At this stage he was forced to choose between two attractive options, namely to stay in Hamburg and work on algebra under Emil Artin or to go to Paris and study under Élie Cartan. Although Chern knew Artin well and would have liked to have worked with him, the desire to continue working on differential geometry was the deciding factor and he went to Paris in September 1936. Before leaving for Paris he had gone to Berlin to watch the Olympic games there in August. His time in Paris was a very productive one and he learnt to approach mathematics, in the same way that Cartan did, see [28]:-
+Cartan's writings were generally regarded as very difficult, but Chern quickly accustomed himself to Cartan's way of thinking. In retrospect, Chern feels that it was like learning a new language. There is a tendency in mathematics to be abstract and have everything defined, whereas Cartan approached mathematics more intuitively. That is, he approached mathematics from evidence and the phenomena which arise from special cases rather than from a general and abstract viewpoint.
+Speaking of Cartan's ideas, Chern said in the interview [47]:-
+Without the notation and terminology of fibre bundles, it was difficult to explain these concepts in a satisfactory way.
+Working with Élie Cartan was challenging but rewarding for Chern [47]:-
+Usually the day after meeting with Cartan I would get a letter from him. He would say, "After you left, I thought more about your questions ..." - he had some results, and some more questions, and so on. He knew all these papers on simple Lie groups, Lie algebras, all by heart. When you saw him on the street, when a certain issue would come up, he would pull out some old envelope and write something and give you the answer. And sometimes it took me hours or even days to get the same answer. I saw him about once every two weeks, and clearly I had to work very hard.
+He attended Gaston Julia's Seminar which, in that year, was devoted to discussing Cartan's ideas. He met André Weil, Henri Cartan and many other leading mathematicians. In 1937 Chern left Paris to become professor of mathematics at Tsing Hua University. His journey took him across the Atlantic Ocean, across the United States and then across the Pacific Ocean. However the Chinese-Japanese war began in July 1937 while he was on the journey and the university moved twice to avoid the war. He worked at what was then named Southwest Associated University (consisting of the former Tsing Hua University, Peking University and Nankai University) from 1938 until 1943. This university operated from the city of Kunming in south west China. While there he married Shih-ning Cheng in Kunming in 1939. They had two children: a daughter Pu (known as May) who became a physicist and married the physicist Ching-wu Chu, and a son Bolong (known as Paul). He received an invitation to Princeton in 1942 but, he said:-
+... the trip from Kunming to Princeton looked formidable. At that time China and the US were allies in the war against Japan and the US was sending support to China with returning planes almost empty. So the Chinese government arranged for me a seat on an US Air Force plane from Calcutta, India to Miami, US. The trip took a week, through Africa and South America.
+He spent 1943-1945 at Princeton where he impressed both Hermann Weyl and Oswald Veblen, and met Claude Chevalley and Solomon Lefschetz. He became friendly with Lefschetz who persuaded him to become an editor of the Annals of Mathematics. He also renewed his contacts with André Weil whom he had met in Paris seven years earlier. Weil was working at Lehigh University in Bethlehem, Pennsylvania, only about 70 km from Princeton. In [67], Weil wrote about talking about Cartan's mathematics to Chern at this time:-
+... we seemed to share a common attitude towards such subjects, or towards mathematics in general; we were both striving to strike at the root of each question while freeing our minds from preconceived notions about what others might have regarded as the right or the wrong way of dealing with it.
+These talks between Weil and Chern were very influential for Chern and led to some of his most important work on characteristic classes. At the end of World War II, Chern returned to China reaching Shanghai in March 1946. He was asked to set up the Institute of Mathematics of the Academia Sinica in Nanking which he did very successfully. However at this time a civil war in China began to make life difficult and he was pleased to accept an invitation in 1948 from Weyl and Veblen to return to Princeton as a visiting professor. André Weil, who by this time was at the University of Chicago, arranged for Chern to be offered a full professorship at University of Chicago. Chern returned to the United States arriving on 1 January 1949, this time bringing his family with him.
+
+
+From 1949 Chern worked in the United States accepting the chair of geometry at the University of Chicago after first making a short visit to Princeton. He was an invited one-hour plenary speaker at the International Congress of Mathematicians held in Cambridge, Massachusetts, from 30 August to 6 September 1950. He gave the address Differential Geometry of Fibre Bundles. Hans Samelson writes:-
+The starting point of this lecture is the definition of a connection in a principal fibre bundle (all spaces are differentiable manifolds, the structure group is a Lie group ...) generalizing the well-known Levi-Civita parallelism. Geometrically the connection is a field of contact elements in the bundle, transversal to the fibres, and invariant under the action of the group.
+Chern remained at Chicago until 1960 when he went to the University of California, Berkeley. It was at this time that he became an American citizen. He explained the circumstances:-
+My election to the US National Academy of Sciences was a prime factor for my US citizenship. In 1960 I was tipped about the possibility of an academy membership. Realizing that a citizenship was necessary, I applied for it. The process was slowed because of my association to Oppenheimer. As a consequence I became a US citizen about a month before my election to academy membership.
+In 1970 he was an invited one-hour plenary speaker at the International Congress of Mathematicians held in Nice, France, from 1 September to 10 September 1970. This was a great honour since very few mathematicians have been asked to be one-hour plenary speaker at two International Congresses of Mathematicians. On this second occasion Chern gave the address Differential Geometry: Its Past and Its Future.
+
+
+He continued working at Berkeley, retiring officially in 1979 but remaining highly mathematically active there for six of seven more years. He continued to live in Berkeley until 1999 when, at the age of 88, he returned to China where he made his home in Tianjin, where the Chern Institute of Mathematics of Nankai University had been set up in 1985. The initiative for this Institute had been by Chern who proposed that the Institute should he:-
+... based at Nankai, facing the whole country, and viewing the world.
+Chern's wife died in January 2000 in Tianjin. In the paper A summary of my scientific life and works which Chern wrote in 1978 (and is included in the volumes of his selected papers) Chern wrote about the contribution of his wife:-
+I would not conclude this account without mentioning my wife's role in my life and work. Through war and peace and through bad and good times we have shared a life for forty years, which is both simple and rich. If there is credit for my mathematical works, it will be hers as well as mine.
+He died at his home in Tianjin at the age of 93 from heart failure following a heart attack.
+
+
+As we have already seen, his area of research was differential geometry where he studied the (now named) Chern characteristic classes in fibre spaces. These are important not only in mathematics but also in mathematical physics. He worked on characteristic classes during his 1943-45 visit to Princeton and, also at this time, he gave a now famous proof of the Gauss-Bonnet formula. His work is summed up in [78] as follows:-
+When Chern was working on differential geometry in the 1940s, this area of mathematics was at a low point. Global differential geometry was only beginning, even Morse theory was understood and used by a very small number of people. Today, differential geometry is a major subject in mathematics and a large share of the credit for this transformation goes to Professor Chern.
+Richard Palais and Chuu-Lian Terng give an excellent overview of Chern's mathematics in [56]:-
+Chern's mathematical interests have been unusually wide and far-ranging and he has made significant contributions to many areas of geometry, both classical and modern. Principal among these are: Geometric structures and their equivalence problems; Integral geometry; Euclidean differential geometry; Minimal surfaces and minimal submanifolds; Holomorphic maps; Webs; Exterior Differential Systems and Partial Differential Equations; The Gauss-Bonnet Theorem; and Characteristic classes. ... we would like to point out a unifying theme that runs through all of it: his absolute mastery of the techniques of differential forms and his artful application of these techniques in solving geometric problems. This was a magic mantle, handed down to him by his great teacher, Élie Cartan. It permitted him to explore in depth new mathematical territory where others could not enter. What makes differential forms such an ideal tool for studying local and global geometric properties (and for relating them to each other) is their two complementary aspects. They admit, on the one hand, the local operation of exterior differentiation, and on the other the global operation of integration over cochains, and these are related via Stokes's Theorem.
+He was awarded the Chauvenet Prize from the Mathematical Association of American 1970, the National Medal of Science in 1975, the Humboldt Prize in 1982, the Leroy F Steele Prize from the American Mathematical Society in 1983, the Wolf Prize in 1984, the Lobachevsky Medal in 2002 and the first Shaw Prize in Mathematics from Hong Kong in 2004:- 
+... for his initiation of the field of global differential geometry and his continued leadership of the field, resulting in beautiful developments that are at the centre of contemporary mathematics, with deep connections to topology, algebra and analysis, in short, to all major branches of mathematics of the last sixty years.
+In 1985 he was elected a Fellow of the Royal Society of London and the following year he was made an honorary member of the London Mathematical Society. He has also been made an honorary member of the Indian Mathematical Society (1950), the New York Academy of Sciences (1987). He was elected to the Academia Sinica (1948), the United States National Academy of Sciences (1961), the American Academy of Arts and Sciences (1963), the Brazilian Academy of Sciences (1971), the Academia Peloritana, Messina, Sicily (1986), the Accademia dei Lincei (1989), the Académie des Sciences, Paris (1989), the American Philosophical Society (1989) the Chinese Academy of Sciences (1994), and the Russian Academy of Sciences (2001). He was awarded honorary degrees by the University of Chicago (1969), the Chinese University of Hong Kong (1969), Eidgenössische Technische Hochschule Zürich (1982), the State University of New York Stony Brook (1985), University of Hamburg (1971), Nankai University (1985), University of Notre Dame (1994), Technische Universität Berlin (2001), and Hong Kong University of Science and Technology (2003).
+
+
+We end this biography with the "Chern song". In 1979 a Chern Symposium held in his honour offered him this tribute in song:-
+Hail to Chern! Mathematics Greatest!
+
+He made Gauss-Bonnet a household word,
+
+Intrinsic proofs he found,
+
+Throughout the World his truths abound,
+
+Chern classes he gave us,
+
+and Secondary Invariants,
+
+Fibre Bundles and Sheaves,
+
+Distributions and Foliated Leaves!
+
+All Hail All Hail to CHERN.
+
+
+
+
+
+Other Mathematicians born in China
+
+A Poster of Shiing-shen Chern
+
+
+
+
+
+References (show)
+
+
+
+
+
+N J Hitchin, Biography in Dictionary of Scientific Biography (New York 2008). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Shiing-shen-Chern
+P Griffiths (ed.), Inspired by S S Chern (World Sci. Publ., Hackensack, NJ, 2006).
+B Gu, S-T Yau, H-D Cao, S-y Cheng and L Ji (eds.), Frontiers of mathematical sciences: The Inauguration of the Mathematical Sciences Center of Tsinghua University and the Tsinghua-Sanya International Mathematics Forum (Int. Press, Somerville, MA, 2011).
+S-T Yau (ed.), Chern: A great geometer of the twentieth century (Int. Press, Hong Kong, 1998).
+2010 Chern Medal awarded, Notices Amer. Math. Soc. 57 (11) (2010), 1472-1474.
+Accolades paid the Chern at Congress, Reflexions. The daily newsletter of ICM 2010 (21 August 2010).
+D J Albers and G L Alexanderson (eds.), Mathematical People: Profiles and Interviews (Boston, 1985), 33-40.
+L Auslander, S S Chern as teacher, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 109-111.
+T F Banchoff, In Memoriam: Shiing-Shen Chern, 1911-2004, Mathematical Association of America. http://www.maa.org/news/in-memoriam-shiing-shen-chern-1911-2004
+T F Banchoff, Review: Global differential geometry, by S S Chern, Amer. Math. Monthly 98 (7) (1991), 669-671.
+R Bott, For the Chern volume, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 106-108.
+J-P Bourguigon, Shiing Shen Chern, an optimist, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 261-267.
+J-P Bourguigon, Entretien avec un optimiste, S S Chern, Gaz. Math. No. 48 (1991), 5-10.
+F E Browder, S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 102-103.
+R Bryant and D Freed, Shiing-Shen Chern, Physics Today 59 (1) (2006), 70-72.
+M P do Carmo, S S Chern: mathematical influences and reminiscences, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 179-183.
+K Chang, Shiing-Shen Chern, 93, Innovator in New Geometry, Dies, New York Times (7 December 2004).
+J Cheeger, Remarks delivered at Chern 79th birthday celebration, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 242-244.
+S Y Cheng, My teacher Professor S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 253-258.
+Shiing-shen Chern, The President's National Medal of Science, National Science Foundation. http://www.nsf.gov/od/nms/recip_details.jsp?recip_id=75
+Shiing-shen Chern (1911-2004) (Spanish), Lect. Mat. 26 (1) (2005), 147-148.
+Shiing-shen Chern (French), C.R. Acad. Sci. Paris Sér. Gén. Vie Sci. 6 (6) (1989), 488-489.
+S S Chern, What is geometry?, Amer. Math. Monthly 97 (8) (1990), 679-686.
+S S Chern, May mathematical education, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 1-15.
+Chern Medal Award, International Mathematical Union. http://www.mathunion.org/general/prizes/chern/details/
+The Chern Lectures, University of California, Berkeley. http://math.berkeley.edu/about/events/lectures/chern
+W G Chinn and J B Lewis, Shiing-Shen Chern: A man and his times, The Two-Year College Mathematics Journal 14 (5) (1983), 370-376.
+W-L Chow, Shiing-Shen Chern as Friend and Mathematician, A Reminiscence on the Occasion of His 80th Birthday, in Shing-Tung Yau (ed.) Chern and V V Shokurov (eds.), The Collected Papers of Wei-Liang Chow (World Scientific, 2002), 481-489.
+W-L Chow, Shiing-Shen Chern as Friend and Mathematician, A Reminiscence on the Occasion of His 80th Birthday, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 79-87.
+P C W Chu, Professor S S Chern, my father-in-law, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 91-94.
+M Chu, S S Chern: The daughter speaks, Reflexions. The daily newsletter of ICM 2010 (21 August 2010).
+M P do Carno, S S Chern: mathematical influences and reminiscences, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 179-183.
+J J Faran, Review: An Introduction to Riemann-Finsler Geometry, by D Bao, S -S Chern and Z Shen, SIAM Review 44 (3) (2002), 487-488.
+H W Guggenheimer, Review: Studies in global geometry and analysis, by S S Chern, Amer. Math. Monthly 75 (8) (1968), 921.
+R E Greene, S S Chern: some mathematical and personal reminiscences, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 247-252.
+R E Greene, S S Chern: some mathematical and personal reminiscences, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 247-252.
+R E Greene, Berkeley in the '60s: recollections of Professor Shiing-Shen Chern and the Berkeley geometry group, in Frontiers of mathematical sciences (Int. Press, Somerville, MA, 2011), 69-72.
+P A Griffiths, S S Chern: always changing, always the same, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 117-120.
+F Hirzebruch, Why do I like Chern? And why do I like Chern classes?, in Frontiers of mathematical sciences (Int. Press, Somerville, MA, 2011), 61-67.
+F Hirzebruch and U Simon, Nachruf auf Shiing-Shen Chern, Jahresber. Deutsch. Math.-Verein 108 (4) (2006), 197-217.
+N Hitchin, Shiing-Shen Chern 26 October 1911 - 3 December 2004, Biographical Memoirs of Fellows of the Royal Society 60 (2014), 75-85.
+N Hitchin, Shiing-Shen Chern 1911-2004, Bull. London Math, Soc. 38 (3) (2006), 507-519.
+W-l Huang, Shiing-Shen Chern und die Mathematik in China. Hamburger Beiträge zur Geschichte der Mathematik, Mitt. Math. Ges. Hamburg 21 (2) (2002), 17-26.
+W-l Huang and K Reich, Shiing-Shen Chern in Hamburg, in Frontiers of mathematical sciences (Int. Press, Somerville, MA, 2011), 39-60.
+A Jackson, In memoriam: S-S Chern, Notices Amer. Math. Soc. 52 (6) (2005), 623-625.
+A Jackson, Interview with Shiing Shen Chern, Notices Amer. Math. Soc. 45 (7) (1998), 860-865.
+I Kaplansky, Shiing Shen Chern with admiration as he approaches his 80th birthday, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 95-97.
+W Klingenberg, My encounters with S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 156-160.
+R Lashof, Personal recollection of Chern at Chicago, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 104-105.
+B Lawson, On Chern and youth, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 239-241.
+The Legacy of Shiing-Shen Chern, Reflexions. The daily newsletter of ICM 2010 (21 August 2010).
+L Meng, Shiing-Shen Chern at Nankai University, The Mathematical Intelligencer 36 (3) (2014), 75-78.
+Morningside lifetime achievement award in mathematics: Shiing-Shen Chern, Third International Congress of Chinese Mathematicians. Part 1, 2 (Amer. Math. Soc., Providence, RI, 2008), xxiii-xxiv
+L Nirenberg, Some personal remarks about S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 98-101.
+R S Palais and C-L Terng, The life and mathematics of Shiing Shen Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 18-62.
+R Sanders, Renowned mathematician Shiing-Shen Chern, who revitalized the study of geometry, has died at 93 in Tianjin, China, UC Berkeley News (6 December 2004). http://www.berkeley.edu/news/media/releases/2004/12/06_chern.shtml
+Shing-Tung Yau, S S Chern, as my teacher, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 271-274.
+Shiu Yuen Cheng, My teacher Professor S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 253-258.
+U Simon, E-H Tjaden and H Wefelscheid, Shiing-Shen Chern's centenary, Results Math. 60 (1-4) (2011), 13-51.
+U Simon and L Vrancken, [Anniversary volume dedicated to Keti Tenenblat, Shiing-shen Chern and the 60th volume of Results in Mathematics], Results Math. 60 (1-4) (2011), 1-2.
+J Simons, My interaction with S S Chern, in Shing-Tung Yau (ed.), Chern-  a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 176-178.
+I M Singer, For Chern volume, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 88-90.
+C Sturrock, Shiing-Shen Chern -famed mathematician, SFGate. http://www.sfgate.com/bayarea/article/Shiing-Shen-Chern-famed-mathematician-2630924.php
+Z Wang, Shiing-Shen Chern, 1911-2004, in X Zhao and E J W Park (eds.), Asian Americans: An Encyclopedia of Social, Cultural, Economic, and Political History (ABC-CLIO, 2013), 206-207.
+S M Webster, On being a Chern student, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 259-260.
+A Weil, S S Chern as geometer and friend, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 72-78.
+A Weinstein, Some thoughts about S S Chern, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 245-246.
+R O Wells, Chern Retires from Berkeley, Almost!, The Mathematical Intelligencer 2 (1980), 78-81.
+J Wolfson, Chern, some recollections, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 268-270.
+H-H Wu, S Kobayashi and A Weinstein, In Memoriam. Shiing-Shen Chern, University of California. http://senate.universityofcalifornia.edu/inmemoriam/shiingshenchern.htm
+H-H Wu, Shiing-shen Chern: 1911-2004, Bull. Amer. Math. Soc. (n.s.) 46 (2) (2009), 327-338.
+H-H Wu, Shiing-shen Chern: 1911-2004 (Catalan), Butl. Soc. Catalana Mat. 24 (1) (2009), 63-77.
+H-H Wu, Shiing-shen Chern: 26 October 1911 - 3 December 2004, Proc. Amer. Philos. Soc. 151 (1) (2007), 97-101.
+W Wu, Memory of my first research teacher: the great geometer Chern Shiing-Shen, in Inspired by S S Chern (World Sci. Publ., Hackensack, NJ, 2006), 461-485.
+L Yan, China Has Great Potential in Math: Shiing-Shen Chern, People's Daily (20 August 2002). http://english.peopledaily.com.cn/200208/20/eng20020820_101793.shtml
+C N Yang, In memory of Professor S S Chern, in Inspired by S S Chern (World Sci. Publ., Hackensack, NJ, 2006), 1-4.
+C N Yang, S S Chern and I, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 63-71.
+S-T Yau, Chern's work in geometry, in Frontiers of mathematical sciences (Int. Press, Somerville, MA, 2011), 25-37.
+S-T Yau (ed.), Shiing-Shen Chern (1911-2004), Notices Amer. Math. Soc. 58 (9) (2011), 1226-1249.
+S-T Yau, S S Chern, as my teacher, in Shing-Tung Yau (ed.), Chern - a great geometer of the twentieth century (Int. Press, Hong Kong, 1992), 271-274.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Shiing-shen Chern:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+AMS
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Shiing-shen Chern
+
+Speaker at International Congress 1950
+AMS Colloquium Lecturer 1960
+Speaker at International Congress 1970
+MAA Chauvenet Prize winner 1970
+AMS Steele Prize 1983
+Fellow of the Royal Society 1985
+LMS Honorary Member 1986
+Shaw Prize 2004
+Wolf Prize 1983/4
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Chinese Academy of Sciences
+Societies: Sinica Academia
+Other: 1978 ICM - Helsinki
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2014
+  
+
+

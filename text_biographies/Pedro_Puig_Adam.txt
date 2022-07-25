@@ -1,0 +1,195 @@
+
+
+
+Pedro Puig Adam
+
+
+
+
+
+Quick Info
+Born
+
+      12 May 1900
+      
+
+        Barcelona, Spain
+        
+
+Died
+
+      12 January 1960
+      
+      Madrid, Spain
+    
+
+Summary
+Pedro Puig Adam was a Spanish mathematician and engineer who worked in relativistic mechanics.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Pedro Puig Adam's parents were Robert Puig Dalmases and Concepció Adam Gandó. Pedro was his parents' only son. His father was the secretary of the Maquinista Terrestre y Marítima, a company founded in Barcelona in 1855 which made all types of heavy machinery. The first workshops of the company were in the Barceloneta district of Barcelona and it was in the primary school in that district that Pedro began his education. Robert Puig loved music and languages and had a huge influence on his son Pedro. Concepció Adam had strong convictions and, in particular, was a major influence on her son's religious upbringing. At the primary school in Barceloneta, Pedro was taught by Josep Gra and he proved himself an outstanding pupil, excelling in writing and arithmetic. At the age of eight, Pedro's father sent him to the Franklin Institute in Lyon in France where he spent fifteen months. Returning to Spain, he continued his education in Barcelona, attending the Instituto de Segunda Ensenanza but returned to the Franklin Institute in Lyon from May to October 1912. As well as improving his French, he also learnt German during this time in Lyon. Later, while still a pupil at the Instituto de Segunda Ensenanza, he spent summers working at the Maquinista Terrestre y Marítima factory where his father worked. He completed his studies at the Institute in 1917, winning the top prize.
+
+
+Later in 1917 Puig Adam entered the School of Industrial Engineers in Barcelona and as well as studying engineering at this school, he also studied mathematics in the School of Exact Sciences which was in the same building. After taking two engineering courses he gave up his studies in this area to concentrate on mathematics. The professor who had the greatest influence on Puig Adam at this stage was Antonio Torroja Miret (1884-1954), Professor of Descriptive Geometry and Geometry of Position at the University of Barcelona, who taught him projective geometry. Torroja Miret was one of three sons of the geometer Eduardo Torroja y Caballé (1847-1918) who had been professor of Descriptive Geometry at Complutense University. Torroja Miret was the first teacher to introduce Puig Adam to rigorous mathematics, teaching him to both think rigorously and to write rigorous mathematics. At this time classes were small and often Puig Adam would be the only student in Torroja Miret's classroom. Torroja Miret related an interesting episode many years later. This happened in Puig Adam's first year at university (see for example [3]):-
+Puig Adam was an outstanding student so imagine my surprise when, in April, I received the visit of his father, who saw that his son was studying with the ardour with which he always did, but was nervous, worried and expressing fear at every step. He wished, as a good father, to know my judgment, so that he could advise his son, if necessary, not to take the examination and to study the subject again in the following year. That brilliant student ... I do not need to tell you what my answer was. What I want to add, in honour of his father, is that the son did not know about that episode or my encouraging reply until many years later.
+After graduating from the University of Barcelona, Puig Adam went to the Central University of Madrid to complete his doctoral studies. There he attended courses given by Miguel Vegas Puebla-Collado (1865-1943), José Gabriel Álvarez Ude (1876-1958) and José María Plans y Freire (1878-1934). Puig Adam was always grateful to these teachers. He later expressed his thanks in his book Curso de Geometria Métrica Ⓣ(Metric geometry course) (1947), to:-
+... Miguel Vegas, whose teachings and affection were invaluable to me.
+Puig Adam also expressed his appreciation of Álvarez Ude, describing him as:-
+... one of my most enlightened teachers ... a good and paternal friend ... whom I have always thought of as one of my virtual teachers.
+In Curso de Geometria Métrica Ⓣ(Metric geometry course) Puig Adam describes Álvarez Ude as:-
+... an effective teacher in reviewing with his characteristic critical sharpness the first draft of this book. His wise observations led to the correction of many of its defects. I do not know how to express my gratitude for his spontaneous and for me such a precious collaboration.
+José María Plans was Puig Adam's advisor for his thesis entitled Resolución de algunos problemas elementales en Mecánica relativista restringida Ⓣ(Resolution of some elementary problems in restricted relativistic mechanics) which he submitted in 1921. In the thesis he states that the topic studied was:-
+... at the suggestion of our dear Professor Dr. José María Plans, and that we have continued under his tutelage, following his suggestions ...
+During the following three years a number of famous mathematicians visited Madrid and gave lectures which Puig Adam attended. For example he attended lectures by Tullio Levi-Civita in 1921, by Hermann Weyl in 1922, and by Albert Einstein in 1923. Puig Adam took on a number of different teaching positions over the following years. Between 1923 and 1926 he was Assistant Professor of Descriptive Geometry and Higher Geometry in the Faculty of Sciences at Madrid. Also from 1923 but continuing until 1932, he taught mathematical analysis and infinitesimal calculus at the Catholic Institute of Arts and Industries in Madrid. From 1931 to 1936 he taught at the Higher Technical School of Computing.
+
+
+On 13 April 1925 Puig Adam married María Luisa Alvarez Herrera, who had been born in Tenerife. They had been friends since meeting in Barcelona and so their wedding took place in Barcelona but they settled down to live in Madrid. Both were enthusiastic musicians and they both played the piano. They had three children; Emília, Robert and Maria Lluïsa.
+
+
+Puig Adam was keen to continue his research and, in 1926, he submitted a request for a scholarship to allow him to go to Munich and work with Constantin Carathéodory. A request to Carathéodory to comment on Puig Adam's work from the committee deciding on scholarships led to a very positive report in which Carathéodory praised Puig Adam's research that had been published in papers such as Construcciones métricas y resolución de triángulos esféricos en proyección estereográfica Ⓣ(Metric constructions and resolution of spherical triangles in stereographic projection) (1925), Sobre el problema inverso del cálculo aproximado Ⓣ(On the inverse problem of the approximate calculation) (1926), and Problemas métricos sobre una circunferencia menor Ⓣ(Metric problems on a smaller circumference) (1926). Puig Adam was awarded the scholarship and set off on a journey to Munich to work with Carathéodory. However, he had only reached Lyon when he fell ill and was advised to rest for three or four months. He returned to Madrid and eventually decided not to take up the scholarship.
+
+
+In 1926 he was appointed as professor of mathematics at the Institut de Sant Isidre in Madrid. He published Interpretación gráfica del error en el método de análisis indirecto Ⓣ(Graphic interpretation of the error in the method of indirect analysis) (1928), Sobre la representación cartesiana de las funciones homogéneas de dos variables Ⓣ(On the Cartesian representation of the homogeneous functions of two variables) (1928), and Notas sobre pedagogía matemática Ⓣ(Notes on mathematical pedagogy) (1929).  We see from these titles that he was concentrating more on teaching mathematics. He began working with Julio Rey Pastor on writing books for secondary school mathematics teachers. For example they published Elementos de Geometría Intuitiva Ⓣ(Elements of intuitive geometry) in 1928 and in the Preface they explained their beliefs:-
+Here we introduce you, dear reader, to those who have to be your co-workers: scissors, a ball, a ruler, a pair of set squares and a very large pile of sheets of paper. Not on a single day you must begin the Geometry lesson without having these, your good companions, next to you, nor finish studying it without leaving your table completely full of trimmings of paper and paper with figures ...
+With Rey Pastor he wrote further books on teaching methods such as Metodologia y didáctica de la matematica elemental Ⓣ(Methodology and didactics of elementary mathematics) (1933) and the two volume Elementos de geometría racional. I: Geometría plana. II: Geometría del espacio Ⓣ(Elements of rational geometry. I: Plane geometry. II: Geometry of space) (1934). You can see further joint publications with Rey Pastor at THIS LINK.
+
+
+You can read Puig Adam's own thoughts about teaching mathematics at THIS LINK.
+
+
+You can read a version of Joaquín Hernández Gómez's address The Pedagogical Work of Puig Adam at THIS LINK.
+
+
+However, Puig Adam had many interests other than mathematics and teaching:-
+He cultivated a fine sense of humour, he enjoyed reciting and writing verses, playing hands of cards, performing, harmonizing and composing musical pieces, drawing portraits with charcoal and painting pictures. A whole host of hobbies that combined with his teaching, research, literary creation, exquisite cultivation of friendships in conversations and visits or in maintaining an abundant correspondence.
+The Spanish Civil War broke out in 1936 making life very difficult for Puig Adam, who of course was from Barcelona, working in Madrid. The situation became unbearable when Franco' troops launched a major offensive against Madrid in October 1836, so at that time he left Madrid and moved to Barcelona. There he taught from 1937 to 1939 at the Institut-Escola de la Generalitat de Catalunya and also as a professor at the Escola Central d'Enginyers Industrials de Barcelona. Puig Adam had met with Josep Estalella, the director of the Institut-Escola de la Generalitat de Catalunya, back in May 1933 when a group from the Institut-Escola visited Madrid and, in particular, went to discuss teaching with Puig Adam at the Sant Isidre. Although Puig Adam was back home in Barcelona and at first in a better position regarding the Civil War, nevertheless the situation grew worse as Franco' army, with air support from Germany and Italy, forced the Republicans back. Many of the teachers at the Institutes where Puig Adam worked were either killed or fighting with the army. The health of Josep Estalella, the director of the Institut-Escola de la Generalitat de Catalunya, worsened and he died on 20 April 1938. Puig Adam took over the directorship of the Institut-Escola. When Barcelona fell to Franco's Nationalists in January 1939 one might have imagined that Puig Adam would have been dismissed but in fact he was able to continue in all his teaching positions in Barcelona.
+
+
+Later in 1939 Puig Adam and his family returned to Madrid and he again taught at the Sant Isidre Institute and he was also a professor at the Escola Especial d'Enginyers Industrials de Madrid. Although now much involved in teaching and writing books for teachers and for students, he continued to undertake research publishing papers such as De los axiomas de ordenación al teorema de Jordan para recintos poligonales Ⓣ(From the axioms of ordination to Jordan's theorem for polygonal enclosures) (1945). He became a full professor at the School for Industrial Engineers in 1946. He published the lectures that he gave there, his book on Integral Calculus Curso teórico práctico de cálculo integral aplicado a la física y técnica Ⓣ(Theoretical practical course of integral calculus applied to physics and technology) appearing in 1947 and his book on Differential Equations Curso téorico práctico de ecuaciones diferenciales a la física y técnica Ⓣ(Practical theoretical course of differential equations to physics and technology) in 1950. His many other books included Ampliación de matemáticas para el curso preuniversitario Ⓣ(Extension of mathematics for the pre-university course) (1960) published in the year that he died.
+
+
+Although Puig Adam taught in an exemplary manner at the San Isidro Institute in the 1950s, nevertheless the experience was not made easy by having classes of more than 100 students. There was also a lack of resources and the rigid regulations together with the need to prepare students for the various examinations and state tests meant that he was somewhat restricted in presenting mathematics in the way he thought best. There was a national decline in standards during these years which caused him great sadness but he tried to compensate by presenting his ideas in various international publications and delivered some wonderful conference lectures. His work did not receive the recognition it deserved during his lifetime, neither by the Administration nor, with some exceptions, by Spanish mathematics teachers. However, today his contributions are very highly respected and a glance at the references below will show how much he has been appreciated in more recent times since only two references are dated 1960 while the remaining 25 are dated 1985 or later.
+
+
+For a list of Puig Adam's publications, see THIS LINK.
+
+
+Among the honours that he received we mention his election to the Spanish Royal Academy of Exact, Physical and Natural Sciences. He was awarded the Order of Civil Merit and the medal of Alfonso X the Wise.
+
+
+Let us end by giving Puig Adam's advice to mathematics teachers:
+
+ Do not adopt rigid didactics, but adapt in each case to the student, constantly observing.
+ 
+ Do not forget the concrete origin of mathematics or the historical processes of its evolution.
+ 
+ Present mathematics as a unit in relation to natural and social life.
+ 
+ Carefully graduate the way towards abstraction.
+ 
+ Teach guiding the student's activity towards creating and discovering.
+ 
+ Stimulate this activity by arousing direct and functional interest towards the goal of knowledge.
+ 
+ Promote self-correction as much as possible.
+ 
+ Obtain some mastery in the solutions before they become automatic.
+ 
+ Ensure that the student's writing is a faithful translation of his or her thinking.
+ 
+ Help all students to succeed in avoiding becoming demoralised.
+
+
+
+
+
+
+
+Other Mathematicians born in Spain
+
+A Poster of Pedro Puig Adam
+
+
+
+
+
+References (show)
+
+
+
+
+
+L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990).
+C Alsina, Carta a don Pedro Puig Adam (1900-1960), SUMA 34 (2000), 5-7.
+C Alsina, Pere Puig Adam: ahir, avui i sempre (11 September 2016). http://claudialsina.com/pere-puig-adam-ahir-avui-i-sempre
+C Alsina Catala and J Sales Rufi, Pere Puig i Adam (Barcelona, 1900-Madrid, 1960). La nova didàctica de les Matemàtiques, in J M Camarasa and A Roca Rosell (eds.), Ciència i tècnica als Països Catalans: una aproximació biogràfica als darrers 150 anys (Fundació Catalana per a la Recerca, Barcelona, 1995).
+R Antoni, De la regeneración a la involución: Terradas y Rey Pastor, 35 años de amistad científica, in L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990), 71-104.
+E Ausejo Martínez, Rey Pastor y sus discípulos en la primera etapa de la Asociación Española para el Progreso de las Ciencias (1908-1936), in L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990), 105-114.
+A de Castro, Reflexiones sobre la obra de Pedro Puig Adam, Revista S.A.P.M. 'Thales' 1 (1985), 20-25.
+J Fernández Biarge, Puig Adam: su obra científica, Gaceta Matemática 12 (1-2) (1960), 5-8.
+J Fernández Biarge, La obra científica de Puig Adam, Nueva Revista de Enseñanzas Medias 7 (1985), 19-22.
+T F Glick, Pedro Puig Adam, becario de la Fundación Rockefeller, in L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990), 115-118.
+V Guijarro Mora, Pedro Puig Adam, JAE educa, Diccionario de profesores de instituto vinculados a la JAE (1907-1936). http://ceies.cchs.csic.es/?q=content/puig-adam-pedro
+J Hernández Gómez, La labor pedagógica de Puig Adam, Discurso pronunciado en el Acto conmemorativo del Centenario del nacimiento de Don Pedro Puig Adam, celebrado en la Academia de Ciencias el 7 de junio de 2000 (2000). http://www.sociedadpuigadam.es/puig/index1.php?id_pagina=12230
+M Hormigón Blánquez, El pensamiento de Rey Pastor, in L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990), 43-70.
+J R Pascual, Puig Adam: su obra didáctica, Gaceta Matemática 12 (1-2) (1960), 9-14.
+J R Pascual, Apunte biográfico de Don Pedro Puig Adam, Boletín de la Sociedad 'Puig Adam' de Profesores de Matemáticas 12 (1985), 21-36
+J R Pascual, Rasgos humanos de Don Pedro Puig Adam, Real Academia de Ciencias Exactas, Físicas y Naturales (1985), 1-11.
+J R Pascual, Pedro Puig Adam, maestro, Revista S.A.P.M. 'Thales' 1 (1985), 11-19.
+F B Pedraza et. al., Don Pedro Puig Adam, visto por su hija Emilia, Nueva Revista de Enseñanzas Medias 7 (1985), 9-17.
+Pedro Puig Adam, Biografias y Vidas, La Enciclopedia Biográfica en Línea. https://www.biografiasyvidas.com/biografia/p/puig_adam.htm
+J Peralta, The teachers of Pedro Puig Adam (Spanish), Bol. Soc. Puig Adam 56 (2000), 41-54.
+S Ríos, Obra matemática de Don Pedro, Real Academia de Ciencias Exactas, Físicas y Naturales (1985), 28-35.
+J Sales Rufí, La geometria i en Pere Puig Adam, Perspectiva Escolar 67 (1982), 11-13.
+J Sales Rufí, Semblanza bibliográfica de don Pedro Puig Adam, Nueva Revista de Enseñanzas Medias 7 (1985), 47-56.
+J Sales Rufí, Pedro Puig Adam, maestro, SUMA 34 (2000), 9-20.
+J M Sánchez Ron, Julio Rey Pastor y la Junta para Ampliación de Estudios, in L Español González (ed.), Estudios sobre Julio Rey Pastor (1888-1962) (Instituto de Estudios Riojanos, Logroño, 1990), 9-42.
+F Velázquez Manuel, El paraguas matemático del profesor Puig Adam, Números. Revista de didáctica de las matemáticas 41 (2000), 3-6.
+M Yela, Pedro Puig Adam, maestro, Real Academía de Ciencias Exactas, Físicas y Naturales (1985), 12-21.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Pedro Puig Adam:
+
+The Pedagogical Work of Puig Adam 
+Formative Value of Mathematics in Secondary Education 
+Pedro Puig Adam's publications
+
+
+
+Other websites about Pedro Puig Adam:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2017
+  
+
+

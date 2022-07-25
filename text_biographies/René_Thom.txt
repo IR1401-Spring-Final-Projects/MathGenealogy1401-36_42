@@ -1,0 +1,179 @@
+
+
+
+René Thom
+
+
+
+
+
+Quick Info
+Born
+
+      2 September 1923
+      
+
+        Montbéliard, Doubs, France
+        
+
+Died
+
+      25 October 2002
+      
+      Bures-sur-Yvette, France
+    
+
+Summary
+René Thom was a French mathematician who is known for his development of catastrophe theory, a mathematical treatment of continuous action producing a discontinuous result.
+
+
+
+
+
+    View five larger pictures
+
+
+
+
+
+Biography
+René Thom is known for his development of catastrophe theory, a mathematical treatment of continuous action producing a discontinuous result.
+
+
+From 1931 Thom attended Primary School in Montbéliard, the town of his birth in which his parents were shopkeepers. It was at this primary school that Thom first showed his academic potential winning a scholarship. He attended Collège Cuvier at Montbéliard and received his baccalaureate in elementary mathematics from Besançon in 1940. However his life was about to be disrupted by World War II.
+
+
+Thom's parents sent him and his brother south to avoid the conflict although they themselves remained in Montbéliard. Thom and his brother eventually reached Switzerland. He writes in [6]:-
+The surprising warmth with which we were welcomed there, all those people offering food and drink at the roadside, still fills me with emotion.
+After helping with the harvest near Romont, Thom returned to France being taken to Lyon where he lived with a friend of his mother. While in Lyon he continued his education, receiving his baccalaureate in philosophy in June 1941. After this he returned to his parents home in Montbéliard but was soon in Paris again to continue his education.
+
+
+Thom attended the Lycée Saint-Louis in Paris and applied to enter the École Normale Supérieure but failed to gain entrance in 1942. Determined to take advantage of a university education at the École Normale Supérieure, he applied again in 1943 and this time he was [6]:-
+... successful (but not brilliantly so)!
+At the École Normale Supérieure times were difficult as Paris was occupied by the German forces. However, mathematically it was an exciting time for Thom who was to be strongly influenced by Henri Cartan and the Bourbaki approach to mathematics. World War II ended while Thom was still studying at the École Normale Supérieure and [6]:-
+... the last year, after the 'victory', was a year of opening, bringing with it the impression of once more living life to the full. Of this rebirth I can recall a sensation of freedom that I found hard to control.
+In 1946 Thom graduated from the École Normale Supérieure and then moved to Strasbourg, taking a CNRS research post, so that he could continue to work with Henri Cartan. There he was influenced by others including Ehresmann and Koszul. His doctorate, supervised by Henri Cartan, was awarded in 1951 for a thesis entitled Fibre spaces in spheres and Steenrod squares. The work of the thesis was carried out in Strasbourg but Thom presented it to Paris. The foundations of the theory of cobordism, for which Thom later received a Fields Medal, already appear in his doctoral thesis.
+
+
+Thom was awarded a fellowship to allow him to travel to the United States in 1951 and he relates in [6] how this enabled him to meet Einstein, Weyl, and Steenrod, and to attend the seminars of Calabi and Kodaira. Thom returned to France and taught at Grenoble in 1953-54, then at Strasbourg from 1954 until 1963. He was appointed a professor in 1957.
+
+
+It is as the inventor of catastrophe theory that Thom is best known but his earlier work had made him well known before he worked on catastrophe theory. His work on topology, in particular on characteristic classes, cobordism theory and the Thom transversality theorem led to his being awarded a Fields medal in 1958. However, Thom feels that in some sense he did not deserve the honour [6]:-
+... I have the impression that work was done just a little while later that was greater in depth and sagacity than mine and whose authors were quite as deserving, if not more so, of the medal (such as my co-medallist Klaus Roth). I am thinking too of Barry Mazur's demonstration of the Schönflies conjecture: Every sphere Sn−1S^{n-1}Sn−1 in Rn\mathbb{R}^{n}Rn with regular boundary is the boundary of an nnn-ball. Not to mention the discovery by Milnor of exotic spheres.
+Hopf, who awarded the Fields Medal to Thom in Edinburgh, pointed in his presentation address to the importance of Thom's theory:-
+... his basic ideas, the grand simplicity of which I have talked of, are of a very geometric and intuitive nature. These ideas have significantly enriched mathematics, and everything seems to indicate that the impact of Thom's ideas - whether they find their expression in the already known or in forthcoming works - is not exhausted by far.
+However, the award of the Fields Medal gave Thom freedom to choose a new research direction [1]:-
+Thom said that the Fields Medal had brought him the freedom to choose what research he wanted to do, and for him that was essential. He began to take the whole of science as his canvas. He was not a theoretical or experimental scientist, in the sense of designing experiments and predicting results, but rather a philosopher of science, writing about the long-term future developments in the sciences that needed to occur.
+In 1964 he moved to the Institut des Hautes Études Scientifique at Bures-sur-Yvette. However this prompted a change in direction as he explains in [6]:-
+Relations with my colleague Grothendieck were less agreeable for me. His technical superiority was crushing. His seminar attracted the whole of Parisian mathematics, whereas I had nothing new to offer. That made me leave the strictly mathematical world and tackle more general notions, like the theory of morphogenesis, a subject which interested me more and led me towards a very general form of 'philosophical' biology.
+Thom's theory is an attempt to describe, in a way that is impossible using differential calculus, those situations in which gradually changing forces lead to so-called catastrophes, or abrupt changes. The theory has widespread application in the physical and biological sciences and in the social sciences. Presented by Thom in Structural Stability and Morphogenesis (1972), the theory has since been developed by many mathematicians. However, writing in [6], Thom explains why the theory which was marked by enormous popular success has fallen from favour:-
+It is a fact that catastrophe theory is dead. But one could say that it died of its own success. It was brought down by the extension from analytical (or algebraic) models to models that were only smooth. For as soon as it became clear that the theory did not permit quantitative prediction, all good minds ... decided it was of no value. When it comes down to it, this extension resulted from B Malgrange's extension of the preparation theorem.
+Thom was awarded the Grand Prix Scientifique de la Ville de Paris in 1974. He was made an honorary member of the London Mathematical Society in 1990.
+
+
+As a seminar speaker, Thom could be difficult to follow [1]:-
+[H]is seminars were often confusing, because his mind tended to leap ahead, leaving the audience to fill in the gaps.
+However, mathematical conversations with him could be a wonderful experience [1]:-
+... one-to-one conversations with him were marvellous: if challenged to fill a gap he would often reveal a goldmine. He showed a gentle wit, a great scepticism, and a quiet amusement at the human condition. He had original ideas about everything under the sun. His writings were often provocative in order to stimulate the reader into seeing the truth.
+
+
+
+
+
+Quotations by René Thom
+
+Other Mathematicians born in France
+
+A Poster of René Thom
+
+
+
+
+
+References (show)
+
+
+
+
+
+Obituary in The Times
+A Haefliger, Un aperçu de l'oeuvre de Thom en topologie différentielle (jusqu'en 1957), Inst. Hautes Études Sci. Publ. Math. 68 (1988), 13-18.
+H Hopf, The work of R Thom, Proc. Internat. Congress Math. 1958 (New York, 1960), lx-lxiv.
+B Teissier, Travaux de Thom sur les singularités, Inst. Hautes Études Sci. Publ. Math. 68 (1988), 19-25.
+R Thom, Publications de René Thom (écrits mathématiques), Inst. Hautes Études Sci. Publ. Math. 68 (1988), 9-11.
+R Thom, Autobiography of René Thom, in M Atiyah and D Iagolnitzer (eds.), Fields Medallists Lectures (Singapore, 1997), 71-76.
+E C Zeeman,Controversy in science: on the ideas of Daniel Bernoulli and René Thom, Nieuw Arch. Wisk. (4) 11 (3) (1993), 257-282.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about René Thom:
+
+Times obituary
+Guardian obituary
+Telegraph obituary
+A Walk Around Paris
+
+
+
+Other websites about René Thom:
+
+Encyclopaedia Britannica
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to René Thom
+
+Speaker at International Congress 1958
+Fields Medal 1958
+Dutch Mathematical Society Brouwer Medal 1970
+SIAM John von Neumann Lecture 1976
+LMS Honorary Member 1990
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: 
+History Topics: African women with a doctorate in mathematics 1
+Societies: Dutch Mathematical Society
+Societies: French Mathematical Society
+Societies: Luxembourg Mathematical Society
+Other: 1958 ICM - Edinburgh
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update October 2003
+  
+
+

@@ -1,0 +1,129 @@
+
+
+
+Vladimir Aleksandrovich Fock
+
+
+
+
+
+Quick Info
+Born
+
+      22 December 1898
+      
+
+        St Petersburg, Russia
+        
+
+Died
+
+      27 December 1974
+      
+      Leningrad, USSR (now St Petersburg, Russia)
+    
+
+Summary
+Vladimir Fock was a Russian physicist who worked in quantum mechanics and quantum electrodynamics.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Vladimir Aleksandrovich Fock's father, Aleksandr A Fock, undertook research on the growing and tending of trees. Aleksandr Fock was later employed as an inspector of forests in the south of Russia. Vladimir Aleksandrovich Fock attended school in St Petersburg but before he finished his high school studies, World War I broke out in 1914. At this time St Petersburg was renamed Petrograd so when Fock completed his school education in 1916 it was the department of Physics and Mathematics of Petrograd University that he entered. Shortly after beginning his university course Fock volunteered for the army so that he could fight for his country. He was given a short course on artillery and then sent to fight as an artillery officer on the front. He survived World War I and, after being demobilised from the army in 1918, he returned to Petrograd University to continued his studies.
+
+
+Certainly this was a dramatic period for Fock for not only was there the economic devastation caused by World War I, but by 1918 Russia was in the middle of a civil war following the Russian Revolution which began in 1917. However in 1919 a new State Optical Institute was opened in Petrograd and a special group of students was formed in an effort to make sure that the very brightest students could still get a good education despite the chaotic situation in the country. Fock was, of course, one of the most outstanding of all the students and was in this special group. Fock had already published two papers, one on quantum mechanics and one on mathematical physics, before he graduated from Petrograd University in 1922. He remained at the university to prepare for becoming a university professor.
+
+
+Schrödinger published his two fundamental papers on quantum theory in the spring of 1926 and Fock immediately started to develop the ideas and by the end of the year two of his own important papers on the Schrödinger equation had been published. This led to the importance of his work being widely recognised and as a result he was awarded a Rockefeller grant to allow him to spend a year studying in Göttingen and Paris. He became interested in the geometrization of the Dirac equation and he published an important paper in 1928 on Dirac's work on distributions. In 1932 he was appointed as Professor of Theoretical Physics at Leningrad  University. In fact, of course, he was still in St Petersburg but the city (and university) had undergone a further name change and after being known as Petrograd  for ten years became Leningrad in 1924. Also in 1932 Fock was elected a corresponding member of the USSR Academy of Sciences. This academy, based in St Petersburg, had also undergone various name changes and from 1917 to 1925 had been known as the Russian Academy of Sciences. Further in 1932 Fock published an important paper with Podolsky and Dirac on quantum electrodynamics in which the concept of multiple time formalism was introduced, and in the same year Fock introduced the concept of the Fock space in another classical paper.
+
+
+Despite Fock's great scientific achievements, the 1930s proved extremely difficult time for him. The editors of [1] write in the Preface:-
+[Fock] did not escape (fortunately, short) arrests during the 1930s. [He] was not afraid to advocate for his illegally arrested colleagues and actively confronted the ideological attacks on physics at the Soviet time.
+Daniele Oriti reviewing [1] notes the highlights of Fock's work including in the 1930s:-
+... the fundamental paper of 1935 in which the full symmetry structure of the hydrogen atom energy levels was shown to be given by the full Lorentz group; and the 1937 paper on the proper time parametrization of the Dirac equation, seminal for the later development of Schwinger's theory of field propagators and for the whole subject of parametrised field theories.
+Fock had strong views on general relativity which he interpreted somewhat differently from Einstein. He set out these views clearly in his textbook Theory of space, time and gravitation  published in 1955. In a review of the book Freeman Dyson sets out Fock's views as well as adding his own thoughts on them. We quote parts of Dyson's review:-
+This book has two quite separate aspects. First, it is a text-book for the use of graduate students in theoretical physics, giving a complete exposition of the theories of special and general relativity. Second, it is an eloquent and at times somewhat polemical plea for an unorthodox interpretation of Einstein's theory of gravitation. ...
+
+
+[Fock] violently objects to the "principle of equivalence" which Einstein regarded as the corner-stone of the theory. He objects to the notion that invariance under general coordinate transformations is a property of the physical universe. He regards this invariance as merely a property of the mathematical symbolism, which it may be sometimes convenient to maintain and sometimes inconvenient. He objects to the use of the name "general relativity" for Einstein's theory of gravitation. He defines "relativity" to mean an invariance in the description of nature as viewed from different physical observation-points (not coordinate-systems). In this sense the gravitation theory contains less relativity than what is usually called "special relativity", and not more. So he vehemently insists that we call "special relativity" "relativity", and "general relativity" "gravitation theory." ...
+
+
+The reviewer's [Dyson's] opinion is that the author [Fock] has a good case but has overstated it. It may well be true that general coordinate invariance has meaning only locally. But the most important consequence of general invariance is the existence of local conservation laws for energy and momentum, and these are valid whether general invariance holds in the large or not. The reviewer feels that the author has made a major contribution to the understanding of gravitation theory, especially by his insistence on studying the solutions of the field equations and not merely the formal properties of the equations. The future will probably confirm the validity both of the author's point of view and of Einstein's, each in its proper sphere.
+Fock's name is attached to a large number of concepts and results. Some we have mentioned but now let us list a few: Fock space; Fock vacuum; the Fock method of quantisation; the Fock proper time method; the Hartree-Fock method; Fock symmetry; the Klein-Fock-Gordon equation; the Fock-Krylov theorem; and Dirac-Fock-Podolsky formalism.
+
+
+Let us end this biography by quoting the final paragraphy from Oriti's review of [1]:-
+This publication is of the highest value from both a scientific and a historical point of view. Most of these papers are true classic works that even now maintain their original interest; even the reader who is well acquainted with the results presented in them may benefit from the clarity of the original presentation. The articles presented also possess a great historical value, most of them representing important steps in the development of quantum mechanics and quantum field theory during the first half of last century, and should be subject to careful and detailed analysis from historians of science.
+
+
+
+
+
+Other Mathematicians born in Russia
+
+A Poster of Vladimir Aleksandrovich Fock
+
+
+
+
+
+References (show)
+
+
+
+
+
+L D Faddeev, L A Khalfin and I V Komarov (eds.), Vladimir Aleksandrovich Fock : Selected works. Quantum mechanics and quantum field theory  (Chapman & Hall/CRC, Boca Raton, FL, 2004).
+A D Aleksandrov and G M Idlis, The contribution of V A Fok to the relativistic theory of space, time and gravity (Russian), Studies in the history of physics and mechanics, 1988 ('Nauka', Moscow, 1988), 106-113.
+A D Aleksandrov and G M Idlis, The contribution of V A Fok to the relativistic theory of space, time and gravity (Russian), Studies in the history of physics and mechanics 1998-1999 ('Nauka', Moscow, 2000), 36-49; 294; 298.
+Epilogue : obituary of Vladimir Aleksandrovic Fok (Russian), in Problems of theoretical physics. II. Theory of the atom. Functional methods in quantum field theory and statistical physics. Mathematical physics (Izdat. Leningrad. Univ., Leningrad, 1975), 176-178.
+L D Faddeev and I V Komarov, Academician V A Fok - classicist of twentieth century theoretical physics (on the occasion of the centenary of his birth) (Russian), Vestnik Ross. Akad. Nauk 69 (2) (1999), 145-151.
+M V Fok, Recollections of my father (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (2) (1993), 132-138.
+N V Fok, Vladimir Aleksandrovich Fok (a biographical sketch) (Russian), Studies in the history of physics and mechanics 1998-1999 ('Nauka', Moscow, 2000),  5-25; 294; 298.
+G E Gorelik, Vladimir Fock: philosophy of gravity and gravity of philosophy, in The attraction of gravitation: new studies in the history of general relativity, Johnstown, PA, 1991 (Birkhäuser Boston, Boston, MA, 1993), 308-331.
+G E Gorelik, Vladimir Aleksandrovich Fok: a philosophical lesson on the history of physics (Russian), Studies in the history of physics and mechanics 1998-1999 ('Nauka', Moscow, 2000),  50-71; 294; 298.
+A B Kozhevnikov, V A Fok and the method of second quantization (Russian), Studies in the history of physics and mechanics, 1988 ('Nauka', Moscow, 1988), 113-138.
+A Mercier, Obituary: Vladimir Fock, General Relativity and Gravitation 6 (4) (1975), 429-430.
+Yu V Novozhilov and V Yu Novozhilov, The works of Vladimir Aleksandrovich Fok on quantum theory (on the centenary of his birth) (Russian), Teoret. Mat. Fiz. 120 (3) (1999), 400-416.
+Yu V Novozhilov and V Yu Novozhilov, The works of Vladimir Aleksandrovich Fok on quantum theory (on the centenary of his birth), Theoret. and Math. Phys. 120 (3) (1999), 1150-1163.
+L A Vainshtein, Diffraction problems in the works of V A Fok (Russian), Priroda (11) (1988), 25-33.
+Vladimir Aleksandrovic Fok (obituary) (Russian), Voprosy Filos. (2) (1975), 185-186.
+Yu S Vladimirov, V A Fok and the principal problems of the theory of space-time and interactions (Russian), Studies in the history of physics and mechanics 1998-1999 ('Nauka', Moscow, 2000), 26-36; 294; 298.
+O I Zav'yalov and A M  Malokostov, V A Fok and N N Bogolyubov and their role in establishing modern quantum field theory (Russian), Teoret. Mat. Fiz. 120 (3) (1999), 380-393.
+O I Zav'yalov and A M  Malokostov, V A Fok and N N Bogolyubov and their role in establishing modern quantum field theory, Theoret. and Math. Phys. 120 (3) (1999), 1133-1144.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Vladimir Aleksandrovich Fock:
+
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2006
+  
+
+

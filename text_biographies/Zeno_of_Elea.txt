@@ -1,0 +1,226 @@
+
+
+
+Zeno of Elea
+
+
+
+
+
+Quick Info
+Born
+
+      about 490 BC
+      
+
+        Elea, Lucania (now southern Italy)
+        
+
+Died
+
+      about 425 BC
+      
+      Elea, Lucania (now southern Italy)
+    
+
+Summary
+Zeno of Elea was a Greek philosopher famous for posing so-called paradoxes which challenged mathematicians' view of the real world for many centuries.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Very little is known of the life of Zeno of Elea. We certainly know that he was a philosopher, and he is said to have been the son of Teleutagoras. The main source of our knowledge of Zeno comes from the dialogue Parmenides written by Plato.
+
+
+Zeno was a pupil and friend of the philosopher Parmenides and studied with him in Elea. The Eleatic School, one of the leading pre-Socratic schools of Greek philosophy, had been founded by Parmenides in Elea in southern Italy. His philosophy of monism claimed that the many things which appear to exist are merely a single eternal reality which he called Being. His principle was that "all is one" and that change or non-Being are impossible. Certainly Zeno was greatly influenced by the arguments of Parmenides and Plato tells us that the two philosophers visited Athens together in around 450 BC.
+
+
+Despite Plato's description of the visit of Zeno and Parmenides to Athens, it is far from universally accepted that the visit did indeed take place. However, Plato tells us that Socrates, who was then young, met Zeno and Parmenides on their visit to Athens and discussed philosophy with them. Given the best estimates of the dates of birth of these three philosophers, Socrates would be about 20, Zeno about 40, and Parmenides about 65 years of age at the time, so Plato's claim is certainly possible.
+
+
+Zeno had already written a work on philosophy before his visit to Athens and Plato reports that Zeno's book meant that he had achieved a certain fame in Athens before his visit there. Unfortunately no work by Zeno has survived, but there is very little evidence to suggest that he wrote more than one book. The book Zeno wrote before his visit to Athens was his famous work which, according to Proclus, contained forty paradoxes concerning the continuum. Four of the paradoxes, which we shall discuss in detail below, were to have a profound influence on the development of mathematics.
+
+
+Diogenes Laertius [10] gives further details of Zeno's life which are generally thought to be unreliable. Zeno returned to Elea after the visit to Athens and Diogenes Laertius claims that he met his death in a heroic attempt to remove a tyrant from the city of Elea. The stories of his heroic deeds and torture at the hands of the tyrant may well be pure inventions. Diogenes Laertius also writes about Zeno's cosmology and again there is no supporting evidence regarding this, but we shall give some indication below of the details.
+
+
+Zeno's book of forty paradoxes was, according to Plato [8]:-
+... a youthful effort, and it was stolen by someone, so that the author had no opportunity of considering whether to publish it or not. Its object was to defend the system of Parmenides by attacking the common conceptions of things.
+Proclus also described the work and confirms that [1]:-
+... Zeno elaborated forty different paradoxes following from the assumption of plurality and motion, all of them apparently based on the difficulties deriving from an analysis of the continuum.
+In his arguments against the idea that the world contains more than one thing, Zeno derived his paradoxes from the assumption that if a magnitude can be divided then it can be divided infinitely often. Zeno also assumes that a thing which has no magnitude cannot exist. Simplicius, the last head of Plato's Academy in Athens, preserved many fragments of earlier authors including Parmenides and Zeno. Writing in the first half of the sixth century he explained Zeno's argument why something without magnitude could not exist [1]:-
+For if it is added to something else, it will not make it bigger, and if it is subtracted, it will not make it smaller. But if it does not make a thing bigger when added to it nor smaller when subtracted from it, then it appears obvious that what was added or subtracted was nothing.
+Although Zeno's argument is not totally convincing at least, as Makin writes in [25]:-
+Zeno's challenge to simple pluralism is successful, in that he forces anti-Parmenideans to go beyond common sense.
+The paradoxes that Zeno gave regarding motion are more perplexing. Aristotle, in his work Physics, gives four of Zeno's arguments, The Dichotomy, The Achilles, The Arrow, and The Stadium. For the dichotomy, Aristotle describes Zeno's argument (in Heath's translation [8]):-
+There is no motion because that which is moved must arrive at the middle of its course before it arrives at the end.
+In order the traverse a line segment it is necessary to reach its midpoint. To do this one must reach the 14\large\frac{1}{4}\normalsize41​ point, to do this one must reach the 18\large\frac{1}{8}\normalsize81​ point and so on ad infinitum. Hence motion can never begin. The argument here is not answered by the well known infinite sum
+12+14+18+...=1\large\frac{1}{2}\normalsize  + \large\frac{1}{4}\normalsize  + \large\frac{1}{8}\normalsize  + ... = 121​+41​+81​+...=1
+On the one hand Zeno can argue that the sum 12+14+18+...\large\frac{1}{2}\normalsize  + \large\frac{1}{4}\normalsize  + \large\frac{1}{8}\normalsize  + ...21​+41​+81​+... never actually reaches 1, but more perplexing to the human mind is the attempts to sum 12+14+18+...\large\frac{1}{2}\normalsize  + \large\frac{1}{4}\normalsize  + \large\frac{1}{8}\normalsize  + ...21​+41​+81​+... backwards. Before traversing a unit distance we must get to the middle, but before getting to the middle we must get 14\large\frac{1}{4}\normalsize41​ of the way, but before we get 14\large\frac{1}{4}\normalsize41​ of the way we must reach 18\large\frac{1}{8}\normalsize81​ of the way etc. This argument makes us realise that we can never get started since we are trying to build up this infinite sum from the "wrong" end. Indeed this is a clever argument which still puzzles the human mind today.
+
+
+Zeno bases both the dichotomy paradox and the attack on simple pluralism on the fact that once a thing is divisible, then it is infinitely divisible. One could counter his paradoxes by postulating an atomic theory in which matter was composed of many small indivisible elements. However other paradoxes given by Zeno cause problems precisely because in these cases he considers that seemingly continuous magnitudes are made up of indivisible elements. Such a paradox is 'The Arrow' and again we give Aristotle's description of Zeno's argument (in Heath's translation [8]):-
+If, says Zeno, everything is either at rest or moving when it occupies a space equal to itself, while the object moved is in the instant, the moving arrow is unmoved.
+The argument rests on the fact that if in an indivisible instant of time the arrow moved, then indeed this instant of time would be divisible (for example in a smaller 'instant' of time the arrow would have moved half the distance). Aristotle argues against the paradox by claiming:-
+... for time is not composed of indivisible 'nows', no more than is any other magnitude.
+However, this is considered by some to be irrelevant to Zeno's argument. Moreover to deny that 'now' exists as an instant which divides the past from the future seems also to go against intuition. Of course if the instant 'now' does not exist then the arrow never occupies any particular position and this does not seem right either. Again Zeno has presented a deep problem which, despite centuries of efforts to resolve it, still seems to lack a truly satisfactory solution. As Frankel writes in [20]:-
+The human mind, when trying to give itself an accurate account of motion, finds itself confronted with two aspects of the phenomenon. Both are inevitable but at the same time they are mutually exclusive. Either we look at the continuous flow of motion; then it will be impossible for us to think of the object in any particular position. Or we think of the object as occupying any of the positions through which its course is leading it; and while fixing our thought on that particular position we cannot help fixing the object itself and putting it at rest for one short instant.
+Vlastos (see [32]) points out that if we use the standard mathematical formula for velocity we have v=stv = \large\frac{s}{t}\normalsizev=ts​, where sss is the distance travelled and ttt is the time taken. If we look at the velocity at an instant we obtain v=00v = \large\frac{0}{0}\normalsizev=00​, which is meaningless. So it is fair to say that Zeno here is pointing out a mathematical difficulty which would not be tackled properly until limits and the differential calculus were studied and put on a proper footing.
+
+
+As can be seen from the above discussion, Zeno's paradoxes are important in the development of the notion of infinitesimals. In fact some authors claim that Zeno directed his paradoxes against those who were introducing infinitesimals. Anaxagoras and the followers of Pythagoras, with their development of incommensurables, are also thought by some to be the targets of Zeno's arguments (see for example [10]). Certainly it appears unlikely that the reason given by Plato, namely to defend Parmenides' philosophical position, is the whole explanation of why Zeno wrote his famous work on paradoxes.
+
+
+The most famous of Zeno's arguments is undoubtedly the Achilles. Heath's translation from Aristotle's Physics is:-
+... the slower when running will never be overtaken by the quicker; for that which is pursuing must first reach the point from which that which is fleeing started, so that the slower must necessarily always be some distance ahead.
+Most authors, starting with Aristotle, see this paradox to be essentially the same as the Dichotomy. For example Makin [25] writes:-
+... as long as the Dichotomy can be resolved, the Achilles can be resolved. The resolutions will be parallel.
+As with most statements about Zeno's paradoxes, there is not complete agreement about any particular position. For example Toth [29] disputes the similarity of the two paradoxes, claiming that Aristotle's remarks leave much to be desired and suggests that the two arguments have entirely different structures.
+
+
+Both Plato and Aristotle did not fully appreciate the significance of Zeno's arguments. As Heath says [8]:-
+Aristotle called them 'fallacies', without being able to refute them.
+Russell certainly did not underrate Zeno's significance when he wrote in [13]:-
+In this capricious world nothing is more capricious than posthumous fame. One of the most notable victims of posterity's lack of judgement is the Eleatic Zeno. Having invented four arguments all immeasurably subtle and profound, the grossness of subsequent philosophers pronounced him to be a mere ingenious juggler, and his arguments to be one and all sophisms. After two thousand years of continual refutation, these sophisms were reinstated, and made the foundation of a mathematical renaissance ....
+Here Russell is thinking of the work of Cantor, Frege and himself on the infinite and particularly of Weierstrass on the calculus. In [2] the relation of the paradoxes to mathematics is also discussed, and the author comes to a conclusion similar to Frankel in the above quote:-
+Although they have often been dismissed as logical nonsense, many attempts have also been made to dispose of them by means of mathematical theorems, such as the theory of convergent series or the theory of sets. In the end, however, the difficulties inherent in his arguments have always come back with a vengeance, for the human mind is so constructed that it can look at a continuum in two ways that are not quite reconcilable.
+It is difficult to tell precisely what effect the paradoxes of Zeno had on the development of Greek mathematics. B L van der Waerden (see [31]) argues that the mathematical theories which were developed in the second half of the fifth century BC suggest that Zeno's work had little influence. Heath however seems to detect a greater influence [8]:-
+Mathematicians, however, ... realising that Zeno's arguments were fatal to infinitesimals, saw that they could only avoid the difficulties connected with them by once and for all banishing the idea of the infinite, even the potentially infinite, altogether from their science; thenceforth, therefore, they made no use of magnitudes increasing or decreasing ad infinitum, but contented themselves with finite magnitudes that can be made as great or as small as we please.
+We commented above that Diogenes Laertius in [10] describes a cosmology that he believes is due to Zeno. According to his description, Zeno proposed a universe consisting of several worlds, composed of "warm" and "cold, "dry" and "wet" but no void or empty space. Because this appears to have nothing in common with his paradoxes, it is usual to take the line that Diogenes Laertius is in error. However, there is some evidence that this type of belief was around in the fifth century BC, particularly associated with medical theory, and it could easily have been Zeno's version of a belief held by the Eleatic School.
+
+
+
+
+
+
+
+Other Mathematicians born in Italy
+
+A Poster of Zeno of Elea
+
+
+
+
+
+References (show)
+
+
+
+
+
+K von Fritz, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Zeno-of-Elea
+R E Allen and D J Furley (eds.), Studies in Presocratic Philosophy (2 Vols.) (London, 1975).
+J Barnes, The Presocratic Philosophers (London, 1979).
+R Ferber, Zenons Paradoxien der Bewegung und die Struktur von Raum und Zeit, 2. durchgesehene und um ein Nachwort erweiterte Auflage (Stuttgart, l995).
+A Grunbaum, Modern Science and Zeno's Paradoxes (London, 1968).
+W K C Guthrie, A History of Greek Philosophy (Vol. 2) (Cambridge, 1962).
+T L Heath, A history of Greek mathematics 1 (Oxford, 1931).
+G S Kirk, J E Raven and M Schofield, The Presocratic Philosophers (Cambridge, 1983).
+V Ya Komarova, The teachings of Zeno of Elea : An attempt to reconstruct a system of arguments (Russian) (Leningrad, 1988).
+Diogenes Laertius, Lives of eminent philosophers (New York, 1925).
+H D P Lee, Zeno of Elea. A text with Translation and Commentary (Cambridge, 1936).
+B Russell, The Principles of Mathematics I (1903).
+W C Salmon, Zeno's Paradoxes (Indianapolis, IN, 1970).
+R Sorabji, Time, Creation and the Continuum (London, 1983).
+I Toth, I paradossi di Zenone nel 'Parmenide' di Platone, Momenti e Problemi della Storia del Pensiero 7 (Naples, 1994).
+H Barreau, La physique du continu chez Aristote, sa réponse à Zénon, in Le labyrinthe du continu (Paris, 1992), 3-15.
+F Cajori, The history of Zeno's arguments on motion, Amer. Math. Monthly 22 (1915), 1-6; 77-82; 109-115; 143-149; 179-186; 215-220; 253-258.
+R Ferber, Zenon von Elea und das Leib-Seele-Problem, Allgemeine Zeitschrift für Philosophie 23 (l998), 231-246.
+H Frankel, Zeno of Elea's attacks on plurality, Amer. J. Philology 63 (1942), 1-25; 193-206.
+A Joja, Les origines de la logique en Grèce. II. Parménide et Zénon, An. Univ. Bucuresti Ser. Acta Logica 10 (1967), 5-59.
+C V Jones, Zeno's paradoxes and the first foundations of mathematics (Spanish), Mathesis. Mathesis 3 (1) (1987), 3-14.
+C W Kilmister, Zeno, Aristotle, Weyl and Shuard : two-and-a-half millenia of worries over number, Math. Gaz. 64 (429) (1980), 149-158.
+J Lear, A note on Zeno's arrow, Phronesis 26 (1981), 91-104.
+S Makin, Zeno of Elea, Routledge Encyclopedia of Philosophy 9 (London, 1998), 843-853.
+G E L Owen, Zeno and the mathematicians, Proc. Aristotelian Soc. 58 (1957), 199-222.
+A Tomasini Bassols, Aporias, antinomies and the infinite : Russell's critique of Zeno and Kant, Mathesis. Mathesis 6 (3) (1990), 307-326.
+I Toth, Le problème de la mesure dans la perspective de l'être et du non-être. Zénon et Platon, Eudoxe et Dedekind : une généalogie philosophico-mathématique, in Mathématiques et philosophie de l'antiquité à l'âge classique (Paris, 1991), 21-99.
+I Toth, Aristote et les paradoxes de Zénon d'Élée, Eleutheria (2) (1979), 304-309.
+P Urbani, Zeno's paradoxes and mathematics : a bibliographic contribution (Italian), Arch. Internat. Hist. Sci. 39 (123) (1989), 201-209.
+B L van der Waerden, Zenon und die Grundlagenkrise der griechischen Mathematik, Math. Ann. 117 (1940), 141-161.
+G Vlastos, A note on Zeno's arrow, Phronesis 11 (1966), 3-18.
+G Vlastos, Zeno's race course, J. Hist. Philos. 4 (1966), 95-108.
+J Vuillemin, Sur deux cas d'application de l'axiomatique à la philosophie : l'analyse du mouvement par Zénon d'Elée et l'analyse de la liberté par Diodore Kronos, Fund. Sci. 6 (3) (1985), 209-219.
+M Zangari, Zeno, zero and indeterminate forms: Instants in the logic of motion, Australasian Journal of Philosophy 72 (1994), 187-204.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Zeno of Elea:
+
+See Zeno of Elea on a timeline
+
+
+
+Other websites about Zeno of Elea:
+
+Dictionary of Scientific Biography
+The Catholic Encyclopedia
+Kevin Brown
+Internet Encyclopedia of Philosophy
+S M Cohen (Zeno's paradoxes)
+Stanford Encyclopedia of Philosophy (Zeno's paradoxes)
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Zeno of Elea
+
+Popular biographies list Number 180
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of set theory
+History Topics: A history of the calculus
+History Topics: A history of time: Classical time
+History Topics: An overview of the history of mathematics
+History Topics: Infinity
+Other: Most popular biographies
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 1999
+  
+
+

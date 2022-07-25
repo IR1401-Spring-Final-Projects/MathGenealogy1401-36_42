@@ -1,0 +1,125 @@
+
+
+
+Joseph Ludwig Raabe
+
+
+
+
+
+Quick Info
+Born
+
+      15 May 1801
+      
+
+        Brody, Galicia (now Ukraine)
+        
+
+Died
+
+      22 January 1859
+      
+      Zürich, Switzerland
+    
+
+Summary
+Joseph Raabe is mostly remembered for Raabe's Test for convergence of series.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Joseph Raabe's first name is often written as 'Josef' while his second name is sometimes written as 'Rabe'. Since his parents were poor, Raabe did not have the educational opportunities as a young boy so he had to learn mathematics largely working on his own. He was a very able young lad and was well able to earn a living as a private tutor of mathematics while he himself studied more advanced topics. By the age of nineteen, he had made enough from tutoring to travel to Vienna where he continued to fund himself by giving private tuition but, at the same time, he was able to study mathematics at the Polytechnikum.
+
+
+In Vienna, Raabe was inspired by Johann von Littrow (1781-1840), who encouraged him to submit his work for publication in August Crelle's Journal für die reine und angewandte Mathematik which began publication in 1826. Von Littrow had studied at the Charles University of Prague, spent a period in Russia, and had been appointed professor of astronomy at the University of Vienna in 1819, shortly before Raabe arrived in that city. He became director of the first university observatory in Vienna and is remembered today through a crater on the moon that is named after him, and for the Littrow map projection. He published a paper in Part 3 of Volume 1 (1826) of Crelle's Journal and Raabe's first paper in that journal, entitled Allgemeine Theorie der Epicykeln Ⓣ(The general theory of epicycles), appeared in Part 4 of Volume 1. It is worth noting that his name appears both in the index and on the paper as "L Rabe of Vienna" but there is no doubt that this paper is by Joseph Raabe. In the second volume of the journal, published in 1827, Raabe has five papers: Über den Stillstand der Planeten Ⓣ(On the stoppage of planets); Sphärische Polygonometrie Ⓣ(Spherical polygonometry); Eigenschaften der Curven, die sich auf bestimmten Oberflächen befinden; letztere zu beweisen Ⓣ(Characteristics of curves that are located on certain surfaces and to prove the latter); Untersuchung über die Directrixen der Curven Ⓣ(Investigation into the directrixes of curves); and Gleichungen der zweiten Ordnung in der Geometrie Ⓣ(Equations of the second order in geometry). He also has a a contribution in Aufgaben und Lehrsätze, erstere aufzulösen Ⓣ(Problems and theorems, and solving the former). Again we should note the different ways that his name appears in the volume. For example, for the paper Sphärische Polygonometrie Ⓣ(Spherical polygonometry) his name appears in the index as "L Raabe", but on the paper itself as "Joseph L Rabe". For the paper Eigenschaften der Curven Ⓣ(Properties of curves) his name appears in the index as "J Raabe", but on the paper itself as "L Raabe", while for the paper Über den Stillstand der Planeten Ⓣ(About the standstill of the planets) his name appears in the index as "L Raabe", but on the paper itself as "Joseph L Raabe".
+
+
+The first cholera pandemic to hit Europe started in 1829 in Moscow and St Petersburg and, over the next couple of years, spread through Poland, Germany and Austria. The disease was a major killer and spread panic through the population of the cities that it reached. By the autumn of 1831 it had reached Vienna and Raabe had no option but to stop giving his private mathematics lessons. He wanted to go to Munich and habilitate at the University there but he had a good friend in Vienna, the astronomer and geodesist Johannes Eschmann (1808-1852), who persuaded him to go instead to Zürich. Eschmann was Swiss, growing up as orphan in Winterthur, and had studied mathematics, astronomy and geodesy in Zürich, Paris and Vienna. He was studying under Johann von Littrow in Vienna when he became friends with Raabe. Eschmann and Raabe went to Zürich and Raabe found a home there and a position teaching mathematics at the Gymnasium. In 1833 the University of Zürich was founded by J K Orelli, and Laurenz Oken was appointed as its first rector. They made two inspiring appointments as privatdocent in mathematics, Gräffe and Raabe. Johannes Eschmann, Raabe's friend, was appointed to a similar position in astronomy.
+
+
+Today Raabe's name is mostly remembered for Raabe's Test for convergence of series. This test appears in Raabe's paper Note zur Theorie der Convergenz und Divergenz der Reihen Ⓣ(Note on the theory of convergence and divergence of series) which was published in Volume 11 (1834) of Crelle's Journal. In fact Raabe did not publish any papers in Crelle's Journal after those we mentioned above in the first two volumes until this 1834 paper. He had published another paper on series while still in Vienna, however, namely Über Reihen, deren Differenzenreihen wiederkehren Ⓣ(About rows whose difference rows recur) (1829). The 1834 paper contains the famous Raabe's Test: 
+Suppose (an)(a_{n})(an​) is a sequence of positive terms and suppose that
+
+
+anan+1=1+sn+o(1n)\large\frac{a_{n}}{a_{n+1}\normalsize}  = 1 + \large\frac{s}{n}\normalsize  + o(\large\frac{1}{n}\normalsize )an+1​an​​=1+ns​+o(n1​) where sss is a constant.
+
+
+Then the series a1+a2+a3+a_{1} + a_{2} + a_{3} +a1​+a2​+a3​+ ... converges if s>1s > 1s>1 and diverges if s<1s < 1s<1. It is inconclusive if s=1s = 1s=1.
+This test, which is an extension of d'Alembert's ratio test, often succeeds for series in which the terms contain factorials, where d'Alembert's simple ratio test is inconclusive.
+
+
+In 1836 the University of Zürich appointed a professor of mathematics but the chair was not given to Raabe but rather to Anton Müller, a somewhat undistinguished mathematician. Not only was Raabe passed over, but so was his fellow docent, the talented Karl Heinrich Gräffe. Over the following years, Müller published no research of any merit while both Raabe and Gräffe continued to produce highly significant contributions. Raabe's work on the Bernoulli polynomials deserves special mention. He wrote two major papers, a 52-page one in 1848 entitled Die Jacob Bernoullische Function Ⓣ(The Jacob Bernoulli function) and a 30-page paper Zuruckfuhrung Einig Summen und auf die bestimmten Integrale Jakob Bernoullische Function Ⓣ(Repeating sums and  the definite integrals  of the Jacob Bernoulli Function) published in 1851. The term "Bernoulli polynomials" was introduced by Raabe in this paper of 1851. We should also mention the important 3-volume treatise Differential- und Integralrechnung Ⓣ(Differential and integral calculus) (Zürich, 1839-47) which can still be purchased today, and the 2-volume Mathematischer Mittheilungen Ⓣ(Mathematical communications) (1857-58). He also published Was ist der Gegenstand der Mathematik? Ⓣ(What is the subject of mathematics?) in 1853.
+
+
+In 1855 the Eidgenössische Polytechnische Schule was founded in Zürich (this institution was, in 1911, called the Eidgenössische Technische Hochschule or the Swiss Federal Institute of Technology). Raabe was appointed as a professor at the Eidgenössische Polytechnische Schule in the year of its founding, but he did not hold this chair for long since he left his chair in 1858 and died in January of the following year at the age of 57 years. Richard Dedekind applied for Raabe's chair and was appointed in the spring of 1858, taking up the chair in the autumn of that year.
+
+
+
+
+
+Other Mathematicians born in Ukraine
+
+A Poster of Joseph Raabe
+
+
+
+
+
+References (show)
+
+
+
+
+
+G Frei, Geschichte der Mathematik an der Universität Zürich und an ihren Vorläuferinstitutionen von ihren Anfängen bis 1914, in Jahrbuch Überblicke Mathematik 1994 (Vieweg, Braunschweig, 1994), 217-244.
+U Stammbach, Geschichte der Mathematik an der ETH Zürich, 1855-1932, in Jahrbuch Überblicke Mathematik 1994 (Vieweg, Braunschweig, 1994), 194-216.
+R Wolf, Joseph Raabe, Biographien zur Kulturgeschichte der Schweizer II (Zurich, 1860), 437-439.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Joseph Raabe:
+
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: 1932 ICM - Zurich
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 2012
+  
+
+

@@ -1,0 +1,184 @@
+
+
+
+Henry John Stephen Smith
+
+
+
+
+
+Quick Info
+Born
+
+      2 November 1826
+      
+
+        Dublin, Ireland
+        
+
+Died
+
+      9 February 1883
+      
+      Oxford, England
+    
+
+Summary
+Henry Smith was an Irish mathematician whose most important contributions are in number theory where he worked on elementary divisors.
+
+
+
+
+
+    View three larger pictures
+
+
+
+
+
+Biography
+Henry Smith's father was John Smith, an Irish barrister, and his mother was Mary Murphy from near Bantry Bay. Henry's father John died when he was less than two years old and Mary was left to bring up their four children, of whom Henry was the youngest. One of his older sisters Eleanor Elizabeth Smith, born in 1822, went on to make a major contribution to education, and in particular to women's education in Oxford. The family moved several times, but eventually found a permanent home in Ryde on the Isle of Wight in 1831.
+
+
+Henry was a bright child who was taught first by his mother, then by private tutors in Hyde from 1838. He attended Rugby public school from the age of 15 as a boarder. He was outstanding over a range of subjects and his ambition was a scholarship to Balliol College, Oxford. This was made harder since his health was poor (a brother and sister had both died) and he was taken to Italy after the death of his brother in 1845 instead of completing his final year at Rugby. He undertook private reading while in Italy and was still able to win the scholarship.
+
+
+At 19 he became a student at Balliol, but while spending the summer vacation in Italy his health problems became acute when he contracted smallpox. He was able to recommence his studies but while on holiday in France in the following year he contracted malaria. He could not return to Oxford but this had the advantage that he was able to study with some of the top mathematicians at the Sorbonne and the Collège de France such as Arago. After his health recovered he returned to Oxford in 1847 and in 1849 was awarded a double first in mathematics and classics.
+
+
+Smith became a fellow, then a tutor at Balliol College. In 1860 he was appointed Savilian professor of geometry despite a strong field of applicants including George Boole. In 1861 he was elected a fellow of the Royal Society but despite the status of the Savilian chair he could not afford to give up his income from lecturing and continued teaching at Balliol. This arrangement continued until 1873 when he was made a fellow of Corpus Christi College which provided him with an income but no duties. This enabled him to give up his teaching position at Balliol.
+
+
+Smith did not marry but lived in Oxford with his mother until her death in 1857. At this time his sister Eleanor moved in with him to effectively become his housekeeper. At the time that Eleanor moved in, Smith was living in St Giles' but in 1874 he was appointed as keeper of the University Museum and moved into the keeper's house in the Museum in South Parks Road.
+
+
+While on the continent during his school and undergraduate years he had been learnt French, German and Italian and read widely. He had been most influenced by the work of Gauss. Smith said:- 
+If we except the great name of Newton (and the exception is one that the great Gauss himself would have been delighted to make) it is probable that no mathematician of any age or country has ever surpassed Gauss in the combination of an abundant fertility of invention with an absolute vigorousness in demonstration...
+Influenced by Gauss, Smith's most important contributions are in number theory where he worked on elementary divisors. He proved that any integer can be expressed as the sum of 5 squares and as the sum of 7 squares, showing in how many ways this could occur. In addition to solving these cases explicitly, he gave a method which would yield the number of ways that an integer can be expressed as the sum of kkk squares for any fixed kkk. He published his results in The orders and genera of quadratic forms containing more than three indeterminates published in the Proceedings of the Royal Society in 1867. Eisenstein had earlier proved the result for 3 squares and Jacobi for 2, 4 and 6 squares. Smith also extended Gauss's theorem on real quadratic forms to complex quadratic forms.
+
+
+From 1859 to 1865 he prepared a report in five parts on the Theory of Numbers. In it Smith analyses the work of other mathematicians but adds much of his own. This work has been described as the:-
+... the most complete and elegant monument ever erected to the theory of numbers.
+Smith also wrote on geometrical topics. His first two papers were on geometry and, in 1868, he wrote Certain cubic and biquadratic problems which won him the Steiner prize of the Royal Academy of Berlin.
+
+
+Smith is remembered for the Smith normal form for matrices. It appears to be less well known that, in 1875, he gave examples of discontinuous sets which are similar to the Sierpiński gasket, see [6]. His paper on this topic in the Proceedings of the London Mathematical Society for 1875 contains a description of the Cantor set eight years before Cantor.
+
+
+He is described in [2] as follows:-
+He was a tall, good-looking man, renowned for his charm, generosity, warmth, and spontaneous wit ...
+We learn much of Smith from the following comment from John Conington, the professor of Latin at Oxford, (see for example [3]):-
+I do not know what Henry Smith may be at the subjects of which he professes to know something; but I never go to him about a matter of scholarship, in a line where he professes to know nothing without learning more from him than I can get from any one else.
+Smith joined the London Mathematical Society during the first year of its existence and he became its sixth president in 1874-76. He gave his presidential address On the present state and prospects of some branches of pure mathematics which was published in the Proceedings of the London Mathematical Society in 1876. He received many honours including honorary degrees from the universities of Cambridge and Dublin. He was appointed to two royal commissions, the royal commission into scientific instruction and the royal commission into the universities.
+
+
+Despite health problems when he was a student, Smith mostly enjoyed excellent health until 1881 when his heath began to deteriorate, mainly due to the extremely high level of work that he continued to undertake. A rather unusual event happened near the end of his life. The Academy of Sciences in Paris set the question for the 1882 Grand Prix in Mathematics to be precisely the problem on the number of ways that an integer can be expressed as the sum of kkk squares that Smith had solved in his 1867 paper The orders and genera of quadratic forms containing more than three indeterminates. Smith wrote to Hermite who then realised that the Academy of Sciences had blundered by setting a problem which had already been solved. Hermite asked Smith if he would cooperate in trying not to make the Academy look foolish, and simply submit a solution to the Grand Prix question. This Smith did but died before the prize was awarded. After his death the Academy awarded two full prizes, one to Smith and one to Minkowski.
+
+
+
+
+
+Quotations by Henry Smith
+
+Other Mathematicians born in Ireland
+
+A Poster of Henry Smith
+
+
+
+
+
+References (show)
+
+
+
+
+
+J D North, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography by Keith Hannabuss, in Dictionary of National Biography (Oxford, 2004). See THIS LINK.
+J W L Glaisher (ed.), Biographical sketches, in The collected mathematical papers of H J S Smith (1894).
+F W Clarke, W N Everitt, L L Littlejohn and S J R Vorster, H J S Smith and the Fermat two squares theorem, Amer. Math. Monthly 106 (7) (1999), 652-665.
+J W L Glaisher, Henry John Stephen Smith, Monthly Notices of the Royal Astronomical Society 44 (1884), 138-149.
+K Hannabuss, Forgotten fractals, The Mathematical Intelligencer 18 (3) (1996), 28-31.
+K Hannabuss, Henry Smith, in J Fauvel, R Flood, and R J Wilson (eds.), Oxford figures (Oxford, 2000), 203-217.
+Y Koshiba, On the classical examples of functions that are not Riemann integrable in the writings of Volterra and H J Smith (Japanese), Studies on the history of mathematics (Japanese), Kyoto, 1998, Surikaisekikenkyusho Kokyuroku (1064) (1998), 1-5.
+A Macfarlane, Lectures on Ten British Mathematicians of the Nineteenth Century (New York, 1916), 92-106.
+J-P Serre, Smith, Minkowski et l'Academie des Sciences, Gaz. Math. 56 (1993), 3-9.
+Henry John Stephen Smith, The Times (10 February 1883).
+Henry John Stephen Smith, Oxford Magazine (14 February 1883).
+Henry John Stephen Smith, Oxford Magazine (21 February 1883).
+Henry John Stephen Smith, Nature 27 (1882-3), 381-384.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Henry Smith:
+
+Multiple entries in The Mathematical Gazetteer of the British Isles,
+
+
+
+Other websites about Henry Smith:
+
+Dictionary of Scientific Biography
+Dictionary of National Biography
+Royal Astronomical Society
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Henry Smith
+
+Savilian Geometry Professor 1861
+Fellow of the Royal Society 1861
+Fellow of the Royal Society of Edinburgh 1876
+LMS President 1874 - 1876
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: London Mathematical Society
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (F)
+Other: Earliest Known Uses of Some of the Words of Mathematics (I)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+Other: Earliest Known Uses of Some of the Words of Mathematics (Q)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 2005
+  
+
+

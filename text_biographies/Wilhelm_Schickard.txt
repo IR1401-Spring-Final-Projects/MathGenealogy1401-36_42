@@ -1,0 +1,121 @@
+
+
+
+Wilhelm Schickard
+
+
+
+
+
+Quick Info
+Born
+
+      22 April 1592
+      
+
+        Herrenberg (near Tübingen), Württemberg (now Germany)
+        
+
+Died
+
+      24 October 1635
+      
+      Tübingen, Württemberg (now Germany)
+    
+
+Summary
+Wilhelm Schickard was a German astronomer who invented a calculating machine long before Pascal. He worked on astronomy, mathematics and surveying.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Wilhelm Schickard's name is sometimes written as Schickhard or Schickhardt or Schickart. His mother was Margarete Gmelin, the daughter of a Lutheran pastor, and his father was Lucas Schickard. The Schickard family was originally from the County of Nassau but had moved south in the middle of the 15th  century. Lucas Schickard's father, who was a sculptor, had settled in Herrenberg about 30 km south of Stuttgart. Lucas Schickard trained to be a carpenter, as did his brother Heinrich Schickard, who was Wilhelm's uncle. Heinrich Schickard became an architect and went on to become the main architect of the Renaissance in south-western Germany. Wilhelm was brought up in Herrenberg but, at an early age, won a scholarship to attend the monastery school in Bebenhausen, just north of Tübingen.
+
+
+After attending the monastery school in Bebenhausen, he entered the University of Tübingen. He received his first degree of B.A. in 1609, followed by an M.A. in 1611, both in theology and oriental languages, and he continued to study these topics at Tübingen until 1613. While studying at Tübingen, he was taught mathematics and astronomy by Michael Mästlin. In 1613 Schickard became a Lutheran minister and was assigned to churches in towns around Tübingen. In 1614 he was appointed deacon in Nürtingen. He continued this work with the Lutheran Church until 1619. It was during his time as a Lutheran minister that he first met Johannes Kepler who came to Tübingen to support his mother who had been charged with witchcraft. Kepler was working on his Harmony of the World  at this time and, after meeting Schickard, he was so impressed with his abilities that he asked him to do some engravings and woodcuts for the book and also asked him to assist in calculating some tables. This is not as surprising as it might first sound since, among his other skills, Schickard was renowned as an engraver both in wood and in copperplate. The authors of [3] write:-
+[Schickard] agreed to draw and engrave the figures of the second part of the 'Epitome' on woodblocks. Yet Krüger [Kepler's publisher], always ready to interfere with Kepler's plans, stipulated that the carving had to be done in Augsburg. Schickard sent thirty-seven woodblocks for books 4 and 5 to Augsburg towards the end of December 1617. ... In June 1621 Kepler was in Frankfurt [arranging for the publication of books 5-7]. Schickard engraved the figures for the last two books (the carving was done by one of his cousins).
+It was his work with Kepler which prompted him to think about making a machine to mechanise the astronomical calculations he was doing. This was to come a little later, however, so first we will describe the next phase of Schickard's life as a professor of Hebrew.
+
+
+In 1619 he left his work in the Lutheran Church when he was appointed as the professor of Hebrew at the University of Tübingen. Schickard was a universal scientist and taught biblical languages such as Aramaic as well as Hebrew. His efforts to improve the teaching of his subject show remarkable innovation. He strongly believed that, as the professor, it was part of his job to make it easier for his students to learn Hebrew. One of his inventions to assist his students was the 'Hebraea Rota'. This mechanical device displayed conjugation of Hebrew verbs by having two rotating discs laid on top of each other, the respective forms of conjugation appearing in the window. He also created the Horologium Hebraeum Ⓣ(The Hebrew clock), a textbook of Hebrew divided into 24 chapters, each chapter containing material which could be learnt in an hour. He wrote another textbook, the Hebräischen Trichter Ⓣ(A  Hebrew funnel), for German students of Hebrew, in 1627. However, his research was broad and, in addition to Hebrew, included astronomy, mathematics and surveying. In astronomy he invented a conic projection for star maps in the Astroscopium. His star maps of 1623 consist of cones cut along the meridian of a solstice with the pole at the centre and apex of the cone.  He also made significant advances in mapmaking, showing how to produce maps which were far more accurate than those which were currently available. His most famous work on cartography was Kurze Anweisung, wie künstliche Landtafeln auss rechtem Grund zu machen Ⓣ(Brief instruction on making land maps) (1629). Long before Pascal and Leibniz, Schickard invented a calculating machine, the 'Rechenuhr', in 1623. He wrote to Kepler on 20 September 1623:-
+What you have done by calculation I have just tried to do by way of mechanics. I have conceived a machine consisting of eleven complete and six incomplete sprocket wheels; it calculates instantaneously and automatically from given numbers, as it adds, subtracts, multiplies and divides. You would enjoy seeing how the machine accumulates and transports spontaneously a ten or a hundred to the left and, vice-versa, how it does the opposite if it is subtracting ...
+Kepler clearly showed an interest in having one of Schickard's calculators since Schickard gave instructions for one to be built for him. However, the half-built computer was destroyed by fire as he explained in another letter to Kepler written on 25 February 1624. In this letter he gives some more details of the way the machine is constructed:-
+... On another occasion I will send you a more detailed description of the design of this arithmetic machine; in summary, it works as follows: aaa are the buttons on the vertical cylinders with the digits of the multiplication table, which can be displayed at will in the windows provided for the slides bbb. The dials ddd are attached to internal toothed wheels, each one having ten teeth geared in such a way that, if the wheel on the right makes ten turns, the wheel on its left makes only one turn; and if the first wheel on the right hand side makes one hundred turns, the third wheel on the left makes one turn, and so on. All the wheels rotate in the same direction making necessary the use of another wheel of the same size geared permanently to the wheel at its left, but not with the one at its right, which requires special attention during its construction. The digits marked on each wheel are displayed in the openings ccc of the central plate. Finally, the buttons eee, located over the base, are used to display in the openings fff the numbers that need to be used during the operations. This brief description would be better understood by using the actual instrument. I had placed an order with a local man, Johan Pfister, for the construction of a machine for you; but when half finished, this machine, together with some other things of mine, especially several metal plates, fell victim to a fire which broke out unseen during the night three days ago. I take the loss very hard, especially since there is no time to produce a replacement soon.
+Kistermann studied the design of Schickard's calculator and explains the "architecture" of the machine in [9]. Schickard used the abridged multiplication for his machine which, Kistermann points out, was unknown to most of the scientific community in 1600, with only a handful of scientists (but including Jost Bürgi, Kepler and Schickard) having knowledge of this technique. In [10] Kistermann considers whether Schickard's calculator was of practical use. Sketches of the calculator have been preserved in the manuscripts left by Schickard and Kepler. These however, were not rediscovered until 1935 when they were found during research into Kepler's life. At this stage their significance was not understood, but twenty years later it was realised that it was a sketch of the computer described by Schickard. Bruno von Freytag Löringhoff constructed the computer between 1957 and 1960 using the sketch and the descriptions in Schickard's letters. He then tested the range of calculations which were possible to try to ascertain exactly what purpose Schickard had in building the calculating machine. Von Freytag Löringhoff discovered that it worked well and was particularly suited to carry out the astronomical calculations which were necessary for astronomers of the seventeenth century; see [4] for further details. In fact we know that Schickard also wrote to Kepler suggesting a mechanical means to calculate ephemerides.
+
+
+In 1631 Schickard had rather a change of subject, being appointed to the chair of mathematics and astronomy at the University of Tübingen left vacant by the death of his teacher Michael Mästlin. This change did not signify a major shift in his interests, however, for as we indicated above he had always had broad interests across a wide range of subjects. For example, he lectured on architecture, fortification, and hydraulics. He also undertook land surveying of the duchy of Württemberg which involved the first use of Willebrord Snell's triangulation method in geodesic measurements; see [6] for further details. As professor of astronomy Schickard lectured on the topic and undertook research into the motion of the moon. He published Ephemeris Lunaris in 1631 which allowed the position of the moon to be determined at any time. We should note that, at a time when the Church was trying to insist that the Earth was at the centre of the universe, Schickard was a staunch supporter of heliocentric system. We have mentioned above Schickard's correspondence with Kepler but he corresponded with many other astronomers including Ismael Boulliau and Pierre Gassendi.
+
+
+The Thirty Years War (1618-1648) affected much of the later part of Schickard's life. Following the Battle of Nördlingen in September 1634, when the Catholic army augmented by many Spanish troops won a decisive victory over the Protestant army, the victorious troops occupied Tübingen. The troops brought with them the bubonic plague and the population of Tübingen was badly affected. Over the next year Schickard's wife and all his children died from the plague. He was the last of the family to succumb to the bubonic plague, dying either on the day given above or, possibly, one day earlier.
+
+
+Although Schickard's contributions were not fully recognised during his lifetime, be is remembered  today with the Wilhelm-Schickard-Institut für Informatik at the University of Tübingen and the Wilhelm-Schickard-Schule in Tübingen.
+
+
+
+
+
+Other Mathematicians born in Germany
+
+A Poster of Wilhelm Schickard
+
+
+
+
+
+References (show)
+
+
+
+
+
+J-P Flad, Les trois premières machines à calculer: Schickard (1623), Pascal (1642), Leibniz (1673) (University of Paris, Paris, 1963).
+H H Goldstine, A brief history of the computer, in A century of mathematics in America 1 (Amer. Math. Soc., Providence, RI, 1988), 311-322.
+S Kusukawa and I Maclean, Transmitting Knowledge: Words, Images, and Instruments in Early Modern Europe (Oxford University Press, Oxford, 2006).
+B von Freytag Löringhoff, Wilhelm Schickard und seine Rechenmaschine von 1623 (Tübingen, 1987).
+A Adam, The Kepler-Schickart calculating machine, Four hundred years : Proceedings of Conferences held in honour of Johannes Kepler, Vistas Astronom. 18 (1975), 881-886.
+G Betsch, Südwestdeutsche Mathematici aus dem Kreis um Michael Mästlin, in Der 'mathematicus': Zur Entwicklung und Bedeutung einer neuen Berufsgruppe in der Zeit Gerhard Mercators, Schloss Krickenbeck, 1995 (Brockmeyer, Bochum, 1996), 121-150.
+Calendar of anniversaries (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (1) (1992), 142-143.
+F L Bauer, Ries und Schickard, Informatik Spektrum 15 (1995), 225-228.
+F W Kistermann, Abridged multiplication - the architecture of Wilhelm Schickard's calculating machine of 1623, Vistas Astronom. 28 (1-2) (1985), 347-353.
+F W Kistermann, War die Rechenmaschine von Wilhelm Schickard praktisch brauchbar?, Technikgeschichte 51 (2) (1984), 77-85.
+R Taton, Sur l'invention de la machine arithmétique, Rev. Histoire Sci. Appl. 16 (1963), 139-160.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Wilhelm Schickard:
+
+Dictionary of Scientific Biography
+The Galileo Project
+History of Computing Project
+Schickard's calculator
+A stamp of Schickard's calculator
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update April 2009
+  
+
+

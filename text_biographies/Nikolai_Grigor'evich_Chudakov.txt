@@ -1,0 +1,109 @@
+
+
+
+Nikolai Grigor'evich Chudakov
+
+
+
+
+
+Quick Info
+Born
+
+      14 December 1904
+      
+
+        Lysovsk, Novo-Burassk, Saratov, Russia
+        
+
+Died
+
+      22 November 1986
+      
+      Saratov, Russia
+    
+
+Summary
+Nikolai Chudakov was a Russian mathematician who worked in number theory.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Nikolai Grigor'evich Chudakov's father worked as a medical assistant in the village of Lysovsk in western Russia. Nikolai showed great interest in mathematics while at school and, after completing his school education, he entered the Physics and Mathematics Faculty of the relatively new Saratov University. This university had been was founded in 1909 and the level of the mathematics he studied there was not at the cutting edge of research. He soon decided that he had better move to Moscow for his education and he transferred to Moscow University from where he graduated in 1927.
+
+
+From 1927 to 1930 Chudakov undertook postgraduate studies at Moscow State University, then, in 1930, he returned to Saratov University where he was appointed as Head of the Department of Higher Mathematics. During the following years he worked towards his D.Sc. degree in the Mathematical and Physical Sciences which was awarded by the Steklov Mathematical Institute in 1936. After the award of his D.Sc., Chudakov returned to the University of Moscow where he worked until 1940. In that year he returned once again to Saratov University, this time to become Head of the Department of Algebra and Number Theory which had just been set up. He held this post until his death but he spent ten years, from 1962 to 1972, working in Leningrad in the Mathematical Institute of the Academy of Sciences there, at the invitation of Linnik.
+
+
+Chudakov established a number of important results in number theory. He gave an estimate for the bounds of the zeta-function in the critical strip using techniques which had been introduced a few years earlier by Vinogradov. As a consequence of this work he was able to give a substantially improved remainder term in the asymptotic formula for the number of primes less than a fixed number NNN. Also, by these method, he improved the estimate for the difference between two consecutive primes. In his later work he extended these results to apply to arbitrary arithmetic progressions. In 1947 Chudakov published On Goldbach-Vinogradov's theorem in the Annals of Mathematics. In this paper he proves Vinogradov's theorem that every large odd integer is representable as a sum of three odd primes. The proof is similar to one which Linnik gave.
+
+
+In 1742, in a letter to Euler, Goldbach made what has come to be called the Goldbach conjecture that every even integer greater than 2 can be represented as the sum of two primes. This problem has, from that time on, been one of the major unsolved problems of number theory. Chudakov made a substantial contribution to the solution when he proved that all, except possibly a finite number, of even integers greater than 2 can be represented as the sum of two primes.
+
+
+Chudakov is also famed as the author of the classic monograph Introduction to the theory of Dirichlet L-functions (1947) which was widely used by number theory experts. The text assumes only that the reader is familiar with the elements of number theory and complex variable theory, and goes on to develop the theory of characters and Dirichlet LLL-functions. It studies the zeros of LLL-functions, primes in arithmetic progressions and, as its high point, proves the three-prime theorem of Goldbach and Vinogradov.
+
+
+In [1] the authors sum up Chudakov's contributions to teaching:-
+During his many years of academic and pedagogical work at Saratov University, Chudakov introduced more than one generation of mathematicians to research work in number theory and algebra. His lecture courses were always interesting and introduced his students to real problems in science. His wide erudition and deep intuition was invaluable to workers under his supervision and to undergraduate and postgraduate students. He never refused the smallest request, he was able to spend hours acquainting staff with important trends and problems, and give his opinion n perspectives in the development of one or other of them, but postgraduate students had the possibility of choosing and solving their own problems independently, using their supervisor's help only in difficult parts when required.
+
+
+
+
+
+Other Mathematicians born in Russia
+
+A Poster of Nikolai Grigor'evich Chudakov
+
+
+
+
+
+References (show)
+
+
+
+
+
+B M Berdikhin, V E Voskresenskii, A A Karatsuba, A F Lavrik, A V Malyshev, A G Postnikov and V G Sprindzhuk, Nikolai Grigor'evich Chudakov (Russian), Uspekhi Mat. Nauk 42 (5)(257) (1987), 189-190.
+In memory of Nikolai Grigor'evich Chudakov (Russian), in Investigations in number theory (Russian) (Saratov, 1988).
+D N Lenskoi and Ju V Linnik, Nikolai Grigor'evich Chudakov on his sixtieth birthday (Russian), Uspekhi Mat. Nauk 20 (2) (1965), 237-240.
+D N Lenskoi and Ju V Linnik, Nikolai Grigor'evich Chudakov on his sixtieth birthday, Russian Math. Surveys 20 (2) (1965), 169-172.
+V E Voskresenskii, A V Malyshev and G I Perel'muter, Nikolai Grigor'evich Chudakov (on his 70th birthday) (Russian), Uspekhi Mat. Nauk 30 (3) (1975), 195-197.
+V E Voskresenskii, A V Malyshev and G I Perel'muter, Nikolai Grigor'evich Chudakov (on his 70th birthday), Russian Math. Surveys 30 (3) (1975), 149-152.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Nikolai Grigor'evich Chudakov:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2004
+  
+
+

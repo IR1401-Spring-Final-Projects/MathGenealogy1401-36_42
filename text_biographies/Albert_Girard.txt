@@ -1,0 +1,173 @@
+
+
+
+Albert Girard
+
+
+
+
+
+Quick Info
+Born
+
+      1595
+      
+
+        St Mihiel, France
+        
+
+Died
+
+      8 December 1632
+      
+      Leiden, Netherlands
+    
+
+Summary
+Albert Girard was a French mathematician and musician. His work on trigonometry is the first to use the abbreviations sin, cos, tan.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Albert Girard was French but, being a member of the Reformed church, went as a religious refugee to the Netherlands. We do not know when he made this move, but we do know he was sad throughout his live that he was forced to live outside his native land. He attended the University of Leiden, where he studied mathematics, entering the University at the age of 22. In fact his first interest was music and he played the lute professionally. Jacob Golius was about the same age as Girard but began studying mathematics at the University of Leiden some years earlier. Certainly by 1616 the two were engaging in mathematical discussions and there is surviving correspondence from that time in which they are discussing scientific matters. Golius spent several years in Morocco and on tours of Syria and Arabic lands. He was appointed professor of mathematics at Leiden in 1629 (in addition to his Arabic professorship of 1625). When Constantijn Huygens (Christiaan Huygens' father) wrote a congratulatory note to Golius on his mathematics appointment, he praised the work of Girard, particularly on refraction, which certainly suggests that the two had continued to exchange ideas. We know however that by the time Huygens wrote this letter, Girard was serving as an engineer in the army of the Prince of Orange, Frederick Henry of Nassau.
+
+
+Girard worked on algebra, trigonometry and arithmetic. He made a major contribution to mathematics by publishing various works by Simon Stevin. In 1625 he prepared a revised edition of Stevin's Arithmétique but he also added to it translations from the Greek of Books 5 and 6 of Diophantus's Arithmetica as well as Stevin's Appendice. Stevin had produced tables of sines, tangents and secants which were greatly improved by Girard who published his version in 1626. In this work Trigonométrie on trigonometry he made the first use of the abbreviations sin, cos, tan. He also gave formulas for the area of a spherical triangle. In algebra he had some early thoughts on the fundamental theorem of algebra which he stated in Invention Nouvelle en l'Algèbre (1629). Gray Funkhouser writes [7]:-
+The first man who really has a place in the history of symmetric functions of roots of equations, a man who for clearness and grasp of material at hand in not only this topic but also in other phases of algebra could well hold his place a century later was Albert Girard ... his work on algebra is a little 34-leaf pamphlet called 'Invention Nouvelle en l'Algèbre', published in 1629. Girard gives the triangle later known as Pascal's triangle and uses it as the basis for developing a theorem on symmetric functions, although he has no idea of them as such.
+Girard calls Pascal's triangle the "triangle of extraction". He calls the sum of a group of numbers the "first fraction", the sum of the products of pairs of the numbers the "second fraction", etc. He then gives a theorem: If a group of numbers is given, the multitude of the products of each fraction can be expressed by the same row in the triangle of extraction as the multitude of numbers.
+
+
+He gives an example of the equation (which we write in modern notation)
+x4=4x3+7x2−34x+24.x^{4} = 4x^{3} + 7x^{2} - 34x + 24.x4=4x3+7x2−34x+24.
+Since the highest power of the unknown is 4, Girard states clearly that there are four roots "neither more nor less". He takes the even powers to the left, the odd powers to the right giving
+x4−7x2−24=4x3−34x.x^{4} - 7x^{2} - 24 = 4x^{3} - 34x.x4−7x2−24=4x3−34x.
+He then says that the coefficients, with their proper signs, are 4, -7, -34, -24. Then 4 is the first fraction, namely the sum of the roots, -7 is the second fraction, namely the sum of all products of pairs of roots, -34 is the third fraction, namely the sum of all products of three roots, -24 is the fourth fraction, namely the product of the four roots. Following this he gives another example, namely x4−4x+3=0x^{4} - 4x + 3 = 0x4−4x+3=0 which has two imaginary roots, and shows that the method still gives the right answer in this case.
+
+
+He then looks at the sum of the roots, the sum of the squares of the roots, the sum of the cubes of the roots, etc. He writes:-
+If the coefficients of the second, third, fourth terms etc. are A,B,CA, B, CA,B,C, etc. then in an equation of any degree
+
+
+AAA will be the sum of the roots;
+
+A2−2BA^{2} - 2BA2−2B will be the sum of the squares of the roots;
+
+A3−3AB+3CA^{3} -3AB + 3CA3−3AB+3Cwill be the sum of the cubes of the roots;
+
+A4−4A2B+4AC+2B2−4DA^{4} -4A^{2}B + 4AC + 2B^{2} -4DA4−4A2B+4AC+2B2−4D will be the sum of the fourth powers of the roots.
+Charles Hutton gives a detailed account of the contents of Invention Nouvelle en l'Algèbre in [8]. He explains that of the 63 pages in the book, 49 are on arithmetic and algebra:-
+... and the rest on the measure of the superficies of spherical triangles and polygons, by him then lately discovered.
+After giving a detailed account of the 49 pages on arithmetic and algebra, Hutton gives this summary:-
+1. He was the first person who understood the general doctrine of the formation of the coefficients of the powers, from the sums of their roots, and their products, etc.
+
+2. He was the first who understood the use of negative roots in the solution of geometrical problems.
+
+3. He was the first who spoke of the imaginary roots, and understood that every equation might have as many roots real and imaginary, and no more, as there are units in the index of the highest power. And he was the first who gave the whimsical name of quantities less than nothing to the negative.
+
+4. He was the first who discovered the rules for summing the powers of the roots of any equation.
+We should also mention his iterative approach to solving equations [1]:-
+With the aid of trigonometric tables Girard solved equations of the third degree having three real roots. For those having only one root he indicated, beside Cardano's rules, an elegant method of numerical solution by means of trigonometric tables and iteration.
+He was the first to give a geometric interpretation of negative quantities, writing:-
+The negative solution is explained in geometry by moving backward, and the minus sign moves back when the + advances.
+Like many mathematicians of his day Albert Girard was interested in military applications of mathematics and in particular studied fortifications. He translated several works on fortifications some from French to Flemish such as Samuel Marolois's Fortification ou architecture militaire to which he also added material and revised the text. He did the same for the two-volume treatise Géométrie contenant la théorie et practique d'icelle. necessaire à la Fortification. Other works he translated from Flemish to French such as Oeuvres de Henry Hondius (1625).
+
+
+It appears that Girard spent some time as an engineer in the Dutch army although this was probably after he published his work on trigonometry. Pierre Gassendi, writing on 21 July 1629 to his friend Nicholas de Peiresc, talks about Girard and refers to his position in the Dutch army [1]:-
+[I dined at the camp before Boisle-Roi with] Albert Girard, an engineer now at the camp.
+On his death he was described as an engineer rather than as a mathematician although, throughout his life, he himself always described himself as a mathematician. In the works of Stevin which he edited (published after his death), Girard says he is unhappy living in a foreign country with nobody to provide him with financial support to help him bring up his large family [1]:-
+His widow, in the dedication of this work, is more precise. She is poor, with eleven orphans to whom their father has left only his reputation of having faithfully served and having spent all his time on research on the most noble secrets of mathematics.
+Girard worked on producing Les Oeuvres mathématiques de Simon Stevin augmentées par Albert Girard but died in 1632 before the work was published; this happened in 1634. The dedication, signed by Stevin's widow and children, contains the passage we quoted above. George Sarton writes [12]:-
+Girard was himself a great mathematician, and he added many observations of his own to the Stevinian text: these observations can be easily distinguished from the rest. Some works were translated by Tuning or Stevin, others were translated by himself and abbreviated; his own additions are always specifically mentioned as such. Hence the 'Oeuvres' can be used to study Stevin's own thought, but one must be careful not to ascribe Girard's unmistakable interpolations to Stevin.
+Sarton notes that Girard wrote a "strange commentary" on Stevin's ideas on the "age of wisdom". In particular, Sarton writes:-
+Girard's attack on the French language in a French book is certainly curious.
+Girard is also famed for being the first to formulate the (now well-known) inductive definition fn+2=fn+1+fnf_{n+2} = f_{n+1} + f_{n}fn+2​=fn+1​+fn​ for the Fibonacci sequence, and stating that the ratios of terms of the Fibonacci sequence tend to the golden ratio, which appear in this 1634 publication. Robert Simson writes in 1753 [13]:-
+The first thing Albert Girard gives ... is a method of expressing the ratio of the segments of a line cut in extreme and mean proportion, by rational numbers, that converge to the true ratio. For this purpose he takes the progression 0, 1, 1, 2, 3, 5, 8, 13, 21, etc. every term of which is equal to the sum of the two terms that precede it: and says, any number in this progression has unto the following the same ratio [nearly] that any other has to that, which follows it. Thus 5 has to 8 nearly the same ratio, that 8 has to 13; consequently, any 3 numbers next to one another as 8, 13, 21, nearly express the segments of a line cut in extreme and mean proportion, and the whole line; so that 13, 21, 34 constitute near enough an isosceles triangle, having the angle of a pentagon ... The second thing which Albert Girard mentions, is a way of exhibiting a series of rational fractions, that converge to the square root of any number proposed, and that very fast. He tells us nothing about the way of forming it, and gives the following two examples; namely he says that √2 is equal nearly to 577408\large\frac{577}{408}\normalsize408577​: or, if you would have it nearer, 1393985\large\frac{1393}{985}\normalsize9851393​. His other example is of √10, which, he says, is nearly equal to 1039681128776\large\frac{1039681}{128776}\normalsize1287761039681​. And these are ... at first sight, continued fractions of the same value.
+Girard cannot be credited with the invention of continued fractions as a result of his brilliant observations but again his genius shines through. In fact one is left with a little sadness that Girard's name is not today well-known yet one feels that things could have been different if he had taken the time to fully explain the things he obviously understood and also taken some time to push a little further some of his amazing insights. Jean Itard writes [1]:-
+[Girard was] always pressed for time and generally lacking space, he was very stingy with words and still more so with demonstrations; thus, he very often suggested more than he demonstrated.
+
+
+
+
+
+Other Mathematicians born in France
+
+A Poster of Albert Girard
+
+
+
+
+
+References (show)
+
+
+
+
+
+J Itard, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+R Schmidt and E Black (trs), The Early Theory of Equations: On Their Nature and Constitution: Translations of Three Treatises by Viete, Girard, and De Beaune (Golden Hind Press, Annapolis, Md., 1986).
+H Bosmans, La théorie des équations dans l' 'Invention nouvelle en algèbre' d'A Girard, Mathesis 40 (1926), 59-67; 100-5; 145-55.
+H Bosmans, La trigonométrie d'Albert Girard, Mathesis 40 (1926), 337-48; 385-92; 433-9.
+H Bosmans, Albert Girard et Viète: A propos de la théorie de la 'syncrèse' de ce dernier, Annales de la Societé Scientifique de Bruxelles XLV (1926), 35-42.
+A Favaro, Notizie storiche sulle frazioni continue, Bullettino di bibliografia e di storia delle scienze mateniatiche e fisiche 7 (1874), 533-596.
+H Gray Funkhouser, A Short Account of the History of Symmetric Functions of Roots of Equations, Amer. Math. Monthly 37 (7) (1930), 357-365.
+C Hutton, Albert Girard, in Algebra, Mathematical and Philosophical Dictionary 1795 1 (J Johnson, London, 1796), 100-101.
+R Kooistra, C F Gauss and the fundamental theorem of algebra (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 173-175.
+M S Mahoney, The Early Theory of Equations: On Their Nature and Constitution: Translations of Three Treatises by Viete, Girard, and De Beaune by Robert Schmidt and Ellen Black, Isis 81 (4) (1990), 765-766.
+G Maupin, Étude sur les annotations jointes par Albert Girard Samielois aux oeuvres mathématiques de Simon Stevin de Bruges, Opinions et curiosités iouchant le mathématiques II (1902), 159-325.
+G Sarton, Simon Stevin of Bruges (1548-1620), Isis 21 (2) (1934), 241-303.
+R Simson, An Explication of an Obscure Passage in Albert Girard's Commentary upon Simon Stevin's Works (Vide Les Oeuvres Mathem. de Simon Stevin, a Leyde, 1634, p. 169, 170), Philosophical Transactions of the Royal Society of London 48 (1753-1754), 368-377.
+P Tannery, Albert Girard di Saint-Mihiel, Bulletin des sciences mathématiques et astronomiques 7 (1883), 358-360.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Albert Girard:
+
+Dictionary of Scientific Biography
+The Galileo Project,
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Prime numbers
+History Topics: The Golden ratio
+History Topics: The fundamental theorem of algebra
+History Topics: The trigonometric functions
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2010
+  
+
+

@@ -1,0 +1,167 @@
+
+
+
+Harald August Bohr
+
+
+
+
+
+Quick Info
+Born
+
+      22 April 1887
+      
+
+        Copenhagen, Denmark
+        
+
+Died
+
+      22 January 1951
+      
+      Copenhagen, Denmark
+    
+
+Summary
+Harald Bohr worked on Dirichlet series, and applied analysis to the theory of numbers. He is (as far as we know) the only mathematician to win an Olympic medal (a silver for representing Denmark at soccer in 1908).
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+Harald Bohr was a younger brother of Niels Bohr. Their father, Christian Bohr, was professor of physiology at the University of Copenhagen. Christian Bohr was famous for his work on the physical and chemical aspects of respiration. Harald and Niels Bohr's mother, Ellen Adler Bohr, came from a wealthy Jewish family with family members who were important in banking and in politics in Denmark.
+
+
+Harald studied mathematics at the University of Copenhagen. He entered the University in 1904 and quickly became a well known Danish personality, not for his mathematics but rather for his soccer skills. He was in the Danish soccer team which was placed second in the 1908 Olympic games in London. When his doctoral dissertation was examined at the University of Copenhagen, there were more soccer fans wishing to attend this public examination than there were mathematicians!
+
+
+Mathematics soon became more important to Bohr than soccer and he became professor of mathematics in the Polytechnic Institute in Copenhagen in 1915. Then, in 1930, he was appointed professor of mathematics at the University of Copenhagen. Although he never quite attained the fame of his brother Niels (except as a soccer player!), he did produce some mathematics of the very highest importance. It is perhaps surprising that Harald and Niels did not collaborate more frequently. They only published one joint paper.
+
+
+Harald Bohr worked on Dirichlet series, and applied analysis to the theory of numbers. He collaborated with Edmund Landau, who was at this time at Göttingen, in studying the Riemann zeta function. In 1914 they proved the Bohr-Landau theorem on the distribution of zeros of the zeta function.
+
+
+Some of this important work on the zeta function was due to Bohr alone, some came from the collaboration with Landau. Some of the most impressive from the many striking results which they proved were major steps towards a proof of the Riemann hypothesis (which, however, is still unproved). Bohr and Landau proved that all but an infinitesimal proportion of the zeros of the zeta function lie in a small neighbourhood of the line s=12s = \large\frac{1}{2}\normalsizes=21​ .
+
+
+Bohr's interest in which functions could be represented by a Dirichlet series led him to devise the theory of almost periodic functions. He founded this theory between the years 1923 and 1926 and it is with this work that his name is now most closely associated. Roughly speaking an almost periodic function is one which, after a period, takes values within e of its values in the previous period. Bohr published three major works on this topic in Acta Mathematica between 1924 and 1926.
+
+
+The fundamental theorem for almost periodic functions is a generalisation of the Parseval identity for Fourier series. This result lead Bohr to a result on the uniform approximation to almost periodic functions by exponential functions.
+
+
+Titchmarsh, writing in [10], sums up his work on almost periodic functions:-
+The general theory was developed for the case of a real variable, and then, in the light of it, was developed the most beautiful theory of almost periodic functions of a complex variable. ... The creation of the theory of almost periodic functions of a real variable was a performance of extraordinary power, but was not based on the most up-to-date methods, and the main results were soon simplified and improved. However, the theory of almost periodic functions of a complex variable remains up to now in the same perfect form in which it was given by Bohr.
+After setting up the theory of almost periodic functions, Bohr's mathematical work became devoted exclusively to furthering the subject. He continued his work until shortly before his death, in fact he attended the International Congress of Mathematicians in Cambridge, Massachusetts four months before his death.
+
+
+Besicovitch writes in [3]:-
+For most of his life Bohr was a sick man. He used to suffer from bad headaches and had to avoid all mental effort. Bohr the man was not less remarkable than Bohr the mathematician. He was a man of refined intellect, harmoniously developed in many directions. He was also a most humane person. His help to his pupils, to his colleagues and friends, and to refugees belonging to the academic world was generous indeed. Once he had decided to help he stopped at nothing and he seldom failed. He was very sensitive to literature. His favourite author was Dickens; he had a deep admiration of Dickens' love of the human being and deep appreciation of his humour.
+
+
+
+
+
+Quotations by Harald Bohr
+
+Other Mathematicians born in Denmark
+
+A Poster of Harald Bohr
+
+
+
+
+
+References (show)
+
+
+
+
+
+B Jessen, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Harald-August-Bohr
+S Bochner, Harald Bohr, Bull. Amer. Math. Soc. 58 (1952),72-75.
+B Jessen, Harald Bohr, 22 April 1887-22 January 1951 (Danish), Mat. Tidsskr. A (1951), 1-18.
+B Jessen, Harald Bohr, 22 April 1887-22 January 1951, Acta Math. 86 (1951), I-XXIII.
+B Jessen, Harald Bohr (Danish), Normat 32 (1) (1984), 1-11.
+O Perron, Obituary: Harald Bohr, Jahresberichte der Deutschen Mathematiker-Vereinigung 55 (1) (1952), 77-88.
+R Tambs-Lyche, On Harald Bohr's mathematical work (Norwegian), Norsk Mat. Tidsskr. 33 (1951), 2-16.
+E C Titchmarsh, Obituary: Harald Bohr, J. London Math. Soc. 28 (1953), 113-115.
+H Tornehave, Harald Bohr: Professor and Head of Department, The Harald Bohr Centenary, Mat.-Fys. Medd. Danske Vid. Selsk. 42 (3) (1989), 9-14.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Harald Bohr:
+
+Times obituary
+
+
+
+Other websites about Harald Bohr:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+Theseus
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Harald Bohr
+
+Speaker at International Congress 1932
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Danish Mathematical Society
+Other: 1928 ICM - Bologna
+Other: 1932 ICM - Zurich
+Other: 1936 ICM - Oslo
+Other: 1950 ICM - Cambridge USA
+Other: 1954 ICM - Amsterdam
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update October 2003
+  
+
+

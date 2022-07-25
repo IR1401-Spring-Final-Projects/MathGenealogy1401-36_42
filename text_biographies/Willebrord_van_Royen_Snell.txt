@@ -1,0 +1,174 @@
+
+
+
+Willebrord van Royen Snell
+
+
+
+
+
+Quick Info
+Born
+
+      13 June 1580
+      
+
+        Leiden, Netherlands
+        
+
+Died
+
+      30 October 1626
+      
+      Leiden, Netherlands
+    
+
+Summary
+Willebrord Snell was a Dutch mathematician who is best known for the law of refraction, a basis of modern geometric optics; but this only become known after his death when Huygens published it.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Willebrord Snell's name appears as Snel or Snel van Royen. It is also commonly given as Willebrordus Snellius, the Latin version of Willebrord Snell, which he used for all his publications. His father was Rudolph Snell (1546-1613), the professor of mathematics at Leiden, and his mother was Machteld Cornelisdochter from an leading family from Oudewater. Willebrord, the eldest of his parents' three children, was named after his paternal grandfather. His two younger brothers were Jacob (who died in 1599 aged 16) and Hendrik (who died in childhood). Let us make a comment on Willebrord's date of birth. Some biographies of Snell give 1591 as the year of his birth but this is simply an error copied from an old biography. Others give the year as 1580 or 1581 but claim that his date of birth is unknown. In fact no record of his birth exists but his date of birth can be deduced with a fair degree of certainty from a letter his father wrote on his son's birthday. See [3] for further details.
+
+
+Rudolph Snell (1546-1613), although appointed as an extraordinary professor of mathematics at the University of Leiden in 1581, was a broad scholar who did not have a great deal of mathematical skill. His teaching was based mainly on the work of Peter Ramus although the university authorities tried to persuade him to teach more Euclid and less Ramus. He had taught Greek, Latin, Hebrew and the liberal arts in a high school earlier in his career and he had studied medicine and Aristotle's works. In addition to his university work, Rudolphus ran his own private school and, in his house near the university, he boarded a large number of students. It is in this house, filled with students, in which Willebrord grew up. His schooling was from his father who taught him Latin, Greek and philosophy. He had no other education before entering university but since his father ran a school this is not remarkable. Rudolphus would have liked his son to study law at university but Willebrord was keen to study mathematics and, continuing to live at home, he became a private pupil of Ludolph Van Ceulen. By 1600 Snell was studying law and teaching mathematics at the university on days when the professor was not teaching.
+
+
+From 1600 he travelled to various European countries, mostly discussing astronomy. He visited Adriaan van Roomen in Würzburg where he was professor of medicine and "Mathematician to the Chapter". After spending a while in Würzburg, the two mathematicians went to Prague where Snell was introduced to Tycho Brahe by van Roomen. Several years earlier Snell's father had arranged for him to be educated in Prague in an exchange with Brahe's son who would have been educated in Leiden but the arrangement was never put into practice. Snell spent some time with Brahe assisting him in making observations and clearly learnt much during this visit. The valuable experience came to an end in October 1601, however, when Brahe died. During this visit he got to know Johannes Kepler who was Brahe's assistant at the time. Snell, still in the company of van Roomen, continued visits to mathematicians in various German towns such as Joannes Praetorius in Altdorf, Michael Mästlin in Tübingen, and Wilhelm Hatzfeld and Christophorus Vulteius in Hersfeld. He returned to his father's home in Leiden in the spring of 1602 and began preparing manuscripts for publication. In 1603 he went to Paris where his studies of law continued but he also had many contacts with mathematicians. After this visit he gave up the study of law and spent most of the rest of his life in his hometown of Leiden.
+
+
+Although Snell had no official position at the University of Leiden at this time he began teaching there to assist his father whose health was beginning to fail. For several years the two formed a good team teaching mathematics in Leiden. Slowly Snell's position at Leiden became more official. In 1609 he was assigned teaching at 8 o'clock every Saturday morning. In July of the following year daily afternoon teaching was added and by 1612 he was receiving additional payment for his work. At this stage he was promised the chair of mathematics when his father retired and Snell took the opportunity created by having a low teaching load to publish translations, commentaries and editions of several works. These included commentaries on, and editions of, works by Ramus as well as translations of works by Stevin and Van Ceulen. It will not have escaped the reader's notice that Snell, like his father, was keen on Ramus. This was undoubtedly due to his father's influence as seen by a letter Snell wrote to his father in 1607 (see for example [3]):-
+Because you had stimulated me from my youth onwards to apply myself truly and fully to scholarship, and spurred me on when I hesitated, nothing was more important to me than to examine more attentively the exactness, clearness and brevity in the proofs of the ancients by means of your precepts, as rules and norms, because your Apollo [Ramus] resolutely urged to do so in his 'Prooemium Mathematicum'.
+Other major contributions he made around this time, showing vastly more mathematical skills than his father, involve the restoration of books by Apollonius on plane loci which had been lost but an outline of their contents had been preserved by Pappus. He published two of these under a Greek title which may be translated as The Revived Geometry of Cutting off of a Ratio and Cutting off of an Area (1607). He also published Apollonius Batavus Ⓣ(Works of Apollonius) (1608) containing a reconstruction of a third work by Apollonius. Further work on Apollonius which Snell produced at this time was never published and has been lost.
+
+
+Snell received the degree for Master of Arts from Leiden on 12 July 1608 after defending theses on artes liberales: grammatica, rhetorica, logica, arithmetica, geometria, analysis/algebra, physica, optica, astronomia, geographia, gnonomica, statica and ethica. He married Maria de Langhe, the daughter of Janneke Symons and Laurens Adriaens de Langhe, a burgomaster of Schoonhoven, in August 1608. The couple had at least seven children (the statement in his funeral oration that he had 18 children seems unlikely), only three of whom survived to adulthood. On 8 February 1613 he succeeded his father as professor of mathematics at the University of Leiden. The arrangement was that he should take over the teaching duties since his father was too ill to continue but, should his father recover, he had to stand down. Since Rudolph died a month later, Snell was required to continue teaching but he struggled to get proper recognition from the University of Leiden. He received a higher salary in February 1614 but was still getting between 13\large\frac{1}{3}\normalsize31​ and 12\large\frac{1}{2}\normalsize21​ of the salary of other professors. He was made a full professor of mathematics in February 1615 but his salary was not increased. Slowly he received increases but only in 1618 did he receive what he considered the proper amount for his position.
+
+
+In 1626, at the age of 46, Snell died from colic which caused a fever and paralysis of his arms and legs. His illness lasted two weeks [3]:-
+When Snell had fallen ill, the medical doctors ... had been consulted, but they had not been able to prevent the deterioration of his situation. In the evening of 30 October, [the doctors] went to visit Snell to see the effects of a new medicine. This had not helped at all and after giving him a suppository for some relief, they left. Snell had dinner with his wife. Because he was not able to walk, his servants had to lift him up. He then suddenly lost consciousness and died, 46 years old. He was buried on 4 November in the Pieterskerk in Leiden. Twenty students carried his coffin.
+Let us now look briefly at the contributions he made after being appointed as a professor at Leiden. In 1617 he published Eratosthenes Batavus Ⓣ(Works of Eratosthenes), which contains his methods for measuring the Earth. He proposed the method of triangulation and this work is the foundation of geodesy. Bowie writes [6]:-
+Willebrord Snell ... made a great advance over the methods used by his predecessors by introducing trigonometrical methods in the measurement of distances across country. He was really the originator of triangulation, which is now the universally employed method in surveying and mapping large areas. He published a book in Leiden describing his work in 1617. In observing the angles of the triangles of his arc he used a quadrant of a circle of about two feet in radius. This was graduated to two minutes and readings were estimated to single minutes.
+In this work Snell attempted to measure the circumference of the earth and so required a considerable number of measurements. To make these he had to travel quite widely in the Netherlands but leaving his family in Leiden caused him unhappiness. He used as a baseline the distance from his house to the local church spire, then built a system of triangles which allowed him to determine the distance between the towns of Alkmaar and Bergen-op-Zoom which is around 130 km. He chose these towns since they were approximately on the same meridian (modern data gives Alkmaar 4° 45' 0" East and Bergen-op-Zoom 4° 18' 0" East). His measurements were surprising accurate allowing him to deduce a good value for the radius of the earth. He dedicated Eratosthenes Batavus Ⓣ(Works of Eratosthenes)  to the States General which was a good move financially since in return they awarded him a sum amounting to almost half his annual salary.
+
+
+Throughout his career Snell was interested in astronomy and published several works on that topic some, but not all, of which contained data from his own observations. For example his Observationes Hassiacae Ⓣ(Observations from Hesse) (1618) was a work which he wrote using data from the observations of other astronomers including Tycho Brahe and Joost Bürgi, while Descriptio Cometae Ⓣ(Description of comets) (1619) contains his own observations of the comet which appeared in November 1618. In this latter work Snell strongly criticised Aristotle and stressed how harmful to the development of science it was to continue to treat his views with such reverence. Of course, in so doing Snell was following the teaching of Ramus and of his own father. Despite his attack on Aristotle, Snell did not accept Copernicus's heliocentric system but firmly believed in an Earth centred system.
+
+
+Snell also improved the classical method of calculating approximate values of π\piπ by polygons which he published in Cyclometricus Ⓣ(Measuring the circle) (1621). Using his method 96 sided polygons gives π\piπ correct to 7 places while the classical method yields only 2 places. Van Ceulen's 35 places could be found with polygons of 2302^{30}230 sides rather than 2622^{62}262. In fact Van Ceulen's 35 places of π\piπ appear in print for the first time in this book by Snell.
+
+
+Although he discovered the law of refraction now known as "Snell's law" in 1621, a basis of modern geometric optics, he did not publish it and only in 1703 did it become known when Christiaan Huygens published Snell's result in Dioptrica. There is a manuscript by Snell's which is an outline of a treatise he intended to write on optics. It is now in the library of the University of Amsterdam and known as the 'Amsterdam manuscript'. Klaus Hentschel in [10] tries to construct the path which led Snell to discover Snell's law:-
+Because of his geodetic work in which he pioneered the method of triangulation, Snell already had considerable experience with trigonometric functions; indicative of this are the two allusions to geodesics in the Amsterdam manuscript, one of them directly before the law of refraction .... Other remarks in the manuscript reveal that Snell had studied the existing literature on optics, particularly on refraction; various passages in the manuscript are analogous in formulation and sequence to other treatises as shown by his marginal notes and occasional references to other texts interspersed throughout the manuscript. Snell showed special interest in Ibn al-Haytham's experimentum elegans .... He sought a geometrical description of the refractaria .... This search led him to find the law of refraction in the secant form ....
+Snell studied the loxodrome, the path on the sphere that makes constant angle with the meridians. This appears in Tiphys batavus Ⓣ(Works of Tiphys  (Typhus was the helmsman of the Argonauts)) published in 1624, a work in which he studied navigation. The work was in two parts, one a theoretical piece of mathematics, the other devoted to practical applications.
+
+
+Vollgraff puts Snell into his historical context in [16]:-
+Willebrord Snellius ... is a striking example of the early seventeenth century man. There is in his mind no overwhelming desire to break with the past. He is thinking his own thoughts neither as an oppositionist nor as a blind admirer, but as an intelligent and critical disciple. Like his father Rudolph he is, it is true, a follower of Ramus who was, especially in his youth, in sharp opposition to Aristotle or rather to the professors at Paris who taught Aristotelian logics; but there is no evidence of his having been much troubled with logics himself, so he shows nowhere any animosity against Aristotle. With Ramus [and Brahe] he takes the earth to be the centre of the universe. In his notes on optics he quotes indiscriminately Plato, Aristotle, Cicero, Lucretius, etc. In Snellius's work we see modern physics proceed from ancient physics with continuity.
+
+
+
+
+
+Other Mathematicians born in Netherlands
+
+A Poster of Willebrord Snell
+
+
+
+
+
+References (show)
+
+
+
+
+
+D J Struik, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+N D Haasbroek, Gemma Frisius, Tycho Brahe and Snellius, and their Triangulations (Delft, 1968).
+L C de Wreede, Willebrord Snellius (1580-1626) : a Humanist Reshaping the Mathematical Sciences (Doctoral Thesis, University of Utrecht, 2007).
+L Beek, Willibrord Snellius, in Dutch Pioneers of Science (1985), 32-39.
+F Beukers and W Reinboud, A quick sketch of Snell, Nieuw Arch. Wiskd. (5) 3 (1) (2002), 60-63.
+W Bowie, Notable Progress in Surveying Instruments, The Scientific Monthly 29 (5) (1929), 402-406.
+L C de Wreede, Snellius, Willebrordus (1581?-1626), in W van Bunge, H Krop, B Leeuwenburgh, H van Ruler, P Schuurman and M Wielema (eds.), Dictionary of Seventeenth and Eighteenth-Century Dutch Philosophers 2 (Thoemmes Press, Bristol, 2003), 373-377.
+L C de Wreede, Willebrord Snellius: A Humanist Mathematician, in R Schnur and P Galland-Hallyn (eds.), Acta Conventus Neo-Latini Bonnensis Proceedings of the Twelfth International Congress of Neo-Latin Studies, Bonn 3-9 August 2003 (Tempe, Arizona, 2006), 277-286.
+F Hallyn, Kepler, Snell and the law of refraction (Dutch), Med. Konink. Acad. Wetensch. Belgie 56 (2) (1994), 119-134.
+K Hentschel, Das Brechungsgesetz in der Fassung von Snellius. Rekonstruktion seines Entdeckungspfades und eine Übersetzung seines lateinischen Manuskriptes sowie ergänzender Dokumente, Arch. Hist. Exact Sci. 55 (4) (2001), 297-344.
+D Huylebrouck, [Willebrord] Snellius's [1580-1626] memorial stone, Math. Intelligencer 17 (4) (1995), 58-59.
+W B Joyce and A Joyce, Descartes, Newton, and Snell's law, J. Opt. Soc. Amer. 66 (1) (1976), 1-8.
+K van Berkel, A note on Rudolf Snellius and the early history of mathematics in Leiden, in Mathematics from manuscript to print, 1300-1600, Oxford, 1984 (Oxford Univ. Press, New York, 1988), 156-161.
+P van Geer, Notice sur la vie et les travaux de Willebrord Snellius, Archives néerlandaises des sciences exactes et naturelles 18 (1883), 453-468.
+R Vermij, Mathematics at Leiden: Stevin, Snellius, Scaliger, in Der 'mathematicus' : Zur Entwicklung und Bedeutung einer neuen Berufsgruppe in der Zeit Gerhard Mercators, Schloss Krickenbeck, 1995 (Univ. verl. Brockmeyer, Bochum, 1996), 75-92.
+J A Vollgraff, Snellius' Notes on the Reflection and Refraction of Rays, Osiris 1 (1936), 718-725.
+C De Waard, Willebrord Snell, Nieuw Nederlandsch biographisch woordenboek 7 (Leiden, 1927), 1155-1163.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Willebrord Snell:
+
+Heinz Klaus Strick biography
+
+
+
+Other websites about Willebrord Snell:
+
+Dictionary of Scientific Biography
+The Galileo Project,
+Mathematical Genealogy Project
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Willebrord Snell
+
+Lunar features Crater Snellius
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Light through the ages: Ancient Greece to Maxwell
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2010
+  
+
+

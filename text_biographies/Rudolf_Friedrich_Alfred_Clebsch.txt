@@ -1,0 +1,171 @@
+
+
+
+Rudolf Friedrich Alfred Clebsch
+
+
+
+
+
+Quick Info
+Born
+
+      19 January 1833
+      
+
+        Königsberg, East Prussia (now Kaliningrad, Russia)
+        
+
+Died
+
+      7 November 1872
+      
+      Göttingen, Germany
+    
+
+Summary
+Alfred Clebsch was a German mathematician worked on algebraic geometry and was a co-founder of Mathematische Annalen.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Alfred Clebsch's parents were Ernst Friedrich Leopold Clebsch (1802-1863) and Pauline Ramberg (died 1864). Ernst Clebsch's father, the paternal grandfather of the subject of this biography, was Johannn Friedrich Leberecht Clebsch (1759-1847), a surgeon in the state of Colberg where he worked at the military hospital.
+
+
+Clebsch attended the Altstädtisches Gymnasium in Königsberg where he became friends with his fellow pupil Carl Neumann, the son of Franz Neumann who was at this time professor of physics at the University of Königsberg. Clebsch graduated from the Altstädtisches Gymnasium and entered the school of mathematics at the University of Königsberg in 1850. In this school, founded by Carl Jacobi, he was influenced by Jacobi through his teachers Otto Hesse and Friedrich Julius Richelot (1808-1875) who were both students of Jacobi. In fact although he never met Jacobi, who died one year after Clebsch entered the University of Königsberg, Jacobi was to influence him both through these two teachers and also directly through the fact that Clebsch was to collaborate in the production of the Collected Works of Jacobi. At Königsberg, Clebsch was taught mathematical physics by Franz Neumann, the father of his friend. He undertook research for his doctorate advised by Franz Neumann and he was awarded the degree for his thesis De motu ellipsoidis in fluido incompressibili viribus quibuslibet impulsi Ⓣ(The motion of an ellipsoid in an incompressible fluid induced by any forces) which he presented to the University of Königsberg in 1854. In this work he studied a problem in hydrodynamics.
+
+
+After graduating in 1854 Clebsch went to Berlin where he taught at various secondary schools. This was a fairly common route into the academic profession at this time and Clebsch had every intention of seeking a university post. Consequently, he continued to undertake research and published a number of articles during his four years as a secondary school teacher. Articles which he submitted to Crelle's Journal in 1854-58 and which were published in that journal in 1856-59 were: Über die Bewegung eines Ellipsoids in einer tropfbaren Flüssigkeit Ⓣ(On the motion of an ellipsoid in a liquid forming drops) (1856); Zusatz zu dem vorhergehenden Aufsatze Ⓣ(Addendum to the previous essay) (1857); Anwendung der elliptischen Functionen auf ein Problem der Geometrie des Raumes Ⓣ(Application of elliptic functions to a problem of the geometry of space) (1857); Über eine allgemeine Transformation der hydrodynamischen Gleichungen Ⓣ(On a general transformation of hydrodynamic equations) (1857); Über die Reduction der zwei Variation auf ihre einfachste Form Ⓣ(On the reduction of the two variations to their simplest form) (1858); and Über diejenigen Probleme der Variationsrechnung, welche nur eine unabhängige Variable enthalten Ⓣ(On those problems of variational calculus, which contain only one independent variable) (1858). He also published Über die Criterien des Maximums und des Minimums in der Variationsrechnung Ⓣ(On the criterion for the maximum and the minimum in the calculus of variations) in the journal Monatsberichte der Berliner Akademie in 1857.
+
+
+His first academic appointment was in 1858 when he was appointed to the University of Berlin. He left after a short spell and, still in 1858, he took up an appointment at the Polytechnischen Schule in Karlsruhe. However, once he knew that he was able to enter the academic profession he was able to marry. His wife was Dorothe Charlote Mathilde Heinel (1838-1866), the daughter of the Priest Heinel in Marienburg. Alfred and Dorothe Clebsch had four sons: Ernst Friedrich Alfred Clebsch (1859-1945); Arthur Friedrich Alfred Clebsch (1860-1931); Eduard Friedrich Alfred Clebsch (1861-1895), who became a medical doctor in Ems; and Alfred Friedrich Clebsch (1864-), who became a trader in Bremen in the firm Clebsch and Schünemann, Tobacco merchants.
+
+
+Now as we mentioned above, Clebsch's doctoral dissertation at Königsberg was on hydrodynamics and most of the papers he wrote while a school teacher were on topics mainly concerned with hydrodynamics and elasticity. The Polytechnischen Schule in Karlsruhe where he taught had been founded in 1825 and was mainly involved in training engineers and architects. To the Polytechnischen Schule, Clebsch brought many new ideas, perhaps the most significant of which was the establishment of the mathematical colloquia. He worked in Karlsruhe from 1858 to 1863 but before he left Karlsruhe the direction of his research had changed. Even before his appointment at Karlsruhe there had been signs of Clebsch moving towards pure mathematics with his work on the calculus of variations. The end of his work on topics in mathematical physics is perhaps most clearly defined by the publication of Theorie der Elastizität fester Körper Ⓣ(Theory of elasticity of solid bodies) in 1862 which was a major work on elasticity. In it he [1]:-
+... treated and extended problems of elastic vibrations of rods and plates.
+Pure mathematics became Clebsch's main research topic when he began to study the calculus of variations and partial differential equations. Clebsch moved to the University of Giessen in 1863 and there he collaborated with Paul Gordan. Their joint work culminated in a major work on abelian function Theorie der Abelschen Funktionen in 1866. The Clebsch-Gordan coefficients used in spherical harmonics were introduced by them as a result of this cooperation. Clebsch proved himself an outstanding teacher and combined his teaching skills with his research skills in building a school of algebraic geometry and invariant theory at Giessen which included Paul Gordan, Alexander Brill, Max Noether, Ferdinand von Lindemann and Jacob Lüroth.
+
+
+It was Otto Hesse who had advised Clebsch to investigate the algebraic geometry of Cayley, Sylvester and Salmon and he was particularly attracted to the contributions that Aronhold had made to their theories. Clebsch went back to Abel's approach to algebraic geometry and, rather than the geometric approach of Riemann. he adopted an algebraic approach. His interpretation of the works of Cayley, Sylvester and Salmon in this way led Clebsch to a brilliant new interpretation of Riemann's function theory. Felix Klein writes [2]:-
+As the first achievement of Clebsch we must set down the introduction into Germany of the work done previously by Cayley and Sylvester in England. But he not only transplanted to German soil their theory of invariants and the interpretation of projective geometry by means of this theory; he also brought this theory into live and fruitful correlation with the fundamental ideas of Riemann's theory of functions.
+Clebsch's work on algebraic geometry Über die Anwendung der Abelschen Functionen in der Geometrie Ⓣ(On the use of Abelian functions in geometry) (1864) was published in Crelle's Journal and is described by Igor Shafarevich in [5] as the:-
+... birth cry of modern algebraic geometry.
+The authors of [3] describe some of the ideas in this paper:-
+Clebsch proved the converse of Abel's theorem and derived many fundamental properties of algebraic curves by utilising function-theoretic methods developed by Jacobi and Riemann. These techniques enabled him to rederive with relative ease a number of results that had cost geometers like Jacob Steiner and Otto Hesse a great deal more effort.
+Again we quote from Felix Klein [2] where he explains how Clebsch looked at Riemann's ideas in a different way:-
+Riemann's celebrated memoir of 1857 presented the new ideas on the theory of functions in a somewhat startling novel form that prevented their immediate acceptance and recognition. He based the theory of the Abelian integrals and their inverses, the Abelian functions, on the idea of the surface now so well known by his name, and on the corresponding fundamental theorems of existence. Clebsch, by taking as his starting-point an algebraic curve defined by its equation, made the theory more accessible to the mathematicians of his time, and added a more concrete interest to it by the geometrical theorems that he deduced from the theory of Abelian functions.
+In 1868 Clebsch was appointed to the University of Göttingen. The authors of [3] write:-
+By 1868, when Clebsch accepted the chair formerly held by Riemann at Göttingen, he and his entourage of students were turning out so much new material on algebraic geometry and invariant theory that they began making plans for the inauguration of a new journal designed to give their work more visibility.
+Shortly after arriving in Göttingen, together with Carl Neumann, the son of his former teacher at Königsberg, he co-founded Mathematische Annalen, a mathematics journal of major importance. The first volume appeared in print in 1869; the first part of this first volume contained papers by Heinrich Weber, Jacob Lüroth, Paul Gordan (2 papers), Karl Geiser, and Ernst Christian Julius Schering.
+
+
+In fact it was in 1868 that Clebsch made the contribution that Klein considered the most significant [2]:-
+Let us now turn to that side of Clebsch's method which appears to me to be the most important, and which certainly must be recognised as being of great and permanent value; I mean the generalisation, obtained by Clebsch, of the whole theory of Abelian integrals to the theory of algebraic functions with several variables. By applying the methods he had developed for functions of the form F(x,y)=0F(x, y) = 0F(x,y)=0, or in homogeneous coordinates, f(x1,x2,x3)=0f (x_{1}, x_{2}, x_{3}) = 0f(x1​,x2​,x3​)=0, to functions with four homogeneous variables f(x1,x2,x3,x4)=0f (x_{1}, x_{2}, x_{3}, x_{4}) = 0f(x1​,x2​,x3​,x4​)=0, he found in 1868, that there also exists a number p that remains invariant under all rational transformations of the surface f = 0. Clebsch arrives at this result by considering double integrals belonging to the surface. It is evident that this theory could not have been found from Riemann's point of view.
+It was just after Clebsch had produced these new ideas that Felix Klein arrived in Göttingen to undertake postdoctoral work with him. The ideas being developed in Clebsh's school had a highly significant influence on Klein. Clebsch's ideas were being rapidly extended by the other talented members of his school. After spending eight months working in Göttingen, Klein spoke to Clebsch about broadening his horizons and spending a semester in Berlin. Clebsch strongly advised him not to go to Berlin and Klein realised that there were serious tensions between the Göttingen school and the one in Berlin. However, he went against Clebsch's advice and spent a semester to Berlin.
+
+
+Sadly Clebsch's brilliant career came to a sudden end in 1872 when he died of diphtheria. Max Noether and Alexander Brill, who were members of his school at Giessen, continued his work on curves. Two volumes of his lectures on geometry were published after his death in 1876 and 1891. A second edition of part of one of these volumes, with Clebsch as joint author, was published in three parts in 1906, 1910 and 1932.
+
+
+W Burau, writing in [1], makes the following comments about Clebsch's work:-
+... Clebsch described the plane representations of various rational surfaces, especially that of the general cubic surface. Clebsch must also be credited with the first birational invariant of an algebraic surface, the geometric genus that he introduced as the maximal number of double integrals of the first kind existing on it.
+Finally we give the assessment of Clebsch from the authors of [3]:-
+Clebsch had been a model teacher, combining mathematical genius with an ability to inspire and encourage gifted students. Had he lived longer, he might easily have become the dominant figure of his generation, and the whole framework for mathematics in Germany might have evolved differently. Under his leadership, concrete plans had already been made for the creation of a German mathematical society, but after his death, this effort gradually lost momentum.
+
+
+
+
+
+Quotations by Alfred Clebsch
+
+Other Mathematicians born in Russia
+
+A Poster of Alfred Clebsch
+
+
+
+
+
+References (show)
+
+
+
+
+
+W Burau, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+F Klein, The Evanston Colloquium. Lectures on Mathematics delivered from August 28 to September 9, 1893 (Macmillan & Co., London, 1894).
+K H Parshall and D E Rowe, The Emergence of the American Mathematical Research Community, 1876-1900: J J Sylvester, Felix Klein, and E H Moore (American Mathematical Society, Providence R.I., 1994).
+F Klein et. al., Rudolf Friedrich Alfred Clebsch, Versuch einer Darstellung und Würdigung seiner wissenschaftlichen Leistungen von einigen seiner freunde, Mathematische Annalen 7 (1874), 1-40.
+I R Shafarevich, Zum 150 : Geburtstag von Alfred Clebsch, Math. Ann. 266 (2) (1983), 135-140.
+U Stuhler, C Thiel, and S Wiedmann, About the Cover: Alfred Clebsch on Crystallography, Bull. Amer. Math. Soc. 45 (1) (2008), 153-156.
+R Tobies, The reception of H Grassmann's mathematical achievements by A Clebsch and his school, in Hermann Günther Grassmann (1809-1877): visionary mathematician, scientist and neohumanist scholar (Dordrecht, 1996), 117-130.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Alfred Clebsch:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Alfred Clebsch
+
+LMS Honorary Member 1871
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Abstract linear spaces
+History Topics: Cubic surfaces
+Societies: German Mathematical Society
+Other: 1912 ICM - Cambridge
+Other: Earliest Known Uses of Some of the Words of Mathematics (G)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 2014
+  
+
+

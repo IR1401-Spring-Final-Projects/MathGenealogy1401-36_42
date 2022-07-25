@@ -1,0 +1,153 @@
+
+
+
+Leonard James Rogers
+
+
+
+
+
+Quick Info
+Born
+
+      30 March 1862
+      
+
+        Oxford, England
+        
+
+Died
+
+      12 September 1933
+      
+      Oxford, England
+    
+
+Summary
+Leonard James Rogers was an English mathematician who is best known for what are now called the Rogers-Ramanujan identities.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Leonard James Rogers was born in Oxford, where his father, Thorold Rogers (born at West Meon Hampshire about 1823), was Professor of Political Economy.  His mother was Anne Susanna Charlotte Rogers (born in London about 1826).
+
+
+In his childhood Leonard had a serious illness and, though his recovery was complete, he was not sent to school. Mr J Griffith, of Jesus College, himself a well-known Oxford mathematician with a strong interest in elliptic functions, noticed Rogers' marked mathematical ability, and taught him during his boyhood.
+
+
+In 1879 he was elected to a Scholarship in Mathematics at Balliol College, and he matriculated in October, 1880. Besides first classes in the Mathematical Schools, and the Senior and Junior Mathematical Scholarships, he took a second class in Classical Moderations in 1882, and the degree of Bachelor of Music in 1884.
+
+
+In the period 1888-1919 he was Professor of Mathematics at Yorkshire College, now the University of Leeds. A serious illness obliged him to retire in 1919. He made a remarkable recovery, however, and returned to live in Oxford, where he continued his mathematical work, did a little teaching and examining, and increased his fame as a gifted musician.
+
+
+Rogers was a man of extraordinary gifts in many fields, and everything he did, he did well. Besides his mathematics and music he had many interests; he was a born linguist and phonetician, a wonderful mimic who delighted to talk broad Yorkshire, a first-class skater, and a maker of rock gardens. He did things well because he liked doing them. Music was the first necessity in his intellectual life, and after that came mathematics. He had very little ambition or desire for recognition.
+
+
+Rogers is now remembered for a remarkable set of identities which are special cases of results which he had published in 1894. Such names as Rogers-Ramanujan identities, Rogers-Ramanujan continued fractions and Rogers transformations are known in the theory of partitions, combinatorics and hypergeometric series. The Rogers-Ramanujan identities were discovered in the papers On the expansion of some infinite products, Lond. Math. Soc. Proc. 24, 337-352; 25, 318-343 (1893/94) and published in 1894, and rediscovered by S A Ramanujan in 1913 and I Schur in 1917 (cf. [2], [4], [6], [9]). We can quote Hardy who wrote in 1940 on page 91 of [2]: 
+The formulae have a very curious history. They were found first in 1894 by Rogers, a mathematician of great talent but comparatively little reputation, now remembered mainly from Ramanujan's rediscovery of his work. Rogers was a fine analyst, whose gifts were, on a smaller scale, not unlike Ramanujan's; but no one paid much attention to anything he did, and the particular paper in which he proved the formulae was quite neglected.
+
+
+Ramanujan rediscovered the formulae sometime before 1913. He had then no proof (and knew that he had none), and none of the mathematicians to whom I communicated the formulae could find one. They are therefore stated without proof in the second volume of MacMahon's "Combinatory Analysis".
+
+
+The mystery was solved, trebly, in 1917. In that year Ramanujan, looking through old volumes of the Proceedings of the London Mathematical Society, came accidentally across Rogers's paper. I can remember very well his surprise, and the admiration which he expressed for Rogers' work. A correspondence followed in the course of which Rogers was led to a considerable simplification of his original proof.
+ The above neglect can be gauged by the fact that in 1936 the future Fields Medallist, Atle Selberg, published a "generalization" of the Rogers-Ramanujan identities which turned out, in fact, to be another special case of Rogers' original result.
+
+
+The Rogers inequality was proved in 1888 in his paper An extension of a certain theorem in inequalities, Messenger of Math. 17 (1888), 145-150. The inequality 
+∑akbk≤(∑akp)1/p(∑bkp/(p−1))(p−1)/p\sum  a_{k}b_{k}  ≤  (\sum  a_{k}^{p})^{1/p}(\sum  b_{k}^{p/(p-1)})^{(p-1)/p}∑ak​bk​≤(∑akp​)1/p(∑bkp/(p−1)​)(p−1)/p
+which is known as the Hölder inequality, was proved in a slightly different form by Rogers in 1888 and then, also in a different form, by Hölder in 1889. Hölder even made clear that he was indebted to a paper of Rogers by referring to it. In the above form together with its integral version the inequalities were stated and used by F Riesz in 1910. In 1920 Hardy [10] wrote "By the well known inequality... which seems to be due to Hölder: see Edmund Landau (1907)". Then in 1934 in the well known Inequalities book of Hardy-Littlewood-Pólya [1] on page 25 it was stated in an footnote that "Hölder states the theorem in a less symmetrical form given a little earlier by Rogers". As we can see Hölder was luckier that Pringsheim (1902), Jensen (1906), Landau (1907), Riesz (1910, 1913), Hardy (1920) and then Hardy-Littlewood-Pólya [1] put Hölder name instead of Rogers's name to that inequality and now almost everybody refers to it as Hölder's inequality. However, it should be called the Rogers inequality or Rogers-Hölder-Riesz inequality or, at least, Rogers-Hölder or Hölder-Rogers inequality (cf. [3], [5], [13] and especially [12], where more is written about this interesting story).
+
+
+Rogers published over thirty papers in mathematics.
+
+
+
+
+
+Other Mathematicians born in England
+
+A Poster of Leonard Rogers
+
+
+
+
+
+References (show)
+
+
+
+
+
+G H Hardy, J E Littlewood and G Pólya, Inequalities (Cambridge, 1934).
+G H Hardy, Ramanujan (New York, 1940).
+G B Folland, Real Analysis. Modern Techniques and their Applications (J. Wiley, New York 1984).
+G E Andrews, q-series: their Development and Application in Analysis, Number Theory, Combinatorics, Physics, and Computer Algebra, (Providence, 1986).
+U Dudley, Real Analysis and Probability (Wadsworth, 1989).
+G E Andrews, L J Rogers and the Rogers-Ramanujan identities, Math. Chronicle 11 (1982), 1-15.
+A L Dixon, Leonard James Rogers, Obituary Notices of Fellows of the Royal Society I(1932/35), 299-301.
+A L Dixon, Leonard James Rogers, J. London Math. Soc. 9 (1934), 237-240.
+K Hannabuss, The mid-nineteenth century, in: Oxford Figures, 800 years of the Mathematical Sciences, (Oxford, 2000) 187-201.
+G H Hardy, Note on a theorem of Hilbert, Math. Zeit. 6 (1920), 314-317.
+Leonard James Rogers, Obituary, Nature 132 (1933) 701-702.
+L Maligranda, Why Hölder's inequality should be called Rogers' inequality, Math. Inequal. Appl. 1 (1998), 69-83.
+L Maligranda, Equivalence of the Hölder-Rogers and Minkowski inequalities, Math. Inequal. Appl. 4 (2001), 203-207.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Leonard Rogers:
+
+Times obituary
+An entry in The Mathematical Gazetteer of the British Isles,
+
+
+
+Other websites about Leonard Rogers:
+
+Dictionary of National Biography
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Leonard Rogers
+
+Fellow of the Royal Society 1924
+
+
+
+
+
+
+    Written by Lech Maligranda, Lulea University of Technology, Sweden.
+
+    Last Update January 2003
+  
+
+

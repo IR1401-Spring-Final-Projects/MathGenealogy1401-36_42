@@ -1,0 +1,292 @@
+
+
+
+Alfred Tarski
+
+
+
+
+
+Quick Info
+Born
+
+      14 January 1901
+      
+
+        Warsaw, Russian Empire (now Poland)
+        
+
+Died
+
+      26 October 1983
+      
+      Berkeley, California, USA
+    
+
+Summary
+Alfred Tarski made important contributions in many areas of mathematics, including metamathematics, set theory, measure theory, model theory, and general algebra.
+
+
+
+
+
+    View seven larger pictures
+
+
+
+
+
+Biography
+Alfred Tarski's father was Ignacy Teitelbaum, a Jewish shopkeeper and businessman who traded in wood. One might reasonably ask why Tarski's father was not named "Tarski" and we will explain in a moment why Alfred Teitelbaum changed his name to Alfred Tarski. Let us just note for now that Alfred Tarski was actually born with the family name of Teitelbaum, and for about the first 22 years of his life was known as Alfred Teitelbaum. Ignacy Teitelbaum had married Rosa Prussak and, although Rosa never had a career, and therefore never had the opportunity to show her intellect, it was through his mother rather than his father that Tarski inherited his brilliance. Alfred had a brother Wacław Teitelbaum to whom he was close as they were growing up.
+
+
+Alfred grew up in a well off family who valued education. He attended the Schola Mazowiecka (the Nizina Mazowiecka is the part of the lowland area of Poland in which Warsaw is situated) which was a High School for the intellectuals. The school gave Alfred a broader education than he would otherwise gave received. He studied subjects such as Russian, German, French, Greek and Latin in addition to the standard school topics. Of course he studied mathematics at the high school, and his teachers recognised that he had extraordinary talents in that topic, but it was not the subject that he intended to specialise in at university, rather he made the decision to study biology.
+
+
+There were major changes in Poland during the years that Alfred Teitelbaum was growing up and we need to look briefly at the background in order to understand events. Since the partition of Poland in 1772, Russia had controlled that part of the country called Congress Poland, which included Warsaw. The University of Warsaw had been closed and only a Russian language university operated there. At the outbreak of World War I, the Central Powers (Germany and Austria- Hungary) attacked Congress Poland. In August 1915 the Russian forces withdrew from Warsaw - at this time Alfred Teitelbaum was studying in high school and we have to see his brilliant school career against the military action and dramatic political change taking place around him. Germany and Austria-Hungary took control of most of the country and a German governor general was installed in Warsaw.
+
+
+One of the first moves after the Russian withdrawal was the refounding of the University of Warsaw and it began operating as a Polish university in November 1915. Rapidly a strong school of mathematics grew up in the University. Łukasiewicz was appointed to the new University of Warsaw when it reopened in 1915. Mazurkiewicz became a professor of mathematics at this time. It was an exciting time in Poland and a new Kingdom of Poland was declared on 5 November 1916. Alfred Teitelbaum (who had still not changed his name to Tarski) spent a short while in the Polish army after leaving school and then entered the University of Warsaw in 1918, beginning a course which he intended would lead to a degree in biology. It was a time of great excitement as the university had become a leading international institution almost overnight.
+
+
+Lesniewski accepted the chair of the philosophy of mathematics at Warsaw in 1919 and Sierpiński was appointed at the same time. These appointments were of great significance since Alfred took a course on logic given by Lesniewski who quickly saw his genius and persuaded him to change from biology to mathematics. It was a defining moment for Alfred who now came under the influence not only of Lesniewski but also of Łukasiewicz, Sierpiński, Mazurkiewicz, and the philosopher Kotarbinski. He attended courses by all these leading academics and showed his genius by quickly matching the brilliance of his teachers. In 1920 he had a short spell in the Polish army in the middle of his studies.
+
+
+It was around 1923 that Alfred Teitelbaum changed his name to Alfred Tarski. There were a number of reasons for the name change and for the other major change to his life which he decided to make at the same time, namely to change his religion from the Jewish faith to become a Roman Catholic. It was not just Alfred who made these two major moves, for his brother Wacław took the name of Tarski and embraced Roman Catholicism at the same time. We have explained the new beginnings that Poland had experienced in the few years before this, and there were strong nationalist feelings in the country. There is no doubt that Tarski was strongly influenced by these feelings and wished to be a Pole and not a Jew. Both the name change and the change of religion made him more Polish. There was also the realisation that anti-Semitic views in the country made it almost impossible for a Jew to be appointed to a university post and Tarski, nearing the end of his doctoral studies, certainly wished to follow an academic career.
+
+
+Tarski's first paper was published in 1921 when he was only 19 years old. In this paper he investigated set theory questions, and in fact set theory would be a continuing research interest for Tarski throughout his life. His doctoral studies were supervised by Lesniewski and he submitted his doctoral thesis for examination in 1923. In 1924 Tarski graduated with a doctorate, and became the youngest person ever to be awarded the degree by the University of Warsaw. Tarski's first major results were published in 1924 when he began building on the set theory results obtained by Cantor, Zermelo and Dedekind. He published a joint paper with Banach in that year on what is now called the Banach-Tarski paradox. This is not a paradox at all, the only reason that it is given this name is that it is counter-intuitive. The result proves that a sphere can be cut into a finite number of pieces and then reassembled into a sphere of larger size, or alternatively it can be reassembled into two spheres of equal size to the original one.
+
+
+Tarski taught logic at the Polish Pedagogical Institute in Warsaw from 1922 to 1925 then in that year he was appointed Docent in mathematics and logic at the University of Warsaw. He later became Łukasiewicz's assistant but these university positions did not give him enough money to live on, so he had to earn his living with a second job. He became a mathematics professor at Zeromski's Lycée in Warsaw in 1925 and until 1939 he held these two full-time posts. On 23 June 1929 Tarski married Maria Witkowski who was a teacher at Zeromski's Lycée. Given Tarski's Polish patriotism which we mentioned above, it may be relevant to note that Maria was a Roman Catholic and she had worked as a courier for the army during Poland's fight for independence.
+
+
+This was a time when Tarski's international reputation continued to grow. He visited the University of Vienna in February 1930 where he lectured to Menger's colloquium. In Vienna he met Gödel who had recently been awarded his doctorate and who became a member of the faculty later in that year. In 1933 Tarski published The concept of truth in formalized languages which is his now famous paper on the concept of truth:-
+... which is among the most important papers ever written on mathematical logic. ... Not only does this paper provide a mathematically rigorous articulation of several ideas that had been developing in earlier mathematical logic, it also presents foundations on which later logic could be built.
+Tarski was awarded a fellowship to allow him to return to Vienna in January 1935 and he worked with Menger's research group until June. The Vienna Circle of Logical Positivists which flourished, particularly in the 1920s in Vienna, had led to the development of the Unity of Science group and this group met in Paris in 1935. Tarski presented his ideas on truth in a lecture at this meeting. Niiniluoto, in [47] argues:-
+... for the thesis that Alfred Tarski's original definition of truth, together with its later elaboration in model theory, is an explication of the classical correspondence theory of truth. In defending Tarski against some of his critics, I wish to show how this account of truth can be formulated, understood, and further developed in a philosophically satisfactory way.
+Tarski published On the concept of logical consequence in 1936. In this he claimed that the conclusion of an argument will follow logically from its premises if and only if every model of the premises be a model of the conclusion. This work on logical consequence has had a profound influence and has been discussed by many authors; see for example [5], [13], [23], [36], [53], [56], and [70].
+
+
+In 1937 he published another classic paper, this time on the deductive method, which presents clearly his views on the nature and purpose of the deductive method, as well as considering the role of logic in scientific studies.
+
+
+In 1939 Tarski applied for the chair of philosophy at Lwów but failed to be appointed. It is hard to be certain why one candidate may be preferred to another in a competition for a chair so it is impossible to say with certainty that anti-Semitism played a role in the decision. However, it is certainly fair to say that by 1939 Tarski had an outstanding international reputation but was still forced to support himself by teaching mathematics in a high school. It is certainly reasonable to believe that changing one's name and religion would not allow Jews to escape from the discrimination which was widespread throughout Europe at this time.
+
+
+In August 1939 Tarski travelled to Harvard University in the United States to attend another Unity of Science meeting. At 12.40 on 31 August 1939 Hitler gave the order for his troops to attack Poland at 4.45 the next morning. Tarski had been in the United States for two weeks at the time. It was extremely fortunate for him that he was not in Poland when the German armies attacked, for there is no doubt that despite the change of name and religion, he would still have qualified as a Jew as far at the Nazi regime were concerned.
+
+
+By this time Tarski had two children, a son Jan and a daughter Ina, and both his wife and children had remained in Poland when he travelled to the United States in 1939. Tarski was successful in obtaining permission to remain in the United States, and he then tried, with the help of many European friends, to arrange for his family to escape and join him in the United States. He failed to achieve this but fortunately all three survived the war and were able to join Tarski in 1946. However, his father, mother, brother and sister-in-law all died at the hands of the Nazis during the war.
+
+
+Certainly Tarski's life was saved by being in the United States but he still had to secure a job. Permanent posts were not easy to obtain since many outstanding academics had fled from Europe to the United States in the years immediately prior to the outbreak of war. Tarski held a number of temporary research positions: Harvard from 1939 to 1941; City College of New York in 1940; and the Institute for Advanced Study at Princeton in 1941-42 when he held a Guggenheim Fellowship. At Princeton Tarski met Gödel again for he had also fled from the Nazi threat. During this period, in 1941, he published an important paper calculus of relations.
+
+
+After these years of temporary jobs, Tarski obtained a permanent post after he joined the staff at the University of California at Berkeley in 1942. At first he was appointed to a one year post but he was soon given tenure. He was promoted to associate professor there in 1945, becoming Professor of Mathematics in 1949. He remained at Berkeley for the rest of his career, becoming professor emeritus in 1968. Although officially retired at that stage, he was asked to continue to teach until 1973 and he also continued supervising research students and undertaking research up to the time of his death. In [3] we are told about Tarski's students in Berkeley.
+His seminars at Berkeley fast became a power-house of logic. His students, many of them now distinguished mathematicians, recall the awesome energy with which he would coax and cajole their best work out of them, always demanding the highest standards of clarity and precision.
+Tarski certainly did not lead a quite life in Berkeley, but rather took many opportunities to visit other places. He was Sherman memorial lecturer at University College London in 1950, then a lecturer at the Henri Poincaré Institute in Paris in 1955. He was research professor at the Miller Institute of Basic Research in Science in 1958-1960, then in 1966 returned to University College London when he was again Sherman memorial lecturer. In 1967 he was Flint professor of philosophy at the University of California at Los Angeles and in 1974-75 he was in South America at the Catholic University of Chile.
+
+
+Tarski is recognised as one of the four greatest logicians of all time, the other three being Aristotle, Frege, and Gödel. Of these Tarski was the most prolific as a logician and his collected works, excluding his books, runs to 2500 pages. Tarski made important contributions in many areas of mathematics: set theory, measure theory, topology, geometry, classical and universal algebra, algebraic logic, various branches of formal logic and metamathematics. He produced axioms for 'logical consequence', worked on deductive systems, the algebra of logic and the theory of definability. He can be considered a mathematical logician with exceptionally broad mathematical interests. We have looked briefly at some of Tarski's work and we shall examine a little more of his work but it is impossible in a biography of this length to give a proper view of the range of his contributions.
+
+
+Metamathematics, introduced by Hilbert in 1922 meaning "proof theory" as a part of his programme to establish the consistency of arithmetic, was transformed by Tarski when he introduced semantic methods leading to his development of model theory with its combination of semantic and syntactic relations. Sinaceur writes [60]:-
+In [Tarski's] view, metamathematics became similar to any mathematical discipline. Not only its concepts and results can be mathematized, but they actually can be integrated into mathematics. ... Tarski destroyed the borderline between metamathematics and mathematics. He objected to restricting the role of metamathematics to the foundations of mathematics.
+Formal scientific languages can be subjected to more thorough study by the semantic method that he developed. He worked on model theory, mathematical decision problems and with universal algebra.
+
+
+Tarski presented his paper The axiomatic method : with special reference to geometry and physics to the International Symposium held at the University of California at Berkeley from 26 December 1957 to 4 January 1958. His paper, appearing in the Proceedings of the Conference in 1959, gives his axiom system for geometry. This axiomatic system gives a newer approach to the problem which had been tackled by Hilbert in Grundlagen der Geometrie Ⓣ(Foundations of geometry).
+
+
+In 1968 Tarski wrote another famous paper Equational logic and equational theories of algebras in which he presented a survey of the metamathematics of equational logic as it then existed as well as giving some new results and some open problems. In the following year Tarski's paper Truth and proof appeared which:-
+... is one of the finest pieces of expository writing in all of mathematical logic.
+The paper considers Gödel's incompleteness theorem as well as Tarski's undefinability theorem and look at their consequences for the axiomatic method in mathematics.
+
+
+Tarski wrote nineteen monographs in different areas of mathematics. His work includes Geometry (1935), Introduction to Logic and to the Methodology of Deductive Sciences (1936), A decision method for elementary algebra and geometry (1948), Cardinal Algebras (1949), Undecidable theories (1953), Logic, semantics, metamathematics (1956), and Ordinal algebras (1956).
+
+
+Introduction to Logic and to the Methodology of Deductive Sciences is an introduction written at the level of an undergraduate course in logic and axiomatics. In A decision method for elementary algebra and geometry Tarski showed that the first-order theory of the real numbers under addition and multiplication is decidable which is in contrast, in a way which is really surprising to non-experts, to the results of Gödel and Church who showed that the first-order theory of the natural numbers under addition and multiplication is undecidable. Cardinal Algebras presents a study of algebras satisfying certain properties which capture the arithmetic of cardinal numbers. In Undecidable theories Tarski showed that group theory, lattices, abstract projective geometry, closure algebras and others mathematical systems are undecidable. He had already made clear how pleased mathematicians should be that there is no solution to the general decision problem. In a lecture given at Harvard during 1939-40 Tarski said:-
+... the solution of the decision problem in its most general form is negative. ... [Surely] many mathematicians experienced a profound feeling of relief when they heard of this result. Perhaps sometimes in their sleepless nights they thought with horror of the moment when some wicked metamathematician would find a positive solution, and design a machine which would enable us to solve any mathematical problem in a purely mechanical way.... The danger is now over ... [and] mathematicians ... can sleep quietly.
+In Ordinal algebras Tarski defines an algebra which captures the properties of the additive theory of order types. It differs most strongly from the algebras which he presented in Cardinal algebras by having non-commutative addition.
+
+
+The collected papers of Tarski were produced in four volumes edited by Steven R Givant and Ralph N McKenzie. John Corcoran, reviewing these volumes, writes:-
+The mathematical community owes a debt of gratitude to Givant and McKenzie for their efforts in producing this invaluable collection of Alfred Tarski's works. It is only when we see Tarski's papers collected in one place that we can begin to appreciate the scope and profundity of his influence on modern mathematical thought and, in particular, on modern mathematical logic. Mathematical logic as we know it today is almost inconceivable without Tarski's contributions.
+G H Moore writes in [1] described Tarski's character:-
+Tarski was extroverted, quick-witted, strong-willed, energetic, and sharp-tongued. He preferred his research to be collaborative - sometimes working all night with a colleague - and was very fastidious about priority.
+A B Feferman also describes aspects of his character writing in [25]:-
+A charismatic leader and teacher, known for his brilliantly precise yet suspenseful expository style, Tarski had intimidatingly high standards for students, but at the same time he could be very encouraging, and particularly so to women - in contrast to the general trend. Some students were frightened away, but a circle of disciples remained, many of whom became world-renowned leaders in the field.
+Tarski was honoured by being elected to the National Academy of Sciences, the Royal Netherlands Academy of Sciences, and the British Academy. He was made honorary editor of Algebra Universalis and served as President of the Association for Symbolic Logic from 1944 to 1946 and the International Union for the History and Philosophy of Science in 1956-57. He received honorary degrees from the Catholic University of Chile (1975) and the University of Marseilles (1977). In 1981 Berkeley awarded him the Berkeley Citation.
+
+
+
+
+
+
+
+Quotations by Alfred Tarski
+
+Other Mathematicians born in Poland
+
+A Poster of Alfred Tarski
+
+
+
+
+
+References (show)
+
+
+
+
+
+G N Moore, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Alfred-Tarski
+A Cantini, I fondamenti della matematica da Dedekind a Tarski (Turin, 1979).
+J Etchemendy, Tarski on truth and logical consequence (Stanford, Ca., 1986).
+L Henkin, J Addison, W Craig, C C Chang, D Scott and R Vaught (eds.), Proceedings of the Tarski Symposium, University of California, Berkeley, Calif., June 23-30, 1971 (Providence, R.I., 1979).
+L Henkin, J Addison, W Craig, C C Chang, D Scott and R Vaught (eds.), Proceedings of the Tarski Symposium, University of California, Berkeley, Calif., June 23-30, 1971 (Providence, R.I., 1974).
+P Simons, Philosophy and logic in Central Europe from Bolzano to Tarski : Selected essays (Dordrecht, 1992).
+J Wolenski and E Köhler, Alfred Tarski and the Vienna Circle : Austro-Polish connections in logical empiricism, Papers from the International Conference held in Vienna, July 12-14, 1997 (Dordrecht, 1999).
+J W Addison, Eloge : Alfred Tarski : 1901-1983, Ann. Hist. Comput. 6 (4) (1984), 335-336.
+Alfred Tarski (1901-1983), Studia Logica 44 (4) (1985), 319.
+I H Anellis, Tarski's development of Peirce's logic of relations, in Studies in the logic of Charles Sanders Peirce (Bloomington, IN, 1997), 271-303.
+C N Bach, Tarski's 1936 account of logical consequence, Modern Logic 7 (2) (1997), 109-130.
+Bibliography : Alfred Tarski, in Proceedings of the Tarski Symposium, Univ. California, Berkeley, Calif., 1971 (Providence, R.I., 1974), 487-498.
+W J Blok and D Pigozzi, Alfred Tarski's work on general metamathematics, J. Symbolic Logic 53 (1) (1988), 36-50.
+R Chuaqui, Alfred Tarski, mathematician of truth (Portuguese), Bol. Soc. Paran. Mat. (2) 6 (1) (1985), 1-10.
+A Coffa, Carnap, Tarski and the search for truth, Nous 21 (4) (1987), 547-572.
+J Czelakowski and G Malinowski, Key notions of Tarski's methodology of deductive systems, Studia Logica 44 (4) (1985), 321-351.
+N C da Costa, A Tarski, Sebastião e Silva and the concept of structure (Portuguese), Bol. Soc. Paran. Mat. (2) 7 (2) (1986), 137-145.
+P de Rouilhan, Tarski et l'universalité de la logique : Remarques sur le post-scriptum au 'Wahrheitsbegriff', in Le formalisme en question, Saint-Malo, 1994 (Paris, 1998), 85-102.
+D Delfitto, Toward a historical reading of A Tarski's 'Wahrheitsbegriff' (Italian), Teoria 6 (2) (1986), 151-170.
+J Doner and W Hodges, Alfred Tarski and decidable theories, J. Symbolic Logic 53 (1) (1988), 20-35.
+J Etchemendy, Tarski on truth and logical consequence, J. Symbolic Logic 53 (1) 1988), 51-79.
+A B Feferman, How the unity of science saved Alfred Tarski, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 43-52.
+A B Feferman, Alfred Tarski, American National Biography 19 (Oxford, 1999), 330-332.
+S Feferman, Tarski and Gödel : between the lines, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 53-63.
+J Floyd, Prose versus proof : Wittgenstein on Gödel, Tarski and truth, Philos. Math. (3) 9 (3) (2001), 280-307.
+J F Fox, What were Tarski's truth-definitions for?, Hist. Philos. Logic 10 (2) (1989), 165-179.
+S R Givant, Bibliography of Alfred Tarski, J. Symbolic Logic 51 (4) (1986), 913-941.
+S R Givant, A portrait of Alfred Tarski (Czech), Pokroky Mat. Fyz. Astronom. 37 (4) (1992), 185-205.
+S R Givant, A portrait of Alfred Tarski, Math. Intelligencer 13 (3) (1991), 16-32.
+S R Givant and V Huber-Dyson, Alfred Tarski, a kaleidoscope of personal impressions (Polish), Wiadom. Mat. 32 (1996), 95-127.
+S R Givant, Tarski's development of logic and mathematics based on the calculus of relations, in Algebraic logic, Budapest, 1988 (Amsterdam, 1991), 189-215.
+S R Givant, Unifying threads in Alfred Tarski's work, Math. Intelligencer 21 (1) (1999), 47-58.
+M Gomez-Torrente, On a fallacy attributed to Tarski, Hist. Philos. Logic 19 (4) (1998), 227-234.
+M Gómez-Torrente, Tarski on logical consequence, Notre Dame J. Formal Logic 37 (1) (1996), 125-151.
+G G Granger, Le problème du fondement selon Tarski, in Le formalisme en question, Saint-Malo, 1994 (Paris, 1998), 37-47.
+W Hodges, Alfred Tarski, J. Symbolic Logic 51 (4) (1986), 866-868.
+B Jonsson, The contributions of Alfred Tarski to general algebra, J. Symbolic Logic 51 (4) (1986), 883-889.
+A Kirsch, Das Paradoxon von Hausdorff, Banach und Tarski : Kann man es 'verstehen'?, Math. Semesterber. 37 (2) (1990), 216-239.
+L Kvasz, Tarski and Wittgenstein on semantics of geometrical figures, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 179-191.
+A Lévy, Alfred Tarski's work in set theory, J. Symbolic Logic 53 (1) (1988), 2-6.
+V McGee, Logical operations, J. Philos. Logic 25 (6) (1996), 567-580.
+G F McNulty, Alfred Tarski and undecidable theories, J. Symbolic Logic 51 (4) (1986), 890-898.
+J D Monk, The contributions of Alfred Tarski to algebraic logic, J. Symbolic Logic 51 (4) (1986), 899-906.
+R Murawski, Undefinability of truth : The problem of priority : Tarski vs Gödel, Hist. Philos. Logic 19 (3) (1998), 153-160.
+I Niiniluoto, Tarskian truth as correspondence - replies to some objections, in Truth and its nature (if any), Prague, 1996 (Dordrecht, 1999), 91-104.
+J Peregrin, Tarski's legacy (introductory remarks), in Truth and its nature (if any), Prague, 1996 (Dordrecht, 1999), vii-xviii.
+Ph.D students of Alfred Tarski, in Proceedings of the Tarski Symposium, Univ. California, Berkeley, Calif., 1971 (Providence, R.I., 1974), 483-485.
+J Pla Carrera, The axiom of choice and the Banach-Tarski paradox (Catalan), Butl. Sec. Mat. Soc. Catalana Ciènc. Fis. Quim. Mat. No. 15 (1983), 103-168.
+J Pla i Carrera, Alfred Tarski and contemporary logic I (Catalan), Butl. Sec. Mat. No. 17 (1984), 26-46.
+J Pla i Carrera, Alfred Tarski and set theory (Catalan), Theoria (San Sebastian) (2) 4 (11) (1989), 343-417.
+G Ray, Logical consequence : a defense of Tarski, J. Philos. Logic 25 (6) (1996), 617-677.
+A Rojszczak, Truth-bearers from Twardowski to Tarski, in The Lvov-Warsaw School and Contemporary Philosophy 1995 (Dordrecht, 1998), 73-84.
+S Rosen, Alfred Tarski in 1940 : Comment on: 'Eloge: Alfred Tarski: 1901-1983', Ann. Hist. Comput. 7 (4) (1985), 364-365.
+J M Sagüillo, Logical consequence revisited, Bull. Symbolic Logic 3 (2) (1997), 216-241.
+G Schurz, Tarski and Carnap on logical truth-or : what is genuine logic?, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 77-94.
+G Y Sher, Did Tarski commit 'Tarski's fallacy'?, J. Symbolic Logic 61 (2) (1996), 653-686.
+P Simons, Bolzano, Tarski, and the limits of logic, Bolzano-Studien, Philos. Natur. 24 (4) (1987), 378-405.
+H Sinaceur, Alfred Tarski : semantic shift, heuristic shift in metamathematics, Synthese 126 (1-2) (2001), 49-65.
+H Sinaceur, Mathématiques et métamathématique du congrès de Paris (1900) au congrès de Nice (1970): nombres réels et théorie des modèles dans les travaux de Tarski, Studies in the history of modern mathematics II, Rend. Circ. Mat. Palermo (2) Suppl. No. 44 (1996), 113-132.
+H Sinaceur, Préhistoire de la géométrie algébrique réelle : de Descartes à Tarski, in De la géométrie algébrique réelle, Paris, 1990 (Paris, 1991), 1-17.
+H Sluga, Truth before Tarski, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 27-41.
+D Stauffer, L'avènement de la théorie sémantique de la vérité de Tarski, études logiques, Travaux Log. 9 (Neuchâtel, 1993), 71-121.
+P Suppes, Philosophical implications of Tarski's work, J. Symbolic Logic 53 (1) (1988), 80-91.
+P Suppes, J Barwise and S Feferman, Commemorative meeting for Alfred Tarski, Stanford University-November 7, 1983, in A century of mathematics in America III (Providence, RI, 1989, 393-403.
+L W Szczerba, Tarski and geometry, J. Symbolic Logic 51 (4) (1986), 907-912.
+A Tarski and S Givant, Tarski's system of geometry, Bull. Symbolic Logic 5 (2) (1999), 175-214.
+J Tarski, Remarks on J Wolenski's article : 'Alfred Tarski as a philosopher (Polish), Wiadom. Mat. 30 (2) (1994), 265-269.
+P B Thompson, Bolzano's deducibility and Tarski's logical consequence, Hist. Philos. Logic 2 (1981), 11-20.
+L van den Dries, Alfred Tarski's elimination theory for real closed fields, J. Symbolic Logic 53 (1) (1988), 7-19.
+R L Vaught, Alfred Tarski's work in model theory, J. Symbolic Logic 51 (4) (1986), 869-882.
+R L Vaught, Errata : 'Alfred Tarski's work in model theory', J. Symbolic Logic 52 (4) (1987), vii.
+M White, A philosophical letter of Alfred Tarski, J. Philos. 84 (1) (1987), 28-32.
+J Wolenski, Alfred Tarski as a philosopher (Polish), Wiadom. Mat. 27 (2) (1987), 247-259.
+J Wolenski, Brentano's criticism of the correspondence conception of truth and Tarski's semantic theory, Topoi 8 (2) (1989), 105-110.
+J Wolenski, Gödel, Tarski and the undefinability of truth, Jbuch. Kurt-Gödel-Ges. (1991), 97-108.
+J Wolenski, On Tarski's background, in From Dedekind to Gödel, Boston, MA, 1992 (Dordrecht, 1995), 331-341.
+J Wolenski, Semantic revolution-Rudolf Carnap, Kurt Gödel, Alfred Tarski, in Alfred Tarski and the Vienna Circle, Vienna, 1997 (Dordrecht, 1999), 1-15.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Alfred Tarski:
+
+Alfred Tarski's Cardinal Algebras
+Times obituary
+
+
+
+Other websites about Alfred Tarski:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+NNDB
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Alfred Tarski
+
+AMS Colloquium Lecturer 1952
+Speaker at International Congress 1954
+Popular biographies list Number 62
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of the Burnside problem
+Other: Earliest Known Uses of Some of the Words of Mathematics (B)
+Other: Earliest Known Uses of Some of the Words of Mathematics (Q)
+Other: Most popular biographies
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update October 2003
+  
+
+

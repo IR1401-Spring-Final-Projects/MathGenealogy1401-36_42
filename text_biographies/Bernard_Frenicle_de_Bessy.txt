@@ -1,0 +1,158 @@
+
+
+
+Bernard Frenicle de Bessy
+
+
+
+
+
+Quick Info
+Born
+
+      about 1604
+      
+
+        Paris, France
+        
+
+Died
+
+      1674
+      
+      Paris, France
+    
+
+Summary
+Frenicle de Bessy was a French amateur mathematician who is best known for his contributions to number theory.
+
+
+
+
+
+Biography
+Frenicle de Bessy was an excellent amateur mathematician whose father and brother both held  official positions as counsellors at the Court of Monnais in Paris. Very little is known about his life (even his year of birth is a guess) and, given that he was one of the founder members of the Paris Academy of Sciences and has an Éloge written by the Marquis de Condorcet, this must give us one obvious fact about Frenicle de Bessy, namely that he was a very private man. Even Pierre de Fermat, with whom Frenicle de Bessy corresponded, commented in August 1638 that he knew nothing of the man. Historians have come up with some guesses about Frenicle de Bessy, but little in the way of hard facts about him have emerged other than his letters and writings about mathematics. Let us quote from David Sturdy [4]:-
+Born and raised in Paris, Frenicle de Bessy must have graduated in law before proceeding to hold the office of 'conseiller à la cour des monnaies'. This tribunal had been a sovereign court since 1552, which is to say that its writ ran throughout the kingdom, and in certain areas of competence it ranked as a final court of appeal. As its title indicates, it paid particular attention to subjects pertaining to coinage and finance. It exercised important advisory and administrative functions, helping the government periodically to fix the value in livres, sous and deniers of the many types of coinage in France, and being responsible for drafting royal edicts on financial affairs. ... It oversaw the management and output of the thirty mints which operated in the kingdom, to which end it despatched its 'conseillers' on special missions. ... It tried both civil and criminal cases concerning forgery, counterfeit, or any dispute over the coinage of the realm. ... This was the environment in which Frenicle de Bessy spent much of his time. ... He may have been a 'conseiller' by the late 1630s when he was attending meetings of Mersenne's group. He subsequently joined the Montmor and Thévenot 'academies', assisting from time to time in astronomical observations conducted by members of the latter group. ... when names were being canvassed for the Académie des Sciences, that of Frenicle de Bessy was among those regarded as most likely to be included. Not least among his advantages was his cooperative, genial personality. ... If anyone could help the new institution to work harmoniously it was Frenicle de Bessy.
+Some of the information in Sturdy's book is taken from Condorcet's Éloge which recent studies [9] have found to be unreliable.
+
+
+He corresponded with René Descartes, Pierre de Fermat, Christiaan Huygens and Marin Mersenne. Most of the correspondence between these men and Frenicle de Bessy was on number theory but not exclusively so. He does comment on applied mathematical problems such as the trajectory of a body which falls from a starting position with an initial horizontal component. In a letter which he wrote at Dover in England to Mersenne on 7 June 1634, Frenicle describes an experiment to study the trajectory of a body released from the top of the mast of a moving ship. The data which he presents in the letter is quite accurate. Again on a more applied mathematical topic, Frenicle wrote an article which makes comments on Galileo's Dialogue. However, the famous mathematical historian Moritz Cantor felt that since Frenicle was so highly regarded by other mathematicians of his day that he must have produced further research which was known to his colleagues at the time but it was never published and no record of it has come down to us.
+
+
+It is interesting to look at a comment about Frenicle in a letter of one of his correspondents. Sir Kenelm Digby (1603-1665) was an English courtier but, as a Roman Catholic, spent many years in voluntary exile in Paris during a time of religious difficulties in England. Between 1635 and 1660 he was mostly in Paris where he met both Marin Mersenne and Thomas Hobbes. Digby clearly knew Frenicle well and several letters from Frenicle to Digby around 1658 are extant. Here is a comment about Frenicle made by Digby:-
+I told M Frenicle that, for someone with so much passion and spirit that he has and with such wonderful genius for the science of numbers, the fire would be brighter if he would excite it or increase it by study, by reading the writings of past scholars and by conversations.
+Again Digby feared in 1657 that Frenicle was becoming infatuated with theology and wrote that Frenicle:-
+... could have been ranked as one of the greatest mathematicians of the century.
+All of this suggests that Frenicle did not have as good a mathematical background as he might have had, so his talent must have been in possessing amazing computational skills. Jason Earls writes [3]:-
+Frenicle de Bessy was such a computational juggernaut that whenever anyone would send him a numerical challenge, he would return awe-inspiring solutions in record time.
+It was this remarkable computational ability that means that today Frenicle de Bessy is best known for his contributions to number theory. In fact, Fermat, in a letter to Gilles Personne de Roberval, writes (see, for example [8]):-
+For some time M Frenicle has given me the desire to discover the mysteries of numbers, an area in which he his highly versed.
+He had a remarkable ability to spot number patterns. For example, he noted that 7 is difference between a square and twice a square in several different ways: 
+7=2.22−12,7=32−2.11,7=52−2.32,7=2.42−527 = 2.2^{2} - 1^{2}, 7 = 3^{2} - 2.1^{1}, 7 = 5^{2} - 2.3^{2}, 7 = 2.4^{2} - 5^{2}7=2.22−12,7=32−2.11,7=52−2.32,7=2.42−52.
+He solved many of the problems posed by Fermat but he did more than find numerical solutions for he also put forwards new ideas and posed further questions. However, the initial letters between the two men show that at first Frenicle thought that Fermat was teasing him [3]:-
+When Pierre de Fermat first began writing to de Bessy, he would challenge him with difficult number theory problems while giving no hint of their possible solution, which Frenicle found extremely frustrating, since he suspected that Fermat was teasing him. Later their missives became more casual and Fermat actually revealed things to de Bessy concerning his mathematical methods that he refused to divulge to his other correspondents.
+We shall look at some of the problems which were typical of those Frenicle worked on.
+
+
+On 3 January 1657 Fermat made a challenge to the mathematicians of Europe and England. He posed two problems (in words rather than using notation as we shall do) involving S(n)S(n)S(n), the sum of the proper divisors of nnn:
+
+Find a cube nnn such that n+S(n)n + S(n)n+S(n) is a square.
+ 
+Find a square nnn such that n+S(n)n + S(n)n+S(n) is a cube.
+
+We know that Frenicle found four solutions to the first of these problems on the day that he was given the problem, one of which is
+73+(1+7+72)=400=202.7^{3} + (1 + 7 + 7^{2}) = 400 = 20^{2}.73+(1+7+72)=400=202.
+He found another six solutions the next day. He gave solutions to both problems in Solutio duorm problematum circa numeros cubos et quadratos, quae tanquam insolubilia universis Europae mathematicis a clarissimo viro D Fermat sunt proposita Ⓣ(On the solution of the two problems on cubes and squares, posed by most distinguished Fermat to the mathematicians of Europe) (1657). In this work, dedicated to Sir Kenelm Digby, he posed some problems of his own, including the following:
+Find an integer nnn such that S(n)=5nS(n) = 5nS(n)=5n, and S(5n)=25nS(5n) = 25nS(5n)=25n.
+
+
+Find an integer nnn such that S(n)=7nS(n) = 7nS(n)=7n, and S(7n)=49nS(7n) = 49nS(7n)=49n.
+
+
+Find nnn such that n3−(n−1)3n^{3} - (n - 1)^{3}n3−(n−1)3 is a cube.
+Frenicle solved other problems posed by Fermat. For example he showed that if a right angled triangle has sides of integer lengths a,b,ca, b, ca,b,c then its area 12bc{1\over2}bc21​bc  can never be a square. He also showed that the area of a right angled triangle is never twice a square. He also looked at another problem posed by Fermat, namely to find nnn such that (m.n2+1)(m.n^{2} + 1)(m.n2+1) is a square for non-square mmm. In the Solutio he gave a table of solutions for all values of mmm up to 150. He also explained the way that he had discovered these solutions. We note that the Solutio is the only publication of Frenicle in his lifetime although other memoirs by him were published after his death. We now look at these posthumous publications.
+
+
+Using his great skill in combinatorial mathematics and in computation, Frenicle de Bessy worked on magic squares. His two memoirs Des quarrez magiques Ⓣ(Magic squares) and Table générale des quarrez magiques de quatre de côté Ⓣ(General table of 4 x 4 magic squares) were published in 1693, nearly 20 years after his death. In this work he listed 880 magic squares of order 4. In fact, this is the complete list of magic squares of order 4 but Frenicle's papers do not prove this. It appears that a proof that there were exactly 880 magic squares of order 4 did not appear until 1931 when Friedrich Fitting (1862-1945) published the paper Rein mathematische Behandlung des Problems der magischen Quadrate von 16 und von 64 Feldern Ⓣ(Pure mathematical treatment of the problem of magic squares of 16 and 64 squares). Frenicle also gave methods to find magic squares of any even order. These memoirs by Frenicle were two of four published in Divers ouvrages de mathématique et de physique Ⓣ(Various mathematical and physical works) (1693). The Preface to this book explains how Frenicle's manuscripts came to be published:-
+After the death of M Frenicle and M de Roberval, their working manuscripts were sent into the hands of M Jean Picard, who kept them in his apartment at the Observatory with a corrected fair copy of all the observations of Tycho Brahe; but at the end of the year 1682, about seven years after the death of M de Roberval, M Jean Picard died, and the care of all the papers was given to M de la Hire, who, some time afterwards, joined to them the working manuscripts of M Jean Picard which had been rejected. ... M de la Hire examined all the manuscripts that he had chosen ...
+The other two manuscripts by Frenicle that were published in this volume were Methode pour trouver la solution des problèmes par les exclusions Ⓣ(Method for the solution of problems by elimination) and Abregé des combinaisons Ⓣ(Abstract combinations). These were chosen by de la Hire to be the first two in the published collection. The Preface explains why Frenicle's papers were put first:-
+M de la Hire chose to put first the treatise by M Frenicle on 'Exclusions' because it gave a particular method which is used for the solution of problems, by means of which he easily resolved very difficult issues in number theory and algebra over which often there was little control, which led to it being admired by scholars with whom he had dealings, as can be seen in several places in their works. He joined a treatise on 'Combinations', and then he decided that it was necessary to leave for another time several other works by M Frenicle, which all together would have made a very large volume, such as papers on prime numbers, another on polygonal numbers, one of tables of magic squares, and others: but to make it a more perfect volume, he added papers on magic squares; and he believed that the public would be glad to see that what had been published up to then by the ablest algebraists, was far removed from what M Frenicle had discovered on this matter.
+We note that Frenicle's Methode pour trouver la solution des problèmes par les exclusions Ⓣ(Method for the solution of problems by elimination) presents ten rules which he suggests are useful in solving mathematical problems. Rules are given to simplify problems and rules are given to make sure solutions are looked for in a systematic way so that nothing is missed. He then gives examples of how he has used these rules to solve certain specific problems. In particular he looks at finding right angled triangles when the difference or the sum of two of the sides are given. In many ways these rules emphasise the point that we made earlier about Frenicle being primarily a remarkable calculator, for these rules give essentially an experimental approach to finding integer solutions to specific number theory problems.
+
+
+As we mentioned at the beginning of this article, Frenicle was elected as a founder member of the Académie Royale des Sciences in 1666. He was extremely highly regarded by Fermat who wrote in 1643:-
+There is certainly nothing more difficult than this in the whole of mathematics and, except for M Frenicle and perhaps for M Descartes, I doubt if anyone understands the secret.
+
+
+
+
+
+Other Mathematicians born in France
+
+
+
+
+
+References (show)
+
+
+
+
+
+H L L Busard, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+E Coumet, Mersenne, Frenicle et l'élaboration de l'analyse combinatoire dans la première moitié du XVIIe siècle (Paris, 1968).
+J Earls, The Lowbrow Experimental Mathematician (Pleroma Publications, 2010).
+D J Sturdy, Science and Social Status: The Members of the Academie Des Sciences 1666-1750 (Boydell & Brewer, Woodbridge, 1995).
+J A N de Condorcet, Frenicle de Bess, in Éloges des Académiciens de l'Académie Royale des Sciences. Mort depuis 1666, jusqu'en 1699 (Paris, 1773), 30-35.
+A G Debus, Pierre Gassendi and his Scientific Expedition of 1640, Archives internationales d'histoire des sciences 63 (1963), 133-134.
+C R Fletcher, A reconstruction of the Frenicle - Fermat correspondence of 1640, Historia Math. 18 (4) (1991), 344-351.
+C Goldstein, L'expérience des nombres de Bernard Frenicle de Bessy, Revue de synthèse (4) (2-3-4) (2001), 425-454.
+C Goldstein, 'Frenicle' in L Foisneau (ed), Dictionary of Seventeenth-Century French Philosophers (London, 2008).
+C Goldstein,  Écrire l'expérience des mathématiques au XVIIe siècle, in H. Vérin et P Dubourg-Glatigny (eds), Réduire en art, (Paris, 2008) 213-234.
+St Le Tourneur, Bernard Frenicle, Dictionnaire de Biographie Francaise 14 (Paris, 1979), 1204.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Frenicle de Bessy:
+
+Dictionary of Scientific Biography
+The Galileo Project,
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Pell's equation
+History Topics: Perfect numbers
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 14
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 2014
+  
+
+

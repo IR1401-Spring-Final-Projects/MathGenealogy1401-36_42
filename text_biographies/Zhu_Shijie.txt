@@ -1,0 +1,208 @@
+
+
+
+Zhu Shijie
+
+
+
+
+
+Quick Info
+Born
+
+      about 1260
+      
+
+        Yan-shan, near Peking (now Beijing) China
+        
+
+Died
+
+      about 1320
+      
+      Not known
+    
+
+Summary
+Zhu Shijie or Chu Shih-Chieh was a Chinese mathematician who developed methods for handling simultaneous equations.
+
+
+
+
+
+Biography
+Zhu Shijie is also known as Chu Shih-Chieh. Little is known about his life other than that he wrote two outstanding mathematical texts. He must have been born around the time that Qin Jiushao died, which was about the same time that Yang Hui's first texts were appearing, and he probably was not very old when Li Zhi died. Zhu was, therefore, the last of these four great thirteenth century Chinese mathematicians but it would appear from his writings that he was unaware of the work of his three famous predecessors. The birth dates and death dates we give are based solely on the dates on which Zhu's two texts appeared. However these tell us that he must have been brought up while the Nan (Southern) Sung dynasty was being defeated by the Mongols.
+
+
+Kublai Khan united the whole of China in 1279 and the Yuan dynasty came to power. The capital of the new united China became Dadu (today called Beijing or Peking) which Kublai Khan had built up as a walled city with splendid palaces and government offices. The unification of north and south China would have a significant effect on Zhu's life, for it allowed him to travel throughout the whole of China, and also allowed certain mathematical expertise which was previously known only in northern China to spread through the south. What little we know of Zhu is contained in the following quotation from the preface to the second, and most famous, of his texts. The preface, written by Mo Ruo, tells us that (see [4]):-
+Zhu Shijie of Yan-shan became famous as a mathematician. He travelled widely for more than twenty years and the number of those who came to be taught by him increased each day.
+Yan-shan was near the new capital of united China at Dadu (today called Beijing or Peking). We see from this quotation that, as we mentioned above, the stability brought by the Mongol conquest gave Zhu opportunities to travel of which he took full advantage.
+
+
+We know that Zhu wrote two books, the Suanxue qimeng (Introduction to mathematical studies) published in 1299, and the Siyuan yujian (Jade mirror of the four unknowns) published in 1303. These are remarkable works which led to George Sarton writing that Zhu was (see [1] where this is quoted):-
+... one of the greatest mathematicians of his race, of his time, and indeed of all times.
+
+More information about the Jade mirror of the four unknowns is at THIS LINK.
+
+
+The Introduction to Mathematical Studies was intended for beginners. It appears to have been lost soon after it was first published, but it must have found its way to Japan and Korea for it was used there as a mathematical textbook. It was printed in 1433 in Korea and in 1658 in Japan but a Chinese version only became available again in the nineteen century when a 1660 Korean edition was translated back into Chinese. Ruan Yuan added a preface to a new version published in 1839 which also contains contributions by Li Shanlan. Zhu's book is based, as so many Chinese mathematics books were, on the Nine Chapters on the Mathematical Art. The book contains examples of computations with fractions and decimals giving results such as 116=0.0625\large\frac{1}{16}\normalsize  = 0.0625161​=0.0625 and 216=0.125\large\frac{2}{16}\normalsize  = 0.125162​=0.125. Zhu also explains the rule of three, areas and volumes, and the rule of false double position. Some of his discussions extend methods from the Nine Chapters. In dealing with simultaneous equations, Zhu certainly presented improvements, giving a method essentially equivalent to Gauss's pivotal condensation.
+
+
+Some of Zhu's text, however, presents ideas going far beyond Nine Chapters. He treats polynomial algebra, and polynomial equations, by the "coefficient array method" or "method of the celestial unknown" which had been developed in northern China by the earlier thirteenth century Chinese mathematicians, but up till that time had not spread to southern China. There are still questions about this aspect, however, which have not been answered satisfactorily. In particular, how much was Zhu aware of Yang Hui's work?
+
+
+Zhu's second book Siyuan yujian (Jade mirror of the four unknowns) marks the peak of Chinese mathematics and it was a long time before mathematics in China progressed beyond it. Like Zhu's earlier text, this one also seems to have vanished at some point. It survived in China probably until the second half of the eighteenth century when it appears to have become lost. When Ruan Yuan compiled the Chouren zhuan or Biographies of astronomers and mathematicians in 1799, he failed to find Zhu's text despite his expertise in tracking down old books. However some years later Ruan Yuan found a copy of the Siyuan yujian in Zhejiang (or Chekiang) province when he was governor there. He made a hand written copy which was sent to Li Rui for editing but Li Rui died before the work could be completed. Ruan's hand written copy of the Siyuan yujian was eventually printed.
+
+
+The text of the Siyuan yujian which is available today is therefore not the one which was originally published by Zhu. The problem arises since the version which Ruan Yuan discovered was [4]:-
+... extremely corrupted and teeming with errors.
+The present version has seven prefaces, two are dated 1303 the first being written Zhao Cheng and the second by Mo Ruo and Zu Yi. Of the other prefaces, one is written by Ruan Yuan and the others by later commentators. There are various nineteenth century commentaries on the text all of which make it harder to identify Zhu's original work. Let us examine what this remarkable book contains.
+
+
+Following the prefaces, which we mentioned above, there are four figures. One of these is Pascal's triangle which gives the coefficients needed to expand sums of unknowns up to the eighth power. Zhu makes no claims for originality calling it:-
+... the table of the ancient method of powers up to the eighth.
+You can see Zhu's Pascal triangle diagram at THIS LINK.
+
+
+There are then four preliminary problems which Zhu uses to explain his methods of using polynomials to solve problems with 1, 2, 3, and 4 unknowns. In fact Zhu uses an extension of the "coefficient array method" or "method of the celestial unknown" to polynomials with several unknowns. Zu Yi, in his preface, says that Zhu is extending to four unknowns methods for dealing with two or three unknowns:-
+... that the procedure of the celestial unknown had received previously to him.
+After these four examples to illustrate the methods, Zhu presents 288 problems which are divided into three volumes with 24 chapters. One of the most interesting aspects of this work is that Zhu, although still using the traditional Chinese approach of presenting mathematics through practical problems, does not in any sense make his examples realistic. Rather they are simply vehicles to present the methods. Therefore Zhu does not necessarily give the simplest solution to a problem, but rather often introduces complications explicitly designed to illustrate how to handle more complicated situations. Let us illustrate by giving one of Zhu's problems.
+A right-angled triangle has area 30 bu. The sum of the base and height of the triangle is 17 bu. What is the sum of the base and hypotenuse?
+First let us take a straightforward approach. Suppose the base is xxx bu, the height is yyy bu, and the hypotenuse is zzz bu. Then the given information is 12xy=30\large\frac{1}{2}\normalsize xy = 3021​xy=30 and x+y=17x + y = 17x+y=17. Eliminating yyy gives the quadratic x(17−x)=60x(17 - x) = 60x(17−x)=60 or x2−17x+60=0x^{2} - 17x + 60 = 0x2−17x+60=0. Hence xxx = 12 or 5 but the base having the shorter length gives xxx = 5 bu, yyy = 12 bu, so z=√(52+122)=13z = √(5^{2} + 12^{2}) = 13z=√(52+122)=13. Hence base plus hypotenuse is x+z=18x + z = 18x+z=18 bu. Zhu, however, wants to illustrate something more advanced than solving a quadratic equation.
+
+
+Let t=z+xt = z + xt=z+x. Then substituting z=x−tz = x - tz=x−t, y=17−xy = 17 - xy=17−x into x2+y2−z2x^{2} + y^{2} - z^{2}x2+y2−z2 gives
+x2−34x+2tx+289−t2=0x^{2} - 34x + 2tx + 289 - t^{2} = 0x2−34x+2tx+289−t2=0.   (1)
+But x2−17x+60=0x^{2} -17x + 60 = 0x2−17x+60=0, so substituting x2=17x−60x^{2} =17x - 60x2=17x−60 into (1) gives
+
+
+0=229−17x+2xt−t20 = 229 - 17x + 2xt - t^{2}0=229−17x+2xt−t2 or x=−229+t2−17+2tx = \Large\frac{-229 + t^{2}}{-17 + 2t}x=−17+2t−229+t2​. Substituting this last expression for xxx into (1) and multiplying through by (−17+2t)2(-17 + 2t)^{2}(−17+2t)2 gives
+t4−34t3+71t2+3706t+3600=0t^{4} - 34t^{3} + 71t^{2} + 3706t + 3600 = 0t4−34t3+71t2+3706t+3600=0.   (2)
+Although we cannot be certain that Zhu's methods are exactly what we have presented here, he certainly arrived at the equation (2). He has illustrated how to work with the four unknowns x,y,z,tx, y, z, tx,y,z,t and he can now illustrate how to solve a quartic equation.
+
+
+Now (2) has the roots -1, -8, 18, 25 but Zhu only gives the correct answer t=z+x=18t = z + x = 18t=z+x=18 bu.
+
+
+Here is another of Zhu's problems. It is phrased in terms of a right angled triangle, but the conditions are so artificial that he is really simply giving a system of equations. The sides of the triangle are x,y,zx, y, zx,y,z where zzz is the hypotenuse.
+Given the relations 2yz=z2+xz2yz = z^{2} + xz2yz=z2+xz and 2x+4y+4z=x(y2−z+x)2x + 4y + 4z = x(y^{2} - z + x)2x+4y+4z=x(y2−z+x) between the sides of a right angled triangle x, y, z where z is the hypotenuse, find d=2x+2yd = 2x + 2yd=2x+2y.
+[Answer: d=14d = 14d=14 (Note x=3,y=4,z=5x = 3, y = 4, z = 5x=3,y=4,z=5)]
+
+
+The following problem in the Siyuan yujian is reduced by Zhu to a polynomial equation of degree 5 (see [7] for a detailed solution as given by Zhu):-
+Let ddd be the diameter of the circle inscribed in a right triangle (Zhu uses the relation d=x+y−zd = x + y - zd=x+y−z where x,y,zx, y, zx,y,z are as defined below). Let x,yx, yx,y be the lengths of the two legs and zzz the length of the hypotenuse of the triangle. Given that dxy = 24 and x+zx + zx+z = 9 find yyy.
+[Answer: yyy = 3]
+
+
+The Siyuan yujian also contains a transformation method for the numerical solution of equations which is applied to equations up to degree 14. This is based on the method to solve polynomial equations which was rediscovered by Horner and Ruffini. Zhu also gives formulae 
+1+2+3+4+...+n=12n(n+1),1 + 2 + 3 + 4 + ... + n = \large\frac{1}{2}\normalsize n(n + 1),1+2+3+4+...+n=21​n(n+1),
+
+
+1+3+6+10+...+12n(n+1)=16n(n+1)(n+2),1 + 3 + 6 + 10 + ... + \large\frac{1}{2}\normalsize n(n + 1) = \large\frac{1}{6}\normalsize n(n + 1)(n + 2),1+3+6+10+...+21​n(n+1)=61​n(n+1)(n+2),
+
+
+1+4+10+20+...+16n(n+1)(n+2)=124n(n+1)(n+2)(n+3),1 + 4 + 10 + 20 + ... + \large\frac{1}{6}\normalsize n(n + 1)(n + 2) = \large\frac{1}{24}\normalsize n(n + 1)(n + 2)(n + 3),1+4+10+20+...+61​n(n+1)(n+2)=241​n(n+1)(n+2)(n+3),
+
+
+1+5+15+35+...+124n(n+1)(n+2)(n+3)=1120n(n+1)(n+2)(n+3)(n+4),1 + 5 + 15 + 35 + ... + \large\frac{1}{24}\normalsize n(n + 1)(n + 2)(n + 3) = \large\frac{1}{120}\normalsize n(n + 1)(n + 2)(n + 3)(n + 4),1+5+15+35+...+241​n(n+1)(n+2)(n+3)=1201​n(n+1)(n+2)(n+3)(n+4),
+
+
+1+6+21+56+...+1120n(n+1)(n+2)(n+3)(n+4)=1720n(n+1)(n+2)(n+3)(n+4)(n+5).1 + 6 + 21 + 56 + ... + \large\frac{1}{120}\normalsize n(n + 1)(n + 2)(n + 3)(n + 4) = \large\frac{1}{720}\normalsize n(n + 1)(n + 2)(n + 3)(n + 4)(n + 5).1+6+21+56+...+1201​n(n+1)(n+2)(n+3)(n+4)=7201​n(n+1)(n+2)(n+3)(n+4)(n+5).
+Similarly he gave the sum of
+1+4+9+16+25+36+...1 + 4 + 9 + 16 + 25 + 36 + ...1+4+9+16+25+36+...
+
+
+1+5+14+30+55+91+...1 + 5 + 14 + 30 + 55 + 91 + ...1+5+14+30+55+91+...
+
+
+1+6+18+40+75+126+...1 + 6 + 18 + 40 + 75 + 126 + ...1+6+18+40+75+126+...
+
+
+1+8+30+80+175+336+...1 + 8 + 30 + 80 + 175 + 336 + ...1+8+30+80+175+336+...
+By working out the second, third and fourth differences, Zhu solved the following problem.
+If the cube law is applied to the rate of recruiting soldiers and it is found that on the first day 3 cubed are recruited, 4 cubed on the second day, and on each succeeding day the cube of a number one greater than the previous day are recruited, how many soldiers in total will have been recruited after 15 days? How many after n days?
+[Answer: 23400 soldiers after 15 days and 14n(n+5)(n2+5n+12)\large\frac{1}{4}\normalsize n(n + 5)(n^{2} + 5n + 12)41​n(n+5)(n2+5n+12) soldiers after nnn days]
+
+
+
+
+
+
+
+Other Mathematicians born in China
+
+
+
+
+
+References (show)
+
+
+
+
+
+H Peng-Yoke, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+J Hoe, Les systèmes d'équations polynômes dans le Siyuan yujian (1303) par Chu Shih-chieh : Mémoires de l'Institut des Hautes études Chinoises Vol. VI (Paris, 1977).
+Li Yen, An outline of Chinese mathematics (Chinese) Vol. I ( Peking 1958).
+J-C Martzloff, A history of Chinese mathematics (Berlin-Heidelberg, 1997).
+J-C Martzloff, Histoire des mathématiques chinoises (Paris, 1987).
+G C Smith, S Radvansky and M Chiba, History of mathematics and related sciences : an annotated bibliography of sources held by Monash University Library (Clayton, 1992).
+J Hoe, Zhu Shijie and his Jade mirror of the four unknowns, in First Australian Conference on the History of Mathematics (Clayton, 1980) (Clayton, 1981), 103-134.
+L Y Lam, Chu Shih-chieh's Suan-hs'ueh ch'i-meng (Introduction to mathematical studies), Arch. Hist. Exact Sci. 21 (1) (1979/80), 1-31.
+Z H Li and C Y Chen, A further investigation on Zhu Shijie's interpolation formula (Chinese), Stud. Hist. Nat. Sci. 19 (1) (2000), 30-39.
+A Mena Lorca, On the Zhu Shijie triangle (Spanish), Miscelánea Mat. No. 33 (2001), 43-55.
+Y Mikami, The development of mathematics in China and Japan (Leipzig-New York, 1913), 89-98.
+Tu Shih-jan, The research of Chu Shih-chieh, in Discourses on the history of mathematics of the Sung and Yuan period (Peking 1966).
+A P Yushkevich, Studies in the history of mathematics in ancient China (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (3) (1982), 125-136.
+V K Zharov, On the 'Introduction' to the treatise Suan Xue Qi Meng by Zhu Shijie (Russian), Istor.-Mat. Issled. (2) No. 6 (41) (2001), 347-353; 391.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Zhu Shijie:
+
+See Zhu Shijie on a timeline
+Zhu's Pascal triangle diagram
+The Jade Mirror of the four unknowns
+
+
+
+Other websites about Zhu Shijie:
+
+Dictionary of Scientific Biography
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A history of Zero
+History Topics: Chinese problems
+History Topics: Overview of Chinese mathematics
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update December 2003
+  
+
+

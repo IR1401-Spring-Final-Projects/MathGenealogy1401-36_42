@@ -1,0 +1,150 @@
+
+
+
+Nilakantha Somayaji
+
+
+
+
+
+Quick Info
+Born
+
+      14 June 1444
+      
+
+        Trikkantiyur (near Tirur), Kerala, India
+        
+
+Died
+
+      1544
+      
+      India
+    
+
+Summary
+Nilakantha was a mathematician and astronomer from South India who wrote texts on both astronomy and infinite series.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Nilakantha was born into a Namputiri Brahmin family which came from South Malabar in Kerala. The Nambudiri is the main caste of Kerala. It is an orthodox caste whose members consider themselves descendants of the ancient Vedic religion.
+
+
+He was born in a house called Kelallur which it is claimed coincides with the present Etamana in the village of Trkkantiyur near Tirur in south India. His father was Jatavedas and the family belonged to the Gargya gotra, which was a Indian caste that prohibits marriage to anyone outside the caste. The family followed the Ashvalayana sutra which was a manual of sacrificial ceremonies in the Rigveda, a collection of Vedic hymns. He worshipped the personified deity Soma who was the "master of plants" and the healer of disease. This explains the name Somayaji which means he was from a family qualified to conduct the Soma ritual.
+
+
+Nilakantha studied astronomy and Vedanta, one of the six orthodox systems of Indian Hindu philosophy, under the teacher Ravi. He was also taught by Damodra who was the son of Paramesvara. Paramesvara was a famous Indian astronomer and Damodra followed his father's teachings. This led Nilakantha also to become a follower of Paramesvara. A number of texts on mathematical astronomy written by Nilakantha have survived. In all he wrote about ten treatises on astronomy.
+
+
+The Tantrasamgraha is his major astronomy treatise written in 1501. It consists of 432 Sanskrit verses divided into 8 chapters, and it covers various aspects of Indian astronomy. It is based on the epicyclic and eccentric models of planetary motion. The first two chapters deal with the motions and longitudes of the planets. The third chapter Treatise on shadow deals with various problems related with the sun's position on the celestial sphere, including the relationships of its expressions in the three systems of coordinates, namely ecliptic, equatorial and horizontal coordinates.
+
+
+The fourth and fifth chapters are Treatise on the lunar eclipse and On the solar eclipse and these two chapters treat various aspects of the eclipses of the sun and the moon. The sixth chapter is On vyatipata and deals with the complete deviation of the longitudes of the sun and the moon. The seventh chapter On visibility computation discusses the rising and setting of the moon and planets. The final chapter On elevation of the lunar cusps examines the size of the part of the moon which is illuminated by the sun and gives a graphical representation of it.
+
+
+The Tantrasamgraha is very important in terms of the mathematics Nilakantha uses. In particular he uses results discovered by Madhava and it is an important source of the remarkable mathematical results which he discovered. However, Nilakantha does not just use Madhava's results, he extends them and improves them. An anonymous commentary entitled Tantrasangraha-vakhya appeared and, somewhat later in about 1550, Jyesthadeva published a commentary entitled Yuktibhasa that contained proofs of the earlier results by Madhava and Nilakantha. This is quite unusual for an Indian text in giving mathematical proofs.
+
+
+The series π4=1−13+15−17+...\large\frac{\pi}{4}\normalsize  = 1 - \large\frac{1}{3}\normalsize  + \large\frac{1}{5}\normalsize  - \large\frac{1}{7}\normalsize  + ...4π​=1−31​+51​−71​+... is a special case of the series representation for arctan, namely
+tan⁡−1x=x−13x3+15x5−...\tan^{-1}x = x - \large\frac{1}{3}\normalsize x^{3} + \large\frac{1}{5}\normalsize x^{5} - ...tan−1x=x−31​x3+51​x5−...
+It is well known that one simply puts x=1x = 1x=1 to obtain the series for π4\large\frac{\pi}{4}\normalsize4π​. The author of [4] reports on the appearance of these series in the work of Leibniz and James Gregory from the 1670s. The contributions of the two European mathematicians to this series are well known but in [4] the results on this series in the work of Madhava nearly three hundred years earlier as presented by Nilakantha in the Tantrasamgraha is also discussed.
+
+
+Nilakantha derived the series expansion 
+tan⁡−1x=x−13x3+15x5−...\tan^{-1}x = x - \large\frac{1}{3}\normalsize x^{3} + \large\frac{1}{5}\normalsize x^{5} - ...tan−1x=x−31​x3+51​x5−...
+by obtaining an approximate expression for an arc of the circumference of a circle and then considering the limit. An interesting feature of his work was his introduction of several additional series for π4\large\frac{\pi}{4}\normalsize4π​ that converged more rapidly than 
+π4=1−13+15−17+...\large\frac{\pi}{4}\normalsize  = 1 - \large\frac{1}{3}\normalsize  + \large\frac{1}{5}\normalsize  - \large\frac{1}{7}\normalsize  + ...4π​=1−31​+51​−71​+....
+The author of [4] provides a reconstruction of how he may have arrived at these results based on the assumption that he possessed a certain continued fraction representation for the tail series 
+1(n+2)−1n+4+1n+6−1n+8+....\large\frac{1}{(n+2)}\normalsize  - \large\frac{1}{n+4}\normalsize  + \large\frac{1}{n+6}\normalsize  - \large\frac{1}{n+8}\normalsize   + ....(n+2)1​−n+41​+n+61​−n+81​+.....
+The Tantrasamgraha is not the only work of Nilakantha of which we have the text. He also wrote Golasara which is written in fifty-six Sanskrit verses and shows how mathematical computations are used to calculate astronomical data. The Siddhanta Darpana is written in thirty-two Sanskrit verses and describes a planetary model. The Candracchayaganita is written in thirty-one Sanskrit verses and explains the computational methods used to calculate the moon's zenith distance.
+
+
+The head of the Nambudiri caste in Nilakantha's time was Netranarayana and he became Nilakantha's patron for another of his major works, namely the Aryabhatiyabhasya Ⓣ(Commentary on Aryabhata's work) which is a commentary on the Aryabhatiya Ⓣ(The work of Aryabhata) of Aryabhata I. In this work Nilakantha refers to two eclipses which he observed, the first on 6 March 1467 and the second on 28 July 1501 at Anantaksetra. Nilakantha also refers in the Aryabhatiyabhasya Ⓣ(Commentary on Aryabhata's work) to other works which he wrote such as the Grahanirnaya on eclipses which have not survived.
+
+
+
+
+
+
+
+Other Mathematicians born in India
+
+A Poster of Nilakantha
+
+
+
+
+
+References (show)
+
+
+
+
+
+D Pingree, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+G G Joseph, The crest of the peacock (London, 1991).
+T Hayashi, A set of rules for the root-extraction prescribed by the sixteenth-century Indian mathematicians, Nilakantha Somastuvan and Sankara Variyar, Historia Sci. (2) 9 (2) (1999), 135-153.
+R Roy, The discovery of the series formula for π by Leibniz, Gregory and Nilakantha, Math. Mag. 63 (5) (1990), 291-306.
+K V Sarma and V S Narasimhan, N Somayaji, Tantrasamgraha of Nilakantha Somayaji (Sanskrit, English translation), Indian J. Hist. Sci. 33 (1) (1998), Suppl.
+K V Sarma and V S Narasimhan, N Somayaji, Tantrasamgraha of Nilakantha Somayaji (Sanskrit, English translation), Indian J. Hist. Sci. 33 (2) (1998), Suppl.
+K V Sarma and V S Narasimhan, N Somayaji, Tantrasamgraha of Nilakantha Somayaji (Sanskrit, English translation), Indian J. Hist. Sci. 33 (3) (1998), Suppl.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Nilakantha:
+
+See Nilakantha on a timeline
+
+
+
+Other websites about Nilakantha:
+
+Dictionary of Scientific Biography
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: An overview of Indian mathematics
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 17
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 18
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2000
+  
+
+

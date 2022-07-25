@@ -1,0 +1,241 @@
+
+
+
+Wacław Sierpiński
+
+
+
+
+
+Quick Info
+Born
+
+      14 March 1882
+      
+
+        Warsaw, Russian Empire (now Poland)
+        
+
+Died
+
+      21 October 1969
+      
+      Warsaw, Poland
+    
+
+Summary
+Sierpiński's most important work is in the area of set theory, point set topology and number theory. In set theory he made important contributions to the axiom of choice and to the continuum hypothesis.
+
+
+
+
+
+    View eight larger pictures
+
+
+
+
+
+Biography
+Wacław Sierpiński's father was a doctor. He attended school in Warsaw where his talent for mathematics was quickly spotted by his first mathematics teacher. This was a period of Russian occupation of Poland and it was a difficult time for the gifted Sierpiński to be educated in Poland. The Russians had forced their language and culture on the Poles in sweeping changes to all secondary schools implemented between 1869 and 1874. The Russian aim was to keep illiteracy in Poland as high as possible, so they discouraged learning and the number of students fell.
+
+
+Despite the difficulties, Sierpiński entered the Department of Mathematics and Physics of the University of Warsaw in 1899. It would be more accurate to describe it as the Czar's University since this was the official name of the University which had become a Russian university in 1869. The lectures at the University were all in Russian and the staff were entirely Russian. It is not surprising therefore that it would be the work of a Russian mathematician, one of his teachers Voronoy, that first attracted Sierpiński.
+
+
+In 1903 the Department of Mathematics and Physics offered a prize for the best essay from a student on Voronoy's contribution to number theory. Sierpiński was awarded the gold medal in the competition for his dissertation. He described the events (see [12]):-
+... I was awarded a gold medal by the university for work in a competition on the theory of numbers. It was my first scientific work. It was accepted for publication in the 'Izvestia' of Warsaw University. However, in the following year there was a strike to produce a boycott of Russian Schools in Poland and I did not want to have my first work printed in the Russian language and that is why I had it withdrawn from print in Warsaw's 'Izvestia'. That is why it was not printed until 1907 in the mathematical magazine 'The works of Mathematics and Physics' published by Samuel Dickstein.
+Fifty years after he graduated from the University of Warsaw Sierpiński looked back at the problems that he had as a Pole taking his degree at the time of the Russian occupation:-
+... we had to attend a yearly lecture on the Russian language. ... Each of the students made it a point of honour to have the worst results in that subject. ... I did not answer a single question ... and I got an unsatisfactory mark. ... I passed all my examinations, then the lector suggested I should take a repeat examination, otherwise I would not be able to obtain the degree of a candidate for mathematical science. ... I refused him saying that this would be the first case at our University that someone having excellent marks in all subjects, having the dissertation accepted and a gold medal, would not obtain the degree of a candidate for mathematical science, but a lower degree, the degree of a 'real student' (strangely that was what the lower degree was called) because of one lower mark in the Russian language.
+Sierpiński was lucky for the lector changed the mark on his Russian language course to 'good' so that he could take his degree. As he says:-
+The policeman was human.
+The results in the prize essay that Sierpiński wrote in 1904 were a major contribution to a famous problem on lattice points. Suppose R(r)R(r)R(r) denotes the number of points (m,n),m,n(m, n), m, n(m,n),m,n ∈ Z\mathbb{Z}Z contained in a circle centre OOO, radius rrr. There exists a constant CCC and a number kkk with
+∣R(r)−πr2∣<Crk| R(r) - \pi r^{2}| < Cr^{k}∣R(r)−πr2∣<Crk.
+Let ddd be the minimal value of kkk. Gauss proved in 1837 that d≤1d ≤ 1d≤1. Sierpiński's major contribution was to show that it was possible to improve the inequality to d≤23d ≤ \large\frac{2}{3}\normalsized≤32​. In 1913 Edmund Landau shortened Sierpiński's proof and described the result as profound.
+
+
+Let us digress for a moment to discuss some further work which flowed from this result of Sierpiński on what is often called the 'Gauss circle problem'. In 1915 Hardy and Landau proved that d>12d > \large\frac{1}{2}\normalsized>21​, while in 1923 van der Corput proved that d<23d < \large\frac{2}{3}\normalsized<32​. The following year Littlewood and Walfisz proved that d≤3756d ≤ \large\frac{37}{56}\normalsized≤5637​, this being improved to d≤163247≈0.6599d ≤ \large\frac{163}{247}\normalsize  \approx  0.6599d≤247163​≈0.6599 the following year. Slight further improvements were made by Vinogradov in 1932 and Titchmarsh in 1934. The best result (so far) known is d≤131208≈0.6298d ≤ \large\frac{131}{208}\normalsize  \approx  0.6298d≤208131​≈0.6298.
+
+
+Sierpiński graduated in 1904 and worked for a while as a school teacher of mathematics and physics in a girls' school in Warsaw. However, when the school closed because of a strike, Sierpiński decided to go to Kraków to study for his doctorate. At the Jagiellonian University in Kraków he attended lectures by Zaremba on mathematics, studying in addition astronomy and philosophy. He received his doctorate and was appointed to the University of Lemberg (which is in what is now Lviv in Ukraine) in 1908.
+
+
+In fact it was in 1907 that Sierpiński first became interested in set theory. It happened when he came across a theorem which stated that points in the plane could be specified with a single coordinate. He wrote to Banachiewicz, who was at Göttingen at the time, asking him how such a result was possible. He received a one word reply 'Cantor'. Sierpiński began to study set theory and in 1909 he gave the first ever lecture course devoted entirely to set theory.
+
+
+Throughout his life Sierpiński maintained an incredible output of research papers and books. During the years 1908 to 1914, when he taught at the University of Lemberg, he published three books in addition to many research papers. These books were The theory of irrational numbers (1910), Outline of Set Theory (1912) and The theory of numbers (1912).
+
+
+1n 1912 he introduced the Sierpiński curve which describes a closed path which passes through every interior point of a square. The length of the curve is infinity, while the area enclosed by it is 512\large\frac{5}{12}\normalsize125​ that of the square.
+
+
+You can see some of the stages of the construction of this curve at THIS LINK.
+
+
+About this time he introduced what is now called the Sierpiński triangle or Sierpiński gasket. It is an example of a fractal curve which is a two-dimensional analogue of the Cantor set which had been introduced forty years before.
+
+
+You can see some of the stages of the construction of this set at THIS LINK.
+
+
+When World War I began in 1914, Sierpiński and his family happened to be in Russia. At this time the governments of Austria and Russia tried to use the Polish question as a political weapon. Sierpiński was interned in Viatka. However Egorov and Luzin heard that he had been interned and arranged for him to be allowed to go to Moscow. Sierpiński spent the rest of the war years in Moscow working with Luzin. Together they began the study of analytic sets. In 1916, during his time in Moscow, Sierpiński gave the first example of an absolutely normal number, that is a number whose digits occur with equal frequency in whichever base it is written. Borel had proved such numbers exist but Sierpiński was the first to give an example.
+
+
+When World War I ended in 1918, Sierpiński returned to Lemberg. However shortly after taking up his appointment again in Lemberg he was offered a post at the University of Warsaw which he accepted. In 1919 he was promoted to professor at Warsaw and he spent the rest of his life there.
+
+
+In 1920 Sierpiński, together with his former student Mazurkiewicz, founded the important mathematics journal Fundamenta Mathematicae. Sierpiński edited the journal which specialised in papers on set theory.
+
+
+From this period Sierpiński worked mostly in the area of set theory but also on point set topology and functions of a real variable. In set theory he made important contributions to the axiom of choice and to the continuum hypothesis.
+
+
+Sierpiński continued to collaborate with Luzin on investigations of analytic and projective sets. His work on functions of a real variable include results on functional series, differentiability of functions and Baire's classification.
+
+
+Sierpiński was also highly involved with the development of mathematics in Poland. He had been honoured with election to the Polish Academy in 1921 and he was made dean of the faculty at the University of Warsaw in the same year. In 1928 he became vice-chairman of the Warsaw Scientific Society and, in the same year was elected chairman of the Polish Mathematical Society.
+
+
+In 1939 life in Warsaw changed dramatically with the advent of World War II. Sierpiński continued working in the 'Underground Warsaw University' while his official job was a clerk in the council offices in Warsaw. His publications continued since he managed to send papers to Italy. Each of these papers ended with the words:-
+The proofs of these theorems will appear in the publication of Fundamenta Mathematicae
+which everyone understood meant 'Poland will survive'.
+
+
+After the uprising of 1944 the Nazis burned his house destroying his library and personal letters. Sierpiński spoke of the tragic events of the war during a lecture he gave at the Jagiellonian University in Kraków in 1945 (see [13]). He spoke of his students who had died in the war:-
+In July 1941 one of my oldest students Stanisław Ruziewicz was murdered. He was a retired professor of Jan Kazimierz University in Lviv ... an outstanding mathematician and an excellent teacher. In 1943 one of my most distinguished students  Stanisław Saks was murdered. He was an assistant professor at Warsaw University, one of the leading experts in the world in the theory of the integral... In 1942 another student of mine, Adolf Lindenbaum was murdered. He was an assistant professor at Warsaw University and a distinguished author of works on set theory.
+After listing colleagues who were murdered in the war such as Schauder and others who died as a result of the war such as Dickstein and Zaremba, Sierpiński continued:-
+Thus more than half of the mathematicians who lectured in our academic schools were killed. It was a great loss for Polish mathematics which was developing favourably in some fields such as set theory and topology ... In addition to the lamented personal losses Polish mathematics suffered because of German barbarity during the war, it also suffered material losses. They burned down Warsaw University Library which contained several thousand volumes, magazines, mathematical books and thousands of reprints of mathematical works by different authors. Nearly all the editions of Fundamenta Mathematicae (32 volumes) and ten volumes of Mathematical Monograph were completely burned. Private libraries of all the four professors of mathematics from Warsaw University and also quite a number of manuscripts of their works and handbooks written during the war were burnt too.
+Sierpiński was the author of the incredible number of 724 papers and 50 books. He retired in 1960 as professor at the University of Warsaw but he continued to give a seminar on the theory of numbers at the Polish Academy of Sciences up to 1967. He also continued his editorial work, as editor-in-chief of Acta Arithmetica which he began in 1958, and as an editorial board member of Rendiconti del Circolo Matematico di Palermo, Compositio Mathematica and Zentralblatt für Mathematik.
+
+
+He received so many honours that it would be impossible to mention them all here. We list a few. He was awarded honorary degrees from Jan Kazimierz University, Lwów (as the University of Lemberg in Lviv became known) (1929) and from the universities of St Marks, Lima (1930), Amsterdam (1931), Tarta (1931), Sofia (1939), Prague (1947), Wrocław (1947), Lucknow (1949), and Lomonosov University of Moscow (1967).
+
+
+He was elected to the Geographic Society of Lima (1931), the Royal Scientific Society of Liège (1934), the Bulgarian Academy of Sciences (1936), the National Academy of Lima (1939), the Royal Society of Sciences of Naples (1939), the Accademia dei Lincei of Rome (1947), the German Academy of Science (1950), the American Academy of Arts and Sciences (1959), the Paris Academy (1960), the Royal Dutch Academy (1961), the Academy of Science of Brussels (1961), the London Mathematical Society (1964), the Romanian Academy of Sciences (1965) and the Pontifical Academy of Sciences (1967).
+
+
+Rotkiewicz, who was a student of Sierpiński's wrote in [12]:-
+Sierpiński had exceptionally good health and a cheerful nature. ... He could work under any conditions. ... He did not like any corrections to his papers. When someone suggested a correction he added a line to it: 'Mr X remarked that ...' He was a creative mind and liked creative mathematics. He was the greatest and most productive of Polish mathematicians.
+
+
+
+
+
+Other Mathematicians born in Poland
+
+A Poster of Wacław Sierpiński
+
+
+
+
+
+References (show)
+
+
+
+
+
+K Kuratowski, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Z Adamowicz, Waclaw Sierpinski's contribution to general set theory (Polish), Wiadomosci matematyczne 26 (1) (1984), 9-18.
+L P de Alcantara, Waclaw Sierpinski (Portuguese), Bol. Soc. Paran. Mat. (2) 3 (1) (1982), 33-35.
+Iv Dimovski, Waclaw Sierpinski (1882-1969) (Bulgarian), Fiz.-Mat. Spis. Bulgar. Akad. Nauk. 13 (46) (1970), 57-58.
+R Engelking, The papers of Waclaw Sierpinski in topology (Polish), Wiadomosci matematyczne 26 (1) (1984), 18-24.
+M M Fryde, Waclaw Sierpinski- Mathematician, Scripta Mathematica 27 (1964), 105-111.
+M M Fryde, Waclaw Sierpinski- mathematician, Polish Rev. 8 (8) (1963), 1-8.
+K Kuratowski, Waclaw Sierpinski (1882-1969), Acta Arithmetica 21 (1972), 1-5.
+E Marczewski, On the works of Waclaw Sierpinski: Main trends of his works on set theory. Recollections and reflections (Polish), Wiadomosci matematyczne (2) 14 (1972), 65-72.
+I G Mel'nikov, Waclaw Sierpinski (Russian), Istor.-Mat. Issled. 24 (1979), 361-365.
+Publications of Waclaw Sierpinski in the theory of numbers, Acta Arithmetica 21 (1972), 15-23.
+A Rotkiewicz, W Sierpinski's works on the theory of numbers, Rend. Circ. Mat. Palermo (2) 21 (1972), 5-24.
+A Schinzel, Waclaw Sierpinski's papers on the theory of numbers, Acta Arithmetica 21 (1972), 7-13.
+A Schinzel, A biography of Waclaw Sierpinski (Polish), Wiadomosci matematyczne (2) 12 (1971), 303-308.
+A Schinzel, The role of Waclaw Sierpinski in the history of Polish mathematics (Polish), Wiadomosci matematyczne 26 (1) (1984), 1-9.
+A Schinzel, Waclaw Sierpinski's work in number theory (Polish), Wiadomosci matematyczne 26 (1) (1984), 24-31.
+A Schinzel, Waclaw Sierpinski (Polish), Mathematics at the turn of the twentieth century (Polish), Prace Nauk. Uniw. Slpolhk ask. Katowic. 1253 (Katowice, 1992), 9-15.
+G Sinkiewicz, On the collaboration of Waclaw Sierpinski and Nikolai Luzin (Polish), Kwart. Hist. Nauk. Tech. 40 (1) (1995), 41-58.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Wacław Sierpiński:
+
+Sierpinski's Space-filling Curve
+Sierpiński's triangle or gasket
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Wacław Sierpiński:
+
+Dictionary of Scientific Biography
+Acta Arithmetica (Obituary)
+NNDB
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Wacław Sierpiński
+
+Speaker at International Congress 1932
+LMS Honorary Member 1964
+Lunar features Crater Sierpinski
+Popular biographies list Number 167
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: The real numbers:  Attempts to understand
+Societies: Lincei Accademia
+Societies: Polish Mathematical Society
+Societies: Serbian Society of Mathematicians and Physicists
+Societies: Warsaw Scientific Society
+Other: 1928 ICM - Bologna
+Other: 1932 ICM - Zurich
+Other: 1936 ICM - Oslo
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (B)
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (G)
+Other: Earliest Known Uses of Some of the Words of Mathematics (W)
+Other: Jeff Miller's postage stamps
+Other: Most popular biographies
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1997
+  
+
+

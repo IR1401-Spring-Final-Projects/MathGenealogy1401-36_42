@@ -1,0 +1,149 @@
+
+
+
+Jean Bourgain
+
+
+
+
+
+Quick Info
+Born
+
+      28 February 1954
+      
+
+        Ostend, Belgium
+        
+
+Died
+
+      22 December 2018
+      
+      Bonheiden, Belgium
+    
+
+Summary
+Jean Bourgain was a Belgian mathematician who worked on mathematical analysis and its application to partial differential equations, mathematical physics, combinatorics, number theory, ergodic theory and theoretical computer science.
+
+
+
+
+
+    View three larger pictures
+
+
+
+
+
+Biography
+Jean Bourgain was awarded a Belgium Research Fellowship in 1975 and studied for his doctorate at the Free University of Brussels. He was awarded his Ph.D. in 1977 and continued to study for his Habilitation at the Free University of Brussels. This was awarded in 1979 and Bourgain received the Alumni Prize from the Belgium NSF.
+
+
+When his Research Fellowship ended in 1981, Bourgain was appointed a professor at the Free University of Brussels. He held this appointment until 1985, receiving great honours for his research work. He was awarded the Empain Prize by the Belgium NSF in 1983, and, in the same years, he also received the Salem Prize.
+
+
+In 1985 Bourgain was awarded the highest science honour from Belgium, the Damry-Deleeuw-Bourlart Prize. Also in 1985 Bourgain left Belgium and accepted two appointments, one as J L Doob Professor of Mathematics at the University of Illinois in the United States and the other as Professor at the Institut des Hautes Études Scientifique at Bures-sur-Yvette in France. The French Academy of Sciences awarded Bourgain its Langevin Prize in 1985 and its highest award, the E Cartan Prize in 1990.
+
+
+Bourgain has made outstanding contributions across a whole range of topics in analysis. At the International Congress of Mathematicians in Zürich in 1994, Bourgain received his greatest honour for this work when he was awarded a Fields Medal. Caffarelli addressed the Congress on Bourgain's work which had led to this great honour [3]:-
+Bourgain's work touches on several central topics of mathematical analysis: the geometry of Banach spaces, convexity in high dimensions, harmonic analysis, ergodic theory, and finally, nonlinear partial differential equations from mathematical physics.
+Lindenstrauss writes in [4]:-
+He has an extremely strong analytic power which he often combined with ideas and methods of "soft" analysis to solve a very long list of well-known hard problems from many different areas. In his work one also finds many surprising and fascination connections between areas which were, prior to his work, quite unrelated.
+In his work on Banach spaces, Bourgain has studied problems examining how large a section of a finite dimensional Banach space can look like a Hilbert subspace. In 1989 he proved some remarkable results, using analytic and probabilistic methods, which solved the L(p)L(p)L(p) problem which had been a longstanding one in Banach space theory and harmonic analysis.
+
+
+He proved Santalo's inequality on the volume of the unit ball of a norm on Rn\mathbb{R}^{n}Rn which is having important consequences in a variety of different areas including number theory and theoretical computer science.
+
+
+Bourgain's work on ergodic theory has been extremely innovative, setting up a new theory examining averages under families of polynomial iterations.
+
+
+Another important contribution was Bourgain's result for the circle maximal function. Given a continuous function fff on R2\mathbb{R}^{2}R2 a new function F(x)F(x)F(x) can be defined where F(x)F(x)F(x) is the maximum, relative to the radius, of the averages of the values of fff on circles centred at xxx. Bourgain obtained bounds for FFF in the 2-dimensional case in 1986, using [3]:-
+... delicate geometric arguments. This result also solved a long-standing open problem concerning the existence of certain fractal sets in the plane.
+A more technical description of some of Bourgain's work can be found in [3] and [4]; the article [4] contains a selected list of Bourgain's papers up to 1994. The paper [2] contains a survey relating to Bourgain's work on nonlinear partial differential equations from mathematical physics, including later results than was covered in the articles describing his work up to the award of the Fields Medal.
+
+
+In 1988 Bourgain was Lady Davis Professor of Mathematics at the Hebrew University in Jerusalem and, in 1991, Fairchild Distinguished Professor at Caltech in the United States. In 1995 Bourgain left his appointment at the Institut des Hautes Études Scientifique, having been appointed to the Institute for Advance Study at Princeton in 1994.
+
+
+Bourgain has already been awarded a number of honorary degrees and awards in addition to those mentioned above, and clearly many further honours will be bestowed on him in the years ahead. In 1991 he received an honorary degree from the Hebrew University and, in the same year, he was awarded the Ostrowski Prize from the Ostrowski Foundation in Switzerland. In 1994 he was awarded an honorary degree from the Université Marne-la-Valle in France and, in the following year, from the Free University of Brussels.
+
+
+In addition to the honours mentioned above, Bourgain was elected to the Academy of Sciences in Paris (2000), the Polish Academy of Sciences (2000) and the Royal Swedish Academy of Sciences (2009). He has been invited to give addresses at major conferences such as the International Congress of Mathematicians in Warsaw (1983), the International Congress of Mathematicians in Berkeley (1986), the European Mathematical Congress in Paris (1992), the International Congress of Mathematicians in Zürich (1994), and the European Mathematical Congress in Amsterdam (2008). He has also been invited to give many prestigious lecture series such as: the A Zygmund Lectures, University of Chicago (1989), the R de Francia Memorial Lectures, Autonoma University, Spain (1991), the American Mathematical Society Colloquium Lectures (1994), the A Ziwet Lectures, University of Michigan (1995), the IAS/Park City Lectures, Park City (1995), the Fields Lectures, Toronto, Canada (2004), the T Wolff Memorial Lectures, California Institute of Technology (2004), the Landau Lectures, Hebrew University, Jerusalem (2005), and the Trjitzinsky Memorial Lectures, University of Illinois (2005).
+
+
+We have described many wonderful contributions to mathematics by Bourgain but we have not yet mentioned his editorial work. He has been on the editorial boards of many journals including: the Annals of Mathematics, the Journal de l'Institut de Mathématiques de Jussieu, the Publications Mathématiques de l'IHES, the International Mathematical Research Notices, the Journal of Geometrical and Functional Analysis, the Journal d'Analyse de Jérusalem, the Journal of Discrete and Continuous Dynamical Systems, the Journal of Functional Analysis, the Duke Mathematical Journal, the Journal of the European Mathematical Society, and Comptes Rendus of the Academy of Sciences in Paris.
+
+
+
+
+
+Other Mathematicians born in Belgium
+
+A Poster of Jean Bourgain
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Jean-Bourgain
+J Bourgain, Hamiltonian methods in nonlinear evolution equations, in M Atiyah and D Iagolnitzer (eds.), Fields Medallists' Lectures (Singapore, 1997), 542-554.
+L Caffarelli, The work of Jean Bourgain, Proceedings of the International Congress of Mathematicians, Zurich, 1994 1 (Basel, 1995), 3-5.
+J Lindenstrauss, L C Evans, A Douady, A Shalev and N Pippenger, Fields Medals and Nevanlinna Prize presented at ICM-94 in Zürich, Notices Amer. Math. Soc. 41 (9) (1994), 1103-1111.
+Médaille Fields 1994 : Jean Bourgain, Gaz. Math. No. 63 (1995), 2-15.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Jean Bourgain:
+
+Encyclopaedia Britannica
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Jean Bourgain
+
+Ostrowski Prize 1991
+Speaker at International Congress 1994
+Fields Medal 1994
+AMS Colloquium Lecturer 1994
+Shaw Prize 2010
+Chern Visiting Professor 2012
+AMS Steele Prize 2018
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update September 2009
+  
+
+

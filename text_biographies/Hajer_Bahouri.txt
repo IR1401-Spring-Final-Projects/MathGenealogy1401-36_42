@@ -1,0 +1,142 @@
+
+
+
+Hajer Bahouri
+
+
+
+
+
+Quick Info
+Born
+
+      30 March 1958
+      
+
+        Tunis, Tunisia
+        
+
+
+Summary
+Hajer Bahouri was born in Tunisia and is an expert in partial differential equations. She became Director of Research at the National Centre for Scientific Research and the Laboratory of Analysis and Applied Mathematics at the University Paris-Est-Créteil-Val-de-Marne.
+
+
+
+
+
+    View three larger pictures
+
+
+
+
+
+Biography
+Hajer Bahouri studied for her first degree at the University of Tunis where she specialised in mathematics. She entered the university in 1977 and graduated in 1979. She was awarded the President's Prize for the best performance at national level in Tunisia.
+
+
+After the award of her first degree, Bahouri went to France to continue her mathematical studies in Paris. She entered the Université de Paris XI (Paris-Sud) in Orsay and, in 1980, after one year, was awarded the D.E.A. de Mathématique. The D.E.A. is the Diplôme d'études approfondies, which is the equivalent of a Master's degree. She then continued her studies at the Université de Paris XI (Paris-Sud) undertaking research for the Doctorat 3ème cycle, advised by Serge Alinhac.
+
+
+Let us say a little about Serge Alinhac who was born in 1948. He was awarded his doctorate in 1975 by the Université Paris-Sud for his thesis Problèmes de Propagations Hyperboliques Singuliers. After teaching at the University of Paris VII and Purdue University in the United States, he had been appointed as a professor at the Université de Paris XI (Paris-Sud) in 1978. His mathematical area of interest was partial differential equations. Advised by Serge Alinhac, Bahouri was awarded her Doctorat 3ème cycle in 1982 for her thesis Unicité et non unicité du problème de Cauchy pour des opérateurs à symbole principal réel Ⓣ(Uniqueness and nonuniqueness of the Cauchy problem for operators with a real main symbol.). Her first paper, published in 1983, was the 27-page paper Non unicité du problème de Cauchy pour des opérateurs à symbole principal réel Ⓣ(Non uniqueness of the Cauchy problem for real key symbol operators) containing results from her thesis. Bahouri's address on this paper is Université de Paris XI (Paris-Sud). Jorge Hounie writes in a review of the paper:-
+This work is concerned with non-uniqueness in the non-characteristic Cauchy problem for second-order differential operators with smooth coefficients. The author proves three theorems giving sufficient conditions for non-uniqueness (P is said to have non-uniqueness if there are smooth functions u and a such that Pu + au = 0, u vanishes on the negative side of the initial surface S and does not vanish on any open subset of the positive side of S). These conditions bear on the principal part p alone and are related to "pseudoconvexity'' properties of S and in one case to the nature of the eigenvalues of the fundamental matrix of p at points of double characteristics. The article extends results due to Alinhac, and to Alinhac and Baouendi.
+After completing her Doctorat 3ème cycle, Bahouri went to the École Polytechnique, in Palaiseau (a southern suburb of Paris), being appointed as a researcher in 1982. After two years at the École Polytechnique, she was appointed in 1984 as an assistant lecturer at the Université de Paris XI (Paris-Sud) and also at the University of Rennes I. Her second paper Non prolongement unique des solutions d'opérateurs "Somme de carrés" Ⓣ(No single extension of operator solutions 'Sum of squares') had an École Polytechnique address and appeared in 1986. As the title indicates, in the paper she shows the failure of unique continuation for "sum of squares'' operators. She adds the following acknowledgement to this paper:-
+It is to S Alinhac that I owe my interest in this question. I thank him very much. I would also like to thank Jean-Pierre Bourguignon for the advice he has given me.
+We note that at the time Jean-Pierre Bourguignon, a graduate of the École Polytechnique, was attached to the Centre de mathématique which was partly run by the École Polytechnique and situated on the site of the École Polytechnique at Palaiseau. He was interested in differential geometry, partial differential equations and mathematical physics.
+
+
+In 1987 two of Bahouri's papers appeared in print and she was awarded her Doctorat d'état by the Université de Paris XI (Paris-Sud). Her thesis for this degree was Unicité, non unicité et continuité Hölder du problème de Cauchy pour des équations aux dérivées partielles: propagation du front d'onde Cρ  pour des équations non linéaires Ⓣ(Unicity, nonuniqueness and Hölder continuity of the Cauchy problem for partial differential equations: propagation of the wavefront C ρ  for nonlinear equations) and again she was advised by Serge Alinhac. One of the two 1987 papers, written in collaboration with L Robbiano, was Unicité de Cauchy pour des opérateurs faiblement hyperboliques Ⓣ(Unicity of Cauchy for weakly hyperbolic operators). In it the authors write:-
+We present, in this work, two uniqueness theorems of the Cauchy problem for hyperbolic operators with respect to a surface. Since hyperbolicity with respect to a surface is a necessary condition for the Cauchy problem to be well posed (Lax-Mizohata theorem), most of the results concerning this type of operator deal both with the question of existence and that of uniqueness.
+For a list of publications by Hajer Bahouri, see THIS LINK.
+
+
+After holding the assistant lecturer positions in France for four years, in 1988 she returned to Tunisia and was appointed as a Professor (2nd class) in the Faculty of Science at Tunis, Université des Sciences, des Techniques et de Médecine de Tunis (Tunis II). In 1993 she was promoted to Professor (1st class) in the Faculty of Science at Tunis and in 2001 she was honoured with being awarded the Tunisian 'Médaille du mérite'.
+
+
+In August 2002 the International Congress of Mathematicians was held in Beijing, China, and Bahouri was an invited participant. Her paper Quasilinear wave equations and microlocal analysis, written jointly with Jean-Yves Chemin, was published in Volume 3 of the Proceeding of the Congress.
+
+
+We will give a few details of Jean-Yves Chemin who has collaborated with Bahouri on 27 of the 62 of her publications that we list at THIS LINK.
+
+
+Chemin was born in 1959 at Rouen, France, and was awarded his doctorate by the Université de Paris XI (Paris-Sud) in 1986. In that year he was attached to the Centre de mathématique which we mentioned above when giving details of Jean-Pierre Bourguignon. He was awarded his Doctorat d'état in 1989 for a thesis on singularities of non-linear hyperbolic partial differential equations.
+
+
+Bahouri continued to hold the professorship in the Faculty of Science at Tunis but, in 2002-2004, she also taught courses at the École Polytechnique, Palaiseau. In 2003 she was made Director of the newly established Laboratoire Equations aux Dérivées Partielles at the University of Tunis. In 2010 she left her positions in Tunis and returned to France when she was appointed as Director of Research (1st class) of the Centre national de la recherche scientifique being attached to the Laboratoire d'Analyse et Mathématiques Appliquées, Université Paris-Est-Créteil Val-de-Marne.
+
+
+In 2016 Bahouri was awarded the Paul Doistau-Émile Blutet Prize of the French Academy of Sciences. This prestigious award has been made to a mathematician every even year (with a few exceptions of awards on odd years) since 1958. For example, Pierre-Louis Lions received the award in 1986 and Wendelin Werner in 1999.
+
+
+Finally let us look at the book Fourier analysis and nonlinear partial differential equations which Bahouri wrote in collaboration with Jean-Yves Chemin and Raphaël Danchin. We quote from the review of this book written by Peter Massopust [4]:-
+This book intends to prepare the reader how to apply tools from Fourier analysis to directly solve problems arising in the theory of nonlinear partial differential equations. The authors have three goals: First, they present a detailed account of the tools and methods from harmonic analysis that are presently used to solve nonlinear partial differential equations. Second, they convey to the reader the simplicity of the Littlewood-Paley decomposition, and thirdly, they present some specific examples of how such Fourier analysis tools are employed in concrete situations. They consider, among others, evolution equations such as transport and heat equations, linear or quasi-linear symmetric hyperbolic systems, linear, semi-linear and quasi-linear wave equations, and linear and semi-linear Schrödinger equations. ... Throughout the book, the reader is exposed to detailed discussions, rigorous derivations, and the plethora of Fourier-analytic tools. The presentation is well structured and easy to follow. The goal set by the authors, namely to present the Fourier-analytic tools in such a way that they can be directly applied to the solution of nonlinear differential equations, is met for all the applications studied. Each chapter concludes with a section on references and remarks. Here, the reader is introduced to the literature that is relevant for the current chapter and presented with short historical comments regarding the methods presented in the chapter. For the reader's convenience, a list of notation is given at the end of the References section. This is a textbook for advanced undergraduate or beginning graduate students with a good background in real and functional analysis. However, even active researchers or mathematicians interested in the application of Fourier-analytic tools will find this book very useful.
+
+
+
+
+
+Other Mathematicians born in Tunisia
+
+A Poster of Hajer Bahouri
+
+
+
+
+
+References (show)
+
+
+
+
+
+Hajer Bahouri, Université Paris-Est, Marne-La-Vallée. http://perso-math.univ-mlv.fr/users/bahouri.hajer/
+Hajer Bahouri: CV, Université Paris-Est, Marne-La-Vallée. http://perso-math.univ-mlv.fr/users/bahouri.hajer/documents/CV.pdf
+Hajer Bahouri: List of publications, Université Paris-Est, Marne-La-Vallée. http://perso-math.univ-mlv.fr/users/bahouri.hajer/documents/listedepublications2014.pdf
+P R Massopust, Review: Fourier analysis and nonlinear partial differential equations, by Hajer Bahouri, Jean-Yves Chemin and Raphaël Danchin, Mathematical reviews MR2768550 (2011m:35004).
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Hajer Bahouri:
+
+Hajer Bahouri's publications
+Entry in the list of African women PhDs
+
+
+
+Other websites about Hajer Bahouri:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: African women with a doctorate in mathematics 1
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update March 2019
+  
+
+

@@ -1,0 +1,163 @@
+
+
+
+Otton Marcin Nikodym
+
+
+
+
+
+Quick Info
+Born
+
+      13 August 1887
+      
+
+        Zablotow, Galicia, Austria-Hungary (now Ukraine)
+        
+
+Died
+
+      4 May 1974
+      
+      Utica, USA
+    
+
+Summary
+Otton Nikodym was a Polish mathematician who worked in America and is known for his work on integration theory.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Otton Marcin Nikodym (sometimes written Otto Martin instead) was born in Zablotow near Kolomyja (in the province of Stanisławow). His father Otton Boguslaw died in an accident when he was only one year old and soon after that also his mother Marianna (née Cyprian) also died. He was brought up by mother's grandparents Marcin Cyprian (of Italian origin) and Amalia Bott de Pirot (of French origin).
+
+
+After a short stay in Vienna the whole family returned to Lemberg (now Lviv in Ukraine) in 1897 where he finished mathematical high school. He prepared himself for the exams in Latin and Greek and also obtained a classical high school diploma. He studied mathematics at the University of Jan Kazimierz (UJK) in Lwów (as Lemberg was then known) under W Sierpinski, J Puzyna and M Smoluchowski.
+
+
+In 1911 he graduated in mathematics and also received a licence to teach mathematics and physics in high schools. Immediately after that he started his job at the high school in Kraków where he remained until 1924. In 1915 E Tarnawski was his student in the fourth class in high school and later, in a letter to W Orlicz, he wrote:
+Otto Nikodym sticks in my memory as a rather uncommon personality ... I see him as slim and dark-haired with a beard. He was in his late twenties, but different from others of his age; almost impersonal as if unchanged with age, isolated and distant ... aesthetically neutral, physically flimsy, not raising the voice but always unimpassioned, however audibly ... His lectures were interesting because of their contents ... He presented science as it was, without incorporating his own personality which disappeared from view.
+Another pupil in 1922-1924 M Miesowicz wrote (cf. [9]):
+He was able to evoke the students' appreciation, admiration and enthusiasm, for his precision and elegance of expressing physical laws in a strict mathematical form.
+On 2 April 1919, the Polish Mathematical Society was founded by sixteen mathematicians - among them Otton Nikodym.
+
+
+In 1924, under strong pressure from Sierpiński, Nikodym agreed to take his doctoral examination at Warsaw University. It seems he did not care much for the title or publication - his response to Sierpiński's persuasion was:
+Am I going to be any wiser because of that?
+After that he moved to the Jagiellonian University in Kraków and started to publish in 1925. The Nikodyms (Otton and his wife Stanisława) spent the academic year 1926/27 at the Sorbonne and immediately after returning to Poland, in June 1927 Otton obtained his habilitation at Warsaw University. In the period 1930-1945 the Nikodyms lived in Warsaw and until beginning of World War II both lectured at the University. During this period Nikodym published 32 papers and four textbooks.
+
+
+Nikodym's name is mostly known in measure theory (e. g. the Radon-Nikodym theorem and derivative, the Nikodym convergence theorem, the Nikodym-Grothendieck boundedness theorem), in  functional analysis (the Radon-Nikodym property of a Banach space, the Frechet-Nikodym metric space, a Nikodym set), projections onto convex sets with applications to Dirichlet problem, generalized solutions of differential equations, descriptive set theory and the foundations of quantum mechanics.
+
+
+The Radon-Nikodym theorem (Radon proved it in 1913 for Rn\mathbb{R}^{n}Rn and Nikodym in 1930 for the general case) is now a fundamental theorem in analysis:
+Let μ be a σ-finite measure on a σ-algebra Σ of subsets of Ω and ν a countably additive set function on Ω. If ν is absolutely continuous with respect to μ: that is, μ(A) = 0 implies ν(A) = 0, then ν(A)=∫Afdμ\nu(A) = \int _{A} f d\muν(A)=∫A​fdμ for any A ∈ Σ, where f is locally integrable on Ω.
+Nikodym showed in 1927 how to produce a subset NNN of the unit square with area(NNN) = 1 such that for each point x∈Nx \in  Nx∈N there is a line intersecting NNN in the single point xxx. This paradoxical set in the plane, which for certain problems plays a role similar to Besicovitch sets is called a Nikodym set.
+
+
+In 1945 Nikodym became a professor at the Technical University of Cracow and in academic year 1945/46 taught mathematics. In 1946 Nikodym and his wife Stanisława left for Belgium and France where he began his work on mathematical foundations of quantum mechanics. From 1948 to 1965 he worked in USA at the private Kenyon College in Gambier, Ohio. He never changed his place of employment again. After he retired, the Nikodyms moved in 1966 to Utica, New York, where he continued his research, sponsored in part by the Atomic Energy Comission and National Science Foundation.
+
+
+After 1947 he wrote about 50 research papers. He lectured in Italy, Belgium, France, England, Germany, Romania, Canada and at universities in USA. In 1965 he was invited for a semester by the University of Naples, Italy, to lecture on measure theory.
+
+
+Nikodym wrote three volumes of Didactics of pure mathematics in high school but published only the two first volumes in 1930 and 1938. He was discouraged by the poor response of teachers to his popular methods of improving teaching and so he burned the manuscript of the third volume. He presented popular lectures on radio such as: Logic and intuition in science, On infinity, On paradoxes in logic, What good is algebra?, On different kinds of spaces, The mystery of gravitation, On the importance of theory and these were published in 1946 as a book Let's look deeply inside the mind (Spojrzmy w glebiny mysli).
+
+
+ Some of his other books were: Introduction to differential calculus, (Warsaw, 1936) (jointly with his wife), Theory of tensors with applications to geometry and mathematical physics, I, (Warsaw, 1938), Differential Equations, (Poznań, 1949).
+
+
+Three of other his books: the second volume of Theory of Tensors and two volumes of Mechanics disappeared during World War II. When Nikodym heard that his many years' work were lost he only said: In that case I will not have to correct the galley-proofs. On the question of whether he would like to write these books again, he answered: There are so many new problems that I cannot spend more time on those that I have already finished.
+
+
+His last book The Mathematical Apparatus for Quantum-Theories, based on the Theory of Boolean Lattices published in 1966 by Springer-Verlag contains, on almost thousand pages, the mathematical formalism for quantum mechanics or more precisely a detailed study of the Boolean subalgebras of the logic of closed subspaces of a complex Hilbert space.
+
+
+Nikodym liked good literature and fairy-tales but mostly music. He was able to play for hours on the piano. He knew well (apart from Polish) English, French, German and Italian. He lectured in all these languages.
+
+
+The National Science Foundation in the USA asked him what to do to raise the level of mathematics in USA. He answered: We should invite lecturers-enthusiasts since enthusiasm is infectious. He himself was full of enthusiasm until the end of his life.
+
+
+In 1971 he got an electric shock and for two years and ten months did not regain consciousness. He died on 4 May 1974 and he was buried in the "cementery for the meritorious" in Doylestown, Pennsylvania (at the shrine to Our Lady of Czestochowa). After his death Nelson Dunford wrote in the letter to Nikodym's wife:
+Otton was, and always will be, a great man. I am happy that I knew him. His discoveries were very deep and will live for ever as long as Pythagoras's theorem, which has survived for centuries.
+
+
+
+
+
+Quotations by Otton Nikodym
+
+Other Mathematicians born in Ukraine
+
+A Poster of Otton Nikodym
+
+
+
+
+
+References (show)
+
+
+
+
+
+A. I. Borodin and A. S. Bugai, Eminent mathematicians (Russian) (Kiev, 1987).
+Roster of the great mathematicians (Polish), Ed. W Krysicki (Warsaw, 1975 and 5th ed. Bielsko-Biala, 2001).
+K Kuratowski, A half century of Polish mathematics (Warsaw, 1980).
+J Diestel and J J Uhl, Jr., Vector Measures (Providence 1977).
+Encyclopaedia of Mathematics, 7 and Supplement II (Kluwer 1991, 2000).
+A Derkowska, Otton Marcin Nikodym (Polish), Wiadom. Mat. 25(1983), 74-88.
+A Derkowska, Corrections to: 'Otton Marcin Nikodym' (Polish), Wiadom. Mat. 27 (1983), 45-46.
+A Derkowska, Nikodym Otton Marcin (Polish), Biography of Polish Mathematicians, in preparation.
+M Miesowicz, My teacher, reminiscence on Professor Nikodym (Polish), Matematyka 3 (1980), 182-183.
+W Szymanski, Who was Otto Nikodym?, Math. Intelligencer 12 (1990), no.2, 27-31.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Otton Nikodym:
+
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Polish Mathematical Society
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+
+
+
+
+
+
+    Written by Lech Maligranda, Lulea University of Technology, Sweden.
+
+    Last Update January 2003
+  
+
+

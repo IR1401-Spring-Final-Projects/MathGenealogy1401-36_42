@@ -1,0 +1,131 @@
+
+
+
+Ludwig Schlesinger
+
+
+
+
+
+Quick Info
+Born
+
+      1 November 1864
+      
+
+        Nagyszombat, Hungary (now Trnava, Slovakia)
+        
+
+Died
+
+      16 December 1933
+      
+      Giessen, Germany
+    
+
+Summary
+Ludwig Schlesinger was a mathematician, born in what is now Slovakia, who worked on differential equations.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Ludwig Schlesinger started elementary school in Trnava and, moving to high school, he attended the Realschule in Presburg, now Bratislava (Slovakia). He then studied mathematics and physics at the universities of Heidelberg and Berlin between 1896 and 1887, and he received a doctorate from the University of Berlin in 1887 for a thesis on differential equations entitled: Über lineare homogene Differentialgleichungen vierter Ordnung, zwischen deren Integralen homogene Relationen höheren als ersten Grades bestehen Ⓣ(On linear homogeneous differential equations of the fourth order, between the integrals homogeneous relations higher than first degree). His thesis advisors were Lazarus Immanuel Fuchs and Leopold Kronecker.
+
+
+In 1889 Schlesinger became an associate professor at the University of Berlin; in 1897, invited professor at the University of Bonn, and in the same year he was appointed professor of mathematics at the University of Kolozsvár, Hungary (now Cluj, Romania). He served as head of the department of higher mathematics and, in 1906-07, he was the dean of the Faculty of Mathematics and Sciences. In 1911 he left Kolozsvár and moved to the University of Giessen, Germany, where he continued to teach until he retired in 1930.
+
+
+In 1902 Schlesinger was elected as a corresponding member of the Hungarian Academy of Sciences, and in 1909 he was honoured with the award of the Lobachevsky Prize.
+
+
+Ludwig Schlesinger wrote many papers for scientific periodicals and journals. Papers such as Sur la détermination des fonctions algébriques uniformes sur une surface de Riemann donnée Ⓣ(On the determination of uniform algebraic functions on a given Riemann surface) (1903), Über isoliertwertige Funktionen Ⓣ(On valent isolated functions) (1905), Über asymptotische Darstellungen der Lösungen linearer Differentialsysteme als Funktionen eines Parameters Ⓣ(On asymptotic representations of the solutions of linear differential systems as functions of a parameter) (1907) are examples of his publications in the frst decade of the 20th  century. Near the end of his career he published articles such as Parallelverschiebung und Krümmungstensor Ⓣ(Parallel shift and curvature) (1928), Über die hypergeometrischen Differentialsysteme Ⓣ(On  hypergeometric differential systems) (1928), Neue Grundlagen für einen Infinitesimalkalkul der Matrizen Ⓣ(New bases for a infinitesimal calculus of matrices) (1931), and Weitere Beiträge zum Infinitesimalkalkul der Matrizen Ⓣ(Related articles on infinitesimal calculus of matrices) (1932). Perhaps his most important work, as far as current mathematical research is concerned, was Über eine Klasse von Differentialsystemen beliebiger Ordnung mit festen kritischen Punkten Ⓣ(On a class of differential systems of arbitrary order with fixed critical points)  which he published in Crelle's Journal in 1912.  In this paper Schlesinger formulated the problem of isomonodromy deformations for a certain matrix Fuchsian equation. The problem which he was tackling was a special case of Hilbert's 23rd  problem, namely:
+Prove the existence of linear differential equations having a prescribed monodromic group.
+Schlesinger solved a particular case of the problem using Poincaré's theory of the Fuchsian zeta-functions. The paper introduces what today are known as the Schlesinger transformations and Schlesinger equations which have an important role in differential geometry.
+
+
+Schlesinger is the author of Handbuch der Theorie der Linearen Differentialgleichungen Ⓣ(Handbook of the theory of linear differential equations) (B G Teubner, Leipzig; Vol 1, 1895; Vol 2 Part 1, 1897; Vol. II, Part 2, 1898). This was reprinted by the Johnson Reprint Corporation, New York-London, in 1968. He also published Einführung in die Theorie der gewöhnlichen Differentialgleichungen auf funktionentheoretischer Grundlage Ⓣ(Introduction to the theory of ordinary differential equations on a functional theoretical basis) (third edition, Leipzig, 1922). In 1920 he published Raum, zeit und relativitätstheorie; gemeinverständliche vorträge Ⓣ(Space, time and relativity; generally comprehensible lectures) and four years later he publised the important monograph on automorphic functions Automorphe Funktionen Ⓣ(Automorphic functions) (W de Gruyter & Co, Berlin, 1924). In 1926 Schlesinger published a book on Lebesgue integration and Fourier series in collaboration with Abraham Plessner. The work studies trigonometric series and the boundary behaviour of analytic functions.
+
+
+Another of Schlesinger's interests was the history of mathematics and he made a number of important contributions to this topic. He translated Descartes' Geometrie  into German and this was published by Mayer and Müller, Berlin, in 1894. A second edition was published in 1923 and reprinted by Wissenschaftliche Buchgesellschaft, Darmstadt, 1969. He was an admirer of Gauss and he wrote related essays, like Über Gauss' Arbeiten zur Funktionentheorie Ⓣ(On Gauss's work on complex analysis) 222 S Berlin, J Springer (C F Gauss. Werke Bd. X, 2). published in 1933 or C F Gauss: Fragmente zur Theorie des arithmetisch- geometrischen Mittels aus den Jahren 1797-1799 Ⓣ(C F Gauss: Fragments on the theory of the arithmetic-geometric mean from the years 1797 to 1799) in Göttinger Nachrichten  published in 1912.
+
+
+After reading Zoárd Geöcze's papers during his stay at the University of Kolozsvár, Ludwig Schlesinger suggested to him that he write down his ideas and submit them to Comptes Rendus for publication.
+
+
+At the Franz Joseph University he was one of the most dedicated organisers of the centenary festivities dedicated to the hundredth anniversary of János Bolyai. He identified the house in which János Bolyai was born and he held an excellent conference on the centenary festivity: Libellus post saeculum quam Ioannes Bolyai de Bolya anno MDCCCII a. d. XVIII kalendas Ianuarias Claudiopoli natus est ad celebrandam memoriam eius immortalem ex consilio ordinis mathematicorum et naturae scrutatorum Regiae LitterarumUniversitatis Hungaricae Francisco- Josephinae Claudiopolitanae editus [red. Ludovicus Schlesinger].
+
+
+He collected, in three volumes, the most important work of his advisor, Lazarus Fuchs, who was also his father-in-law. During his stay in Kolozsvár (Cluj), Schlesinger contributed significantly to the advancement of mathematics in the city. He, Gyula Farkas and Gyula Vályi, had a decisive role in the establishment of an excellent mathematics library within the university.
+
+
+
+
+
+Other Mathematicians born in Slovakia
+
+A Poster of Ludwig Schlesinger
+
+
+
+
+
+References (show)
+
+
+
+
+
+M Pinl, Kollegen in einer dunklen Zeit, Jber. Deutsch. Math.-Verein. 71 (1) (1969), 167-228.
+B Szénássy, History of Mathematics in Hungary until the 20th Century (Berlin-Heidelberg-New York, 1992).
+B Szénássy, A magyarországi matematika története (a legrégibb idöktöl a 20. század elejéig) (Budapest, 1970).
+D Vachov, Calendar on the history of mathematics for 1983, Fiz.-Mat. Spis. B'lgar. Akad. Nauk. 26 (59) (1) (1984), 74-75.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Ludwig Schlesinger:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: 1908 ICM - Rome
+
+
+
+
+
+
+    Written by Gabor Dezso Babeș-Bolyai University, Cluj (Kolozsvar)
+
+    Last Update March 2006
+  
+
+

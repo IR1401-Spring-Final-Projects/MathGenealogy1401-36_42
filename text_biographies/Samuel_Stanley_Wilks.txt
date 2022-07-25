@@ -1,0 +1,214 @@
+
+
+
+Samuel Stanley Wilks
+
+
+
+
+
+Quick Info
+Born
+
+      17 June 1906
+      
+
+        Little Elm, Texas, USA
+        
+
+Died
+
+      7 March 1964
+      
+      Princeton, New Jersey, USA
+    
+
+Summary
+Samuel Wilks was an American mathematician who worked in mathematical statistics.
+
+
+
+
+
+    View two larger pictures
+
+
+
+
+
+Biography
+Samuel Wilks was the son of Chance C Wilks (1882-1956) and Bertha Mae Gammon (1887-1963). Although Chance C Wilks trained as a banker and spent a few years in banking, he decided to move to farming and operated a 250 acre farm near Little Elm in Texas. He married Bertha in 1905 and they had three children, Samuel Stanley Wilks (the subject of this biography), Syrrel Singleton Wilks (1907-1974) and William Weldon Wilks (1915-1983). Notice the parents' love of alliteration in their children's initials. On the census forms, the three boys are named Sam, Syrrel and Billy. Bertha Wilks [2]:-
+... whose formal education did not go beyond high school, had artistic and musical talent; her lively curiosity was transmitted to her children.
+Perhaps we should record at this point a brief account of the careers of Syrrel and Billy. Syrrel studied biology and was awarded a Ph.D. in physiology. He became a professor of physiology. Since both Sam and Syrrel published under the name "S S Wilks" there is sometimes confusion between the two. Billy, who was more than eight years younger than Sam, became a research advisor to Bell Aircraft Company in Fort Worth, Texas.
+
+
+The three boys were brought up on the Texas farm and Sam always spoke of his love for Texas and, in later life, took every opportunity to visit family and friends in that State. Sam and Syrrel were close in age and spent much time together as they grew up. Being brought up on a farm it will come as no surprise to find that the young Sam spent much time hunting and fishing. What is rather surprising, however, is that he is said to have built his own radio when he was twelve years old. His first school, Little Elm School, was a local one-room primary school. When in the 7th  grade at this school he was taught by William Marvin Whyburn, the older brother of Gordon Thomas Whyburn. William Whyburn was starting out on his career and went on to become Chairman of the Mathematics Department at the University of North Carolina.
+
+
+After studying at Little Elm School, Wilks attended high school in Denton. This school was about 25 km from his parents' farm so the young boy boarded in Denton during the week but walked home to spend weekends on the farm. In his final year at the high school, Wilks would miss lessons so that he could take a mathematics course at North Texas State Teachers College. However, after graduating from High School, he studied architecture and industrial arts at North Texas State Teachers College. However, he was particularly interested in mathematics and took all the available courses on the topic. Along with one of his fellow students on the architecture course, he designed a large drinking fountain which was constructed on the College campus. He received a A.B. in architecture in June 1926. However his eyesight was not too good, and he feared that this would be a handicap if he pursued architecture as a profession so he decided on a career in mathematics.
+
+
+During session 1926-27 Wilks taught manual training and mathematics at a school in Austin, Texas and at the same time he began to study mathematics at the University of Texas, taking graduate level courses. Here he was taught set theory, topology and other courses in advanced mathematics by Robert Moore. Wilks found topology a fascinating subject and he loved Moore's lectures on the topic. However, Moore's attitude to applications of mathematics, which he likened to washing dishes, made Wilks look for other topics on which to undertake research. Alex Mood comments in [32]:-
+Sam's character demanded that his work be immediately and obviously useful [and] Moore was the last man to persuade him that point set theory was useful.
+He took courses in probability and statistics with Edward Lewis Dodd (1875-1943). Dodd had been appointed as an Instructor in Pure Mathematics at the University of Texas in 1907 but by the time he taught Wilks he was Professor of Actuarial Science and had strong links to the School of Business Administration [32]:-
+Wilks ... saw little sense in pure mathematics unless it had some ultimate application. He generally believed that most pure mathematics would eventually justify itself in this way and was delighted when that did happen in his own work or that of others ... The set theoretical foundation of probability theory developed by Kolmogorov gave Sam no end of pleasure partly because of that early course, perhaps, but more likely because it was a good piece of evidence that pure mathematicians were not, after all, wasting their time.
+In 1928 Wilks received an M.A. in mathematics but he had already started teaching at the university, in fact from 1927 until 1929 he was an instructor in mathematics. Strongly encouraged by Dodd, Wilks applied for a fellowship to study mathematical statistics at the University of Iowa. By the summer of 1929 he had accepted the offered fellowship and had arrived in Iowa City to begin studying for his doctorate. At Iowa, Henry Louis Rietz (1875-1943), who supervised his doctorate, introduced him to Gosset's theory of small samples and R A Fisher's statistical methods. Rietz, in addition to his professorship at Iowa, also worked as an actuary and consultant. However, the topic for Wilk's thesis was suggested by Everett Franklin Lindquist (1901-1978), the professor of education. After receiving his doctorate in June 1931 for his thesis On the distributions of statistics in samples from a normal population of two variables with matched sampling of one variable, which studied the small sample theory of 'matched' groups in educational psychology, Wilks continued research at Columbia University in session 1931-32. He was supported financially during this year by a National Research Council Fellowship and gained greatly from working with Harold Hotelling on multivariate statistical analysis. Also during this year he came in contact with Walter Shewhart and learnt much from him regarding statistical quality control. It was a time when he produced much high quality research, publishing the papers The standard error of the means of 'matched' samples (1931) and his thesis, On the distributions of statistics in samples from a normal population of two variables with matched sampling of one variable (1932).
+
+
+On 1 September 1931 Wilks married Hattie Eugenia Orr (1906-2000), known as Gena. They had one child, a son named Stanley Neal Wilks born in 1932. The Wilks and the Orr families had been close friends for many years, and Sam Wilks and Gena Orr had been pupils at the same high school in Denton. Both had studied in Denton and received their first degrees in the same year, 1926. However they only became close friends after graduating, during the summer of 1926, when Sam was best man to his cousin James Hodge and Gena was a bridesmaid at the same wedding. Sam and Gena spent their honeymoon in the city of New York having travelled there from Texas by a 5-day boat journey.
+
+
+In 1932 Wilks received a two-year appointment as a National Research Council International Research Fellow and went to England where he spent the first of these years in Karl Pearson's department in University College, London. This was Karl Pearson's last year before retiring and Wilks was able to work with both him and his son Egon Pearson who was appointed as a professor shortly afterwards. Wilks completed work on several papers which appeared in print soon after he submitted them: Moments and distributions of estimates of population parameters from fragmentary samples (1932); On the sampling distribution of the multiple correlation coefficient (1932); The standard error of a tetrad in samples from a normal population of independent variables (1932); and Certain generalizations in the analysis of variance (1932). In 1933 he went to Cambridge where he worked with John Wishart, who had been a research assistant to both Karl Pearson and R A Fisher.
+
+
+Following his two-year stay in England, Wilks was appointed instructor of mathematics at Princeton in 1933. Of course, given the Great Depression, this was an exceptionally difficult time for a young man to get an appointment. Wilks had written to many American Universities while in England but all had replied that no position was available. He began to worry greatly about his future prospects particularly now that he had a wife and son to support. He had survived for two years in England on a fellowship which was only intended to support a single man so he had no savings. However, Luther Eisenhart, Head of Mathematics at Princeton, Dod Professor of Mathematics and Dean of the Graduate School, was keen to start up a programme in mathematical statistics and probability theory and was persuaded by Harold Hotelling, who knew Wilks well, to offer Wilks an instructorship in mathematics at Princeton. At first Wilks taught the usual mathematics courses that instructors are assigned to teach, namely calculus and analytic geometry. However, he continued to undertake research in statistics and advised graduate students of statistics and supervised their reading. He was promoted to assistant professor in 1936 and taught his first statistics course at Princeton in session 1936-37. In [18], Churchill Eisenhart explains that Wilks did not give mathematical statistics courses when he first arrived since, before his appointment, Acheson Johnston Duncan (1904-1995) had been retrained (at considerable expense to Princeton) to give such courses. However, Frederick Mosteller writes [33]:- 
+From the beginning, [Wilks] took an interest in the development of the whole undergraduate program in mathematics, while he gradually constructed courses in mathematical statistics. Though he prepared many sets of course notes, he was slow to put them into hard covers. In drafting these notes, he liked to sharpen a couple of dozen pencils for writing on the backs of used mimeograph pages, putting perhaps 10 to 20 words to the page. When he had written a few words and the pencil became slightly blunted, he would take up another. Once he started, the writing flowed quite swiftly, with few words or lines crossed out, but many additions using carats.
+He was to remain at Princeton for the rest of his career, but was involved in war work during World War II. In fact Wilks had planned to visit the National University in Santiago for a semester and gives lectures in South America but increasing involvement in war work meant he could not carry out this plan. His war work became so heavy that, eventually, he was released from all academic duties. Theodore Wilbur Anderson, who was Wilks' student at this time, writes [3]:-
+A variety of problems were studied, such as the efficiency of various methods of long-range weather forecasting for the Air Force, tactical problems for the Navy, and sensitivity testing of explosives for the Army.
+He was promoted to full professor of mathematical statistics in 1944, the appointment to take effect as soon as he was able to return to his academic duties.
+
+
+Wilks's work was all on mathematical statistics. His early papers on multivariate analysis were his most important, one of the most influential being Certain generalizations in the analysis of variance. He constructed multivariate generalisations of the correlation ratio and the coefficient of multiple correlation and studied random samples from a normal multivariate population. Three papers in 1931-33 concerned deriving the sample distributions of estimates of the parameters of a bivariate normal distribution when some of the individuals gave observations on both variables, some others on only one. In 1935 he investigated multinomial distributions. He advanced the work of Neyman on the theory of confidence-interval estimation. In 1941 Wilks developed his theory of 'tolerance limits'. He wrote a number of important books: The Theory of Statistical Inference (1937); Mathematical Statistics (1943); Elementary Statistical Analysis (1948); Mathematical Statistics (1962); and (with Irwin Guttman) Introductory Engineering Statistics (1966).
+
+
+Extracts of reviews of these books are given at THIS LINK
+
+
+Wilks was a founder member of the Institute of Mathematical Statistics (1935). He was editor of the Annals of Mathematical Statistics from 1938 until 1949. He was elected President of the American Statistical Association and his retiring Presidential Address, delivered at the 110th  Annual Meeting of the Association in Chicago on 18 December 1950, is published in [50]. We give Wilks' Introduction:-
+As we enter the second half of the twentieth century one of the most serious long-range problems confronting the world of statistics is that of establishing a sound pattern of statistical education for college undergraduates. The uses of statistics and statistical methods have become so widespread throughout business, industry, government, and scientific research in recent years that this matter concerns not only the professional statisticians themselves, but many thousands of persons in these fields who are finding it necessary to become intelligent consumers of statistics and statistical methods. Our present difficulties are deep-rooted, but in the time which Association tradition has as signed me for a retiring presidential address, I wish to discuss some of the major aspects of this situation and to propose some steps for dealing with it.
+During his career, he served the U.S. government in many roles. Among many other similar tasks, he worked for the U.S. Department of Agriculture and was a member of the National Defense Committee. In 1947 he was awarded the Presidential Certificate of Merit for his contributions to anti-submarine warfare and the solution of convoy problems. Other honours he received include the University of Iowa's Centennial Alumni Award in 1947, and election to the American Academy of Arts and Sciences in 1964. The annual Wilks Memorial Award (consisting of a medal, a citation and a cash honorarium) was established by the American Statistical Association in 1964. Among the first few winners of the award we mention John W Tukey (1965), William G Cochran (1967), Jerzy Neyman (1968), William J Youden (1969), George W Snedecor (1970), and George E P Box (1972). A portrait of Wilks, by the artist Rex Goreleigh using photographs of the subject, was hung in the Samuel Wilks Reading Room in Fine Hall, Princeton (see [39]).
+
+
+Let us end this biography by recording some of the tributes paid to Wilks after his death. Frederick Mosteller writes [33]:-
+Those who knew him best recognized that his single-minded purpose was to improve the world, through his own efforts, through his training of young men, through the dissemination and application of the mathematical sciences, and through accepting, in good humour, and enjoying the world he found. Boundaries between disciplines, organizations, and people never lasted long in his mind for he thought in terms of bridges, entrances, and opportunities.
+William Cochran writes [11]:-
+He will be long remembered with affection and gratitude: no man of his generation did as much to ensure that the rapid growth of statistical theory, applications, and education in the United States took place along sound and healthy lines.
+Egon Pearson writes [36]:-
+... it is hard to think of any mathematical statistician of the past 30 years who combined to a greater extent an excellence in the field of theory with a power of inspiring confidence in government agencies, national research institutions, and educational authorities, as a wise counsellor in practical affairs.
+
+
+
+
+
+Other Mathematicians born in USA
+
+A Poster of Samuel Wilks
+
+
+
+
+
+References (show)
+
+
+
+
+
+C Eisenhart, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+T W Anderson (ed.), S S Wilks, Collected Papers: Contributions to mathematical statistics (John Wiley & Sons, Inc., New York-London-Sydney 1967).
+T W Anderson, Samuel Stanley Wilks, 1906-1964, Annals of Mathematical Statistics 36 (1) (1965), 1-27.
+T W Anderson, The publications of S S Wilks, Annals of Mathematical Statistics 36 (1) (1965), 24-27.
+T A Bancroft, Review: Elementary Statistical Analysis, by S S Wilks, J. Amer. Statist. Association 44 (247) (1949), 458-459.
+M S Bartlett, Review: Mathematical Statistics, by S S Wilks, Journal of the Royal Statistical Society 106 (3) (1943), 279-280.
+D E Barton, Review: Mathematical Statistics (2nd edition), by S S Wilks, Biometrics 19 (1) (1963) 194-195.
+W R Buckland, Review: S S Wilks' Collected Papers, by T W Anderson and S S Wilks, Journal of the Royal Statistical Society. Series D (The Statistician) 18 (2) (1968), 164-165.
+M F Capobianco, Review: Introductory Engineering Statistics, by Irwin Guttman and S S Wilks, Technometrics 8 (3) (1966), 554-555.
+A Chapanis, Review: Elementary Statistical Analysis, by S S Wilks, The Quarterly Review of Biology 24 (2) (1949), 180.
+W G Cochran, Samuel S Wilks, 1906-1964, Review of the International Statistical Institute 32 (1/2) (1964), 189-191.
+R Coppi, Review: Mathematical Statistics (2nd edition), by S S Wilks, Genus 22 (1/4) (1966), 399-400.
+D R Cox, Review: S S Wilks' Collected Papers, by T W Anderson and S S Wilks, Science. New Series 162 (3857) (1968), 991-992.
+H A David and D F Morrison, Samuel Stanley Wilks, 1906-1964, The American Statistician 60 (1) (2006), 46-49.
+W J Dixon, Sam Wilks' editorship of the 'Annals of Mathematical Statistics' , J. Amer. Statist. Assoc. 60 (312) (1965), 964-965.
+C Eisenhart, Samuel S. Wilks and the Army Experiment Design Conference Series, Proc. Twentieth Conf. on the Design of Experiments in Army research Development and testing, Report 75-2 (1) (Army Dept. Chief of Research, Development and Acquisition, 1974), 1-38.
+C Eisenhart, A supplementary list of publications of S S Wilks, Amer. Statist. 29 (1) (1975), 25-27.
+C Eisenhart, S S Wilks' Princeton appointment, and statistics at Princeton before Wilks, A century of mathematics in America III (Providence, R.I., 1989), 577-587.
+W G Gilchrist, Review: Introductory Engineering Statistics, by Irwin Guttman and S S Wilks, Journal of the Royal Statistical Society. Series A (General) 129 (4) (1966), 593-594.
+A Grandage, Review: Introductory Engineering Statistics(2nd edition), by Irwin Guttman, S S Wilks and J S Hunter, Technometrics 14 (4) (1972), 979.
+E Grebenik, Review: Mathematical Statistics, by S S Wilks, Econometrica, New series 14 (55) (1947), 239-241.
+T N E Greville, Review: Elementary Statistical Analysis, by S S Wilks, Science, New Series 109 (2835) (1949), 450.
+H Gulliksen, Samuel Stanley Wilks, 1906-1964, Psychometrika 29 (1964), 103-104.
+M H Hansen, Sam Wilks' contributions to government, J. Amer. Statist. Assoc. 60 (312) (1965), 955-957.
+M H Hansen, Sam Wilks' contributions to the American Statistical Association, J. Amer. Statist. Assoc. 60 (312) (1965), 962-964.
+N L Johnson and S Kotz, Samuel Stanley Wilks, in Leading Personalities in Statistical Sciences: From the Seventeenth Century to the Present_ (John Wiley & Sons, 2011), 211-212.
+S K Katti, Review: S S Wilks' Collected Papers, by T W Anderson and S S Wilks, Econometrica 38 (2) (1970), 374-375.
+M G Kendall, Review: The Theory of Statistical Inference, by S S Wilks, Journal of the Royal Statistical Society 101 (2) (1938), 457-458.
+T Koopmans, Review: Mathematical Statistics, by S S Wilks, Journal of Political Economy 52 (3) (1944), 277-279.
+E L Lehmann, Review: Elementary Statistical Analysis, by S S Wilks, Amer. Math. Monthly 56 (6) (1949), 429-430.
+Memorial to Samuel S Wilks, Journal of the American Statistical Association 60 (312) (1965), 938-966.
+A M Mood, Sam Wilks' philosophy about his work, J. Amer. Statist. Assoc. 60 (312) (1965), 953-955.
+F Mosteller, Samuel S Wilks : Statesman of Statistics, American Statistician 18 (2) (1964), 11-17.
+F Mosteller, Sam Wilks' writings in applied statistics, J. Amer. Statist. Assoc. 60 (312) (1965), 944-953.
+F Mosteller, S S Wilks, International Encyclopedia of the Social Sciences 16 (New York, 1968), 550-553.
+E S Pearson, Samuel Stanley Wilks, 1906-1964, Journal of the Royal Statistical Society. Series A (General) 127 (4) (1964), 597-599.
+R S Pinkham, Review: Mathematical Statistics (2nd edition), by S S Wilks, Amer. Math. Monthly 69 (9) (1962), 937.
+H L S, Review: Mathematical Statistics, by S S Wilks, Journal of the Institute of Actuaries (1886-1994) 72 (2) (1946), 295-296.
+Samuel Wilks Portrait, Princeton Alumni Weekly 71 (1970), 5.
+F Sandon, Review: Elementary Statistical Analysis, The Mathematical Gazette 33 (304) (1949), 154.
+S D Silvey, Review: S S Wilks' Collected Papers, by T W Anderson and S S Wilks, Journal of the Royal Statistical Society. Series A (General) 132 (1) (1969), 105-106.
+L E Simon, Sam Wilks' stimulus to Army statistics, J. Amer. Statist. Assoc. 60 (312) (1965), 957-962.
+F F Stephan and J W Tukey, Sam Wilks in Princeton, J. Amer. Statist. Assoc. 60 (312) (1965), 939-944.
+F F Stephan, J W Tukey, F Mosteller, A M Mood, M H Hansen, L E Simon and W J Dixon, Samuel S Wilks, J. Amer. Statist. Assoc. 60 (1965), 939-966.
+M Stone, Review: Introductory Engineering Statistics(2nd edition), by Irwin Guttman, S S Wilks and J S Hunter, Journal of the Royal Statistical Society. Series A (General) 136 (2) (1973), 262.
+J W Tukey, Samuel S Wilks, Yearbook, American Philosophical Society for 1964 (1965), 147-154.
+A Wald, Review: Mathematical Statistics, by S S Wilks, J. Amer. Statist. Association 38 (224) (2943), 491-492.
+P Whittle, Review: Mathematical Statistics (2nd edition), by S S Wilks, Journal of the Royal Statistical Society. Series A (General) 126 (1) (1963), 128-129.
+P Whittle, Review: S S Wilks' Collected Papers, by T W Anderson and S S Wilks, Review of the International Statistical Institute 37 (2) (1969), 220.
+S S Wilks, Undergraduate Statistical Education, The American Statistician 60 (1) (2006), 39-45.
+S S Wilks, Teaching Statistical Inference in Elementary Mathematics Courses, Amer. Math. Monthly 65 (3) (1958), 143-153.
+S S Wilks, Some Aspects of Quantification in Science, Isis 52 (2) (1961), 135-142.
+S S Wilks, Personnel and Training Problems in Statistics, Amer. Math. Monthly 54 (9) (1947), 525-528.
+S S (Samuel Stanley) Wilks papers, 1940-1963, American Philosophical Society. http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W665-ead.xml
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Samuel Wilks:
+
+Reviews of Samuel Stanley Wilks' books
+
+
+
+Other websites about Samuel Wilks:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Mathematics and Architecture
+History Topics: Statistics index
+Societies: American Statistical Association
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Uses of Symbols in Probability and Statistics
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 2014
+  
+
+

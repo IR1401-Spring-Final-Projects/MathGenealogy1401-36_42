@@ -1,0 +1,251 @@
+
+
+
+Samuel Giuseppe Vito Volterra
+
+
+
+
+
+Quick Info
+Born
+
+      3 May 1860
+      
+
+        Ancona, Papal States (now Italy)
+        
+
+Died
+
+      11 October 1940
+      
+      Rome, Italy
+    
+
+Summary
+Vito Volterra published papers on partial differential equations, particularly the equation of cylindrical waves. His most famous work was done on integral equations.
+
+
+
+
+
+    View six larger pictures
+
+
+
+
+
+Biography
+Vito Volterra's parents Abramo Volterra, a cloth merchant, and Angelica Almagià were married on 15 March 1859. The family were of Jewish origins. The name Volterra comes from the Tuscan town of Volterra where one of Vito's ancestor moved in the 15th  century, having originally come from Bologna. One of the Volterras had opened a bank in Florence while other members of the family were writers, collectors of books and manuscripts, and travellers. They had lived in various different cities but from the 18th  century there were Volterras living in Ancona. Vito, his parents' only child, named after his maternal grandfather, was born at exactly the time (May 1860) when Giuseppe Garibaldi set out to conquer Sicily and Naples and so to create a unified Italy. After victories in Sicily, Garibaldi quickly moved north in August 1860. Ancona was at this time under the direct rule of the pope but Garibaldi's army besieged the town attacking it with missiles. Vito, aged about three months, was in his cradle when a missile fell close by destroying the cradle yet, by good fortune, baby Vito survived.
+
+
+Surviving this close call certainly was not the end of the young child's problems. His father Abramo  died when Vito was only two years old. The family was left without any means of financial support and only survived because Alfonso Almagià, a brother of Vito's mother, took care of them. They all moved from Ancona to Terni in the autumn of 1863 when Alfonso worked there for a railway company but in January 1865 he became an official with the Banco d'Italia in Turin and at this stage Vito and his mother returned to Ancona. After only a short stay in Turin, Alfonso moved to Florence where he continued to work for the bank, and Vito and his mother joined him there. It was in this city that Vito spent most of his childhood, although he returned to Ancona for some long family visits, and it was in Florence that he received his education. His interest in mathematics started at the age of 11 when he began to study Legendre's Geometry. At the age of 13 he began to study the Three Body Problem and made some progress by partitioning the time into small intervals over which he could consider the force constant. After elementary school, Vito studied at the lower secondary Dante Alighieri Technical School and later he spent three years at the Galileo Galilei Technical Institute in Florence.
+
+
+Since his family were extremely poor, there was pressure on Vito to leave the Galileo Galilei Technical Institute after one year of study and take a job. However, his determination to continue studying, supported by his uncle Edoardo, saw him continue. Edoardo, who had a degree in applied mathematics and civil engineering, had a firm which was involved in railway construction. Alfonso put pressure on Vito to join Edoardo's firm but Edoardo kept delaying to allow Vito to continue his education. One of Vito's mathematics teachers at the Galileo Galilei Technical Institute was Cesare Arzelà and he quickly realised that Vito was an extremely talented mathematician. The physics teacher, Antonio Ròiti (1843-1921), became another important ally in Vito's bid to continue his education. Ròiti offered Vito a position teaching physics at the Istituto di Studi Superiori e di Perfezionamento in Florence in 1877, so managing to prevent him from being forced by Alfonso to take a job at the Banco d'Italia. Volterra was able to proceed to the University of Pisa in the autumn of 1878, enrolling in the faculty of Science. In the autumn of the following year he sat the competitive examination for entry to the Scuola Normale Superiore in Pisa and scored the highest possible marks. This meant he received a scholarship together with free board and lodgings. At the Scuola Normale he was taught by several inspiring teachers, the most influential being Ulisse Dini and Enrico Betti. Volterra published three papers in 1881 before graduating, one on mathematical physics Sul potenziale di un' elissoide eterogenea sopra sè stessa Ⓣ(On the potential of a heterogeneous ellipsoid upon itself) and two on analysis, Alcune osservazioni sulle funzioni punteggiate discontinue Ⓣ(Some remarks on discontinued dotted functions), on pointwise discontinuous functions, and Sui principii del calcolo integrale Ⓣ(On principles of the integral calculus) which became important in the development of the history of integration. At Pisa he worked for his thesis advised by Enrico Betti, graduating with his laurea in 1882. His thesis on hydrodynamics, Sopra alcuni problemi di idrodinami Ⓣ(On some problems in hydrodynamics), included some results of George Stokes, which Volterra had discovered later but independently.
+
+
+After graduating with his laurea, Volterra was appointed as Betti's assistant in December 1882. He was named Professor of Rational Mechanics at Pisa in 1883 and immediately gained a reputation as a severe and demanding teacher. He was well liked by his colleagues, for example Ernesto Pascal who arrived in Pisa in 1887 wrote in a letter to a friend (see [4]):-
+Professor Volterra is an angelic young man, of characteristic modesty.
+Volterra's mother Angelica had continued to live with her brother Alfonso while Volterra studied at Pisa and she continued to live in Florence until 1887 when she moved to Pisa and set up home with Volterra. His remarkable mathematical contributions were quickly recognised and he was awarded the gold medal of the National Academy of Sciences of Italy (the "Academy of XL") in 1887, he became a corresponding member of the Accademia dei Lincei and a member of the French Mathematical Society in 1888 and, three years later, he was elected to the Mathematical Circle of Palermo and also named a Knight of the Order of the Crown of Italy. After Betti's death in 1892, he occupied the Chair of Mathematical Physics at Pisa. In the same year he became dean of the Faculty of Science at Pisa and succeeded Betti at editor-in-chief of the journal Nuovo Cimento. During these years while holding a chair at Pisa, Volterra had made a number of trips abroad. He visited Henri Poincaré in Paris in 1888 and was invited to come to Paris again in the following year for the Congrés international de bibliographie des sciences mathématique. This proved an important event since it saw Volterra become a significant member of the international mathematical community. In 1891, as a consequence of these newly established connections, he travelled to Germany spending a month at the University of Göttingen and a few days at the University of Berlin. He met a number of leading German mathematicians on this trip including Hermann Schwarz and Leopold Kronecker.
+
+
+Although he never formally applied for the position, he was offered the Chair of Higher Mechanics and Rational Mechanics at the University of Turin in July 1893. It would appear that Enrico D'Ovidio was behind the invitation. Volterra wrote to Ulisse Dini a few days later (see [4]):-
+Most esteemed Professor, I have come to look for you several times in recent days but I have never succeeded in finding you. I would like to tell you some news that I received the other day from Segre, that is, that the Faculty of Turin has called me there to succeed Siacci, who is going to Naples. This news reached me unexpectedly, and I have written to Turin saying that since it concerns a matter of importance I wanted to wait until I had had time to reflect on it.
+Pisa tried to entice him to stay, while Turin tried hard to persuade him to accept their offer which Volterra eventually did. One of his new colleagues at Turin was Giuseppe Peano and, beginning in 1895, the two mathematicians became involved in a dispute. This was an unfortunate affair which started as a priority dispute but became rather heated. The dispute did nothing to harm Volterra's reputation, if anything he came out of it rather well, and he continued to receive honours for his contributions. In particular, he was elected to the National Academy of Sciences of Italy (the "Academy of XL") in 1894 and, in the same year, became a member of the board of the Mathematical Circle of Palermo. He won the mathematics prize from the Accademia dei Lincei in 1895. In 1897 he attended the first International Congress of Mathematicians in Zürich and there met Paul Painlevé and Émile Borel who invited him to Paris in the following year. He made the visit and had useful discussions with Henri Lebesgue. The next International Congress of Mathematicians was held in Paris in August 1900 and Volterra was invited to give one of the four plenary lectures; he gave the lecture Betti, Brioschi, Casorati - Trois analystes italiens et trois manières d'envisager les questions d'analyse Ⓣ(Betti, Brioschi, Casorati - Three Italian analysts and three ways of looking at questions of analysis).
+
+
+By the time Volterra gave his lecture in Paris he was married. After a short engagement of one month, he married his second cousin Virginia Almagià, the daughter of Edoardo Almagià, on 11 July 1900. They spent their honeymoon in Switzerland visiting places that Volterra knew from his visit for the International Congress in 1897. He had also been appointed to the Chair of Mathematical Physics at Rome where he succeeded Eugenio Beltrami who had died in February of 1900. Volterra took up the appointment in Rome in November 1900 and, in the following year, gave his inaugural lecture Sui tentativi di applicazione delle matematiche alle scienze biologiche e sociali Ⓣ(On  attempts to apply mathematics to the biological and social sciences) which discussed applications of mathematics to the biological and social sciences. His first child, a son, was born in 1901 but died soon after birth. A second child, a daughter Luisa, was born in 1902 and in the same year his uncle Alfonso died. Let us continue to give Vito and Virginia Volterra's other children: Edoardo (born 1904), Enrico (born 1905), Gustavo (born 1906 but died after a few months) and Gustavo (born 1909). Volterra was not in Rome when some of these children were born since to travelled much over these years. The summer of 1901 was spent in England (London, Oxford and Cambridge), in 1902 he visited Germany (Berlin) as well as Denmark, Sweden and Norway. He received an honorary degree from the University of Christiana while there for the centenary of Niels Abel's birth. In 1904 he was back in England when awarded an honorary degree by the University of Cambridge. He also attended the International Congress of Mathematicians in Heidelberg in August 1904 and four years later was a plenary speaker at the International Congress of Mathematicians in Rome giving the address Le matematiche in Italia nella seconda metà del secolo XIX Ⓣ(Mathematics in Italy in the second half of the nineteenth century). In 1909 he gave a series of lectures at Clark University in Massachusetts, United States, and received an honorary degree from the university as part of its 20th  anniversary celebrations. In 1912 he was in London for the 250th  celebrations of the Royal Society receiving its Royal Charter - he had been elected as a fellow in 1910. Also in 1912, he went on a lengthy lecture tour of leading American universities. Let us now examine some of his important mathematical contributions.
+
+
+Volterra conceived the idea of a theory of functions which depend on a continuous set of values of another function in 1883. Hadamard was later to introduce the word 'functional' which replaced Volterra's original terminology. In 1890 Volterra showed by means of his functional calculus that the theory of Hamilton and Jacobi for the integration of the differential equations of dynamics could be extended to other problems of mathematical physics. During the years 1892 to 1894 Volterra published papers on partial differential equations, particularly the equation of cylindrical waves. His most famous work was done on integral equations. He began this study in 1884 and in 1896 he published papers on what is now called 'an integral equation of Volterra type'. He continued to study functional analysi applications to integral equations producing a large number of papers on composition and permutable functions. Let us quote from [66] regarding these contributions by Volterra:-
+The theory of functionals as a generalization of the idea of a function of several independent variables was developed by Volterra in a series of papers published since 1887 and was inspired by the problems of the calculus of variations. These papers initiated the modern theory of functional analysis. They attracted attention at once from the foremost mathematicians of his time. Actually the name "functional" was introduced later by Hadamard and has now replaced Volterra's original nomenclature. In developing this theory Volterra already followed a principle which guided him through many discoveries and which he called the passage from the discrete to the continuous. It was this principle which he applied to his celebrated researches on integral equations of Volterra's type. He considered heuristically the integral equations as a limiting case of a system of linear algebraic equations and then checked his final formulae directly. His procedure opened the way for Fredholm and Hilbert who, however, investigated the limiting process itself.
+World War I broke out in 1914 but, shortly after hostilities began on 3 August, Italy declared that it would not commit troops to the fighting. This was despite having an alliance with Germany and Austria-Hungary. Volterra spoke out strongly against Italy honouring its treaty with the Central Powers. Italy revoked this alliance on 3 May 1915 and later that month declared war on Austria-Hungary. The day before war was declared Volterra repeated a request he had made in April to enlist:-
+... in technical or laboratory service or in another service of any form or nature whatsoever.
+Volterra became a lieutenant in the corps of engineers and was sent to the Central Institute of Aeronautics. He was given the task of determining how guns could be fired from dirigibles without causing them to catch fire. He was appointed as head of the Office of Inventions in 1917. This coordinated contributions from the military, industry and the universities. It was renamed the Office of Inventions and Research in 1918. After the War he returned to the University of Rome and his interests moved to mathematical biology. He studied the Verhulst equation and the logistic curve. He also wrote on predator-prey equations. Weinstein writes [66]:-
+A considerable part of the work of Volterra in the latter part of his life was devoted to the applications of mathematics to biology. The subject of these investigations was mainly the study of biological associations of animals of different species living together. In other words he was interested in a mathematical theory of the "survival of the fittest." While there are today other methods of a stochastic nature, the work of Volterra still exerts a dominant influence on several modern and quite recent developments in mathematical biology.
+In 1920 he was invited to give a plenary address at the International Congress of Mathematicians in Strasbourg; this was his third invitation to be a plenary speaker. He gave the lecture Sur l'enseignement de la physique mathématique et de quelques points d'analyse Ⓣ(On the teaching of mathematical physics and some points of analysis). Let us note that he was again invited as a plenary speaker at the 1928 International Congress of Mathematicians in Bologna where he gave the lecture La teoria dei funzionali applicata ai fenomeni ereditari Ⓣ(The functional theory applied to hereditary phenomena).
+
+
+The Italian Fascist movement had started around 1921 as a nationalist movement. Led by Benito Mussolini, the Fascists came to power in 1923 although at this time they did not adopt racial policies. Volterra fought against the Fascists in the Italian Parliament but continued to be a leading figure being elected the first president of the Italian National Council for Research in 1923 and, in the same year, elected president of the Accademia dei Lincei. By 1926 the Fascists had abolished all opposition parties and Volterra felt he could not continue with these two roles, and resigned as president. By 1928 elections to Parliament had been abolished and the police began constructing a file on Volterra as being "politically suspect". He was subject to police surveillance from that time on. When Volterra refused to take the oath of allegiance to the Fascist Government in 1931, which was required of all tenured and contracted professors, he was forced to leave the University of Rome. From the following year he lived mostly abroad, mainly in Paris but also Spain and other countries. For refusing to sign another oath to Fascism he was removed from the Accademia dei Lincei in 1934 and removed from the Istituto Lombardo di Scienze e Lettere in 1938 because he was Jewish. It was a sad end to his highly successful career. The Manifesto della razza (Manifesto of Race) enacted by Mussolini in July 1938 stripped Jews of Italian citizenship and banned them from positions in banking, government, and education. By this time, two of Volterra's sons held university positions and they were deprived of these by the racial laws. Volterra advised his sons to go abroad and try to start a new life there. Enrico moved to the Untied States and became a professor of aerospace engineering at the University of Texas.
+
+
+Volterra was offered an honorary degree by the University of St Andrews in 1938 but, although he wished to come, his doctor did not allow him to travel to Scotland to receive it. Edmund Whittaker writes [68]:-
+In December 1938 he was affected by phlebitis: the use of his limbs was never recovered, but his intellectual energy was unaffected, and it was after this that his two last papers 'The general equations of biological strife in the case of historical actions' and 'Energia nei fenomeni elastici ereditarii' were published by the Edinburgh Mathematical Society and the Pontifical Academy of Sciences respectively. On the morning of 11 October 1940 he died at his house in Rome. In accordance with his wishes, he was buried in the small cemetery of Ariccia, on a little hill, near the country-house which he loved so much and where he had passed the serenest hours of his noble and active life.
+
+
+
+
+
+Quotations by Vito Volterra
+
+Other Mathematicians born in Italy
+
+A Poster of Vito Volterra
+
+
+
+
+
+References (show)
+
+
+
+
+
+E Volterra, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Vito-Volterra
+J R Goodstein, The Volterra Chronicles: The Life and Times of an Extraordinary Mathematician 1860-1940 (Amer. Math. Soc. Providence, RI, London Math. Soc., London, 2007).
+A Guerraggio and G Paoloni, Vito Volterra (Birkhäuser, Basel, 2011).
+A Guerraggio and G Paoloni, Vito Volterra (German) (Birkhäuser, Basel, 2011).
+G Israel and A M Gasca, The Biology of Numbers: The Correspondence of Vito Volterra on Mathematical Biology (Springer, New York, 2002).
+E M Polishchuk, Vito Vol'terra 1860-1940 (Russian), Nauchno-Biograficheskaya Literatura, Izdat. 'Nauka' Leningrad. Otdel. (Leningrad, 1977).
+R Simili (ed.), Scienza, tecnologia e istituzioni in Europa : Vito Volterra e l'origine del Cnr (Rome, 1993).
+V Volterra, Vito Volterra: Opere mathematiche. Memorie e Note Vol. 1 (Accademia Nazionale dei Lincei, Rome, 1954).
+V Volterra, Vito Volterra: Opere mathematiche. Memorie e Note Vol. 2 (Accademia Nazionale dei Lincei, Rome, 1956).
+V Volterra, Vito Volterra: Opere mathematiche. Memorie e Note Vol. 3 (Accademia Nazionale dei Lincei, Rome, 1957).
+V Volterra, Vito Volterra: Opere mathematiche. Memorie e Note Vol. 4 (Accademia Nazionale dei Lincei, Rome, 1960).
+V Volterra, Vito Volterra: Opere mathematiche. Memorie e Note Vol. 5 (Accademia Nazionale dei Lincei, Rome, 1962).
+E S Allen, The scientific work of Vito Volterra, Amer. Math. Monthly 48 (1941), 516-519.
+L Andreozzi, Vito Volterra as scientific organizer and the origins of mathematical biology in Italy (Italian), Nuncius Ann. Storia Sci. 15 (1) (2000), 79-109.
+Anonymous, Vito Volterra, Archimede 10 (1958), 29-32.
+Anonymous, Review: Leçons sur les Fonctions de Lignes, by V Volterra, Revue de Métaphysique et de Morale 22 (4) (1914), 22-23.
+Anonymous, Review: Gioruale degli Economisti. Sui tentativi di applicazione delle matematiche alle scienzebiologiche e sociali by V Volterra, Rivista Internazionale di Scienze Sociali e Discipline Ausiliarie 27 (108) (1901), 553-554.
+G Armellini, Vito Volterra e la sua opera scientifica, Ricerca Sci. 21 (1951), 3-12.
+G Birkhoff, Review: Opérations Infinitésimales Linéaires, by Vito Volterra and Bohuslav Hostinsky, Bull. Amer. Math. Soc. 32 (1938), 759-761.
+G A Bliss, Review: Leçons sur les Fonctions des Lignes, by Vito Volterra, Bull. Amer. Math. Soc. 21 (7) (1915), 345-355.
+A Borsellino, Vito Volterra and contemporary mathematical biology, Vito Volterra Symposium on Mathematical Models in Biology, Lecture Notes in Biomath. 39 (Berlin-New York, 1980), 410-417.
+H Brunner, 1896-1996: one hundred years of Volterra integral equations of the first kind, in Volterra centennial, Tempe, AZ, 1996, Appl. Numer. Math. 24 (2-3) (1997), 83-93.
+G Castelnuovo, Obituary: Vito Volterra, Mem. Soc. Ital. Sci. (3) 25 (1943), 87-95.
+G Colonnetti, Nel cinquantesimo anniversario di una memoria di Vito Volterra che ha aperta vie nuove alla moderna scienza delle costruzioni, Univ. e Politec. Torino. Rend. Sem. Mat. 16 (1956-57), 95-100.
+P J Daniell, The Theory of Functionals and of Integral and Integro-Differential Equations by Vito Volterra, The Mathematical Gazette 16 (217) (1932), 59-60.
+D'Arcy W Thompson and S Chapman, Obituary: Prof. Vito Volterra, For. Mem. R S, Nature 147 (1941), 349-350.
+L Dell'Aglio and G Israel, The themes of stability and qualitative analysis in the works of Levi-Civita and Volterra (Italian), Italian mathematics between the two world wars (Bologna, 1987), 125-141.
+J L Doob, Review: Leçons sur la Théorie Mathématique de la Lutte pour la Vie, by Vito Volterra, Bull. Amer. Math. Soc. 42 (5) (1936), 304-305
+W Dunham, A historical gem from Vito Volterra, Math. Mag. 63 (4) (1990), 234-237.
+A Durand and L Mazliak, Revisiting the sources of Borel's interest in probability: continued fractions, social involvement, Volterra's prolusione, Centaurus 53 (4) (2011), 306-332.
+G C Evans and C A Kofoid, Review: Theorie Generale des Fonctionelles by V Volterra, Science, New Series 88 (2286) (1938), 380-381.
+G Fichera, Vito Volterra and the birth of functional analysis, Development of mathematics 1900-1950 (Basel, 1994), 171-183.
+V Gavagna, From the theory of functions to functional analysis: the Arzelà-Volterra correspondence (Italian), Boll. Storia Sci. Mat. 14 (1) (1994), 3-89.
+J Gray, Mathematics and natural science in the nineteenth century: the classical approaches of Poincaré, Volterra and Hadamard, in Changing images in mathematics (Stud. Hist. Sci. Technol. Med., 13, Routledge, London, 2001), 113-135.
+A Guerraggio, The 'modern' Vito Volterra (Italian), in Mathematics, culture and society 2005 (Italian) (CRM Series, 2, Ed. Norm., Pisa, 2006), 87-108.
+A Guerraggio, Memoirs of Volterra and Peano on the motion of the poles (Italian), Archive for History of Exact Science 31 (2) (1984), 97-126.
+M R Hestenes, Review: Théorie Générale des Fonctionnelles. Vol. 1, by Vito Volterra and Joseph Pérès, Bull. Amer. Math. Soc. 44 (5) (1938), 311-312.
+G Israel, Vito Volterra and the 'biology of numbers' (Italian), in Mathematics and culture, 2002 (Italian), Venice, 2001 (Collana Mat. Cult., Springer Italia, Milan, 2002), 109-122.
+G Israel, Vito Volterra and Gentile's Educational Reform (Italian), Boll. Unione Mat. Ital. Sez. A Mat. Soc. Cult. (8) 1 (3) (1998), 269-287.
+G Israel, Volterra Archive at the Accademia Nazionale dei Lincei, Historia Mathematica 9 (2) (1982), 229-238.
+G Israel, On Vito Volterra's proposals to confer the Nobel Prize in physics on Henri Poincaré (Italian), Proceedings of the fifth national congress on the history of physics, Rend. Accad. Naz. Sci. XL Mem. Sci. Fis. Natur. (5) 9 (1985), 227-229.
+Y Koshiba, On the classical examples of functions that are not Riemann integrable in the writings of Volterra and H J Smith (Japanese), in Studies on the history of mathematics (Japanese), Kyoto, 1998 (Surikaisekikenkyusho Kokyuroku No. 1064, 1998), 1-5.
+G Krall, Vito Volterra: La matematica e la scienza del suo tempo, Civiltà delle Macchine 3 (1) (1955), 64-77.
+R E Langer, Review: Theory of Functionals and of Integral and Integro-differential Equations, by Vito Volterra, Bull. Amer. Math. Soc. 38 (9) (1932), 623.
+B Levi, The personality of Vito Volterra (Spanish), Publ. Inst. Mat. Univ. Nac. Litoral 3 (1941), 25-36.
+J Mawhin, The legacy of Pierre-François Verhulst and Vito Volterra in population dynamics, in The first 60 years of nonlinear analysis of Jean Mawhin (World Sci. Publ., River Edge, NJ, 2004), 147-160.
+A Masotti, Bibliografie di Tullio Levi-Civita e Vito Volterra, Rend. Sem. Mat. Fis. Milano 17 (1946), 16-61.
+A F Monna, Volterra et les fonctions de lignes: un centenaire, Nieuw Arch. Wisk. (3) 30 (3) (1982), 247-257.
+A Pérard, Obituary: Vito Volterra (1860-1940), Cahiers de Physique 1941 (3) (1941), 51-58.
+E Picard, Obituary: Vito Volterra, C. R. Acad. Sci. Paris 211 (1940), 309-312.
+M Picone, Vito Volterra, Ricerca Sci. 26 (1956), 3277-3289.
+E M Poliscuk, Vito Volterra (Russian), Istor.-Mat. Issled. Vyp. 21 (1976), 183-213.
+Publications of Vito Volterra, Publ. Inst. Mat. Univ. Nac. Litoral 3 (1941), 37-48.
+A Rosenblatt, Obituary: Vito Volterra (Spanish), Revista Ci., Lima 44 (1942), 423-442.
+I W Sandberg, Review: The Volterra Chronicles: The Life and Times of an Extraordinary Mathematician 1860-1940, by Judith R Goodstein, Notices Amer. Math. Soc. 55 (3) (2008), 377-380.
+M Schetzen, Retrospective of Vito Volterra and his influence on nonlinear systems theory, in Volterra equations and applications, Arlington, TX, 1996 (Stability Control Theory Methods Appl., 10, Gordon and Breach, Amsterdam, 2000) ), 1-14.
+J B Shaw, Review: Sur quelques Progrès récents de la Physique mathématique, by Vito Volterra; Drei Vorlesungen über neuere Fortschritte der mathematischen Physik, by Vito Volterra; Leçons sur l'Intégration des Equations différentielles aux Dérivées partielle, by Vito Volterra, Bull. Amer. Math. Soc. 21 (4) (1915), 192-199.
+C Somigliana, Obituary: Tullio Levi-Civita e Vito Volterra, Rend. Sem. Mat. Fis. Milano 17 (1946), 1-15.
+C Somigliana, Obituary: Vito Volterra, Pont. Acad. Sci. Acta 6 (1942), 57-85.
+T Sluckin, Vito Volterra at 150, Math. Today (Southend-on-Sea) 47 (1) (2011), 46-48.
+L Tanzi Cattabianchi, The contributions of Vito Volterra to air ballistics (Italian), Riv. Mat. Univ. Parma (4) 14 (1988), 87-105.
+Volterra, Enciclopedia Italiana (1937). http://www.treccani.it/enciclopedia/volterra_(Enciclopedia_Italiana)/
+Volterra, Vito, Dizionario di Economia e Finanza (2012). http://www.treccani.it/enciclopedia/vito-volterra_(Dizionario-di-Economia-e-Finanza)/
+R Wavre, Obituary: Vito Volterra, 1860-1940, Enseignement Math. 38 (1942), 347-348.
+A Weinstein, Review: Vito Volterra: Opere mathematiche. Memorie e Note Vols. 1-5, Bull. Amer. Math. Soc. 70 (3) (1964), 335-337.
+J Westlund, Review: Leçons sur les Equations intégrales et les Equations intégro-différentielles by Vito Volterra, Bull. Amer. Math. Soc. 20 (5) (1914), 259-262.
+E T Whittaker, Vito Volterra, Obituary Notices of Fellows of the Royal Society of London 3 (10) (1941), 690-729.
+E T Whittaker, Vito Volterra, J. London Math. Soc. 16 (2) (1941), 131-139.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Vito Volterra:
+
+Mathematics in Italy in the second half of the 19th century
+On the Teaching of Mathematical Physics
+
+
+
+Other websites about Vito Volterra:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Vito Volterra
+
+Speaker at International Congress 1900
+LMS Honorary Member 1907
+Speaker at International Congress 1908
+Fellow of the Royal Society 1910
+Fellow of the Royal Society of Edinburgh 1913
+Speaker at International Congress 1920
+Speaker at International Congress 1928
+Lunar features Crater Volterra
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: Italian Mathematical Union
+Societies: Italian Society of Applied and Industrial Mathematics
+Student Projects: Sofia Kovalevskaya: Chapter 10
+Other: 
+Other: 1900 ICM - Paris
+Other: 1904 ICM - Heidelberg
+Other: 1908 ICM - Rome
+Other: 1912 ICM - Cambridge
+Other: 1920 ICM - Strasbourg
+Other: 1924 ICM - Toronto
+Other: 1928 ICM - Bologna
+Other: 1932 ICM - Zurich
+Other: 1936 ICM - Oslo
+Other: Earliest Known Uses of Some of the Words of Mathematics (F)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2013
+  
+
+

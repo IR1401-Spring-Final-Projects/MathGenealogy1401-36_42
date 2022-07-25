@@ -1,0 +1,119 @@
+
+
+
+François Joseph Servois
+
+
+
+
+
+Quick Info
+Born
+
+      19 July 1768
+      
+
+        Mont-de-Laval (N of Morteau), Doubs, France
+        
+
+Died
+
+      17 April 1847
+      
+      Mont-de-Laval, Doubs, France
+    
+
+Summary
+François-Joseph Servois was a French mathematician who worked on projective geometry.
+
+
+
+
+
+Biography
+François-Joseph Servois's father, Jacques-Ignance Servois, was a merchant and his mother was Jeanne-Marie Jolliet. Servois's first intention was to join the priesthood and he began by following this aim and was ordained at Besançon. However, this was in the early days of the French Revolution and a time of great political and military activity in France. Servois soon changed his mind about following a career in the Church, and left in 1793 to join the army.
+
+
+He was at the artillery school in Châlons-sur-Marne in 1794 and immediately after this he was promoted to lieutenant. There were numerous military campaigns by the French army shortly after this and Servois was in the thick of the action serving as a staff officer. However, he had a great love of mathematics and while on the military campaigns Servois spent all his free time studying.
+
+
+Legendre realised that Servois had considerable mathematical talents and he supported a move to have him appointed to the artillery school of Besançon as professor of mathematics. Appointed to this post in July 1801, Servois went on to hold similar positions over the next few years. His first move was only a few months after his first appointment at Besançon when he moved to the artillery school in Châlons-sur-Marne where he had begun his military career. Then in 1802 he made his second move, this time to the artillery school in Metz.
+
+
+In comparison with his earlier appointments, Servois spent quite a while in Metz at the artillery school, remaining there until 1808. His next move was to the artillery school La Fère where he remained until 1816 when he moved to the artillery and engineering school at Metz. Hardly had he arrived in Metz when a position as curator of the artillery museum in Paris fell vacant. Servois was appointed as curator in 1816 and he held this post until he retired in 1827. After he retired Servois returned to his home town of Mont-de-Laval where he lived for nearly twenty further years.
+
+
+Servois worked in projective geometry, functional equations and complex numbers. He introduced the word pole in projective geometry. He also came close to discovering the quaternions before Hamilton.
+
+
+Petrova, in [5], describes a paper by Servois on differential operators written in the Annales de mathématiques in November 1814. Servois introduced the terms "commutative" and "distributive" in this paper describing properties of operators, and he also gave some examples of noncommutativity. Although he does not use the concept of a ring explicitly, he does verify that linear commutative operators satisfy the ring axioms. In doing so he showed why operators could be manipulated like algebraic magnitudes. This work initiates the algebraic theory of operators.
+
+
+Servois was critical of Argand's geometric interpretation of the complex numbers. He wrote to Gergonne telling him so in November 1813 and Gergonne published the letter in the Annales de mathématiques in January 1814. Servois wrote:-
+I confess that I do not yet see in this notation anything but a geometric mask applied to analytic forms the direct use of which seems to me simple and more expeditious.
+Considered as a leading expert by many mathematicians of his day, he was consulted on many occasions by Poncelet while he was writing his book on projective geometry Traité des propriétés projective Ⓣ(Treatise on projective properties).
+
+
+
+
+
+Quotations by François-Joseph Servois
+
+Other Mathematicians born in France
+
+
+
+
+
+References (show)
+
+
+
+
+
+R Taton, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+J Boyer, Le mathématicien franc-comtois François Joseph Servois, Mémoires de la Société d'émulation du Doubs 9 (1894),305-328.
+L A Ljusternik and S S Petrova, From the history of symbolic calculus (Russian), Istor.-Mat. Issled. Vyp. 22 (1977), 85-101; 302.
+L A Ljusternik and S S Petrova, Les premières étapes du calcul symbolique, Rev. Histoire Sci. Appl. 25 (3) (1972), 201-206.
+S S Petrova, The origin of linear operator theory in the works of Servois and Murphy (Russian), in History and methodology of the natural sciences XX (Moscow, 1978), 122-128.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about François-Joseph Servois:
+
+Dictionary of Scientific Biography
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (S)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2000
+  
+
+

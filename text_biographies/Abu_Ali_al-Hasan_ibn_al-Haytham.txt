@@ -1,0 +1,258 @@
+
+
+
+Abu Ali al-Hasan ibn al-Haytham
+
+
+
+
+
+Quick Info
+Born
+
+      965
+      
+
+        (possibly) Basra, Persia (now Iraq)
+        
+
+Died
+
+      1040
+      
+      (possibly) Cairo, Egypt
+    
+
+Summary
+Al-Haytham is also known as Alhazen. He was an Islamic mathematician who wrote early works on optics as well as geometry and number theory.
+
+
+
+
+
+    View five larger pictures
+
+
+
+
+
+Biography
+Ibn al-Haytham is sometimes called al-Basri, meaning from the city of Basra in Iraq, and sometimes called al-Misri, meaning that he came from Egypt. He is often known as Alhazen which is the Latinised version of his first name "al-Hasan".
+
+In particular this name occurs in the naming of the problem for which he is best remembered, namely Alhazen's problem: 
+Given a light source and a spherical mirror, find the point on the mirror where the light will be reflected to the eye of an observer.
+We shall discuss this problem, and ibn al-Haytham's other work, after giving some biographical details. In contrast to our lack of knowledge of the lives of many of the Arabic mathematicians, we have quite a number of details of ibn al-Haytham's life. However, although these details are in broad agreement with each other, they do contradict each other in several ways. We must therefore try to determine which are more likely to be accurate. It is worth commenting that an autobiography written by ibn al-Haytham in 1027 survives, but it says nothing of the events his life and concentrates on his intellectual development.
+
+
+Since the main events that we know of in ibn al-Haytham's life involve his time in Egypt, we should set the scene regarding that country. The Fatimid political and religious dynasty took its name from Fatimah, the daughter of the Prophet Muhammad. The Fatimids headed a religious movement dedicated to taking over the whole of the political and religious world of Islam. As a consequence they refused to recognise the 'Abbasid caliphs. The Fatimid caliphs ruled North Africa and Sicily during the first half of the 10th  century, but after a number of unsuccessful attempts to defeat Egypt, they began a major advance into that country in 969 conquering the Nile Valley. They founded the city of Cairo as the capital of their new empire. These events were happening while ibn al-Haytham was a young boy growing up in Basra.
+
+
+We know little of ibn al-Haytham's years in Basra. In his autobiography he explains how, as a youth, he thought about the conflicting religious views of the various religious movements and came to the conclusion that none of them represented the truth. It appears that he did not devote himself to the study of mathematics and other academic topics at a young age but trained for what might be best described as a civil service job. He was appointed as a minister for Basra and the surrounding region. However, ibn al-Haytham became increasingly unhappy with his deep studies of religion and made a decision to devote himself entirely to a study of science which he found most clearly described in the writings of Aristotle. Having made this decision, ibn al-Haytham kept to it for the rest of his life devoting all his energies to mathematics, physics, and other sciences.
+
+
+Ibn al-Haytham went to Egypt some considerable time after he made the decision to give up his job as a minister and to devote himself to science, for he had made his reputation as a famous scientist while still in Basra. We do know that al-Hakim was Caliph when ibn al-Haytham reached Egypt. Al-Hakim was the second of the Fatimid caliphs to begin his reign in Egypt; al-Aziz was the first of the Fatimid caliphs to do so. Al-Aziz became Caliph in 975 on the death of his father al-Mu'izz. He was very involved in military and political ventures in northern Syria trying to expand the Fatimid empire. For most of his 20 year reign he worked towards this aim. Al-Aziz died in 996 while organising an army to march against the Byzantines and al-Hakim, who was eleven years old at the time, became Caliph.
+
+
+Al-Hakim, despite being a cruel leader who murdered his enemies, was a patron of the sciences employing top quality scientists such as the astronomer ibn Yunus. His support for science may have been partly because of his interest in astrology. Al-Hakim was highly eccentric, for example he ordered the sacking of the city of al-Fustat, he ordered the killing of all dogs since their barking annoyed him, and he banned certain vegetables and shellfish. However al-Hakim kept astronomical instruments in his house overlooking Cairo and built up a library which was only second in importance to that of the House of Wisdom over 150 years earlier.
+
+
+Our knowledge of ibn al-Haytham's interaction with al-Hakim comes from a number of sources, the most important of which is the writings of al-Qifti. We are told that al-Hakim learnt of a proposal by ibn al-Haytham to regulate the flow of water down the Nile. He requested that ibn al-Haytham come to Egypt to carry out his proposal and al-Hakim appointed him to head an engineering team which would undertake the task. However, as the team travelled further and further up the Nile, ibn al-Haytham realised that his idea to regulate the flow of water with large constructions would not work.
+
+
+Ibn al-Haytham returned with his engineering team and reported to al-Hakim that they could not achieve their aim. Al-Hakim, disappointed with ibn al-Haytham's scientific abilities, appointed him to an administrative post. At first ibn al-Haytham accepted this but soon realised that al-Hakim was a dangerous man whom he could not trust. It appears that ibn al-Haytham pretended to be mad and as a result was confined to his house until after al-Hakim's death in 1021. During this time he undertook scientific work and after al-Hakim's death he was able to show that he had only pretended to be mad. According to al-Qifti, ibn al-Haytham lived for the rest of his life near the Azhar Mosque in Cairo writing mathematics texts, teaching and making money by copying texts. Since the Fatimids founded the University of Al-Azhar based on this mosque in 970, ibn al-Haytham must have been associated with this centre of learning.
+
+
+A different report says that after failing in his mission to regulate the Nile, ibn al-Haytham fled from Egypt to Syria where he spent the rest of his life. This however seems unlikely for other reports certainly make it certain that ibn al-Haytham was in Egypt in 1038. One further complication is the title of a work ibn al-Haytham wrote in 1027 which is entitled Ibn al-Haytham's answer to a geometrical question addressed to him in Baghdad. Several different explanations are possible, the simplest of which being that he visited Baghdad for a short time before returning to Egypt. He may also have spent some time in Syria which would partly explain the other version of the story. Yet another version has ibn al-Haytham pretending to be mad while still in Basra.
+
+
+Ibn al-Haytham's writings are too extensive for us to be able to cover even a reasonable amount. He seems to have written around 92 works of which, remarkably, over 55 have survived. The main topics on which he wrote were optics, including a theory of light and a theory of vision, astronomy, and mathematics, including geometry and number theory. We will give at least an indication of his contributions to these areas.
+
+
+A seven volume work on optics, Kitab al-Manazir, is considered by many to be ibn al-Haytham's most important contribution. It was translated into Latin as Opticae thesaurus Alhazeni in 1270. The previous major work on optics had been Ptolemy's Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') and although ibn al-Haytham's work did not have an influence to equal that of Ptolemy's, nevertheless it must be regarded as the next major contribution to the field. The work begins with an introduction in which ibn al-Haytham says that he will begin "the inquiry into the principles and premises". His methods will involve "criticising premises and exercising caution in drawing conclusions" while he aimed "to employ justice, not follow prejudice, and to take care in all that we judge and criticise that we seek the truth and not be swayed by opinions".
+
+
+Also in Book I, ibn al-Haytham makes it clear that his investigation of light will be based on experimental evidence rather than on abstract theory. He notes that light is the same irrespective of the source and gives the examples of sunlight, light from a fire, or light reflected from a mirror which are all of the same nature. He gives the first correct explanation of vision, showing that light is reflected from an object into the eye. Most of the rest of Book I is devoted to the structure of the eye but here his explanations are necessarily in error since he does not have the concept of a lens which is necessary to understand the way the eye functions. His studies of optics did led him, however, to propose the use of a camera obscura, and he was the first person to mention it.
+
+
+Book II of the Optics discusses visual perception while Book III examines conditions necessary for good vision and how errors in vision are caused. From a mathematical point of view Book IV is one of the most important since it discusses the theory of reflection. Ibn al-Haytham gave [1]:-
+... experimental proof of the specular reflection of accidental as well as essential light, a complete formulation of the laws of reflection, and a description of the construction and use of a copper instrument for measuring reflections from plane, spherical, cylindrical, and conical mirrors, whether convex or concave.
+Alhazen's problem, quoted near the beginning of this article, appears in Book V. Although we have quoted the problem for spherical mirrors, ibn al-Haytham also considered cylindrical and conical mirrors. The paper [36] gives a detailed description of six geometrical lemmas used by ibn al-Haytham in solving this problem. Huygens reformulated the problem as:-
+To find the point of reflection on the surface of a spherical mirror, convex or concave, given the two points related to one another as eye and visible object.
+Huygens found a good solution which Vincenzo Riccati and then Saladini simplified and improved.
+
+
+Book VI of the Optics examines errors in vision due to reflection while the final book, Book VII, examines refraction [1]:-
+Ibn al-Haytham does not give the impression that he was seeking a law which he failed to discover; but his "explanation" of refraction certainly forms part of the history of the formulation of the refraction law. The explanation is based on the idea that light is a movement which admits a variable speed (being less in denser bodies) ...
+Ibn al-Haytham's study of refraction led him to propose that the atmosphere had a finite depth of about 15 km. He explained twilight by refraction of sunlight once the Sun was less than 19° below the horizon.
+
+
+Abu al-Qasim ibn Madan was an astronomer who proposed questions to ibn al-Haytham, raising doubts about some of Ptolemy's explanations of physical phenomena. Ibn al-Haytham wrote a treatise Solution of doubts in which he gives his answers to these questions. They are discussed in [43] where the questions are given in the following form:-
+What should we think of Ptolemy's account in "Almagest" Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis')  I.3 concerning the visible enlargement of celestial magnitudes (the stars and their mutual distances) on the horizon? Is the explanation apparently implied by this account correct, and if so, under what physical conditions? How should we understand the analogy Ptolemy draws in the same place between this celestial phenomenon and the apparent magnification of objects seen in water? ...
+There are strange contrasts in ibn al-Haytham's work relating to Ptolemy. In Al-Shukuk ala Batlamyus (Doubts concerning Ptolemy), ibn al-Haytham is critical of Ptolemy's ideas yet in a popular work the Configuration, intended for the layman, ibn al-Haytham completely accepts Ptolemy's views without question. This is a very different approach to that taken in his Optics as the quotations given above from the introduction indicate.
+
+
+One of the mathematical problems which ibn al-Haytham attacked was the problem of squaring the circle. He wrote a work on the area of lunes, crescents formed from two intersecting circles, (see for example [10]) and then wrote the first of two treatises on squaring the circle using lunes (see [14]). However he seems to have realised that he could not solve the problem, for his promised second treatise on the topic never appeared. Whether ibn al-Haytham suspected that the problem was insoluble or whether he only realised that he could not solve it, in an interesting question which will never be answered.
+
+
+In number theory al-Haytham solved problems involving congruences using what is now called Wilson's theorem:
+if p is prime then 1+(p−1)!1 + (p - 1) !1+(p−1)! is divisible by p .
+In Opuscula ibn al-Haytham considers the solution of a system of congruences. In his own words (using the translation in [7]):-
+To find a number such that if we divide by two, one remains; if we divide by three, one remains; if we divide by four, one remains; if we divide by five, one remains; if we divide by six, one remains; if we divide by seven, there is no remainder.
+Ibn al-Haytham gives two methods of solution:-
+The problem is indeterminate, that is it admits of many solutions. There are two methods to find them. One of them is the canonical method: we multiply the numbers mentioned that divide the number sought by each other; we add one to the product; this is the number sought.
+Here ibn al-Haytham gives a general method of solution which, in the special case, gives the solution (7 - 1)! + 1. Using Wilson's theorem, this is divisible by 7 and it clearly leaves a remainder of 1 when divided by 2, 3, 4, 5, and 6. Ibn al-Haytham's second method gives all the solutions to systems of congruences of the type stated (which of course is a special case of the Chinese Remainder Theorem).
+
+
+Another contribution by ibn al-Haytham to number theory was his work on perfect numbers. Euclid, in the Elements, had proved:
+If, for some k>1,2k−1k > 1, 2^{k} - 1k>1,2k−1 is prime then 2k−1(2k−1)2^{k-1}(2^{k} - 1)2k−1(2k−1) is a perfect number.
+The converse of this result, namely that every even perfect number is of the form 2k−1(2k−1)2^{k-1}(2^{k} - 1)2k−1(2k−1) where 2k−12^{k} - 12k−1 is prime, was proved by Euler. Rashed ([7], [8] or [27]) claims that ibn al-Haytham was the first to state this converse (although the statement does not appear explicitly in ibn al-Haytham's work). Rashed examines ibn al-Haytham's attempt to prove it in Analysis and synthesis which, as Rashed points out, is not entirely successful [7]:-
+But this partial failure should not eclipse the essential: a deliberate attempt to characterise the set of perfect numbers.
+Ibn al-Haytham's main purpose in Analysis and synthesis is to study the methods mathematicians use to solve problems. The ancient Greeks used analysis to solve geometric problems but ibn al-Haytham sees it as a more general mathematical method which can be applied to other problems such as those in algebra. In this work ibn al-Haytham realises that analysis was not an algorithm which could automatically be applied using given rules but he realises that the method requires intuition. See [18] and [26] for more details.
+
+
+
+
+
+Quotations by Ibn al-Haytham
+
+Other Mathematicians born in Iraq
+
+A Poster of Ibn al-Haytham
+
+
+
+
+
+References (show)
+
+
+
+
+
+A I Sabra, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Ibn-al-Haytham
+A I Abdul-Latif, Ibn al-Haytham : The geometer (Arabic) (Amman, 1993).
+J P Hogendijk, ibn al-Haytham's 'Completion of the conics' (New York-Berlin, 1985).
+Y T Langermann, ibn al-Haytham's 'On the configuration of the world' (New York, 1990).
+M Nazif, Al-Hasan ibn al-Haytham, his optical researchs and discoveries (2 Vols.) (Cairo, 1942-43).
+R Rashed, The development of Arabic mathematics : between arithmetic and algebra (London, 1994).
+R Rashed, Entre arithmétique et algèbre: Recherches sur l'histoire des mathématiques arabes (Paris, 1984).
+A I Sabra, The optics of ibn al-Haytham (2 Vols.) (London, 1989).
+B Steffens, Ibn al-Haytham: First Scientist (Greensboro, North Carolina, USA, 2007).
+A I Abd al-Latif, A detailed article on ibn al-Haytham's lunules (Arabic), in Deuxième Colloque Maghrebin sur l'Histoire des Mathématiques Arabes (Tunis, 1990), A40-A67, 195.
+A Abdukabirov, Some problems from ibn al-Haytham's completion of the reconstruction of the eighth book of 'Conics' of Apollonios of Perga (Russian), in Mathematics and astronomy in the works of Ibn Sina, his contemporaries and successors (Tashkent, 1981), 80-94.
+A Ahmedov, The 'Book on extraction of the edge of a cube' by al-Hasan ibn al-Haytham (Russian), in Mathematics and astronomy in the works of scientists of the medieval East (Tashkent, 1977), 113-117; 140.
+A Al-Ayib, Precise measurements in ibn al-Haytham's treatise on geography (Arabic), in Deuxième Colloque Maghrebin sur l'Histoire des Mathématiques Arabes (Tunis, 1990), A68-A86, 202.
+T Albertini, La quadrature du cercle d'ibn al-Haytham : solution philosophique ou mathématique?, J. Hist. Arabic Sci. 9 (1-2) (1991), 5-21; 132.
+M B Bektenov, Optics of atmospheric and astronomic phenomena in the works of ibn al-Haytham (Russian), Istor.-Astronom. Issled. 22 (1990), 197-202.
+A S Dallal, ibn al-Haytham's universal solution for finding the direction of the qibla by calculation, Arabic Sci. Philos. 5 (2) (1995), 139; 141; 145-193.
+G Federici Vescovini, La fortune de l'optique d'ibn al-Haitham : le livre 'De aspectibus (Kitab al-Manazir)' dans le moyen-âge latin, Arch. Internat. Hist. Sci. 40 (125) (1990), 220-238.
+K Jaouiche, L'analyse et la synthèse dans les mathématiques arabo-islamiques. Le livre d'Ibn al-Haytham, in Histoire des mathématiques arabes (Algiers, 1988), 37-50.
+E S Kennedy, ibn al-Haytham's determination of the meridian from one solar altitude, Z. Gesch. Arab.-Islam. Wiss. 5 (1989), 141-144.
+T Langermann, A note on the use of the term orbis (falak) in ibn al-Haytham's 'Maqualah fi hay'at al-alam', Arch. Internat. Hist. Sci. 32 (108) (1982), 112-113.
+D Lindberg, Alhazen,'s theory of vision and its reception in the west, Isis 58 (1968), 321-341.
+J L Mancha, Ibn al-Haytham's homocentric epicycles in Latin astronomical texts of the XIVth and XVth centuries, Centaurus 33 (1) (1990), 70-89.
+M Nazif and P Ghalioungui, Ibn at Haitam, an 11th-Century Physicist, Actes du Xe Congrès International d'histoire des sciences (Paris, 1964), I 569-571.
+R Rashed, Ibn al-Haytham et le théorème de Wilson, Arch. Hist. Exact Sci. 22 (4) (1980), 305-321.
+R Rashed, Optiques géometrique et doctrine optique chez Ibn al-Haytham, Arch. Hist. Exact Sci. 6 (1970), 271-298.
+R Rashed, L'analyse et la synthèse selon ibn al-Haytham, in Mathématiques et philosophie de l'antiquité à l'âge classique (Paris, 1991), 131-162.
+R Rashed, Ibn al-Haytham et les nombres parfaits, Historia Math. 16 (4) (1989), 343-352.
+R Rashed, ibn al-Haytham and the measurement of the paraboloid (Arabic), J. Hist. Arabic Sci. 5 (1-2) (1981), 262-191.
+R Rashed, Ibn al-Haytham's construction of the regular heptagon (Arabic), J. Hist. Arabic Sci. 3 (2) (1979), 387-309.
+R Rashed, Le 'Discours de la lumière' d'Ibn al-Haytham (Alhazen) : Traduction française critique, Rev. Histoire Sci. Appl. 21 (1968), 197-224.
+R Rashed, Le modèle de la sphère transparente et l'explication de l'arc-en-ciel : Ibn al-Haytham, al-Farisi, Rev. Histoire Sci. Appl. 23 (1970), 109-140.
+U Rebstock, Der Muamalat-Traktat des ibn al-Haitam, Z. Gesch. Arab.-Islam. Wiss. 10 (1995/96), 61-121.
+B A Rosenfeld, 'Geometric trigonometry' in treatises of al-Khwarizmi, al-Mahani and ibn al-Haytham, in Vestigia mathematica (Amsterdam, 1993), 305-308.
+B A Rozenfeld, The list of physico-mathematical works of Ibn al-Haytham written by himself, Historia Math. 3 (1976), 75-76.
+B A Rosenfeld, 'Geometric trigonometry' in treatises of al-Khwarizmi, al-Mahani and ibn al-Haytham, in Vestigia mathematica (Amsterdam, 1993), 305-308.
+A I Sabra, ibn al-Haytham's lemmas for solving 'Alhazen's problem', Arch. Hist. Exact Sci. 26 (4) (1982), 299-324.
+A I Sabra, The treatise of Ibn al-Haytham : 'Resolution of difficulties concerning the movement of iltifaf' (Arabic), J. Hist. Arabic Sci. 3 (2) (1979), 422-388.
+A I Sabra, Ibn al-Haytham's 'Treatise on methods of astronomical observations' (Arabic), J. Hist. Arabic Sci. 2 (1) (1978), 228-194, 155.
+A Sabra, ibn al-Haytham's 'Treatise on the marks seen on the surface of the moon' (Arabic), J. Hist. Arabic Sci. 1 (1) (1977), 180-166.
+A I Sabra, The astronomical origin of Ibn al-Haytham's concept of experiment, in 1971 Actes XIIe Congrès Internat. d'Histoire des Sciences Tome III A : Science et Philosophie : Antiquité, Moyen Age, Renaissance (Paris, 1968), 133-136.
+A I Sabra and A Heinen, On seeing the stars : Edition and translation of ibn al-Haytham's 'Risala fi Ru'yat al-kawakib', Z. Gesch. Arab.-Islam. Wiss. 7 (1991/92), 31-72.
+A I Sabra, One Ibn al-Haytham or two? An exercise in reading the bio-bibliographical sources, Z. Gesch. Arab.-Islam. Wiss. 12 (1998), 1-50.
+A I Sabra, On seeing the stars. II. Ibn-al-Haytham's 'answers' to the 'doubts' raised by ibn Ma'dan, Z. Gesch. Arab.-Islam. Wiss. 10 (1995/96), 1-59; 7.
+G Sarton, The tradition of the Optics of Ibn al-Haitham, Isis 29 (1938), 403-406.
+M Schramm, Ibn al'Haythams Stellung in der Geschichte der Wissenschaften, Fikrum wa fann 6 (1965), 2-22.
+F Sezgin, On ibn al-Haytham's methods for determining the meridian line (Arabic), Z. Gesch. Arab.-Islam. Wiss. 3 (1986), 7-43.
+G Simon, L''Optique' d'ibn al-Haytham et la tradition ptoléméenne, Arabic Sci. Philos. 2 (2) (1992), 203-235.
+J D Smith, The remarkable Ibn al-Haytham, Mathematical Gazette 76 (1992), 189-198. 50 K Stiegler, Ibn al Haythams Entdeckung der sphärischen longitudinalen Aberration, Physis-Riv. Internaz. Storia Sci. 13 (1) (1971), 5-12.
+G de Young, Ibn al-Sari on ex aequali ratios : his critique of ibn al-Haytham and his attempt to improve the parallelism between books V and VII of Euclid's 'Elements', Z. Gesch. Arab.-Islam. Wiss. 9 (1994), 99-152.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Ibn al-Haytham:
+
+See Ibn al-Haytham on a timeline
+Wilson's theorem
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Ibn al-Haytham:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+MathWorld (More about Alhazen's problem)
+MathSciNet Author profile
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Ibn al-Haytham
+
+Lunar features Crater Alhazen
+Popular biographies list Number 33
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: Light through the ages: Ancient Greece to Maxwell
+History Topics: Mathematics and art - perspective
+History Topics: Perfect numbers
+History Topics: Squaring the circle
+Other: 2009 Most popular biographies
+Other: Jeff Miller's postage stamps
+Other: Most popular biographies
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

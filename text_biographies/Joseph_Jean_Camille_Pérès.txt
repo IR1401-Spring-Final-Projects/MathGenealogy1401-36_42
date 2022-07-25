@@ -1,0 +1,176 @@
+
+
+
+Joseph Jean Camille Pérès
+
+
+
+
+
+Quick Info
+Born
+
+      31 October 1890
+      
+
+        Clermont-Ferrand, France
+        
+
+Died
+
+      12 February 1962
+      
+      Paris, France
+    
+
+Summary
+Joseph Pérès was a French mathematician who worked in rational mechanics. He was one of the founders of IHES.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Joseph Pérès was the son of the famous philosopher Jean Pérès who had studied at the École Normale Supérieure and was a professor of philosophy at the Lycée in Grenoble. Jean Pérès was the author of the book L'Art et le Réel, Essai de méta-physique fondée sur l'esthétique Ⓣ(Art and the Real, Essay on meta-physics  based on aesthetics) (1898) and of several papers on philosophy. In 1906 Joseph entered the special class in mathematics at the Lycée in Caen, the school where his father was at that time professor of philosophy. After one year of preparation at this Lycée, Joseph sat the entrance examinations for the École Normale Supérieure and the École Polytechnique. He was offered a place at both prestigious institutions so then had to make a decision which to accept.
+
+
+Joseph, like his father, chose to study at the École Normale Supérieure in Paris, entering in 1908 and graduating three years later. At the École Normale Supérieure, the professors who had the most influence on Pérès were Ernest Vessiot, Émile Borel and Jacques Hadamard. In his thesis he thanks these professors:-
+... to whom I owe so much, and who have constantly shown me the most affectionate kindness.
+Henri Villat writes [13]:-
+Strangely enough, he obtained, at his entrance, and then at his exit from the École Normale, the same rank which had been mine a few years before, a coincidence which obviously the calculus of probabilities rates as highly unlikely.
+Pérès graduated with his agrégé in mathematics in 1911 and was awarded a scholarship to support him while he undertook research for his doctorate. Émile Borel introduced him to Vito Volterra when Volterra made one of his many journeys to France to promote scientific collaboration. Pérès went to Italy to work for his doctorate under Volterra and he expresses his thanks to Volterra in a dedication in his thesis:-
+This thesis is a contribution to the study of the permutable functions which M Volterra has introduced into Science. It was he who guided me at the beginning of my researches, and he who then encouraged me to pursue them; with him I found the most cordial reception at the University of Rome. May I be permitted, by dedicating this Memoir to him, to express my respectful gratitude for the extreme goodness with which he has given me so many proofs.
+It was during this period, when he was completing work on his thesis, that Pérès married the daughter of Léon Robin (1866-1947), who was an historian of ancient philosophy and a leading expert on Plato. Léon Robin was a professor of philosophy at the Sorbonne. After Pérès returned to France from Italy, he taught at the Lycée at Montpellier and he was there when he submitted his thesis Sur les fonctions permutable do Volterra Ⓣ(On the permutable functions of Volterra)  on 30 January 1915 to the Faculty of Sciences in Paris for the degree of Doctor of Mathematical Sciences. The thesis was seen and approved by Paul Appell, the Dean of the Faculty of Sciences, and sent for printing. Pérès was examined in May 1915 by three examiners, Émile Borel (President), Ernest Vessiot and Jacques Hadamard. Let us quote from Pérès's Conclusions at the end of his thesis:-
+All the equations studied above belong to the general class of equations which can be formed from unknown functions and known functions by additions and compositions. We have developed two principal methods for solving them: the first consists in reducing them to a solvable equation by successive approximations, the reduction being entirely realized (Chapter I, equations of paragraphs I and II), or obtaining by derivation [Volterra equation of the first kind, equation (e) of Chapter III] and by change of unknown (Chapter II). The second method is to find the solution in the form
+∑(y−x)pΠp(x)\sum  (y - x) ^{p} \Pi _{p} (x)∑(y−x)pΠp​(x)
+The methods of this Chapter (Chapter IV) belong to this second type.
+Pérès and his wife had a son Léon Joseph Jean Marie Pérès (1915-1998) who was born in Montpellier while Pérès was teaching at the Lycée there. Pérès taught at Montpellier until 1919, then at Toulouse from 1919 to 1920. He became an assistant lecturer at Strasbourg (1920-21) before being appointed Professor of Rational and Applied Mechanics at Marseilles in 1921. It was during his time in Strasbourg that the direction of his research began to change and he began to be interested in applied mathematics problems in addition to the topics that he had studied for his doctorate but he never completely abandoned his original topic. For example he published Le parallélisme de M Levi-Civita et la courbure riemannienne Ⓣ(The parallelism of  Levi-Civita and the Riemann curve) in 1919 and À propos de la notion de parallélisme dans une variété quelconque Ⓣ(Concerning the notion of parallelism in any variety) in 1920. After his appointment to Marseilles he published papers on impact such as Choc entenant compte du frottement Ⓣ(Impact taking friction into account) (1923) and Choc de deux solides avec frottement Ⓣ(Impact of two solids with friction) (1923). Another of his papers on impact was Note sur le choc en tenant compte du frottement de glissement Ⓣ(Note on impact taking into account the sliding friction) (1924) written jointly with Étienne Marie Eléonor Delassus. Delassus, born on 25 March 1868 in Amiens, Somme, had studied at the École Normale Supérieure (class of 1888), was awarded a doctorate in Mathematical Sciences from Paris in 1895, and had been appointed professor at the Faculty of Sciences at Bordeaux in 1913.
+
+
+Costabel writes that with his work on impact with friction [1]:-
+... [Pérès] achieved one of the last great successes of rational mechanics. The gift for theoretical speculation manifested in these investigations remained the mainspring of his work and of his influence, and the fruitfulness of both is explained by his openness to new ideas.
+For a list of publications by Pérès, see THIS LINK.
+
+
+It was at Marseilles that Pérès's son, Jean-Marie Pérès, attended the Lycée Thiers and the Lycée Saint-Charles. In  1931, at the age of sixteen, he received baccalaureates in mathematics and philosophy. Wishing to follow his father and grandfather, for two consecutive years he sat the entrance examination for the École Normale Superieure. However, he did not perform well enough to be offered a place. Despite this setback, Jean-Marie Pérès went on to become an outstanding zoologist and marine ecologist.
+
+
+At Marseilles, Pérès founded an institute of fluid mechanics in 1930. Pierre Perrier writes [11]:-
+Pérès received funding to open a laboratory for research in aerodynamics at the request of the French Defense Ministry. The Ministry wanted to increase research in aeronautics by creating a network of institutes for fluid mechanics, the first in Paris and the second in Marseille. In addition to experimental work on propeller blades in the new low-turbulence wind tunnel facility, Pérès hoped to extend to three dimensions the analog voltage and current equivalent measurements that are analogous to speed voltages in incompressible fluids surrounding subsonic aircraft in motion.
+However, he only remained at Marseilles for two years after this before he was offered a chair at the Sorbonne where he was appointed director of the Institute of Fluid Mechanics. At Marseilles he had taught an extremely talented young student Lucien Clément Malavard (7 October 1910 - 2 March 1990). Malavard was awarded a Master's Degree from the University of Marseille in 1930 and then started research for a PhD supervised by Pérès. When Pérès moved to Paris in 1932, Malavard moved with him and in 1934 was awarded a diploma in aeronautical engineering. They began publishing joint papers in 1932, for example their joint papers Sur les analogies électrique en hydrodynamique Ⓣ(On the electrical analogies in hydrodynamics) (1932), Tracé des lignes de courant dans l'écoulement d'Oseen autour d'un cercle Ⓣ(Drawing lines of current in the flow of Oseen around a circle) (1932), Application de la méthode électrique à un problème concernant láile d'envergure finie Ⓣ(Application of the electrical method to a problem concerning finite wingspan) (1932), and Sur un problème concernant la théorie de l'aile d'envergure finie Ⓣ(On a problem concerning  the theory of a wing of finite span) (1932) were all published in that year.
+
+
+For later joint papers of Pérès and Malavard see THIS LINK.
+
+
+At the Sorbonne he balanced his career between teaching and research being active in both while at the same time taking on some major administrative roles such as Dean of the Faculty of Science in Paris from 1954 to 1961. However, he also taught at other major institutions: the École Polytechnique, the École Centrale, the École Aéronautique, the École Normale de Sèvres, and the École des Beaux-Arts.
+
+
+On the research front he [11]:-
+... set out to build lift load distribution tables (cord and wing-tip) to provide data for structural calculations for new aircraft and thereby optimize their performance. This was achieved in the late 1930s ...
+For his research contributions he was awarded prizes from the Académie des Sciences in 1932, again in 1938 and for yet a third time in 1940. Two years after he received this third of these prizes he was elected to membership of the Académie des Sciences. He also [1]:-
+... fulfilled extensive responsibilities in several major national and international research organizations, notably the Centre National de la Recherche Scientifique and the International Committee of Scientific Unions.
+Pérès' work on analysis and mechanics was always influenced by Volterra, extending results of Volterra's on integral equations. His work in this area is now of relatively little importance since perhaps even for its day it was somewhat old fashioned. A joint collaboration between Pérès and Volterra led to the first volume of Theorie generale des fonctionnelles Ⓣ(General theory of functionals) published in 1936. Although the project was intended to lead to further volumes only this one was ever published. This work is discussed in [9] where the author points out that the book belongs to an older tradition, being based on ideas introduced by Volterra himself from 1887 onwards. By the time the work was published the ideas it contained were no longer in the mainstream of development of functional analysis since topological and algebraic concepts introduced by Banach, von Neumann, Stone and others were determining the direction of the subject.
+
+
+Pérès's other books are Les sciences exactes Ⓣ(The exact sciences) (1930), Cours de mécanique des fluides Ⓣ(Course of fluid mechanics) (1936); (with Lucien Malavard and Lucien Romani)Tables numériques pour le calcul de la répartition des charges aérodynamiques suivant l'envergure d'une aile Ⓣ(Numerical tables for the calculation of the distribution of aerodynamic loads according to the span of a wing) (1936), and Mécanique générale Ⓣ(Mechanical engineering) (1953). For extracts of reviews of these works see THIS LINK.
+
+
+Perhaps the first of these, Les sciences exactes Ⓣ(The exact sciences) (1930), is the most surprising for it is a work on the history of mathematics. Although only a short text of less than 200 pages, it covers the history of the subject up to the first decades of the 20th century. After looking at the mathematics transmitted to Europe in the 15th century, Pérès then looks at progress made up to the time of Isaac Newton. The next chapter considers the period from Newton to Euler, followed by a chapter covering the period from 1780 to 1860 where Pérès looks at the contributions of Lagrange, Laplace, Legendre, Cauchy, Galois, Gauss, Jacobi, Riemann, and Weierstrass. The final chapter considers the period 1860 up to the 1920s when the text was written. We have said that this historical work is surprising given the great range of other research topics which interested Pérès at this time. However, those who knew Pérès would not have found it surprising since he was a very firm believer that understanding the history of mathematics was a great asset in undertaking research on other mathematical topics.
+
+
+The analysis which Pérès and Volterra studied proved important in developing ideas of mathematical physics rather than making breakthroughs in analysis itself and Pérès made good use of it in his applications. He studied the dynamics of viscous fluids and the theory of vortices with applications to aeronautics in mind. Costabel writes in [1]:-
+To his scientific colleagues [Pérès] remained a circumspect theorist, animator, and promoter.
+In addition to election to the Paris Academy of Sciences in 1942, he was also elected to the Academies in Rome, in Turin and in Washington. His remarkable work on the history of mathematics saw him elected to the Académie internationale d'Histoire des Sciences in 1948. He was a founder committee member of the Histoire et de Philosophie des Sciences in 1956.
+
+
+Pérès died on 12 February 1962 at the age of 71. He had gone into hospital for a minor operation so it was a great shock to his friends and colleagues that he passed away. They gathered in the chapel of the Sorbonne on 16 February to pay tribute to a man who had made major contributions to mathematics and science, and had done outstanding work as dean for seven years. Henri Villat, who had been his teacher, colleague and friend, delivered 'Notice nécrologique sur Joseph Pérès' to the Paris Academy of Sciences on 26 February 1962. This eloge was published as [13].
+
+
+
+
+
+Other Mathematicians born in France
+
+A Poster of Joseph Pérès
+
+
+
+
+
+References (show)
+
+
+
+
+
+P Costabel, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+P Germain, Joseph Pérès et le renouveau de la mécanique en France (Académie des Sciences, Paris, 1977).
+Anon, Review: Les sciences exactes, by Joseph Pérès, Revue de Métaphysique et de Morale 38 (2) (1931), 4-5.
+Anon, Review: Les sciences exactes, by Joseph Pérès, Revue Philosophique de la France et de l'Étranger 112 (1931), 310.
+T A A Broadbent, Review: Mécanique Générale, by Joseph Pérès, The Mathematical Gazette 38 (326) (1954), 307-308.
+P Costabel, Joseph Jean Camille Pérès, Archives internationales d'histoire des sciences 15 (1962), 137-140.
+G C Evans, Review: Théorie Générale des Fonctionelles, by Vito Volterra and Joseph Peres, Science, New Series 88 (2286) (1938), 380-381.
+L G, Review: Les sciences exactes, by Joseph Pérès, Isis 15 (1) (1931), 188-190.
+A Guerraggio, The 'Théorie générale des fonctionnelles' of V Volterra and J Pérès (Italian), in Italian mathematics between the two world wars, Milan-Gargnano, 1986 (Bologna, 1987), 187-207.
+H B Heywood, Review: Leçons sur la composition et les fonctions permutables, by Vito Volterra and Joseph Pérès, The Mathematical Gazette 18 (227) (1934), 61.
+P C Perrier, Lucien C Malavard 1910-1990, The National Academies Press, National Academy of Sciences (2017). https://www.nap.edu/read/18959/chapter/36
+S R, Review: Les sciences exactes, by Joseph Pérès, Revue Archéologique (5) 31 (1930), 391.
+H Villat, Notice nécrologique sur Joseph Pérès (1890-1962), Comptes rendus hebdomadaires des séances de l'Académie des sciences 254 (1962), 1541-1545.
+F P W, Review: Leçons sur la composition et les fonctions permutables, by Vito Volterra and Joseph Pérès, Science Progress in the Twentieth Century (1919-1933) 21 (84) (1927), 711-713.
+M Zamansky, Hommage à J Pérès, Revue de l'enseignement supérieur 2 (1962), 95-97.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Joseph Pérès:
+
+Joseph Pérès publications
+Reviews of Joseph Pérès's books
+
+
+
+Other websites about Joseph Pérès:
+
+Dictionary of Scientific Biography
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Societies: French Mathematical Society
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update May 2017
+  
+
+

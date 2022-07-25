@@ -1,0 +1,136 @@
+
+
+
+Oliver Dimon Kellogg
+
+
+
+
+
+Quick Info
+Born
+
+      10 July 1878
+      
+
+        Linwood, Pennsylvania, USA
+        
+
+Died
+
+      26 July 1932
+      
+      Greenville, Maine, USA
+    
+
+Summary
+Oliver Kellogg was an American mathematician best known for his work on potential theory.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Oliver Kellogg's parents were Sarah Cornelia Hall and Day Otis Kellogg who, at the time of Oliver's birth, was an Episcopal priest. However Oliver's father was also an academic and he later left the priesthood to take up a professorship of English literature at the University of Kansas. Day Otis Kellogg was also important as the American editor of Encyclopaedia Britannica. Oliver studied as an undergraduate at Princeton University, entering in 1895. There he attended lectures by Fine who fired his interest in mathematics. After receiving his A.B. in 1899, Kellogg continued his studies for a Master's Degree at Princeton. He was awarded the Master's Degree in 1900 and received a John S Kennedy Fellowship to allow him to study in Europe.
+
+
+Kellogg spent the year 1900-01 at the University of Berlin, then moved to Göttingen where he spent 1901-02 working for his doctorate. He attended lectures by Hilbert who suggested he undertake research on the Dirichlet problem for plane regions bounded by a finite number of plane curves which met at points where the boundary was not differentiable. Fredholm had just published a major work on the Dirichlet problem but Fredholm's methods did not apply to the regions which Hilbert suggested Kellogg investigate.
+
+
+In 1902 Kellogg published his first paper giving a direct proof of Fredholm's inversion formula. In January of the following year he received his doctorate for his dissertation Zur Theorie der Integralgleichungen und des Dirichlet'schen Prinzips  on the Dirichlet problem but he remained in Germany to the end of the academic year, returning to the United States to take up the post of instructor in mathematics at Princeton. During these years he published two further papers which developed from the work of his thesis.
+
+
+However Kellogg soon became less than happy with these papers. Partly he had failed to answer the questions Hilbert had asked him to solve though this was understandable since they were much harder than Hilbert had realised. Secondly some of Kellogg's results were incomplete and others were incorrect. Again it is hard to criticise him too much over this since very similar errors were later made by both Hilbert and Poincaré.
+
+
+Kellogg was appointed to the University of Missouri in 1905 where, despite a heavy teaching and administrative load he was able to publish impressive papers on potential theory. In 1908 he published three papers, namely Potential functions on the boundary of their regions of definition  and Double distributions and the Dirichlet problem, both in the Transactions of the American Mathematical Society, and A necessary condition that all the roots of an algebraic equation be real  in the Annals of Mathematics.  In 1912 he published the important work Harmonic functions and Green's integral  in the Transactions of the American Mathematical Society. This paper includes what today is called 'Kellogg's theorem' on harmonic and Green's functions. He was promoted to professor at the University of Missouri in 1910 and, in the following year, he married Edith Taylor; they had one daughter.
+
+
+Although he would return to potential theory, Kellogg next published a number of papers on sets of real orthogonal functions. However his work was disrupted by World War I when he was assigned as scientific advisor to the United States Coast Guard Academy at New London, Connecticut. There he worked on mathematical problems which arose in the design of devices to detect submarines. At the end of the war he was appointed to Harvard University to replace Maxime Bôcher who died in September 1918. His first appointment to Harvard was as a lecturer but in 1920, the year following his appointment, he was promoted to associate professor, then to full professor in 1927.
+
+
+Kellogg published the paper Invariant points in function space  jointly with G D Birkhoff in 1922. This contains the Birkhoff-Kellogg Theorem which generalises the Brouwer fixed point theorem. Kellogg published the classic text Foundations of potential theory  in 1929 (it was reprinted in 1967). Zund writes:-
+Accessible to both advanced undergraduates and beginning graduate students, it was noteworthy for its rigour and felicitous style. While not specifically mentioned, many of the proofs in the volume - even of well-known results - are original and due to Kellogg himself. This volume also includes the first statement of the celebrated Kellogg-Evans Lemma (proven in generality by Griffith C Evans in 1933).
+In addition to his work on potential theory and orthogonal set of functions he published a short paper on the problem of the maximum value ana_{n}an​ of a positive integer belonging to a set of nnn positive integers whose reciprocals add to 1. In fact the answer is given by
+an+1=an(an+1)a_{n+1} = a_{n}(a_{n} + 1)an+1​=an​(an​+1)  where a1=1a_{1} = 1a1​=1.
+Kellogg also wrote a number of papers on the existence of certain sets of functions in analysis as well as generalisations of polynomials due to Sergei Bernstein.
+
+
+He wrote a number of articles on the teaching of mechanics, and published a textbook, written jointly with Hedrick, Applications of the calculus to mechanics (1909). He published Some properties of spherical curves, with applications to the gyroscope  in  the Transactions of the American Mathematical Society in 1923.
+
+
+Kellogg continued to work at Harvard until his death which resulted from a heart attack which he suffered while climbing near Greenville, Maine.
+
+
+Birkhoff writes in [1]:-
+His quick, generous nature and unusual charm of personality were united with a versatile and original mind. The full story of Kellogg's many successful efforts to help others would be an extraordinary one ... in order to judge his mathematical achievements, it is necessary not only to consider his published work but to take into account his modesty and his readiness to share his nascent ideas with others.
+At the time of his death he was working on an advanced volume to supplement Foundations of potential theory.  After his death Converses of Gauss' theorem on the arithmetic mean  was published in the Transactions of the American Mathematical Society.
+
+
+
+
+
+Other Mathematicians born in USA
+
+A Poster of Oliver Kellogg
+
+
+
+
+
+References (show)
+
+
+
+
+
+G D Birkhoff, Oliver Dimon Kellogg - in memoriam, Bull. Amer. Math. Soc. 39 (37) (1933), 171-177.
+Obituary : Oliver Dimon Kellogg, Boston Evening Transcript (29 August 1932).
+J D Zund, Oliver Dimon Kellogg, American National Biography 12 (Oxford, 1999), 503-504.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Oliver Kellogg:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update August 2005
+  
+
+

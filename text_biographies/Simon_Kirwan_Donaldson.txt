@@ -1,0 +1,167 @@
+
+
+
+Simon Kirwan Donaldson
+
+
+
+
+
+Quick Info
+Born
+
+      20 August 1957
+      
+
+        Cambridge, England
+        
+
+
+Summary
+Simon Donaldson is an English mathematician who received a Fields Medal for his work on 4 dimensional manifolds.
+
+
+
+
+
+    View five larger pictures
+
+
+
+
+
+Biography
+Simon Donaldson's secondary school education was at Sevenoaks School in Kent which he attended from 1970 to 1975. He then entered Pembroke College, Cambridge where he studied until 1980, receiving his B.A. in 1979. One of his tutors at Cambridge described him as a very good student but certainly not the top student in his year.
+
+
+In 1980 Donaldson began postgraduate work at Worcester College, Oxford, first under Nigel Hitchen's supervision and later under Atiyah's supervision. Atiyah writes in [2]:-
+In 1982, when he was a second-year graduate student, Simon Donaldson proved a result that stunned the mathematical world.
+This result was published by Donaldson in a paper Self-dual connections and the topology of smooth 4-manifolds which appeared in the Bulletin of the American Mathematical Society in 1983. Atiyah continues his description of Donaldson's work [2]:-
+Together with the important work of Michael Freedman ..., Donaldson's result implied that there are "exotic" 4-spaces, i.e. 4-dimensional differentiable manifolds which are topologically but not differentiably equivalent to the standard Euclidean 4-space R4\mathbb{R}^{4}R4. What makes this result so surprising is that n=4n = 4n=4 is the only value for which such exotic nnn-spaces exist. These exotic 4-spaces have the remarkable property that (unlike R4\mathbb{R}^{4}R4) they contain compact sets which cannot be contained inside any differentiably embedded 3-sphere !
+After being awarded his doctorate from Oxford in 1983, Donaldson was appointed a Junior Research Fellow at All Souls College, Oxford. He spent the academic year 1983-84 at the Institute for Advanced Study at Princeton. After returning to Oxford he was appointed Wallis Professor of Mathematics in 1985, before moving to Imperial College, London in 1999.
+
+
+Donaldson has received many honours for his work. He received the Junior Whitehead Prize from the London Mathematical Society in 1985. In the following year he was elected a Fellow of the Royal Society and, also in 1986, he received a Fields Medal at the International Congress at Berkeley. In 1991 Donaldson received the  William Hopkins Prize from the Cambridge Philosophical Society  and, the following year, the Royal Medal from the Royal Society. He was awarded the London Mathematical Society's Polya prize in 1999 and more recently, the 2006 King Faisal Prize. He also received the Crafoord Prize from the Royal Swedish Academy of Sciences in 1994:-
+... for his fundamental investigations in four-dimensional geometry through application of instantons, in particular his discovery of new differential invariants ...
+Atiyah describes the contribution which led to Donaldson's award of a Fields Medal in [2]. He sums up Donaldson's contribution:-
+When Donaldson produced his first few results on 4-manifolds, the ideas were so new and foreign to geometers and topologists that they merely gazed in bewildered admiration. Slowly the message has gotten across and now Donaldson's ideas are beginning to be used by others in a variety of ways. ... Donaldson has opened up an entirely new area; unexpected and mysterious phenomena about the geometry of 4-dimensions have been discovered. Moreover the methods are new and extremely subtle, using difficult nonlinear partial differential equations. On the other hand, this theory is firmly in the mainstream of mathematics, having intimate links with the past, incorporating ideas from theoretical physics, and tying in beautifully with algebraic geometry.
+The article [3] is very interesting and provides both a collection of reminiscences by Donaldson on how he came to make his major discoveries while a graduate student at Oxford and also a survey of areas which he has worked on in recent years. Donaldson writes in [3] that nearly all his work has all come under the headings:-
+(1) Differential geometry of holomorphic vector bundles.
+
+(2) Applications of gauge theory to 4-manifold topology.
+and he relates his contribution to that of many others in the field.
+
+
+Donaldson's work in summed up by R Stern in [6]:-
+In 1982 Simon Donaldson began a rich geometrical journey that is leading us to an exciting conclusion to this century. He has created an entirely new and exciting area of research through which much of mathematics passes and which continues to yield mysterious and unexpected phenomena about the topology and geometry of smooth 4-manifolds.
+Donaldson was elected to the National Academy of Sciences in 2000. In February 2006 he was awarded the King Faisal International Prize for science for:-
+... seminal contributions to theories which have strengthened the links between mathematics and physics, and helped provide a rigorous foundation for physical theories giving a very good description of the laws of matter at the sub-nuclear level.
+In April 2008, he was awarded the Frederic Esser Nemmers Prize in Mathematics from Northwestern University. The Prize was given for his:-
+... groundbreaking work in four-dimensional topology, symplectic geometry and gauge theory, and for his remarkable use of ideas from physics to advance pure mathematics.
+John Franks, the Chair of Mathematics at Northwestern University, gave more details of Donaldson's contributions which led to the award:-
+Donaldson's breakthrough work developed new techniques in the geometry of four-manifolds and the study of their smooth structures. His methods have been described as extremely subtle, using difficult nonlinear partial differential equations.  Using instantons, solutions to the equations of Yang-Mills gauge theory, he gained important insight into the structure of closed four-manifolds. Gauge theory techniques also enabled him to show the existence of four-manifolds with no smooth structure and others with infinitely many. His work has provided the seminal steps for the work of others in study of four-manifolds.
+In 2009 Donaldson, together with Clifford H Taubes, was awarded the Shaw Prize in Mathematical Sciences. The Committee who made the award wrote that Donaldson and Taubes:-
+... are the two geometers who have transformed the whole subject by pioneering techniques and ideas originating in theoretical physics, including quantum theory [and] have totally changed our geometrical understanding of space and time.
+Donaldson was knighted in 2012.
+
+
+
+
+
+Other Mathematicians born in England
+
+A Poster of Simon Donaldson
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Simon-Kirwan-Donaldson
+M Atiyah, On the work of Simon Donaldson, Proceedings of the International Congress of Mathematicians, Berkeley, 1986 1 (Providence, RI, 1987), 3-6.
+S Donaldson, Remarks on gauge theory, complex geometry and 4-manifold topology, in M Atiyah and D Iagolnitzer (eds.), Fields Medallists Lectures (Singapore, 1997), 384-403.
+M Furuta, The contributions of Simon Kirwan Donaldson (Japanese), Sugaku 39 (1) (1987), 16-25.
+J Mi, The work of mathematicians awarded the Fields Medal in 1983 and 1986 (Chinese), J. Northwest Univ. 19 (1) (1989), 103-104.
+R Stern, and G Tian, Donaldson and Yau receive Crafoord prize, Notices Amer. Math. Soc. 41 (7) (1994), 794-796.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Simon Donaldson:
+
+Miller's postage stamps
+
+
+
+Other websites about Simon Donaldson:
+
+Home page
+Encyclopaedia Britannica
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to Simon Donaldson
+
+Lecturer at the EMS
+Bowen Lecturer 1997-98
+LMS Whitehead Prize 1984
+BMC morning speaker 1986
+Speaker at International Congress 1986
+Fields Medal 1986
+Fellow of the Royal Society 1986
+Royal Society Royal Medal winner 1992
+LMS Pólya Prize 1999
+BMC plenary speaker 2000
+Shaw Prize 2009
+Wolf Prize 2020
+International Congress Speaker 2018
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: 1986 ICM - Berkeley
+Other: Edinburgh Mathematical Society Lecturers 1883- 2021
+Other: Jeff Miller's postage stamps
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update September 2009
+  
+
+

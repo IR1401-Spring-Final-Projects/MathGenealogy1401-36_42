@@ -1,0 +1,116 @@
+
+
+
+Henri Georges Garnir
+
+
+
+
+
+Quick Info
+Born
+
+      13 September 1921
+      
+
+        Jemeppe sur Meuse, near Liège, Belgium
+        
+
+Died
+
+      18 November 1985
+      
+      Liège, Belgium
+    
+
+Summary
+Henri Garnir was a Belgian mathematician whose fields of research were broad, including algebra and mathematical analysis.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Henri Garnir was born in Jemeppe sur Meuse. This town was one of four, the others being Seraing, Ougrée and Boncelles, which in 1977 merged into the single town of Seraing. The community of four towns were all situated within 5 to 15 km of Liège. It was in Seraing that Garnir attended high school. He studied at the Athénée Royal, on the edge of the town of Seraing, and he graduated in 1939 with a special prize for his achievements in mathematics. He entered the University of Liège in 1939 but in May 1940 the German armies invaded Belgium and quickly took control of the country. For the rest of his undergraduate studies at Liège the country was under German occupation. Garnir obtained his bachelor's degree in physical science in 1943 and a bachelor's degree in mathematical science in the following year. Florent J Bureau supervised Garnir's studies for this mathematics degree and he continued to supervise Garnir's doctoral studies, most of which were carried out after Belgium had been freed by the Allies. In 1946 he was awarded his doctorate for his thesis Sur les matrices hermitiennes apparaissant dans la théorie du méson Ⓣ(On Hermitian matrices appearing in the theory of mesons). He had been appointed as an assistant in rational mechanics at the University of Liège in 1945.
+
+
+Garnir published a number of papers relating to his research during this period. In Sur la théorie de la lumière de M L de Broglie Ⓣ(On de Broglie's theory of light) (1945) he compared the approach by Kemmer to the theory of the meson to de Broglie's modifications of Maxwell's equations. In 1946 Garnir published four articles: Sur la détermination des matrices satisfaisant à un système de relations de la théorie du méson Ⓣ(On the determination of matrices satisfying a system of relations in the theory of mesons); (with J Toussaint) Sur la théorie des valences dirigées Ⓣ(On the theory of directed valences); and the two-part article Une question de théorie des groupes et son application à un problème de vibrations posé par la chimie théorique Ⓣ(Group theory and its application to a vibration problem posed by theoretical chemistry). In the first part of this article, representations of certain finite groups of two and three rowed matrices are analyzed while the second part discusses the way that such representations arise in the theory of vibrations. Special attention is given to molecular structure.
+
+
+In 1948 Garnir married Noëlly Pierre who was a school teacher; they had two children, Dominique (who became a medical doctor) and Henri-Pierre (who became a university lecturer in physics). In year following his marriage, Garnir spent four months undertaking research in Paris. Then in 1950 he spent time at Nancy with Jean Delsarte, Jean Dieudonné and Laurent Schwartz. His research during this period involved the representation theory of the symmetric and alternating groups and he published the 100-page paper Théorie de la représentation linéaire des groupes symétrique Ⓣ(Theory of linear representations of symmetric groups) in 1950 and the 22-page paper Théorie de la représentation linéaire des groupes alternés Ⓣ(Theory of linear representations alternate groups) in the following year. For this work he was awarded his Agrégé de l'Enseignement Supérieur in 1951. This degree is similar to the German habilitation and confers the right to lecture in universities. Garnir was made Chef de travaux at Liège in 1950.
+
+
+The authors of [1] begin their detailed discussion of Garnir's mathematical contribution by giving the following overview:-
+His fields of research were broad, including algebra and mathematical analysis, in particular the very active field of functional analysis, and the still booming area of partial differential equations, especially boundary value problems. Apart from his seven books, there are some fifty research papers (that appeared in at least twenty-two different Journals or Conference Proceedings in fourteen countries), three memoirs (ranging from 23 to 101 pages), at least thirty-three seminar reports or mimeographed lecture notes (totalling 3,500 pages), plus six published Conference Proceedings (about 1,700 pages). ... His entire work reveals that he was a particular kind of analyst - one who derived his original experience from, and sought his goals in, the physical sciences. Even his most theoretical researches had a physical background or goal. This was perhaps one of the reasons for his great strength as a mathematician.
+As the above quote indicates, Garnir's research interests did not remain in the area of applications of group theory. We have indicated some of his contributions up to 1951 and this is precisely the period in which his interests were mainly in algebra. His interest in matrices led him to work with linear algebraic inequalities which he applied to linear programming and game theory. He worked on distribution theory, publishing an important paper Sur la transformation de Laplace des distributions Ⓣ(On the Laplace transform of distributions) (1952). In this paper he initiated the study of Laplace transformations in distribution theory. Garnir's research in this area had been strongly influenced by his visit to Laurent Schwartz in Paris. He also became interested in several different areas of analysis such as functional analysis, particularly the theory of locally convex spaces, and Hilbert space theory with works such as Espaces de Hilbert et problèmes aux limites de la physique Ⓣ(Hilbert spaces and boundary value problems of physics) (1956). Another of his interests was in the theory of boundary value problems for partial differential equations. In particular, he studied Green's functions as solutions to boundary value problems for the wave and diffusion equations. He also looked at such boundary value problems in the context of distribution theory. In the later part of his career, Garnir became interested in the propagation of singularities of solutions of boundary value problems for evolution partial differential equations.
+
+
+Mention of the later part of Garnir's career means that we should indicate how his career developed at the University of Liège. In 1955 he became Agrégé de Faculté and three years later Chargé de cours for those students taking mathematical, physical and engineering science. He was appointed to the Chair of Mathematical Analysis and Algebra at Liège in 1960 and held this position until his death in 1985. We should also give details some of the seven books he wrote (referred to in the above quotation). The first was Les problèmes aux limites de la physique mathématique. Introduction à leur étude générale Ⓣ(The boundary problems of mathematical physics. Introduction to their general study) (1958). A N Milgram begins a review as follows:-
+In recent years the use of such tools as operators in Hilbert and Banach spaces, the theory of distributions and other methods of functional analysis has become commonplace in investigations of problems in partial differential equations. Despite the very wide literature in this field there are but few books dealing with the subject from this point of view. The present book is designed to help fill this gap.
+He published the two-volume book Fonctions de variables réelles Ⓣ(Functions of real variables) (volume 1 in 1963, volume 2 in 1965). The first volume is designed for a first university course in mathematical analysis. Reviewing volume 2, W H Fleming writes:-
+This book, taken together with Volume I, amounts to a rather complete 'cours d'analyse' in a modern vein. On the other hand, by a sound choice of topics and a wealth of good exercises, the classical tradition is not lost.
+With M De Wilde and J Schmets, Garnir published the three-volume text Analyse fonctionnelle Ⓣ(Functional Analysis). The first volume (published in 1968) studies a constructive theory of seminormed linear spaces, the second volume (published in 1972) is concerned with a constructive theory of linear topological vector spaces. The final volume (published in 1973) gives a functional analytic treatment of a number of classes of special spaces of functions encountered in applications. The use of the words 'constructive theory' should be explained. By this the authors indicate that all three volumes present functional analysis that can be developed without the use of the axiom of choice.
+
+
+As to Garnir's character, the authors of [1] write:-
+Garnir was an enthusiastically enterprising person. His dynamism, intelligently tempered by true kindness, permitted him to overcome the slowness and reticence sometimes encountered in university life. He communicated a great joy of life. It was a pleasure to sit at his table during a conference and to listen to him telling about his trips or episodes from university life; his kind cheerfulness was truly radiant. He was a man of exceptional pedagogical talents. His students were stimulated by his exemplary attitude, his scientific curiosity, the new paths of his research and the intensity of his work. He devoted his time and his experience to his students but also offered his friendship. He was attached to them and they to him. Essentially, Garnir was a man whose charisma, stability and true goodness were immensely beneficial to all who had the luck to have known him.
+Garnir was in good health and in the middle of many mathematical projects when he was struck by a heart attack from which he died. At the time, he was preparing several papers for publication and had begun writing two further books.
+
+
+Finally let we quote from [1] regarding Garnir's founding a Centre of Functional Analysis at Liège:-
+In 1964, Garnir consolidated his school at Liege by the establishment of a 'Centre of Functional Analysis of Liege' under his management and supervision .... At this Centre, at the time of his death, there were four professors, four 'chefs de travaux', three premier assistants and four assistants, as well as some five other collaborators. In early 1973, when the Centre was not even nine years old and adequate financial support was not forthcoming, opinions concerning the reputation of the Centre and its research achievements were requested from many mathematicians throughout the world. Already then some fifty mathematicians generally recognised that the Centre was Belgium's best known and most reputed centre of research in mathematics. Some of them noted that the only other comparable centre in Europe was the functional analysis group at the Polish Academy of Sciences at Warsaw. Others regarded the Centre as one of the best in the world in regard to functional analysis and its applications, because of its many expert members, both very young and older, of its team work on a large scale, and of its exceptionally many, highly qualified visitors who spent a few days or longer periods at the Centre. Thus from its very beginning it was a Centre of international cooperation in the broad realms of functional analysis and partial differential equations. Several hundred foreign mathematicians must have visited and/or lectured at Liege from 1960 onwards.
+
+
+
+
+
+Other Mathematicians born in Belgium
+
+A Poster of Henri Garnir
+
+
+
+
+
+References (show)
+
+
+
+
+
+P L Butzer and J Vaillant, Obituary: Henri Georges Garnir, Bull. London Math. Soc. 19 (6) (1987), 609-622.
+Henri Garnir, 1921-1985 (French), Bull. Soc. Roy. Sci. Liège 54 (6) (1985), 285-286.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Henri Garnir:
+
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 2010
+  
+
+

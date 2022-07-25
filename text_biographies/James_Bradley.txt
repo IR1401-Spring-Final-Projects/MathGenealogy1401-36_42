@@ -1,0 +1,281 @@
+
+
+
+James Bradley
+
+
+
+
+
+Quick Info
+Born
+
+      March 1693
+      
+
+        Sherborne, Gloucestershire, England
+        
+
+Died
+
+      13 July 1762
+      
+      Chalford, Gloucestershire, England
+    
+
+Summary
+James Bradley was an English astronomer best known for his discovery of the aberration of light and of the nutation of the earth's axis.
+
+
+
+
+
+    View four larger pictures
+
+
+
+
+
+Biography
+English astronomer and priest, James Bradley was the third son of William Bradley (born 1640) and Jane Pound (born 1656), who had married in 1678. Born in March 1693 and baptised on 3 October the same year, both in Sherborne, Gloucestershire, James attended Westwood's Grammar School at Northleach, before attending Balliol College, Oxford, where he was admitted as a commoner, that is a student who does not have a scholarship. He received his BA in October 1714 and his MA in June 1717. Following this he began a career in the church.
+
+
+He was ordained deacon on 24 May 1719, and in July of that year, after being ordained a priest, became vicar of Bridstow in Monmouthshire, South-East Wales. However, James's career with the church was not to be long-lived. He resigned as a clergyman on 31 October 1721 when he was appointed Savilian Professor of Astronomy in the University of Oxford. He was later offered the chance to return to the church and take over at the parish of Greenwich, but he rejected the offer, opting instead to devote himself to astronomy and continue at the Greenwich observatory, where he was located at the time.
+
+
+The most significant of Bradley's early years, when considering his later career in astronomy, were those spent in contact with his maternal uncle, the Reverend James Pound, a leading astronomical observer in England, who had worked with Edmond Halley and Sir Isaac Newton. It was through this uncle that James would meet Halley.
+
+
+By 1715, James Bradley had joined his uncle James Pound in carrying out astronomical observations. Pound provided Bradley with occasional financial assistance, and is credited with influencing Bradley's interests towards astronomy. Despite Pound's death in November 1724, Bradley continued to use his uncle's observatory at Wansted. Though no will was left, Bradley maintained his usage of the same instruments, and residence with Pound's widow.
+
+
+Having previously written to the Royal Society in March 1716 about the aurora, two of Bradley's observations were published by Halley in 1718 in the Philosophical Transactions of the Royal Society. Halley praised Bradley's abilities and, in November 1718, Bradley was elected a fellow of the Royal Society on Halley's recommendation.
+
+
+Appointed Savilian Professor of Astronomy in the University of Oxford in 1721, giving his inaugural lecture on 26 April 1722, he showed a great interest in the motions of Jupiter's satellites. Comparing his own observations from London of the eclipses of the four main satellites (the Galilean moons Io, Europa, Ganymede and Callisto) with those made from New York and Lisbon, and observing the differences in the times of disappearance and reappearance of each as it passed behind Jupiter, he was able to deduce the differences in longitude between the three observation locations. In 1726, he reported these results to the Royal Society.
+
+
+It was during this programme of observations that he noted the different paths that each satellite followed. He thus set out to improve the tables of the satellites' motions, and to understand these differences in motion. Continuing into the 1730s, he proposed a formula for the relationship between the motions of the four satellites based on their mutual gravitational attraction.
+
+
+Bradley was best known for two important discoveries in astronomy: the aberration of light and the nutation of the Earth's axis. The aberration of light is an astronomical phenomenon which produces an apparent motion of celestial bodies about their true positions, dependent on the velocity of the observer. Nutation is a phenomenon which causes the orientation of the axis of rotation of a spinning astronomical body to vary over time. It is caused by the gravitational forces of nearby bodies acting upon the spinning body. A difference is made between nutation (short-term variations in the axis of rotation) and precession (long-term variations).
+
+
+As a friend of Samuel Molyneux, who was interested in measuring the annual parallax of stars, from which it would be possible to calculate the distances to the nearest stars, Bradley was invited by Molyneux in December 1725 to his estate at Kew, a district of London, to assist him in observing the star Gamma Draconis, specifically, attempting to determine its annual parallax.
+
+
+Gamma Draconis was specifically chosen since it crosses the meridian almost overhead, thus allowing observers to ignore any problems caused by refraction of light through the earth's atmosphere. According to theory, the star would culminate at its most southerly point in December, with its point of culmination shifting northwards every day to its most northerly point in June, returning over the following six months.
+
+
+What was actually observed however was that after December, Gamma Draconis continued to culminate at more southerly points, reaching its most southerly point in March, rather than December, and its most northerly point in September, rather than in June. The overall change in position over the six months was about a one hundredth of a degree.
+
+
+Bradley thus, from August 1727, in an attempt to explain the cause of this movement, decided to observe a number of stars over the year. He found that they each displayed a similar motion.
+
+
+While sailing the Thames, he noticed how a vane atop the mast changed direction as the boat turned, despite the fact that the wind remained blowing in the same direction. Bradley suggested that analogously, the apparent shift in the position observed in the stars was a result of of a combination of the transmission of light at a finite speed from the star and the annual movement of the Earth around the Sun. This is what is known as the aberration of light. The letter from Bradley to Halley referencing this phenomenon was read to the Royal Society in January 1729.
+
+
+From his observations, he was able to calculate the speed of light, claiming that light from the Sun took 8 minutes 12 seconds to reach the Earth (today, we make it 8 minutes 20 seconds). He also concluded that the calculation of the annual parallax that he and Molyneux had set out to discover was beyond the accuracy of the instruments available. Thus, the distance to the nearest stars must be even greater than had previously been thought.
+
+
+He took on the added role of lecturer in experimental philosophy at Oxford in 1729, lecturing in the Ashmolean Museum. For over thirty years he gave these lectures to an average audience size of more than fifty students.
+
+
+He worked also on studying Saturn. During a time when Saturn's rings were edge-on to the Earth and thus invisible, he observed the reappearance of the rings in 1730, his record of which are the only ones to have survived from that date.
+
+
+The year 1732 saw Bradley move to Oxford to occupy a house in New College Lane, to which his professorship entitled him. His aunt, widow of James Pound, stayed with him until her death in 1737. Many of the astronomical instruments from Pound's house in Wansted were also moved. A notable exception was the Graham zenith sector, which remained. Bradley made frequent return visits to Wansted to use it. This is where he continued his work that led to the discovery of nutation.
+
+
+Continuing his observations at Wansted after he moved to Oxford, Bradley aimed to collect evidence he was observing of the nutation of the Earth's polar axis. By detecting and measuring this, he would be able to calculate the spheroidicity of the Earth, thus settling the dispute between Newtonians and followers of Jacques Cassini about whether the Earth was flattened or elongated at the poles.
+
+
+Bradley proved his dedication to the problem by pursuing his observations, despite a major hurdle: the Earth's axis would take more than 18 years to complete a nutational cycle. He worked for the necessary period, returning to Wansted each time an observation was required. This was necessary since all observations had to be made using the same instrument at the same location.
+
+
+He had concluded his programme by 1747, writing a letter that was read to the Royal Society in February 1748. In his letter, he was able to confirm the Newtonian model of the Earth, that it was flattened at the poles. This letter gives a wonderful understanding of how Bradley worked and his ways of thinking and we have made available the first part of that letter at THIS LINK.
+
+
+By this time, however, there was also separate observational confirmation by French expeditions to Sweden and Peru, but Bradley's work here, and his earlier work on aberration, added to the increasing evidence for a heliocentric solar system. He offered the first observational proof that the Earth revolved around the Sun. Prior to this, the lack of observational evidence of stellar parallax was what was holding back full acceptance of the Copernican solar system model, for Galileo's attempted 'proof' was seen to be fallacious. It was thus that Bradley was awarded the Royal Society's Copley medal in 1748. Bessel would go on in 1838 to measure annual parallax for the star 61 Cygni, further adding to the Copernican argument.
+
+
+Bradley served as Astronomer Royal from 1742, the third to occupy the role, succeeding Halley.
+
+
+He married Susannah Peach of Chalford, Gloucestershire, on 25 June 1744. Their daughter, also called Susannah, was born in 1746. It was she who would inherit the Greenwich observations her father had made over the 20 years prior to his death, the same observations, that for many reasons, were not published for over 30 years after Bradley's death.
+
+
+With his work on, and announcement of, nutation, he began to receive international recognition; 1746 saw him become a member of the Royal Academy of Berlin; in July 1748 he was made a foreign associate of the Académie Royale des Sciences in Paris; in 1750, he became a corresponding member of the Imperial Academy of Sciences in St Petersburg, becoming a full member in 1754; in 1757 was when he was elected to become a member of the Academy of Sciences of Bologna Institute. He was also rewarded by the crown, receiving a payment of £1000 to re-equip his observatory (this was 10 times the value of his annual income). The state also personally awarded him a pension of £250 per annum (roughly £45,000 in today's money).
+
+
+It was not until 1798 that any of Bradley's observations were published. Upon his daughter Susannah's coming-of-age, she passed the observations on to a maternal uncle, the Reverend Samuel Peach, who refused to surrender them to the board of longitude upon their request. He left them to his son, John, who was also unwilling to give them up. A legal case was set up by the crown over the ownership of the documents, resulting in their presentation to the chancellor of Oxford University, Lord North, who would give them to the University on the condition that they were to be published by the Clarendon Press. They took, however, 20 years to publish a first volume of the observations.
+
+
+A problem with such a delayed publication of astronomical data was that forty years late, they were not overly useful. It was not until Wilhelm Bessel was encouraged to do so that the complications and complexities created by such a lag were tackled. It took 10 years of Bessel's work, which began with Bradley's observations, resulting in his Fundamenta astronomia Ⓣ(Fundamental astronomy) (1818), lauded as one of the most significant works on positional astronomy.
+
+
+For Stephen Peter Rigaud's Preface to Miscellaneous works and correspondence of the Rev James Bradley, D.D. F.R.S. (Oxford University Press, Oxford, 1832), see THIS LINK.
+
+
+Bradley's influence extended into the 20th century, with three volumes of his observations being published between 1882 and 1903. It has been suggested that with these, Bradley had laid the foundation of all modern star positions.
+
+
+His influence however, stretched far wider than just over the tracking of the fixed stars. He was very interested in the accurate measurement of time. Bradley collected data sent to him from London and Jamaica, and, allowing for the temperature differences, concluded that the clock used for these experiments slowed by about 2 minutes per day when in Jamaica in comparison to when in London. This followed Newton's theory of gravity for the Earth's oblate shape. Moreover, though not documented, it is believed that Bradley, as Astronomer Royal, had a role in England's adoption of the Gregorian calendar in 1752.
+
+
+His focus on the impact of local phenomena (those resulting from the instruments used, the conditions around the observatory and from the motions of the Earth's axis and of its orbit) allowed him, and later astronomers, to concentrate solely on the objects' characteristics. Though not alone in taking positional astronomy so seriously, he was certainly a leading authority as Astronomer Royal.
+
+
+It was to be his poor health that would force Bradley into retirement in 1761. Prior to this he had attempted an ambitious expedition. In 1761 a rare transit of Venus was due to take place. With the intention of using observations of this phenomenon to improve the accuracy of the value of solar parallax, he chose Java and St Helena to be the two observation points, since they were sufficiently widely separated in location. Too frail to make the journeys himself, he sent his Greenwich assistant Charles Mason to Java, and the young astronomer Nevil Maskelyne to St Helena. Neither expedition was successful. Mason failed to reach Java in time due to obstruction caused by the Seven Years' War, and Maskelyne's attempt suffered from poor weather.
+
+
+Following the death of his wife in 1757, and with his own physical illness, he went to stay with his wife's family in Chalford, Gloucestershire. He died on 13 July 1762 from a chronic abdominal inflammation. Buried near his mother and wife in the churchyard of Holy Trinity church, Minchinhampton, Gloucestershire, a brass plate was fixed to an altar tomb in the churchyard. Almost 70 years following his death, a plaque was erected at Kew on the base of the Kew Palace Sundial to mark where he began his observations. It reads:-
+On This Spot
+
+ In 1725
+
+ The Rev James Bradley
+
+ Made the First Observations
+
+ Which led to the Great Discoveries
+
+ The Aberration of Light and
+
+ The Nutation of the Earth's Axis
+
+ The Telescope which he used
+
+ Had been erected by Sam. Molyneux Esq.
+
+ In a House which afterwards became
+
+ A Royal Residence
+
+ And was Taken Down in 1808.
+
+ To Perpetuate the Memory of
+
+ So Important a Station
+
+ This Dial was Placed on it in 1852
+
+ By Command of
+
+ His Most Gracious Majesty
+
+ King William the Fourth.
+Though he published relatively little during his lifetime, his papers on aberration and nutation were key for their discoveries and also for the development of the notion of precision in astronomy.
+
+
+According to the historian of astronomy, mathematical astronomer and director of the Paris Observatory Jean Baptist Joseph Delambre, in his 1821 history of astronomy in the 18th century:-
+It is to [the discovery of aberration and nutation ... that we owe the exactness of modern astronomy. ... This double service assures to [Bradley] the most distinguished place (after Hipparchus and Kepler) above the greatest astronomers of all ages in all countries.
+Highly regarded during his lifetime, and recognised by some of the greats of the day, James Bradley was highly influential in the advancement of astronomical thinking. Halley had quickly recognised his talent, and Newton had described him as the best astronomer in Europe.
+
+
+
+
+
+Other Mathematicians born in England
+
+A Poster of James Bradley
+
+
+
+
+
+References (show)
+
+
+
+
+
+F O'D Alexander, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+M Hoskin, The History of Astronomy (A Very Short Introduction) (Oxford University Press, Oxford, 2003).
+C-L Mathieu (ed.), Histoire de l'astronomie au dix-huitième siècle (Bachelier, Paris, 1827).
+S P Rigaud (ed.), Miscellaneous works and correspondence of the Rev James Bradley, D.D. F.R.S. (Oxford University Press, Oxford, 1832).
+A Chapman, Pure Research and Practical Teaching: The Astronomical Career of James Bradley, 1693-1762, Notes and Records of the Royal Society of London 47 (2) (1993) 205-212.
+M W Davidson, Pioneers in Optics: James Bradley and August Köhler, Microscopy Today (September 2013), 50-52.
+J Fisher, Conjectures and reputations: The composition and reception of James Bradley's paper on the aberration of light with some reference to a third unpublished version, The British Journal for the History of Science 43 (1) (2010), 19-48.
+G S Hawkins, James Bradley, Encyclopaedia Britannica. https://www.britannica.com/biography/James-Bradley
+A W Hirshfeld, Bradley, James, in T Hockey, V Trimble and T R Williams (eds.), Biographical Encyclopedia of Astronomers (Springer Publishing, New York, 2014), 161-162.
+W McCrea, James Bradley, 1693-1762, Quarterly Journal of the Royal Astronomical Society 4 (1963), 38-40.
+W McCrea, The significance of the discovery of aberration, Quarterly Journal of the Royal Astronomical Society 4 (1963), 41-43.
+A B Stewart, The discovery of stellar aberration, Scientific American 210 (3) (1964), 100-108.
+J Stratford, Dr James Bradley, F R S, Gloucestershire Biographical Notes ("Journal" Office, 1887), 104-109.
+K A P Walsh, James Bradley and reflections on a special year, Astronomy & Geophysics 53 (6) (2012), 6.31-6.33.
+M E W Williams, Bradley, James, Oxford Dictionary of National Biography (Oxford, 2004). See THIS LINK.
+M Williams, James Bradley and the Eighteenth Century 'Gap' in Attempts to Measure Annual Stellar Parallax, Notes and Records of the Royal Society of London 37 (1) (1982), 83-100.
+R Woolley, James Bradley, third astronomer royal, Quarterly Journal of the Royal Astronomical Society 4 (1963), 47-52.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about James Bradley:
+
+James Bradley's 1747 letter read to the Royal Society
+James Bradley - Miscellaneous works and correspondence
+The Sundial at Kew
+Multiple entries in The Mathematical Gazetteer of the British Isles,
+Miller's postage stamps
+
+
+
+Other websites about James Bradley:
+
+Dictionary of Scientific Biography
+Dictionary of National Biography
+The Sundial at Kew
+Mathematical Genealogy Project
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+Honours (show)
+
+
+
+
+Honours awarded to James Bradley
+
+Lunar features Mons Bradley and Rimae Bradley
+Savilian Chair of Astronomy 1721
+Copley Medal 1748
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: The development of the 'black hole' concept
+Other: Jeff Miller's postage stamps
+
+
+
+
+
+
+    Written by I J Falconer, J G Mena, J J O'Connor, T S C Peres, E F Robertson, University of St Andrews.
+
+    Last Update November 2018
+  
+
+

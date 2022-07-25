@@ -1,0 +1,120 @@
+
+
+
+Juan de Ortega
+
+
+
+
+
+Quick Info
+Born
+
+      1480
+      
+
+        Palencia (now Spain)
+        
+
+Died
+
+      1568
+      
+      
+    
+
+Summary
+Juan de Ortega was a Spanish mathematician who devised an original method of extracting square roots.
+
+
+
+
+
+Biography
+Juan de Ortega was a member of the Dominican Order which had been founded by Dominic, a priest of the Spanish diocese of Osma, in 1215. It was one of the major Orders within the Roman Catholic Church, and it was very active in the universities where its members were soon concentrated. The Dominican order was a collection of priests, organized in provinces under a master general. Members of the Order were sent wherever they were needed. Often those who wished to teach in universities in the fifteenth century would join the Dominican Order, for those in the Order taught not only theology but also philosophy and the other ancient branches of learning.
+
+
+Juan de Ortega had no university education and, as a Dominican with a vow of poverty, needed little in the way of an income as a Friar. He was assigned by his superiors to the province of Aragon where he earned his living teaching commercial arithmetic, although not in a university. Although we do not have details of his travels we do know that he was abroad at various times teaching both in Spain and Italy. Almost certainly had a teaching post within the Dominican Order but he tutored privately as well.
+
+
+Ortega's book A Tractado subtilisimo d'arithmetica y de geometria  published in Barcelona in 1512 covered commercial arithmetic and the rules of geometry. The first part of the book contains practical rules for calculations necessary for trade and includes conversion tables between the different Spanish currencies. At that time each of the Spanish provinces had their own currency and conversion between them was clearly an essential for anyone who was trading goods. In the second part of the book, devoted mostly to geometry, Ortega gives a method of extracting square roots very accurately using Pell's equation, which is surprising since a general solution to Pell's equation does not appear to have been found before Fermat over 100 years later. The book achieved fame and was published in several cities including a French version in Lyon in 1515, being the first commercial arithmetic to be published in French. It was also published in Rome in 1515, Messina in 1522 and Seville in 1552.
+
+
+Very little is known about Ortega and it appears that his importance rests entirely on the interesting method for taking square roots. It is not easy to assess how significant this is since different historians place different significance on it. For example in [5] Sesiano describes a similar algorithm for the approximation of surds written by an unknown author in Palmiers around 1430. Chuquet also devised a similar algorithm which appears in Triparty which was probably written no later than May 1484.
+
+
+Ortega also published Cursus quattuor mathematicarum artium liberalium  published in Paris in 1516.
+
+
+
+
+
+
+
+Other Mathematicians born in Spain
+
+
+
+
+
+References (show)
+
+
+
+
+
+M A Catala, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+C P Calderón, The 16th-century Iberian calculatores, Rev. Un. Mat. Argentina 35 (1989), 245-258
+M Cantor, Vorlesungen über Geschichte der Mathematik II (Leipzig, 1908), 388.
+J Ray Pastor, Los matematicos expanoles del siglo XVI, Biblioteca scientia 2 (1926), 67.
+J Sesiano, On an algorithm for the approximation of surds from a Provençal treatise, in Mathematics from manuscript to print, 1300--1600, Oxford, 1984 (Oxford Univ. Press, Oxford, 1988), 30-55.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Juan de Ortega:
+
+See Juan de Ortega on a timeline
+Pell's equation
+
+
+
+Other websites about Juan de Ortega:
+
+Dictionary of Scientific Biography
+The Galileo Project,
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update August 2006
+  
+
+

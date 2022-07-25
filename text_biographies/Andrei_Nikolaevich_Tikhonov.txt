@@ -1,0 +1,158 @@
+
+
+
+Andrei Nikolaevich Tikhonov
+
+
+
+
+
+Quick Info
+Born
+
+      30 October 1906
+      
+
+        Gzhatska, Smolensk, Russia
+        
+
+Died
+
+      7 October 1993
+      
+      Moscow, Russia
+    
+
+Summary
+Andrey Nikolayevich Tikhonov was a Russian mathematician who worked in topology, functional analysis, mathematical physics, and ill-posed problems.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+Like most Russian mathematicians there are different ways to transliterate Andrei Nikolaevich Tikhonov's name into the Roman alphabet. The most common way, other than Andrei Nikolaevich Tikhonov, is to write it as Andrey Nikolayevich Tychonoff.
+
+
+Andrei Nikolaevich Tikhonov attended secondary school as a day pupil and entered the Moscow University in 1922, the year in which he completed his school education. His studied in the Mathematics Department of the Faculty of Mathematics and Physics at Moscow University and made remarkable progress, having his first paper published in 1925 while he was still in the middle of his undergraduate course.
+
+
+This first work was related to results of Aleksandrov and Urysohn on conditions for a topological space to be metrisable. However he did not stop there and continued his investigations in topology. By 1926 he had discovered the topological construction which is today named after him, the Tikhonov topology defined on the product of topological spaces. Aleksandrov, recalling in [4] how he failed to appreciate the significance of Tikhonov's ideas at the time he proposed them, remembered:-
+... very well with what mistrust he met Tikhonov's proposed definition. How was it possible that a topology introduced by means of such enormous neighbourhoods, which are only distinguished from the whole space by a finite number of the coordinates, could catch any of the essntial characteristics of a topological product?
+Tikhonov certainly had given the right definition and this idea, which was counterintuitive to even as great a topologist as Aleksandrov, allowed Tikhonov to go on and prove such important topological results as the product of any set of compact topological spaces is compact.
+
+
+Few mathematicians have gained a worldwide reputation before they even start their research careers but this was essentially how it was for Tikhonov. His results on the Tikhonov topology of products were achieved before he graduated in 1927. With this impressive record he became a research student at Moscow University in 1927. It might be thought that someone who had clearly such an intuitive grasp of topological ideas would be only too pleased to use his talents in that area. Tikhonov, however, had equal talents for other areas of mathematics. The range of his work is summarised in [3]:-
+We owe to Tikhonov deep and fundamental results in a wide range of topics in modern mathematics. His first-class achievements in topology and functional analysis, in the theory of ordinary and partial differential equations, in the mathematical problems of geophysics and electrodynamics, in computational mathematics and in mathematical physics are all widely known. Tikhonov's scientific work is characterised by magnificent achievements in very abstract fields of so-called pure mathematics, combined with deep investigations into the mathematical disciplines directly connected with practical requirements.
+In fact Tikhonov's work led from topology to functional analysis with his famous fixed point theorem for continuous maps from convex compact subsets of locally convex topological spaces in 1935. These results are of importance in both topology and functional analysis and were applied by Tikhonov to solve problems in mathematical physics.
+
+
+He defended his habilitation thesis in 1936 on Functional equations of Volterra type and their applications to mathematical physics. The thesis applied an extension of Émile Picard's method of approximating the solution of a differential equation and gave applications to heat conduction, in particular cooling which obeys the law given by Josef Stefan and Boltzmann. After successfully defending his thesis, Tikhonov was appointed as a professor at Moscow University in 1936 and then, three years later, he was elected as a Corresponding Member of the USSR Academy of Sciences.
+
+
+Tikhonov's approach to problems in mathematical physics is described in [14]:-
+A characteristic of Tikhonov's research is to combine a concrete theme in natural science with investigations into a fundamental mathematical problem. In discussing some general problem in nature he always knows how to pick out a typical concrete physical problem and to give it a clear mathematical formulation. However, his mathematical investigations are never confined to the solution of a given concrete problem, but serve as the starting point for stating a general mathematical problem that is a broad generalisation of the first problem.
+
+
+The extremely deep investigations of Tikhonov into a number of general problems in mathematical physics grew out of his interest in geophysics and electrodynamics. Thus, his research on the Earth's crust lead to investigations on well-posed Cauchy problems for parabolic equations and to the construction of a method for solving general functional equations of Volterra type. ...
+Tikhonov's work on mathematical physics continued throughout the 1940s and he was awarded the State Prize for this work in 1953. However, in 1948 he began to study a new type of problem when he considered the behaviour of the solutions of systems of equations with a small parameter in the term with the highest derivative. After a series of fundamental papers introducing the topic, the work was carried on by his students.
+
+
+Another area in which Tikhonov made fundamental contributions was that of computational mathematics ([11] and [12]):-
+Under his guidance many algorithms for the solution of various problems of electrodynamics, geophysics, plasma physics, gas dynamics, ... and other branches of the natural sciences were evolved and put into practice. ... One of the most outstanding achievemnets in computational mathematics is the theory of homogeneous difference schemes, which Tikhonov developed in collaboration with Samarskii....
+In the 1960s Tikhonov began to produce an important series of papers on ill-posed problems. He defined a class of regularisable ill-posed problems and introduced the concept of a regularising operator which was used in the solution of these problems. Combining his computing skills with solving problems of this type, Tikhonov gave computer implementations of algorithms to compute the operators which he used in the solution of these problems. Tikhonov was awarded the Lenin Prize for his work on ill-posed problems in 1966. In the same year he was elected to full membership of the USSR Academy of Sciences.
+
+
+Tikhonov's wide interests throughout mathematics led him to hold a number of different chairs at Moscow University, in particular a chair in the Mathematical Physics Faculty and a chair of Computational Mathematics in the Engineering Mathematics Faculty. He also became dean of the Faculty of Computing and Cybernetics at Moscow University. Tikhonov was appointed as Deputy Director of the Institute of Applied Mathematics of the USSR Academy of Sciences, a position he held for many years.
+
+
+
+
+
+Other Mathematicians born in Russia
+
+A Poster of Andrei Tikhonov
+
+
+
+
+
+References (show)
+
+
+
+
+
+P S Aleksandrov, The principal mathematical discoveries of A N Tikhonov, Russian Math. Surveys 31 (6) (1976), 13-15.
+P S Aleksandrov, The principal mathematical discoveries of A N Tikhonov (Russian), Uspekhi Mat. Nauk 31 (6) (1976), 13-16.
+P S Aleksandrov and V A Ilin, Andrei Nikolaevich Tikhonov (on his sixtieth birthday), Russian Math. Surveys 22 (2) (1967), 109-110.
+P S Aleksandrov and S V Fomin, The work of Tikhonov in topology and functional analysis, Russian Math. Surveys 22 (2) (1967), 110-113.
+Andrei Nikolaevich Tikhonov (1906-1993) (on the occasion of the ninetieth anniversary of his birth) (Russian), Vestnik Moskov. Univ. Ser. XV Vychisl. Mat. Kibernet. (3) (1996), 3-4.
+Andrei Nikolaevich Tikhonov (obituary) (Russian), Zh. Vychisl. Mat. i Mat. Fiz. 34 (2) (1994), 318-319.
+Andrei Nikolaevich Tikhonov (on the occasion of his 85th birthday) (Russian), Zh. Vychisl. Mat. i Mat. Fiz. 31 (11) (1991), 1603-1604.
+A V Bitsadze, N P Erugin, V A Ilin and A A Samarskii, Andrei Nikolaevich Tikhonov (on the occasion of his eightieth birthday) (Russian), Differentsialnye Uravneniya 22 (12) (1986), 2027-2031.
+A V Bitsadze, V A Ilin, O A Oleinik, Yu P Popov, A A Samarskii, A G Sveshnikov and S L Sobolev, Andrei Nikolaevich Tikhonov (on the occasion of his eightieth birthday) (Russian), Uspekhi Mat. Nauk 42 (3)(255) (1987), 3-12.
+A V Bitsadze, V A Ilin, O A Oleinik, Yu P Popov, A A Samarskii, A G Sveshnikov and S L Sobolev, Andrei Nikolaevich Tikhonov (on the occasion of his eightieth birthday), Russian Math. Surveys 42 (3) (1987), 1-11.
+A V Bitsadze, V A Ilin, A A Samarskii and A G Sveshnikov, Andrei Nikolaevich Tikhonov (on the occasion of his seventieth birthday), Russian Math. Surveys 31 (6) (1976), 3-12.
+A V Bitsadze, V A Ilin, A A Samarskii and A G Sveshnikov, Andrei Nikolaevich Tikhonov (on the occasion of his seventieth birthday) (Russian), Uspekhi Mat. Nauk 31 (6) (1976), 1-11.
+V F Butuzov, A B Vasileva, V B Glasko, et al., In memoriam : Andrei Nikolaevich Tikhonov (Russian), Vestnik Moskov. Univ. Ser. III Fiz. Astronom. 34 (5) (1993), 100-101.
+V I Dmitriev and A G Sveshnikov, Tikhonov's work on mathematical physics, Russian Math. Surveys 22 (2) (1967), 113-123.
+N P Erugin, V A Ilin, A A Samarskii and A G Sveshnikov, Andrei Nikolaevich Tikhonov (on the occasion of his seventy-fifth birthday) (Russian), Differentsialnye Uravneniya 17 (10) (1981), 1731-1737.
+V A Ilin, On the occasion of the eightieth birthday of academician A N Tikhonov (Russian), Vestnik Moskov. Univ. Ser. XV Vychisl. Mat. Kibernet. (3) (1986), 4-8.
+V A Ilin, Tikhonov's work on methods of solving ill-posed problems, Russian Math. Surveys 22 (2) (1967), 142-149.
+List of publications of A N Tikhonov (Russian), Uspekhi Mat. Nauk 11 (6) (1956), 243-245.
+List of publications of A N Tikhonov (Russian), Uspekhi Mat. Nauk 22 (2) (1967), 185-188.
+List of publications of A N Tikhonov, Russian Math. Surveys 22 (2) (1967), 158-161.
+On the occasion of the eightieth birthday of Andrei Nikolaevich Tikhonov (Russian), Zh. Vychisl. Mat. i Mat. Fiz. 26 (11) (1986), 1603-1604.
+On the occasion of the seventy-fifth birthday of A N Tikhonov (Russian), Vestnik Moskov. Univ. Ser. XV Vychisl. Mat. Kibernet. (3) (1981), 3-8.
+On the occasion of the seventy-fifth birthday of Andrei Nikolaevich Tikhonov (Russian), Zh. Vychisl. Mat. i Mat. Fiz. 21 (6) (1981), 1363-1364.
+A A Samarskii, Tikhonov's work on computational mathematics, Russian Math. Surveys 22 (2) (1967), 149-158.
+A B Vasileva and V M Volosov, The work of Tikhonov and his pupils on ordinary differential equations containing a small parameter, Russian Math. Surveys 22 (2) (1967), 124-142.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Andrei Tikhonov:
+
+D E Cameron (More pictures)
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: African men with a doctorate in mathematics 2
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 1999
+  
+
+

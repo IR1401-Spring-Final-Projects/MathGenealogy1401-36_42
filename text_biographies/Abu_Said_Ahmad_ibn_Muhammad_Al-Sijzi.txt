@@ -1,0 +1,134 @@
+
+
+
+Abu Said Ahmad ibn Muhammad Al-Sijzi
+
+
+
+
+
+Quick Info
+Born
+
+      about 945
+      
+
+        Sijistan, Persia (now Iran)
+        
+
+Died
+
+      about 1020
+      
+      
+    
+
+Summary
+Al-Sijzi was an Islamic astronomer and mathematician who wrote on the geometry of spheres.
+
+
+
+
+
+Biography
+Al-Sijzi's full name is Abu Said Ahmad ibn Muhammad ibn Abd al-Jalil al-Sijzi. Very little is known about his life but we can give fairly accurate dates for his life since we know that he corresponded with al-Biruni and quoted results by him in his own work.
+
+
+He dedicated works to a prince of Balkh, then the capital of Khorasan. Another work he dedicated to 'Adud ad-Dawlah who ruled over all southern Iran and most of what is now Iraq from 949 to 983. It is quite possible that 'Adud ad-Dawlah was al-Sijzi's patron since he was a leader well known for patronising the arts and science.
+
+
+We also know that al-Sijzi worked in Shiraz making astronomical observations during 969-970. It was certainly at Shiraz at this time that he wrote some of his mathematical works. As well as writing original works he copied other mathematical works and they were dated 969 at Shiraz. In particular he copied, and dated the copy 969, Thabit ibn Qurra's treatise on complete quadrilaterals.
+
+
+We mentioned above that al-Sijzi corresponded with al-Biruni. The paper [3] contains a letter that al-Biruni wrote to Abu Said, who is almost certainly al-Sijzi. The letter contains proofs of both the plane and spherical versions of the sine theorem, which al-Biruni says were due to his teacher Abu Nasr Mansur ibn Ali ibn Iraq. An English translation of the letter appears in [10].
+
+
+In [1] Y Dold-Samplonius writes:-
+Al-Sijzi's main scientific activity was in astrology, and he had a vast knowledge of the older literature. He usually compiled and tabulated, adding his own critical commentary. ... Al-Sijzi's mathematical papers are less numerous but more significant than his astrological ones, and he is therefore better known as a geometer.
+The book [2] contains an English translation (as well as the Arabic text) of al-Sijzi's treatise on geometrical problem solving. Among the problems al-Sijzi discusses are the following. Given a circle, find a point outside the circle where the tangent to the circle and diameter produced, have a given ratio. Given a triangle and three given numbers, find a point inside the triangle where the lines to the three vertices divide the triangle into three triangles having areas proportional to the three given numbers.
+
+
+A treatise on spheres by al-Sijzi Book of the measurement of spheres by spheres is of considerable interest. The treatise, dated by al-Sijzi 969, contains twelve theorems investigating a large sphere containing between one and three smaller spheres. The small spheres are mutually tangent and tangent to the big sphere. Al-Sijzi finds the volume inside the large sphere which is outside the small ones inside it. He expresses this volume as that of a sphere of a particular radius which he computes in terms of the radii of the spheres in the given system. The authors of [9] claim that the main interest of the work lies in the last two propositions in which al-Sijzi considered four-dimensional spheres. In [5] the author again suggests that in these propositions al-Sijzi is dealing with spheres in a space of four dimensions. However J P Hogendijk reviewing [9] writes:-
+One could also assume that the crucial identity ... is due to an oversight made by Al-Sijzi, who does not use four-dimensional spheres anywhere else in his treatise. We note that the treatise was written around 969 AD, at a time when al-Sijzi was a very young and perhaps inexperienced geometer.
+Another short work by al-Sijzi is the Treatise on how to imagine the two lines which approach but do not meet when they are produced indefinitely, which the excellent Apollonius mentioned in the second Book of the Conics. In this treatise al-Sijzi classifies geometrical theorems into five types, one of which is [7]:-
+... propositions which are difficult to imagine even though the proof of them is correct.
+In work on geometrical algebra al-Sijzi proves geometrically that
+(a+b)3=a3+3ab(a+b)+b3(a + b)^{3} = a^{3} + 3ab(a + b) + b^{3}(a+b)3=a3+3ab(a+b)+b3.
+He does this by decomposing a cube of side a+ba + ba+b into the sum of two cubes of sides aaa and bbb and a number of parallelepipeds of total volume 3ab(a+b)3ab(a + b)3ab(a+b). This is considered by most historians to be a three-dimensional extension by al-Sijzi of the geometrical algebra propositions in Book 2 of Euclid's Elements.
+
+
+
+
+
+
+
+Other Mathematicians born in Iran
+
+
+
+
+
+References (show)
+
+
+
+
+
+Y Dold-Samplonius, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+M Bagheri and J P Hogendijk (trs.), al-Sijzi's treatise on geometrical problem solving (Tehran, 1996).
+Kh F Abdulla-zade, Al-Biruni's letter to Abu Sa'id (Russian), Izv. Akad. Nauk Tadzhik. SSR Otdel. Fiz.-Mat. Khim. i Geol. Nauk 3(89) (1983), 16-19.
+J L Berggren, Al-Sijzi on the transversal figure, J. Hist. Arabic Sci. 5 (1-2) (1981), 23-36.
+P Crozet, L'idée de dimension chez al-Sijzi, Arabic Sci. Philos. 3 (2) (1993), 251-286.
+N G Khairetdinova, The trigonometry of al-Sijzi (Russian), Istor.-Mat. Issled. No. 26 (1982), 197-204.
+R Rashed, Al-Sijzi et Maimonide : commentaire mathématique et philosophique de la proposition II-14 des 'Coniques' d'Apollonius, Arch. Internat. Hist. Sci. 37 (119) (1987), 263-296.
+B A Rozenfel'd, R S Safarov and E I Slavutin, The geometric algebra of as-Sijzi (Russian), Istor.-Mat. Issled. No. 29 (1985), 321-325; 349.
+B A Rozenfel'd and R S Safarov (trs.), Abu Said Akhmad as-Sidzhizi, Book of measurement of spheres by spheres (Russian), Istor.-Mat. Issled. No. 29 (1985), 326-333; 349.
+A Sayili, in Beyruni'ye Armagan (Ankara, 1974), 169-207.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Al-Sijzi:
+
+See Al-Sijzi on a timeline
+
+
+
+Other websites about Al-Sijzi:
+
+Dictionary of Scientific Biography
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: The Arabic numeral system
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 1999
+  
+
+

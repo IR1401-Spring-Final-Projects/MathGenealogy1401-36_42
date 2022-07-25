@@ -1,0 +1,154 @@
+
+
+
+Takebe Katahiro
+
+
+
+
+
+Quick Info
+Born
+
+      1664
+      
+
+        Edo (now Tokyo), Japan
+        
+
+Died
+
+      24 August 1739
+      
+      Edo (now Tokyo), Japan
+    
+
+Summary
+Takebe was a Japanese mathematician who wrote most of Seki's Encyclopaedia.
+
+
+
+
+
+Biography
+Takebe Katahiro's name is given in several different forms including Takebe Kenko and Tatebe Kenko. He had an older brother Takebe Kataaki (1661-1716) who was also a mathematician and the two brothers were both pupils of Takakazu Seki. Let us note now that when we speak of Takebe in this article, we are referring to Takebe Katahiro and if we refer to his brother we shall use his full name Takebe Kataaki. Takebe was only thirteen years of age when he became Seki's pupil and both brothers remained with their teacher until his death in 1708. Not only did the brothers gain much from Seki's teaching but they also had access to his extensive library of Japanese and Chinese books on mathematics. Annick Horiuchi writes [1]:-
+The brothers did their utmost to spread Seki's work, to make it easier to understand, and to defend it against detractors. They were the main craftsmen of Seki's project (launched 1683) to record mathematical knowledge in an encyclopaedia. The 'Taisei sankei' (Comprehensive Classic of Mathematics), in 20 volumes, was finally completed by Takebe Kataaki in 1710. It gives a good picture of Seki's skill at reformulating problems, as well as Takebe Katahiro's ability to correct, perfect, and extend his master's intuitions.
+Seki came from the samurai class and this meant that he became a public servant. He held the position of examiner of accounts to Tokugawa Ienobu, the Lord of Kofu. When his lord became heir to the Shogun, the hereditary military dictator of Japan, Seki became Shogunate samurai and in 1704 was given a position of honour as master of ceremonies in the Shogun's household. This brought Takebe into contact with the leading members of the Tokugawa family. He was an officer to Tokugawa Bakuhu, and then he was close to Tokugawa Ienobu, the Lord of Kofu, as he rose to become Shogun in 1709. Takebe served Tokugawa Ienobu during his three years as Shogun, and then served Tokugawa Ietsugu who was Shogun from 1712 to 1716. From 1695 when he began his close association with members of the Tokugawa family, Takebe spent less time on his study of mathematics. However he next served Tokugawa Yoshimune, who became the eighth Tokugawa Shogun in 1716. Yoshimune was significantly different from the earlier Tokugawa rulers, having an inquiring mind. Takebe's enthusiasm for the study of mathematics and astronomy was invigorated again from 1716. Encouraged by Takebe, Yoshimune relaxed the edict forbidding the introduction of foreign books, including scientific books, which led to the growth of interest in Western science in Japan. Yoshimune was fascinated by astronomy and had a large globe made. He also had a telescope which had been in the Netherlands. Later in this biography we will describe work undertaken by Takebe specifically at Yoshimune's request.
+
+
+Tatebe was only nineteen years old when he published his first mathematics book the Kenki Sanpo Ⓣ(Tiny algorithm) (1683). He followed this in 1685 with the book Hatsubi Sanpo Endan Genkai Ⓣ(Small segment algorithm). These early works were based on the methods Seki had developed for handling polynomials. These methods were extended to handle polynomials in a single variable but with variable coefficients. Tatebe improved and extended the methods of his teacher and applied them to a wide range of problems in these books. Takebe had made a careful study of Zhu Shijie's Chinese text Suanxue qimeng Ⓣ(Introduction to mathematical studies) published in 1299 and the work had been a great help to him in developing his theory of polynomials. In 1690 Takebe published an annotated Japanese translation of the Suanxue qimeng Ⓣ(Introduction to mathematical studies) which he intended as a text for students of mathematics.
+
+
+In 1683 Seki started a project to compile an encyclopaedia of mathematics. This 20 volume work appeared in 1710 with the title Taisei sankei (Comprehensive Classic of Mathematics). None of the work was written by Seki himself and it is clear that the first twelve volumes were written by Takebe. Takebe Kataaki also played a major role in compiling the Taisei sankei and the final eight volumes are due to him. One of the most significant ideas introduced in Takebe's part of the text is the method of Enri, which is definite integration. For many years historians believed that this idea was due to Seki and only the writing was due to Takebe. However, modern research leads most historians to claim that the method of Enri was in fact due to Takebe.
+
+
+The most important of Takebe's work is Tetsujutsu Sankei Ⓣ(Art of assembling). Morimoto writes in [10]:-
+In 1722, Takebe wrote the 'Tetsujutsu Sankei' (Mathematical Treatise on the Technique of Linkage) to explain how mathematical research could be done in accordance of one's inclination, based on 12 examples of mathematical investigation.
+In Chapter 2 of this work, Takebe explains the "method of celestial element" which Zhu Shijie had introduced in Suanxue qimeng Ⓣ(Introduction to mathematical studies) as a method of representing a polynomial in one variable on a counting board. The extension of this method to polynomials with variable coefficients, due to Seki and Takebe, was presented in Chapter 6 of the Tetsujutsu Sankei Ⓣ(Introduction to mathematical studies). This effectively allowed Takebe to handle polynomials in several variables. Although Takebe did not explicitly have the operation of differentiation, nevertheless, he stated a result in Chapter 6 which is equivalent to the statement that if a cubic polynomial takes an extreme value at a point the derivative vanishes at that point. We should note, however, that Ogawa writes in [22]:-
+The purpose of this paper is to consider the essence of mathematics of Takebe Katahiro (1664-1739) by investigating his method of finding the maximum in 'Tetsujutsu Sankei' (1722). It has been said that he had first done a calculation of a derivation for finding the maximum in Chapter 6 of the treatise, but that is not strictly true. A close look at the chapter will reveal that his method has nothing to do with the theory of differential.
+Perhaps Takebe's greatest achievement was to devise a method to calculate a series expansion of a function. Ancient Greek mathematicians had been perplexed by the problem of squaring the circle and in the 17th  century Japanese mathematicians looked at a similar problem, namely the problem of finding a polynomial which expressed the length sss of an arc of a circle subtended by a chord with sagitta kkk. The sagitta is the line from the midpoint of the chord to the midpoint of the arc of the circle it subtends. Now we know that no such polynomial exists but Takebe found an infinite series expressing sss in terms of kkk, namely
+(12s)2=k+13k2+1.83.9k3+1.8.93.15.14k4+1.8.9.323.15.14.45k5+1.8.9.32.253.15.14.45.33k6+...(\large\frac{1}{2}\normalsize s)^{2} = k + \large\frac{1}{3}\normalsize k^{2} + \large\frac{1.8}{3.9}\normalsize k^{3} + \large\frac{1.8.9}{3.15.14}\normalsize k^{4} + \large\frac{1.8.9.32}{3.15.14.45}\normalsize k^{5} + \large\frac{1.8.9.32.25}{3.15.14.45.33}\normalsize k^{6} + ...(21​s)2=k+31​k2+3.91.8​k3+3.15.141.8.9​k4+3.15.14.451.8.9.32​k5+3.15.14.45.331.8.9.32.25​k6+...
+In fact, looked at in modern terms, what Takebe was calculating was the Taylor series expansion of arcsin⁡2k\arcsin^2\sqrt karcsin2k​ about k=0k = 0k=0.
+
+
+We have not yet mentioned the result for which many know Takebe's name, namely his calculation of π. He describes in Chapter 9 of the Tetsujutsu Sankei Ⓣ(Introduction to mathematical studies) the right way to proceed if one wants to calculate the circumference of a circle of a given diameter. He writes (in Morimoto's translation from [10]):-
+If he who decomposes the circumference of a circle cuts the diameter equally and horizontally into thin slices, seeks the [length of the] right and left oblique chords cut by the horizontal lines and adds the oblique chords to seek the [approximate] circular circumference, then the parts of circumference are not equal even if he cuts the diameter equally. Therefore, if he seeks the circumference doubling the sections of the diameter, these numbers being disobedient to the attribute, he stagnates in determining the extreme number and never obtain a basis to understand the attribute of circle. On the other hand, when he cuts the circumference into the four angular forms [i.e., by an inscribed square] and further doubling angles [i.e., forming an inscribed octagon, etc.], the circumference is cut into equal length and the numbers are obedient to the attribute of circumference. Therefore, doubling the number of angles and seeking the angular circumferences at each step, by the repeated application of the procedure of incremental divisor he can determine the extreme number rapidly and obtain a basis to understand the attribute of a circle.
+Now of course this gives a method to approximate π but the method converges very slowly. Takebe invented a method for the acceleration of convergence using a technique for the successive removal of various powers of the argument, in this case the error term. This idea is essentially equivalent to the Romberg algorithm. It allowed Takebe to find  correct to 40 decimal places. See [28] for further details.
+
+
+The Tetsujutsu sankei Ⓣ(Introduction to mathematical studies) does more than describe Takebe's mathematical contributions, for in the work he also expounds his mathematical methodology. Let us give two quotations dealing with this part of his thought; first the description by Annick Horiuchi in [1]:-
+He distinguished two ways of solving a mathematical problem (and two corresponding types of mathematicians): an "investigation based on numbers," an inductive approach that involves scrutinizing and manipulating data until one finds a general law; and an "investigation based on principle," a reasoned approach that involves directly utilizing rules and procedures, as in algebra. The two approaches are often complementary, as he demonstrated by showing that an infinite series that he had obtained inductively could also be derived algebraically. His procedure for calculating the infinite series played a key role in the development of analysis in Japan in the following decades.
+The article [32] by Chang Zhou and Jian Ke Zhang on Takebe's mathematical thought and methodology is summarised by the authors as follows:-
+In view of mathematical methodology and the Neo-Confucianism of the Song and Yuan dynasties, this paper discusses the essential character of 'Tetsujutsu' which runs through 'Tetsujutsu Sankei', and Takebe's mathematical thought and methodology reflected from the 'Jishitsu Setsu' at the end of the book. The paper comes to the conclusion that Takebe's 'Tetsujutsu' is, actually, the colligation of the methods of deduction and induction, in which Takebe pays more attention to the method of induction, but he ignores the proof of precisely relying on the method of deduction. Based on our analysis, we conclude that the mathematical thought behind the author's preface and the 'Jishitsu Setsu' of the 'Tetsujutsu Sankei' is connected to the mainstream philosophy of Zhu Xi (1130-1200) and Wang Shouren (1472-1528) of the time, rather than having nothing to do with the philosophical thought, which is the view of some scholars. Furthermore, the origin of Takebe's mathematical thought may be traced back to the Neo-Confucianism of the Song and Yuan dynasties in China.
+We promised earlier in this article to return to the work which Takebe undertook at Shogun Yoshimune's request. This is studied in detail in [8], which is reviewed by Brunetto Piochi who explains that [8]:-
+... presents the contribution in astronomy and calendar science of Japanese mathematician Takebe, who worked around 1720-1730 on those subjects. The author explains in particular the work of Takebe on two topics: (i) the variation of the tropic year, i.e. the time between two consecutive winter solstices; (ii) the way of calculating the position of the polar star in the sky. By this study, the author draws the conclusion that Takebe (whose work is still unpublished, and partly lost) had a role in the history of scientific thought, as his aim was to improve, by the assistance of geometry and mathematics, calculation techniques so that astronomy and calendar science could become, in Japan too, exact sciences.
+
+
+
+
+
+Other Mathematicians born in Japan
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Takebe-Katahiro
+H Fukagawa and T Rothman, Sacred Mathematics : Japanese Temple Geometry (Princeton University Press, Princeton, 2008).
+A Horiuchi, Les Mathematiques Japonaises a L'Epoque d'Edo (1600-1868): Une Etude des Travaux de Seki Takakazu (?-1708) et de Takebe Katahiro (1664-1739) (Vrin, Paris, 1994).
+K Sato, Takebe Katahiro's Sanreki Zakko - Table of trigonometric functions (first in Japan) (Japanese) (Kenseisha, 1995).
+D E Smith and Y Mikami, A History of Japanese Mathematics (Open Court Publishing, Chicago, 1914).
+K Chemla, Review: A Horiuchi, Les Mathematiques Japonaises a L'Epoque d'Edo (1600-1868): Une Etude des Travaux de Seki Takakazu (?-1708) et de Takebe Katahiro (1664-1739), Isis 87 (3) (1996), 548-549.
+M Fujiwara, On the Sanreki Zakko presumably written by Takebe Katahiro, Studies of history of Japanese mathematics (Japanese) 1 (1945), 84-92.
+A Horiuchi, La science calendérique de Takebe Katahiro (1664-1739), Historia Sci. 33 (1987), 3-24.
+D Nagy, Review: A Horiuchi, Les Mathematiques Japonaises a L'Epoque d'Edo (1600-1868): Une Etude des Travaux de Seki Takakazu (?-1708) et de Takebe Katahiro (1664-1739), Monumenta Nipponica 50 (4) (1995), 586-590
+M Morimoto, Differentiation and Integration in Takebe Katahiro's Mathematics, Sixth International Symposium on the History of Mathematics and Mathematical Education Using Chinese Characters (University of Tokyo, 2005), 131-143.
+M Morimoto, Takebe Katahiro's algorithm to find the circular arc length, International Conference on History of Mathematics in Memory of Seki Takakazu (1642?-1708) (University of Tokyo, 2008).
+M Morimoto and T Ogama, Katahiro Takebe's mathematics on three formulas especially related to inverse trigonometric functions (Japanese), Sugaku 56 (3) (2004), 308-319.
+M Morimoto and T Ogama, The mathematics of Takebe Katahiro: his three formulas of an inverse trigonometric function, Sugaku Expositions 20 (2) (2007), 237-252.
+T Murata, Wallis' Arithmetica infinitorum and Takebe's Tetsujutsu sankei : what underlies their similarities and dissimilarities?, Historia Sci. 19 (1980), 77-100.
+T Murata, Sur le Tetsujutsu sankei de Takebe et comparaison avec Arithmetica infinitorum de Wallis, in Faire de l'histoire des mathématiques: documents de travail, Marseille, 1983 (Soc. Française Hist. Sci. Tech., Paris, 1987), 11-22.
+T Murata, Mathematics of Takebe Katahiro and his thought 1 (Japanese), Sugaku Semina, Nihon Hyoronsha (August 1982), 70-75.
+T Murata, Mathematics of Takebe Katahiro and his thought 2 (Japanese), Sugaku Semina, Nihon Hyoronsha (September 1982), 69-75.
+T Murata, Mathematics of Takebe Katahiro and his thought 3 (Japanese), Sugaku Semina, Nihon Hyoronsha (October 1982), 62-67.
+T Murata, Mathematics of Takebe Katahiro and his thought 4 (Japanese), Sugaku Semina, Nihon Hyoronsha (November 1982), 63-69.
+T Murata, Mathematics of Takebe Katahiro and his thought 5 (Japanese), Sugaku Semina, Nihon Hyoronsha (December 1982), 60-64.
+T Murata, Mathematics of Takebe Katahiro and his thought 6 (Japanese), Sugaku Semina, Nihon Hyoronsha (January 1983), 76-81.
+T Ogawa, On a Calculation of an Extremum by Takebe Katahiro (Japanese), Yokkaichi University Journal of Environmental and Information Sciences 2 (2) (1999), 247-267.
+T Ogawa, On a Calculation of an Extremum by Takebe Katahiro (Japanese), Studies on the history of mathematics (Japanese) (Kyoto, 1998), 129-147.
+T Ogawa, The beginnings of enri - the calculation of pi by Katahiro Takebe (Japanese), Study of the history of mathematics (Japanese) (Kyoto, 1997), 77-97.
+K Sato, On the theory of regular polygons in traditional Japanese mathematics: reconstruction of the process for the calculation of the degree of Kaih_shiki appearing in the Taisei Sankei by Seki and Takebe brothers, Historia Sci. (2) 8 (1) (1998), 71-85.
+K Sato, Studies on Takebe Katahiro's Kenki Sanpo (Japanese), Kagakushi Kagakutetsugaku 13 (1996), 26-40.
+Ogawa Tsukane, Theories of circles originated by Seki and Takebe Katahiro, International Conference on History of Mathematics in Memory of Seki Takakazu (1642?-1708) (University of Tokyo, 2008).
+Z Xu, Takebe Katahiro and Romberg algorithm, Historia Sci. (2) 9 (2) (1999), 155-164.
+Z Xu, Takebe Katahiro's epistemology of mathematics (Chinese), Stud. Hist. Nat. Sci. 21 (3) (2002), 232-243.
+Z Xu and C Zhou, Standing on the Shoulders of a Giant - Influence of Seki Takakazu on Takebe Katahiro's mathematical achievements, International Conference on History of Mathematics in Memory of Seki Takakazu (1642?-1708) (University of Tokyo, 2008).
+H Yokotsuka, The Enri Kohai-jutsu Preserved in Natural History Museum and Institute, Chiba (Japanese), Journal of history of science, Japan, Series II 43 (232) (2004), 204-210.
+C Zhou and J K Zhang, Takebe's mathematical thought and methodology, Stud. Hist. Nat. Sci. 27 (2) (2998), 213-226.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about Takebe Katahiro:
+
+MathSciNet Author profile
+
+
+
+
+
+
+Cross-references (show)
+
+
+
+
+
+History Topics: A chronology of pi
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update July 2009
+  
+
+

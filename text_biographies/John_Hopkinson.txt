@@ -1,0 +1,113 @@
+
+
+
+John Hopkinson
+
+
+
+
+
+Quick Info
+Born
+
+      27 July 1849
+      
+
+        Manchester, England
+        
+
+Died
+
+      27 August 1898
+      
+      Evalona, Val d'Herens, Switzerland
+    
+
+Summary
+John Hopkinson was an English mathematician and engineer who applied mathematics to electricity.
+
+
+
+
+
+    View one larger picture
+
+
+
+
+
+Biography
+John Hopkinson's mother was Alice Dewhurst from Skipton and his father, named John Hopkinson, was a mechanical engineer. John junior, the subject of this biography, was the eldest of a family of five children. He was fortunate in that being brought up in Manchester he had good schooling at Queenwood School and in 1865 entered Owens College in that city. Owens College, which went on to become the University of Manchester, was an excellent institution in which to study.
+
+
+After showing great abilities in mathematics, Hopkinson was awarded a scholarship to allow him to continue his study of that subject at Trinity College, Cambridge. He entered Cambridge in 1867, where he was coached by Routh, and graduated with a mathematics degree in 1871, being Senior Wrangler in the Mathematical Tripos of that year (meaning he was ranked as the top First Class student). He was also first Smith's prizeman and made a fellow of Trinity College, so he looked set for a stunning university career in mathematics. Although he had been awarded a Whitworth scholarship which would have allowed him to continue his mathematical studies at Cambridge, Hopkinson decided to put his mathematics to practical use in engineering. First he took a science degree at the University of London which he was awarded in 1871. Immediately on completing this second degree he began working in his father's engineering firm in Manchester.
+
+
+There had been no chair of engineering at Owens College when Hopkinson studied there, but it is interesting to note that Osborne Reynolds was appointed to such a chair while Hopkinson was studying at Cambridge. In 1872 Hopkinson was appointed as the engineering manager of Chance Brothers and Company, a glass manufacturing company in Birmingham. There he studied the problems of efficient ways of shining lights from a lighthouse and, in particular, he recommended the use of flashing groups of lights. He made good use of his mathematical abilities [2]:-
+His great mathematical abilities proved to be of the utmost value to him in his optical work, and later on in his electrical work. In one of his papers he proved mathematically that alternating current dynamos could be connected to work in parallel.
+Dibner writes in [1]:- 
+Hopkinson's application of Maxwell's electromagnetic theories to the analysis of residual charge and displacement in electrostatic capacity led to his election as a fellow of the Royal Society in 1877.
+In 1878 Hopkinson founded his own electrical engineering company. Collaborating with Edward Hopkinson, one of his brothers, he applied the theory of electricity and magnetism to the development of electric motors. He used his mathematical expertise to give a general theory of alternating currents and he applied this theory to the operation of alternating current generators in parallel.
+
+
+Hopkinson was appointed professor of electrical engineering at King's College, London, in 1890. At the same time he became director of the newly founded Siemens Laboratory. In the same year he was awarded a Royal Society medal for his work on the magnetic properties of iron. He became famed for his expertise in electricity and as a result was employed as a consultant on many projects. In particular Manchester corporation employed him to advise on providing electric light for the city in 1891. He devised a system to charge customers for the amount of electricity that they used with [6]:-
+... a charge, which is calculated partly by the quantity of energy contained in the supply and partly by a yearly or other rental, depending upon the maximum strength of the current to be supplied.
+From 1896 he was employed to advise on electric traction for the corporations of Liverpool, of Leeds, and of St Helens. Railway companies used him as a consultant such as the City and South London Railway and the Kirkstall and Roundhay Tramway in Leeds.
+
+
+When at the height of his powers Hopkinson was killed in a mountaineering accident while on holiday in Switzerland. His son and two daughters died in the same accident on Mount Petite Dent de Veisivi. Although Hopkinson's life was cut short by the accident, he had already received several honours for his contributions of applying mathematics to engineering. In addition to his election to the Royal Society which we mentioned above, he was President of the Institution of Electrical Engineers on two occasions. A member of the Institution of Civil Engineers from 1877, he gave the James Forrest lecture to the Institution in 1894 on the relation of mathematics to engineering, and served on the Council in 1895.
+
+
+
+
+
+Other Mathematicians born in England
+
+A Poster of John Hopkinson
+
+
+
+
+
+References (show)
+
+
+
+
+
+B Dibner, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography by T H Beare, rev. S Hong, in Dictionary of National Biography (Oxford, 2004). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/John-Hopkinson
+B Hopkinson (ed.), The complete works of John Hopkinson (Cambridge, 1901).
+J Greig, Biography of John Hopkinson, Engineering (13 Jan 1950).
+B Hopkinson, Memoir, in Original papers of John Hopkinson 1 (1901), x-lxi.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other websites about John Hopkinson:
+
+Dictionary of Scientific Biography
+Dictionary of National Biography
+NNDB
+zbMATH entry
+ERAM Jahrbuch entry
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 2005
+  
+
+

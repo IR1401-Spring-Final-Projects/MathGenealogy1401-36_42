@@ -1,0 +1,131 @@
+
+
+
+George Birch Jerrard
+
+
+
+
+
+Quick Info
+Born
+
+      25 November 1804
+      
+
+        Bodmin, Cornwall, England
+        
+
+Died
+
+      23 November 1863
+      
+      Long Stratton, Norfolk, England
+    
+
+Summary
+George Jerrard was an English mathematician who worked on the theory of equations.
+
+
+
+
+
+Biography
+George Jerrard's father was Joseph Jerrard (1773-1858) who had an army career eventually becoming a major-general. Joseph Jerrard served in Ireland during the rebellion of 1798, was sent to Egypt in 1805, and served at the siege of Copenhagen in 1807. Joseph Jerrard married Charlotte Wilder (1777-1850) on 6 November 1797 in Comber, County Down, Ireland. Charlotte, the daughter of Captain William Wilder, was born in Bombay, India. However, her father died soon after Charlotte's birth and her mother married George Birch. Catherine was brought up by her step-father, explaining George Birch Jerrard's middle name "Birch". Joseph and Charlotte Jerrard had seven children: Catherine Charlotte Jerrard (1798-1854); Eliza Jane Jerrard (1799-?); Joseph Henry Jerrard (1801-?); Katherine Wilder Jerrard (1803-1850); George Birch Jerrard (1804-1863), the subject of this biography; Frederick William Hill Jerrard (1809-1884); Louisa Jerrard (1816-1816). George's younger brother Frederick William Hill studied mathematics at Gonville and Caius College, Cambridge, being eighth Wrangler in 1833, but later joined the Church and was rector at Long Stratton, Norfolk. It was not at Cambridge, but rather at Trinity College, Dublin, that George studied. He entered the university on 4 December 1821 and seems to have taken rather a long time to complete his B.A. since this was not awarded until the spring of 1827. In Dublin he was taught by the Rev Thomas P Huddart.
+
+
+The London University was founded in 1826 and teaching began there two years later. King's College London was founded in 1829 and, in 1836, the University of London was created as an administrative body which would not undertake any teaching but would examine students of the other two colleges and confer degrees on them. Jerrard was a member of the Senate of the University of London and, in January 1839, he proposed the motion "That a Committee be appointed to take into consideration the subject of books which may be required for the use of the University." Within a few months books were being purchased to build the library. Jerrard was also a member of the British Association for the Advancement of Science. This Association was founded in 1831 and since 2009 it has been known as the British Science Association. Jerrard's name appears in the list of life members of the Association around the mid 1840s. Let us note that in 1844 George Peacock was President of the Association and, in the following year, John Herschel was President. As well as in the list of life members, Jerrard's name appears in a list of those "to whom books are supplied gratis." The entries list him as "Examiner in Mathematics and Natural Philosophy in the University of London." His address is given as Long Stratton, Norfolk.
+
+
+His most important work Mathematical Researches (1832-35) is a 3-volume treatise on the theory of equations. François Viète and Girolamo Cardan had shown how to transform an equation of degree nnn so that it had no term in xn−1x^{n-1}xn−1. This method had been generalised by Ehrenfried von Tschirnhaus to remove terms in xn−1x^{n-1}xn−1 and xn−2x^{n-2}xn−2. These methods were, to a large extent, motivated by attempts to solve equations algebraically. Niels Abel and Paolo Ruffini showed this was impossible for general equations of degree greater than four.
+
+
+In 1786 Erland Bring reduced a general quintic to x5+px+q=0x^{5} + px + q = 0x5+px+q=0. J J Sylvester and J Hammond write in [10]:-
+In the year 1786 Erland Samuel Bring, Professor at the University of Lund in Sweden, discovered that by the method of Tschirnhausen it was possible to deprive the general algebraical equation of the 5th  degree of three of its terms without solving an equation higher than the 3rd  degree. ... It seems to have been overlooked or forgotten, and was subsequently re-discovered many years later by Mr Jerrard.
+In fact Jerrard generalised Bring's result to show that a transformation could be applied to an equation of degree nnn to remove the terms in xn−1,xn−2x^{n-1}, x^{n-2}xn−1,xn−2 and xn−3x^{n-3}xn−3. Charles Hermite used Jerrard's result saying that it was the most important step in studying the quintic equation since Abel's results. Hermite did not know of Bring's result and it is almost certain that Jerrard did not know of Bring's result either. Jerrard wrote a further two-volume work on the algebraic solution of equations An essay on the resolution of equations (1858). He also wrote numerous articles which appear in the Philosophical Magazine and the journals of the Royal Society of London.
+
+
+Jerrard believed that he had successfully shown that quintic equations could be solved by the 'method of radicals' despite proofs that this was impossible. Abel's proof of 1824 did not convince Jerrard and, one would have to add, many other mathematicians too. However, William Rowan Hamilton supported Abel and pointed out errors in Jerrard's work. Hamilton had been asked by the British Association for the Advancement of Science to verify Jerrard's methods presented in Mathematical Researches and he delivered his report [8] to the Sixth Meeting of the British Association for the Advancement of Science, held at Bristol in August 1836. You can read the minute of his report to the British Association at THIS LINK.
+
+
+J J Sylvester and J Hammond write in [10]:-
+In a report contained in the 'Proceedings of the British Association' for 1836, Sir William Hamilton showed that Mr Jerrard was mistaken in supposing that the method was adequate to taking away more than three terms of the equation of the 5th degree, but supplemented this somewhat unnecessary refutation by a profound and original discussion of a question raised by Mr Jerrard, as to the number of variables required in order that any system of equations of given degrees in those variables shall admit of being satisfied without solving any equation of a degree higher than the highest of the given degrees.
+Jerrard continued to believe that he was correct and wrote in An essay on the resolution of equations (1858):-
+What, then, it may be asked, is the element omitted by Ruffini, Abel, and other distinguished mathematicians, who have been led to the conclusion that it is not possible in every case to effect the algebraical resolution of equations of the fifth degree? Let us for a moment consider the nature of the difficulty which had to be overcome. It is clear that an expression for a root of the general equation of the fifth degree must involve radicals characterised by each of the symbols 2√,3√,5√^{2}√,  ^{3}√,  ^{5}√2√,3√,5√. If, however, we examine all the solutions which have hitherto been discovered of particular equations of that degree, we shall find that into none of them do cubic radicals enter. A great, if not impassable barrier, seems at first to oppose their introduction. For how can cubic radicals arise unless, in opposition to the well-known theorem of M Cauchy, the number of different values of a non-symmetrical function of five quantities can be depressed to three? In answering these questions, it is manifest that we cannot fail to detect the element of which we are in search.
+In fact Jerrard produced his cubic radical from an equation of degree six. This equation of degree six was correct but his belief that it could always be solved was not.
+
+
+James Cockle was another British mathematician who, at first, could not accept that Abel had proved the solution to be impossible, but slowly accepted that Jerrard was wrong. Cockle wrote in the Philosophical Transactions of May 1860:-
+The 'Essay' of Mr Jerrard is of surpassing interest, but these objections to the particular portion of it which relates to the finite solution of quintics seem to me to be fatal. A deep admirer of his researches, and indisposed to regard as established conclusions in which Mr Jerrard does not concur, I may be permitted to express a hope that the promised sequel to the "Essay" will not be long delayed.
+By 1862 he was more prepared to pinpoint exactly where Jerrard had gone wrong. He wrote in [4]:-
+Among mathematicians there are those who will lend but an academic faith to Mr Jerrard's assertion that he has succeeded in rescuing from the class of impossible problems the noted problem of equations. His theory is erroneous, unsupported by calculations of his own, and at variance with the results of calculations of others. Mr Jerrard may regard article 4 of his paper of December 1862 as a sufficient answer to me, but I do not consider it; and mathematicians will form their own opinion as to whether objections which I have urged against Mr Jerrard's analysis are not fatal to his theory. Mr Cayley's objections Mr Jerrard only attempts to answer by general observations in articles 1 and 2 of his paper, and by a verbal criticism in article 3, - article 2 consisting in great part of a repetition of a fallacious argument, the use of which leads me, I confess, to the conclusion that Mr Jerrard had misapprehended Lagrange's theory of similar functions. Following an analogous method to that pursued by Mr Jerrard, we might dispute the validity of any mathematical proposition whatever on such grounds as these:
+x=x ⇒ x−x=(1−1)x=0 ⇒ x=01−1=00,x = x  \Rightarrow   x - x = (1 - 1)x = 0   \Rightarrow    x = \large\frac{0}{1-1}\normalsize  = \large\frac{0}{0}\normalsize ,x=x ⇒ x−x=(1−1)x=0 ⇒ x=1−10​=00​,
+and all formulas into which x enters are illusory.
+Cockle also wrote:-
+We must not be too hard upon Mr Jerrard. He has rendered good service to science; he is on the weaker side and is defending a desperate position ... . Even if we think his views erroneous we must make allowance for the basis which a habit of regarding a subject in a particular point of view is apt to infuse into human minds.
+Cockle communicated with Robert Harley (1828-1910), a Congregational minister at Brighouse and a good mathematician, who was elected a fellow of the Royal Society of London in 1863. Harley, like Jerrard, worked almost exclusively on quintic equations. Cockle sent copies of his work to Harley, but showed how nervous he was about making mistakes. Cockle wrote to Harley:-
+I think you had better not send the quintic to anyone. I may have written its coefficients wrongly and will look at them again and again, or even solve the equation before communicating it. It would be a perfect waste of time for a third person if there were any error.
+Bryce writes that [2]:-
+... in 1862, Cockle published a guarded surrender to Abel and Hamilton which must have been a blow to Jerrard: Cockle had been the best he had had by way of a mathematical supporter. Moreover, by the 1860s, Cockle was being forced to point out in print mistakes of Jerrard, and in this he was joined by Arthur Cayley. The exchange ended unpleasantly, with a good deal of asperity on either side.
+Jerrard died at his brother's house, the rectory at Long Stratton, Norfolk.
+
+
+
+
+
+Other Mathematicians born in England
+
+
+
+
+
+References (show)
+
+
+
+
+
+J D North, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography by R A Bryce, in Dictionary of National Biography (Oxford, 2004). See THIS LINK.
+F Cajori, A History of Mathematics (1894).
+J Cockle, Concluding remarks on a recent mathematical controversy, London, Edinburgh, and Dublin Philosophical Magazine (4) 26 (1863), 223-224.
+H O Foulkes, The algebraic solution of equations, Science Progress in the Twentieth Century (1919-1933) 26 (104) (1932), 601-608.
+George Birch Jerrard, Dictionary of National Biography, Supplement III (London, 1901), 40.
+George Birch Jerrard, Gentleman's Magazine 1 (1864), 130.
+W R Hamilton, Inquiry into the validity of a method recently proposed by George B Jerrard esq., Report of the British Association for the Advancement of Science (1837), 295-348.
+Obituary of George Birch Jerrard, Gentleman's Magazine 1 (1864), 130.
+J J Sylvester and J Hammond, On Hamilton's Numbers, Proceedings of the Royal Society of London 42 (1887), 470-471.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about George Jerrard:
+
+Hamilton's report on Jerrard's Mathematical Researches
+
+
+
+Other websites about George Jerrard:
+
+Dictionary of Scientific Biography
+Dictionary of National Biography
+Jerrard's paper on the resolution of equations
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 2017
+  
+
+
