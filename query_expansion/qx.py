@@ -100,18 +100,22 @@ def generate_tokens(sentence):
     return tokens
 
 # download_nltk_packages()
-query = 'deviation'
-query = 'statistics'
-query = 'calculus'
-query = 'hypothetic'
-query = 'negative'
-query = 'summation'
-query = 'arithmetic'
-query = 'curve'
-query = 'interpolation'
-query = 'manifold'
-query = 'prime number'
-query = 'innovative'
-query = 'strong'
-res = generate_tokens(query)
-print(res)
+queries = [
+    'deviation',
+    'statistics',
+    'calculus',
+    'hypothetic',
+    'negative',
+    'summation',
+    'arithmetic',
+    'curve',
+    'interpolation',
+    'manifold',
+    'prime number',
+    'innovative',
+    'strong',
+]
+
+for q in queries:
+    res = generate_tokens(q)
+    print(res)

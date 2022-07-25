@@ -1,4 +1,5 @@
 nltk
+numpy
 elasticsearch
 transformers
 numpy
