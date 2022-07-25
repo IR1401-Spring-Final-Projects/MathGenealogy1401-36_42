@@ -12,13 +12,18 @@ def tokenizer_truncate(input, **kwargs):
     return tokenizer(input, truncation=True, padding=True, **kwargs)
 
 pipe = pipeline(task='text-classification', model=model, tokenizer=tokenizer_truncate)
-predictions = pipe(input('Sup? '))
 
-y_pred = []
+def predict(query):
+    predictions = pipe(query)
+    y_pred = []
+    for i, el in enumerate(predictions):
+        y_pred.append(model.config.label2id[el['label']])
 
-for i, el in enumerate(predictions):
-    y_pred.append(model.config.label2id[el['label']])
+        y_pred = [unis_ordered[y] for y in y_pred]
 
-y_pred = [unis_ordered[y] for y in y_pred]
+    return y_pred
+# predictions = pipe(input('Sup? '))
 
-print(y_pred)
+# y_pred = []
+#
+#

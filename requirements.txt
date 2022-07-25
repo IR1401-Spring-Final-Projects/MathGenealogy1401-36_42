@@ -1,2 +1,5 @@
 nltk
 elasticsearch
+transformers
+pandas
+sentence_transformers

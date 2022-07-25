@@ -58,8 +58,22 @@ docs = pd.DataFrame(docs, columns=columns)
 
 k = 10
 
-query = input('What are you looking for? ')
-while query != 'exit':
+# query = input('What are you looking for? ')
+# while query != 'exit':
+#     query = preprocess(query)
+#
+#     ans = docs.copy()
+#
+#     for word in query:
+#         if len(ans) > 0:
+#             ans = ans[ans[word] == 1]
+#
+#     ans = list(ans.head(k)['DOCUMENT_NAME'])
+#     ans = [word.replace('_', ' ') for word in ans]
+#     print(*ans, sep='\n')
+    # query = input('What are you looking for? ')
+
+def query_result(query):
     query = preprocess(query)
 
     ans = docs.copy()
@@ -70,5 +84,4 @@ while query != 'exit':
 
     ans = list(ans.head(k)['DOCUMENT_NAME'])
     ans = [word.replace('_', ' ') for word in ans]
-    print(*ans, sep='\n')
-    query = input('What are you looking for? ')
+    return '\n'.join(ans)
