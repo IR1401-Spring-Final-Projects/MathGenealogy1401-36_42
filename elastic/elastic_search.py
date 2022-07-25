@@ -1,7 +1,3 @@
-from codecs import ignore_errors
-from datetime import datetime
-import math
-from re import I
 from elasticsearch import Elasticsearch
 import configparser
 import os
@@ -33,18 +29,6 @@ def connect_to_elastic_search(config):
             ssl_assert_fingerprint=(config['ELASTIC'] ['ssl_fingerprint'])
     )
     return es
-
-
-def insert_test_doc(es):
-    doc = {
-        'author': 'author_name',
-        'text': 'Interensting content...',
-        'timestamp': datetime.now(),
-    }
-    resp = es.index(
-            index="test-index",
-            id=1, document=doc)
-    print(resp['result'])
 
 
 def get_file_names():
@@ -137,6 +121,30 @@ def index_files():
     create_index(es)
     insert_all(es, mathematicians)
 
+
+def query_suggestion(es: Elasticsearch, query):
+    res = es.search(
+        index=INDEX_NAME, 
+        body={
+            "suggest": {
+                "field-suggest" : {
+                    "prefix" : "cooi","completion" : {
+                        "field": "biography",
+                        "fuzzy" : {"fuzziness" : 2 } 
+                    }
+                }
+            }
+        }
+    )
+
+    print(res)
+
+def find_query_suggestions():
+    es = get_connection()
+    for query in subject_queries:
+        query_suggestion(es, query)
+
 def run():
     es = get_connection()
     find_results_for_queries(es)
+
