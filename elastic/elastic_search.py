@@ -105,6 +105,22 @@ def print_result_for_query(es: Elasticsearch, query):
     print("-" * 20)
 
 
+def get_result_for_query(es: Elasticsearch, query):
+    resp = es.search(
+        index=INDEX_NAME,
+        query={
+            "match": {
+                "biography": query
+            }
+        }
+    )
+    results = resp['hits']['hits']
+    names = []
+    for result in results:
+        names.append(result['_source']['name'])
+    return names
+
+
 def find_results_for_queries(es: Elasticsearch):
     for query in subject_queries:
         print_result_for_query(es, query)

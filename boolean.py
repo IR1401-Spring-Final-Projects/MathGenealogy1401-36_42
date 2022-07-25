@@ -3,7 +3,6 @@ import string
 import glob
 
 import pandas as pd
-
 from typing import List
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
@@ -84,4 +83,5 @@ def query_result(query):
 
     ans = list(ans.head(k)['DOCUMENT_NAME'])
     ans = [word.replace('_', ' ') for word in ans]
-    return '\n'.join(ans)
+    return ans
+    # return '\n'.join(ans)

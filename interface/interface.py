@@ -1,8 +1,26 @@
 import ipywidgets as widgets
-from ipywidgets import interact, interact_manual
 from IPython.display import display, Markdown, clear_output
-import pandas as pd
-import bert_classifier, boolean, TFIDF, bert, fast_text
+from elastic import elastic_search
+import TFIDF
+import bert
+import bert_classifier
+import boolean
+import fast_text
+
+BIOGRAPHY_DIR = 'text_biographies'
+# elastic_search.index_files()
+es = elastic_search.get_connection()
+
+def get_biography_from_name(name: str):
+    name = name.replace(' ', '_')
+    return f'{BIOGRAPHY_DIR}/{name}.txt'
+
+
+def create_html_from_names(name_list):
+    html = ""
+    for name in name_list:
+        html = html + '<a href='+get_biography_from_name(name)+' target="_blank"> ' + name + '</a> <br>'
+    return html
 
 
 #Functions
@@ -19,19 +37,30 @@ def on_get_clustering(_):
     pass
 
 
+def on_get_query_expansion(_):
+    #TODO
+    pass
+
+def on_get_elastic(_):
+    with elastic_result:
+        clear_output()
+        query = elastic_query.value
+        print(elastic_search.get_result_for_query(es, query))
+        display(Markdown(create_html_from_names(elastic_search.get_result_for_query(es, query))))
+
 def on_get_hw3(_):
     with hw3_result:
         clear_output()
         query = hw3_query.value
         type = hw3_type.value
         if type == 'Boolean':
-            print(boolean.query_result(query))
+            display(Markdown(create_html_from_names(boolean.query_result(query))))
         elif type == 'TFIDF':
-            print(TFIDF.query_result(query))
+            display(Markdown(create_html_from_names(TFIDF.query_result(query))))
         elif type == 'Bert':
-            print(bert.query_result(query))
+            display(Markdown(create_html_from_names(bert.query_result(query))))
         elif type == 'Fast_Text':
-            print(fast_text.get_query(query))
+            display(Markdown(create_html_from_names(fast_text.get_query(query))))
     pass
 
 
@@ -57,6 +86,17 @@ classifier_page = widgets.VBox([
 
 
 #elastic
+elastic_query = widgets.Text(description="Query")
+elastic_button = widgets.Button(description="Search")
+elastic_button.on_click(on_get_elastic)
+elastic_result = widgets.Output()
+
+elastic_page = widgets.VBox([
+    widgets.HBox([
+        elastic_query, elastic_button
+    ]),
+    elastic_result
+])
 
 # hw3
 hw3_query = widgets.Text(description="Query")
