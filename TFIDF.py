@@ -9,6 +9,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk import word_tokenize
 from sklearn.metrics.pairwise import cosine_similarity
 
+DATA_DIR = 'stemmed_biographies'
+
 nonstandard = re.compile(r'[^a-z\s]')
 punctuation = re.compile('[' + string.punctuation + ']')
 stop_words = stopwords.words('english')
@@ -26,7 +28,7 @@ def preprocess(text: str) -> List[str]:
     return text
 
 
-filenames = [filename for filename in glob.glob('stemmed_biographies/*')]
+filenames = [filename for filename in glob.glob(f'{DATA_DIR}/*')]
 
 files = []
 for filename in filenames:
@@ -39,7 +41,7 @@ matrix = vectorizer.fit_transform(files)
 
 k = 10
 
-filenames = [filename[6:] for filename in filenames]
+filenames = [filename[len(DATA_DIR) + 1:] for filename in filenames]
 
 query = input('What are you looking for? ')
 while query != 'exit':
