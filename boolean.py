@@ -31,7 +31,7 @@ def preprocess(text: str) -> List[str]:
 
 unique_words = set()
 
-for filename in glob.glob('{DATA_DIR}/*'):
+for filename in glob.glob(f'{DATA_DIR}/*'):
     file = open(filename, 'r')
     words = set(file.read().split())
     file.close()
@@ -39,8 +39,8 @@ for filename in glob.glob('{DATA_DIR}/*'):
 
 docs = []
 
-for filename in glob.glob('{DATA_DIR}/*'):
-    doc = {'DOCUMENT_NAME': filename[6:]}
+for filename in glob.glob(f'{DATA_DIR}/*'):
+    doc = {'DOCUMENT_NAME': filename[len(DATA_DIR) + 1:]}
     file = open(filename, 'r')
     words = set(file.read().split())
     file.close()
