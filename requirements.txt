@@ -6,3 +6,5 @@ pandas
 sentence_transformers
 fasttext
 scikit-learn
+ipywidgets
+seaborn
