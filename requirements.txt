@@ -2,7 +2,7 @@ nltk
 numpy
 elasticsearch
 transformers
-numpy
 pandas
 sentence_transformers
 fasttext
+scikit-learn
