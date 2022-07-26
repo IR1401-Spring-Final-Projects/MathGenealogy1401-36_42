@@ -1,3 +1,8 @@
 nltk
 numpy
 elasticsearch
+transformers
+scikit-learn
+pandas
+fasttext
+sentence_transformers
