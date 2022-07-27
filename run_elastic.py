@@ -1,6 +1,5 @@
-import imp
-from elastic.elastic_search import run
-from elastic.elastic_search import index_files
+from elastic.elastic_search import run, find_query_suggestions, index_files
 
-# index_files()
-# run()
+
+index_files()
+run()

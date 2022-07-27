@@ -29,6 +29,13 @@ first install gdown using `pip install gdown`, then proceed as below considering
 
 ### Running Elasticsearch
 
+1. First ensure that elastic search is up and running on port 9200
+2. Write password for `elastic` user in config.ini file in `/elastic` dir
+3. Write ssl_fingerprint of `elastic` server in config.ini. you can find the fingerprint by running `run_elastic.py`. if there's a mismatch between provided and expected ssl_fingerprint, a line in output prints the expected ssl_fingerprint. Replace this token in config.ini and you can connect to elastic search.
+4. Run `run_elastic.py` and query answers for `topic_queries.py` queries will show up in terminal. 
+
+### Note that every time you run `run_elastic.py`, index is cleared and then files are reinserted into index. if you don't want this behaviour, comment line 4 in `run_elastic.py` (`index_files()`).
+
 
 # Running the interface
 
